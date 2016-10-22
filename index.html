@@ -1,21 +1,31 @@
 <html>
   <head>
     <meta charset="utf-8"/>
-    <title>HERODOTUS – Father of History</title>
+    <title>Herodotus – Father of History</title>
     <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
+
+    <div id="topbar">
+      <nav id="hash-navigator"></nav>
+    </div>
+
     <section id="herodotus">
       <h1>Herodotus</h1>
       <h2>The Father of History</h2>
       <h3>
         "The Histories"
         <br/>
-        Translation by George Rawlinson
-        <br/>
-        Written nearly 2500 years ago
+        <em><small>
+          Written nearly 2500 years ago
+          <br/>
+          Translation by George Rawlinson
+        </small></em>
       </h3>
+      <div id="book-destination"></div>
     </section>
-    <script src="script.js"></script>
+
+    <script src="deps/require.js"></script>
+    <script>require(["./build/main.js"])</script>
   </body>
 </html>

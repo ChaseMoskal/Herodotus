@@ -1,50 +1,126 @@
 
 @charset "utf-8";
+@import url("https://fonts.googleapis.com/css?family=Maitree");
 
-@import url("https://fonts.googleapis.com/css?family=Maitree|Rasa|Tinos");
+/*@import url("https://fonts.googleapis.com/css?family=Maitree|Rasa|Tinos");*/
 
-html, body {
-    font-family: "Maitree", serif;
-    text-align: center;
-    padding: 4%;
-    color: #444;
+* { padding: 0; margin: 0; }
+
+html {
+  font-family: "Maitree", serif;
+  text-align: center;
+  color: #444;
+  padding: 5rem;
 }
 
+/**********************/
+
 h1 {
-    font-size: 2.5em;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
 }
 
 h2 {
-    font-variant: small-caps;
+  font-variant: small-caps;
 }
 
 h3 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
-.numeral, .passage-id {
-    opacity: 0.6;
-    font-style: normal;
+a, a:visited { text-decoration: none; color: blue; }
+a:hover { color: dodgerblue; }
+
+/**********************/
+
+#topbar {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: left;
+}
+
+#hash-navigator {
+  display: inline-block;
+  position: relative;
+  width: 80%;
+  text-align: left;
+}
+
+#hash-navigator div {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  padding-right: 2rem;
+  background: linear-gradient(to right, white 75%, rgba(255,255,255, 0.5))
+}
+
+#hash-navigator a,
+#hash-navigator button {
+  display: block;
+  padding: 0.2rem 1rem;
+  outline: 0;
+}
+
+#hash-navigator button {
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: 1em;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+#hash-navigator[data-active=false] div { display: none; }
+#hash-navigator[data-active=true] div { display: block; }
+
+#hash-navigator[data-active=true] button, #hash-navigator button:hover { opacity: 1; }
+
+/**********************/
+
+#herodotus > * {
+  padding: 2rem 0;
 }
 
 #herodotus > h1 {
-    font-size: 3.8em;
+  font-size: 3.8rem;
 }
 
 #herodotus > h2 {
-    font-size: 2em;
-    margin: 2em auto;
+  font-size: 2rem;
 }
 
-#herodotus > section {
-    margin: 8em auto;
-    max-width: 800px;
-    text-align: left;
+/**********************/
+
+.book {
+  padding: 2rem 0;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: left;
 }
 
-#herodotus > section h1 {
-    opacity: 0.8;
-    text-align: center;
+.book h1 {
+  opacity: 0.8;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.book p {
+  padding: 0.5em 0;
+}
+
+.numeral, .passage-id {
+  opacity: 0.6;
+  font-style: normal;
+}
+
+/**********************/
+
+@media (max-width: 640px) {
+  #herodotus > h1 { font-size: 2rem; }
+  #herodotus > h2 { font-size: 1.5rem; }
+  .book h1 { font-size: 1.5em; }
 }

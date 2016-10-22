@@ -1,8 +1,10 @@
 {
     "compilerOptions": {
         "moduleResolution": "node",
-        "module": "commonjs",
+        "module": "amd",
         "target": "es5",
+        "rootDirs": ["src"],
+        "outDir": "build",
         "noImplicitAny": false,
         "sourceMap": false
     }
