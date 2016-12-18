@@ -4,15 +4,30 @@ HERODOTUS – FATHER OF HISTORY
 
 ### Website: [**chasemoskal.github.io/herodotus/**](https://chasemoskal.github.io/herodotus/)
 
-Welcome to the source code for a website which presents the George Rawlinson translation of Herotodus' histories.
+Welcome to the source code for a website which presents the [George Rawlinson](https://en.wikipedia.org/wiki/George_Rawlinson) translation of Herotodus' histories.
 
-  - The George Rawlinson translation is public domain.
-  - Text was originally sourced from [**mcadams.posc.mu.edu**](http://mcadams.posc.mu.edu/txt/ah/Herodotus/).
+PROJECT
+-------
 
-RESOURCES FOR FUTURE ADDITIONS
-------------------------------
+  - [Herodotus full histories in markdown](./source/histories/herodotus-histories-full.md).
+  - Statically generated with [crochet](https://github.com/ChaseMoskal/crochet).
 
-  - [**Wikimedia commons**](https://commons.wikimedia.org/wiki/Category:Herodotus) – media (images of statues and artwork) related to Herotodus and The Histories.
+| Numeral | Book |
+|:-:|:-:|
+| I | CLIO |
+| II | EUTERPE |
+| III | THALIA |
+| IV | MELPOMENE |
+| V | TERPSICHORE |
+| VI | ERATO |
+| VII | POLYMNIA |
+| VIII | URANIA |
+| IX | CALLIOPE |
+
+RESOURCES
+---------
+
+  - [**Wikimedia commons**](https://commons.wikimedia.org/wiki/Category:Herodotus) – media related to Herotodus and The Histories (images, statues, artwork).
 
   - [**Fordham university**](http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece) — they've got the full Rawlinson translation in a single raw text file, with different formatting (no section tags).
 

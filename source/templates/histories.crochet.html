@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Herodotus — <? context.preamble.book ?></title>
+    <link rel="stylesheet" href="../../../style.css"/>
+  </head>
+  <body>
+
+    <section id="herodotus">
+      <h1>Herodotus</h1>
+      <h2>The Father of History</h2>
+      <h3>
+        "The Histories"
+        <br/>
+        <small>
+          Written by The Father of History ~2500 years ago
+          <br/>
+          Translation by George Rawlinson in 1860
+        </small>
+      </h3>
+
+      <section class="book">
+        <h1><? context.preamble.book ?></h1>
+
+        <?
+        "<p>" + (
+          context.content
+            .split(/(\r\n\r\n|\n\n)/)
+            .filter(part => /[\S]/.test(part))
+            .join("</p>\r\n<p>")
+        ) + "</p>"
+        ?>
+
+      </section>
+    </section>
+
+  </body>
+</html>

@@ -5,7 +5,9 @@
   "editor.renderWhitespace": "boundary",
   "editor.wrappingIndent": "indent",
   "files.exclude": {
-    "build": true,
+    "build": false,
     "node_modules": true
   }
+,
+"typescript.tsdk": "./node_modules/typescript/lib"
 }
