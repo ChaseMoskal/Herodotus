@@ -1,19 +1,25 @@
-Fordham University – http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece
+---
+author: Herodotus
+title: The Histories
+date: ~440 BCE
+translation: Translated by George Rawlinson in 1860
+source: Fordham University – http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece
+---
 
-                                    ~440 BC
-                            THE HISTORY OF HERODOTUS
-                                  by Herodotus
-                         translated by George Rawlinson
-                       The First Book, Entitled
-                                CLIO
+The Histories
+=============
 
-    THESE are the researches of Herodotus of Halicarnassus, which he
+I CLIO
+------
+
+THESE are the researches of Herodotus of Halicarnassus, which he
 publishes, in the hope of thereby preserving from decay the
 remembrance of what men have done, and of preventing the great and
 wonderful actions of the Greeks and the Barbarians from losing their
 due meed of glory; and withal to put on record what were their grounds
 of feuds.
-    According to the Persians best informed in history, the
+
+According to the Persians best informed in history, the
 Phoenicians began to quarrel. This people, who had formerly dwelt on
 the shores of the Erythraean Sea, having migrated to the Mediterranean
 and settled in the parts which they now inhabit, began at once, they
@@ -33,7 +39,8 @@ captives. The Phoenicians put the women on board their vessel, and set
 sail for Egypt. Thus did Io pass into Egypt, according to the
 Persian story, which differs widely from the Phoenician: and thus
 commenced, according to their authors, the series of outrages.
-    At a later period, certain Greeks, with whose name they are
+
+At a later period, certain Greeks, with whose name they are
 unacquainted, but who would probably be Cretans, made a landing at
 Tyre, on the Phoenician coast, and bore off the king's daughter,
 Europe. In this they only retaliated; but afterwards the Greeks,
@@ -45,7 +52,8 @@ The monarch sent a herald into Greece to demand reparation of the
 wrong, and the restitution of his child; but the Greeks made answer
 that, having received no reparation of the wrong done them in the
 seizure of Io the Argive, they should give none in this instance.
-    In the next generation afterwards, according to the same
+
+In the next generation afterwards, according to the same
 authorities, Alexander the son of Priam, bearing these events in mind,
 resolved to procure himself a wife out of Greece by violence, fully
 persuaded, that as the Greeks had not given satisfaction for their
@@ -57,7 +65,8 @@ demands were met by a reference to the violence which had been offered
 to Medea, and they were asked with what face they could now require
 satisfaction, when they had formerly rejected all demands for either
 reparation or restitution addressed to them.
-    Hitherto the injuries on either side had been mere acts of
+
+Hitherto the injuries on either side had been mere acts of
 common violence; but in what followed the Persians consider that the
 Greeks were greatly to blame, since before any attack had been made on
 Europe, they led an army into Asia. Now as for the carrying off of
@@ -72,7 +81,8 @@ of Priam. Henceforth they ever looked upon the Greeks as their open
 enemies. For Asia, with all the various tribes of barbarians that
 inhabit it, is regarded by the Persians as their own; but Europe and
 the Greek race they look on as distinct and separate.
-    Such is the account which the Persians give of these matters. They
+
+Such is the account which the Persians give of these matters. They
 trace to the attack upon Troy their ancient enmity towards the Greeks.
 The Phoenicians, however, as regards Io, vary from the Persian
 statements. They deny that they used any violence to remove her into
@@ -89,7 +99,8 @@ cities. For the cities which were formerly great have most of them
 become insignificant; and such as are at present powerful, were weak
 in the olden time. I shall therefore discourse equally of both,
 convinced that human happiness never continues long in one stay.
-    Croesus, son of Alyattes, by birth a Lydian, was lord of all the
+
+Croesus, son of Alyattes, by birth a Lydian, was lord of all the
 nations to the west of the river Halys. This stream, which separates
 Syria from Paphlagonia, runs with a course from south to north, and
 finally falls into the Euxine. So far as our knowledge goes, he was
@@ -100,7 +111,8 @@ Dorians of Asia, and made a treaty with the Lacedaemonians. Up to that
 time all Greeks had been free. For the Cimmerian attack upon Ionia,
 which was earlier than Croesus, was not a conquest of the cities,
 but only an inroad for plundering.
-    The sovereignty of Lydia, which had belonged to the Heraclides,
+
+The sovereignty of Lydia, which had belonged to the Heraclides,
 passed into the family of Croesus, who were called the Mermnadae, in
 the manner which I will now relate. There was a certain king of
 Sardis, Candaules by name, whom the Greeks called Myrsilus. He was a
@@ -115,7 +127,8 @@ of affairs, obtained the kingdom by an oracle. Their rule endured
 for two and twenty generations of men, a space of five hundred and
 five years; during the whole of which period, from Agron to Candaules,
 the crown descended in the direct line from father to son.
-    Now it happened that this Candaules was in love with his own wife;
+
+Now it happened that this Candaules was in love with his own wife;
 and not only so, but thought her the fairest woman in the whole world.
 This fancy had strange consequences. There was in his bodyguard a
 man whom he specially favoured, Gyges, the son of Dascylus. All
@@ -134,7 +147,8 @@ wrong plainly enough, and it is our wisdom to submit to be taught by
 them. There is an old saying, 'Let each look on his own.' I hold thy
 wife for the fairest of all womankind. Only, I beseech thee, ask me
 not to do wickedly."
-    Gyges thus endeavoured to decline the king's proposal, trembling
+
+Gyges thus endeavoured to decline the king's proposal, trembling
 lest some dreadful evil should befall him through it. But the king
 replied to him, "Courage, friend; suspect me not of the design to
 prove thee by this discourse; nor dread thy mistress, lest mischief
@@ -147,7 +161,8 @@ Thou wilt be able thus at thy leisure to peruse her person. Then, when
 she is moving from the chair toward the bed, and her back is turned on
 thee, be it thy care that she see thee not as thou passest through the
 doorway."
-    Gyges, unable to escape, could but declare his readiness. Then
+
+Gyges, unable to escape, could but declare his readiness. Then
 Candaules, when bedtime came, led Gyges into his sleeping-chamber, and
 a moment after the queen followed. She entered, and laid her
 garments on the chair, and Gyges gazed on her. After a while she moved
@@ -158,7 +173,8 @@ shame impelled her, nor even appeared to have noticed aught, purposing
 to take vengeance upon the husband who had so affronted her. For among
 the Lydians, and indeed among the barbarians generally, it is reckoned
 a deep disgrace, even to a man, to be seen naked.
-    No sound or sign of intelligence escaped her at the time. But in
+
+No sound or sign of intelligence escaped her at the time. But in
 the morning, as soon as day broke, she hastened to choose from among
 her retinue such as she knew to be most faithful to her, and preparing
 them for what was to ensue, summoned Gyges into her presence. Now it
@@ -181,7 +197,8 @@ compellest me against my will to put my lord to death, come, let me
 hear how thou wilt have me set on him." "Let him be attacked," she
 answered, "on the spot where I was by him shown naked to you, and
 let the assault be made when he is asleep."
-    All was then prepared for the attack, and when night fell,
+
+All was then prepared for the attack, and when night fell,
 Gyges, seeing that he had no retreat or escape, but must absolutely
 either slay Candaules, or himself be slain, followed his mistress into
 the sleeping-room. She placed a dagger in his hand and hid him
@@ -190,7 +207,8 @@ fallen asleep, entered privily into the chamber and struck him dead.
 Thus did the wife and kingdom of Candaules pass into the possession of
 Gyges, of whom Archilochus the Parian, who lived about the same
 time, made mention in a poem written in iambic trimeter verse.
-    Gyges was afterwards confirmed in the possession of the throne
+
+Gyges was afterwards confirmed in the possession of the throne
 by an answer of the Delphic oracle. Enraged at the murder of their
 king, the people flew to arms, but after a while the partisans of
 Gyges came to terms with them, and it was agreed that if the Delphic
@@ -202,7 +220,8 @@ come for the Heraclides; a prophecy of which neither the Lydians nor
 their princes took any account till it was fulfilled. Such was the way
 in which the Mermnadae deposed the Heraclides, and themselves obtained
 the sovereignty.
-    When Gyges was established on the throne, he sent no small
+
+When Gyges was established on the throne, he sent no small
 presents to Delphi, as his many silver offerings at the Delphic shrine
 testify. Besides this silver he gave a vast number of vessels of gold,
 among which the most worthy of mention are the goblets, six in number,
@@ -217,24 +236,28 @@ administer justice, an object well worth looking at. It lies in the
 same place as the goblets presented by Gyges. The Delphians call the
 whole of the silver and the gold which Gyges dedicated, after the name
 of the donor, Gygian.
-    As soon as Gyges was king he made an in-road on Miletus and
+
+As soon as Gyges was king he made an in-road on Miletus and
 Smyrna, and took the city of Colophon. Afterwards, however, though
 he reigned eight and thirty years, he did not perform a single noble
 exploit. I shall therefore make no further mention of him, but pass on
 to his son and successor in the kingdom, Ardys.
-    Ardys took Priene and made war upon Miletus. In his reign the
+
+Ardys took Priene and made war upon Miletus. In his reign the
 Cimmerians, driven from their homes by the nomads of Scythia,
 entered Asia and captured Sardis, all but the citadel. He reigned
 forty-nine years, and was succeeded by his son, Sadyattes, who reigned
 twelve years. At his death his son Alyattes mounted the throne.
-    This prince waged war with the Medes under Cyaxares, the
+
+This prince waged war with the Medes under Cyaxares, the
 grandson of Deioces, drove the Cimmerians out of Asia, conquered
 Smyrna, the Colophonian colony, and invaded Clazomenae. From this last
 contest he did not come off as he could have wished, but met with a
 sore defeat; still, however, in the course of his reign, he
 performed other actions very worthy of note, of which I will now
 proceed to give an account.
-    Inheriting from his father a war with the Milesians, he pressed
+
+Inheriting from his father a war with the Milesians, he pressed
 the siege against the city by attacking it in the following manner.
 When the harvest was ripe on the ground he marched his army into
 Milesia to the sound of pipes and harps, and flutes masculine and
@@ -248,7 +271,8 @@ that he did not demolish their buildings was that the inhabitants
 might be tempted to use them as homesteads from which to go forth to
 sow and till their lands; and so each time that he invaded the country
 he might find something to plunder.
-    In this way he carried on the war with the Milesians for eleven
+
+In this way he carried on the war with the Milesians for eleven
 years, in the course of which he inflicted on them two terrible blows;
 one in their own country in the district of Limeneium, the other in
 the plain of the Maeander. During six of these eleven years,
@@ -261,7 +285,8 @@ no help at all from any of the Ionians, excepting those of Chios,
 who lent them troops in requital of a like service rendered them in
 former times, the Milesians having fought on the side of the Chians
 during the whole of the war between them and the people of Erythrae.
-    It was in the twelfth year of the war that the following mischance
+
+It was in the twelfth year of the war that the following mischance
 occurred from the firing of the harvest-fields. Scarcely had the
 corn been set alight by the soldiers when a violent wind carried the
 flames against the temple of Minerva Assesia, which caught fire and
@@ -273,14 +298,17 @@ sent messengers to Delphi to inquire of the god concerning his malady.
 On their arrival the Pythoness declared that no answer should be given
 them until they had rebuilt the temple of Minerva, burnt by the
 Lydians at Assesus in Milesia.
-    Thus much I know from information given me by the Delphians; the
+
+Thus much I know from information given me by the Delphians; the
 remainder of the story the Milesians add.
-    The answer made by the oracle came to the ears of Periander, son
+
+The answer made by the oracle came to the ears of Periander, son
 of Cypselus, who was a very close friend to Thrasybulus, tyrant of
 Miletus at that period. He instantly despatched a messenger to
 report the oracle to him, in order that Thrasybulus, forewarned of its
 tenor, might the better adapt his measures to the posture of affairs.
-    Alyattes, the moment that the words of the oracle were reported to
+
+Alyattes, the moment that the words of the oracle were reported to
 him, sent a herald to Miletus in hopes of concluding a truce with
 Thrasybulus and the Milesians for such a time as was needed to rebuild
 the temple. The herald went upon his way; but meantime Thrasybulus had
@@ -290,7 +318,8 @@ city, whether belonging to himself or to private persons, brought into
 the market-place, and issued an order that the Milesians should hold
 themselves in readiness, and, when he gave the signal, should, one and
 all, fall to drinking and revelry.
-    The purpose for which he gave these orders was the following. He
+
+The purpose for which he gave these orders was the following. He
 hoped that the Sardian herald, seeing so great store of corn upon
 the ground, and all the city given up to festivity, would inform
 Alyattes of it, which fell out as he anticipated. The herald
@@ -305,7 +334,8 @@ and allies. He then built at Assesus two temples to Minerva instead of
 one, and shortly after recovered from his malady. Such were the
 chief circumstances of the war which Alyattes waged with Thrasybulus
 and the Milesians.
-    This Periander, who apprised Thrasybulus of the oracle, was son of
+
+This Periander, who apprised Thrasybulus of the oracle, was son of
 Cypselus, and tyrant of Corinth. In his time a very wonderful thing is
 said to have happened. The Corinthians and the Lesbians agree in their
 account of the matter. They relate that Arion of Methymna, who as a
@@ -313,7 +343,8 @@ player on the harp, was second to no man living at that time, and
 who was, so far as we know, the first to invent the dithyrambic
 measure, to give it its name, and to recite in it at Corinth, was
 carried to Taenarum on the back of a dolphin.
-    He had lived for many years at the court of Periander, when a
+
+He had lived for many years at the court of Periander, when a
 longing came upon him to sail across to Italy and Sicily. Having
 made rich profits in those parts, he wanted to recross the seas to
 Corinth. He therefore hired a vessel, the crew of which were
@@ -350,7 +381,8 @@ guilt. Such is the account which the Corinthians and Lesbians give;
 and there is to this day at Taenarum, an offering of Arion's at the
 shrine, which is a small figure in bronze, representing a man seated
 upon a dolphin.
-    Having brought the war with the Milesians to a close, and
+
+Having brought the war with the Milesians to a close, and
 reigned over the land of Lydia for fifty-seven years, Alyattes died.
 He was the second prince of his house who made offerings at Delphi.
 His gifts, which he sent on recovering from his sickness, were a great
@@ -358,7 +390,8 @@ bowl of pure silver, with a salver in steel curiously inlaid, a work
 among all the offerings at Delphi the best worth looking at.
 Glaucus, the Chian, made it, the man who first invented the art of
 inlaying steel.
-    On the death of Alyattes, Croesus, his son, who was thirty-five
+
+On the death of Alyattes, Croesus, his son, who was thirty-five
 years old, succeeded to the throne. Of the Greek cities, Ephesus was
 the first that he attacked. The Ephesians, when he laid siege to the
 place, made an offering of their city to Diana, by stretching a rope
@@ -369,7 +402,8 @@ Afterwards, on some pretext or other, he made war in turn upon every
 Ionian and Aeolian state, bringing forward, where he could, a
 substantial ground of complaint; where such failed him, advancing some
 poor excuse.
-    In this way he made himself master of all the Greek cities in
+
+In this way he made himself master of all the Greek cities in
 Asia, and forced them to become his tributaries; after which he
 began to think of building ships, and attacking the islanders.
 Everything had been got ready for this purpose, when Bias of Priene
@@ -390,14 +424,16 @@ upon the mainland, whom thou holdest in slavery?" Croesus was
 charmed with the turn of the speech; and thinking there was reason
 in what was said, gave up his ship-building and concluded a league
 of amity with the Ionians of the isles.
-    Croesus afterwards, in the course of many years, brought under his
+
+Croesus afterwards, in the course of many years, brought under his
 sway almost all the nations to the west of the Halys. The Lycians
 and Cilicians alone continued free; all the other tribes he reduced
 and held in subjection. They were the following: the Lydians,
 Phrygians, Mysians, Mariandynians, Chalybians, Paphlagonians,
 Thynian and Bithynian Thracians, Carians, Ionians, Dorians, Aeolians
 and Pamphylians.
-    When all these conquests had been added to the Lydian empire,
+
+When all these conquests had been added to the Lydian empire,
 and the prosperity of Sardis was now at its height, there came
 thither, one after another, all the sages of Greece living at the
 time, and among them Solon, the Athenian. He was on his travels,
@@ -407,7 +443,8 @@ any of the laws which, at the request of the Athenians, he had made
 for them. Without his sanction the Athenians could not repeal them, as
 they had bound themselves under a heavy curse to be governed for ten
 years by the laws which should be imposed on them by Solon.
-    On this account, as well as to see the world, Solon set out upon
+
+On this account, as well as to see the world, Solon set out upon
 his travels, in the course of which he went to Egypt to the court of
 Amasis, and also came on a visit to Croesus at Sardis. Croesus
 received him as his guest, and lodged him in the royal palace. On
@@ -432,7 +469,8 @@ between the Athenians and their neighbours near Eleusis, he came to
 the assistance of his countrymen, routed the foe, and died upon the
 field most gallantly. The Athenians gave him a public funeral on the
 spot where he fell, and paid him the highest honours."
-    Thus did Solon admonish Croesus by the example of Tellus,
+
+Thus did Solon admonish Croesus by the example of Tellus,
 enumerating the manifold particulars of his happiness. When he had
 ended, Croesus inquired a second time, who after Tellus seemed to
 him the happiest, expecting that at any rate, he would be given the
@@ -460,11 +498,13 @@ banquet, after which the two youths fell asleep in the temple. They
 never woke more, but so passed from the earth. The Argives, looking on
 them as among the best of men, caused statues of them to be made,
 which they gave to the shrine at Delphi."
-    When Solon had thus assigned these youths the second place,
+
+When Solon had thus assigned these youths the second place,
 Croesus broke in angrily, "What, stranger of Athens, is my
 happiness, then, so utterly set at nought by thee, that thou dost
 not even put me on a level with private men?"
-    "Oh! Croesus," replied the other, "thou askedst a question
+
+"Oh! Croesus," replied the other, "thou askedst a question
 concerning the condition of man, of one who knows that the power above
 us is full of jealousy, and fond of troubling our lot. A long life
 gives one to witness much, and experience much oneself, that one would
@@ -507,12 +547,14 @@ man alone, sire, is, in my judgment, entitled to bear the name of
 'happy.' But in every matter it behoves us to mark well the end: for
 oftentimes God gives men a gleam of happiness, and then plunges them
 into ruin."
-    Such was the speech which Solon addressed to Croesus, a speech
+
+Such was the speech which Solon addressed to Croesus, a speech
 which brought him neither largess nor honour. The king saw him
 depart with much indifference, since he thought that a man must be
 an arrant fool who made no account of present good, but bade men
 always wait and mark the end.
-    After Solon had gone away a dreadful vengeance, sent of God,
+
+After Solon had gone away a dreadful vengeance, sent of God,
 came upon Croesus, to punish him, it is likely, for deeming himself
 the happiest of men. First he had a dream in the night, which
 foreshowed him truly the evils that were about to befall him in the
@@ -529,7 +571,8 @@ weapons used in the wars, he removed out of the male apartments, and
 laid them in heaps in the chambers of the women, fearing lest
 perhaps one of the weapons that hung against the wall might fall and
 strike him.
-    Now it chanced that while he was making arrangements for the
+
+Now it chanced that while he was making arrangements for the
 wedding, there came to Sardis a man under a misfortune, who had upon
 him the stain of blood. He was by race a Phrygian, and belonged to the
 family of the king. Presenting himself at the palace of Croesus, he
@@ -548,7 +591,8 @@ rejoined, "of a house friendly to mine, and thou art come to
 friends. Thou shalt want for nothing so long as thou abidest in my
 dominions. Bear thy misfortune as easily as thou mayest, so will it go
 best with thee." Thenceforth Adrastus lived in the palace of the king.
-    It chanced that at this very same time there was in the Mysian
+
+It chanced that at this very same time there was in the Mysian
 Olympus a huge monster of a boar, which went forth often from this
 mountain country, and wasted the corn-fields of the Mysians. Many a
 time had the Mysians collected to hunt the beast, but instead of doing
@@ -560,13 +604,15 @@ best to take him, but in vain. Now therefore we beseech thee to let
 thy son accompany us back, with some chosen youths and hounds, that we
 may rid our country of the animal." Such was the tenor of their
 prayer.
-    But Croesus bethought him of his dream, and answered, "Say no more
+
+But Croesus bethought him of his dream, and answered, "Say no more
 of my son going with you; that may not be in any wise. He is but
 just joined in wedlock, and is busy enough with that. I will grant you
 a picked band of Lydians, and all my huntsmen and hounds; and I will
 charge those whom I send to use all zeal in aiding you to rid your
 country of the brute."
-    With this reply the Mysians were content; but the king's son,
+
+With this reply the Mysians were content; but the king's son,
 hearing what the prayer of the Mysians was, came suddenly in, and on
 the refusal of Croesus to let him go with them, thus addressed his
 father: "Formerly, my father, it was deemed the noblest and most
@@ -578,7 +624,8 @@ return from it? What must the citizens, what must my young bride think
 of me? What sort of man will she suppose her husband to be? Either,
 therefore, let me go to the chase of this boar, or give me a reason
 why it is best for me to do according to thy wishes."
-    Then Croesus answered, "My son, it is not because I have seen in
+
+Then Croesus answered, "My son, it is not because I have seen in
 thee either cowardice or aught else which has displeased me that I
 keep thee back; but because a vision which came before me in a dream
 as I slept, warned me that thou wert doomed to die young, pierced by
@@ -588,7 +635,8 @@ Fain would I keep watch over thee, if by any means I may cheat fate of
 thee during my own lifetime. For thou art the one and only son that
 I possess; the other, whose hearing is destroyed, I regard as if he
 were not."
-    "Ah! father," returned the youth, "I blame thee not for keeping
+
+"Ah! father," returned the youth, "I blame thee not for keeping
 watch over me after a dream so terrible; but if thou mistakest, if
 thou dost not apprehend the dream aright, 'tis no blame for me to show
 thee wherein thou errest. Now the dream, thou saidst thyself, foretold
@@ -598,10 +646,12 @@ what thou fearest for me. Had the dream said that I should die pierced
 by a tusk, then thou hadst done well to keep me away; but it said a
 weapon. Now here we do not combat men, but a wild animal. I pray thee,
 therefore, let me go with them."
-    "There thou hast me, my son," said Croesus, "thy interpretation is
+
+"There thou hast me, my son," said Croesus, "thy interpretation is
 better than mine. I yield to it, and change my mind, and consent to
 let thee go."
-    Then the king sent for Adrastus, the Phrygian, and said to him,
+
+Then the king sent for Adrastus, the Phrygian, and said to him,
 "Adrastus, when thou wert smitten with the rod of affliction- no
 reproach, my friend- I purified thee, and have taken thee to live with
 me in my palace, and have been at every charge. Now, therefore, it
@@ -612,7 +662,8 @@ some band of daring robbers. Even apart from this, it were right for
 thee to go where thou mayest make thyself famous by noble deeds.
 They are the heritage of thy family, and thou too art so stalwart
 and strong."
-    Adrastus answered, "Except for thy request, Oh! king, I would
+
+Adrastus answered, "Except for thy request, Oh! king, I would
 rather have kept away from this hunt; for methinks it ill beseems a
 man under a misfortune such as mine to consort with his happier
 compeers; and besides, I have no heart to it. On many grounds I had
@@ -621,7 +672,8 @@ stayed behind; but, as thou urgest it, and I am bound to pleasure thee
 content to do as thou wishest. For thy son, whom thou givest into my
 charge, be sure thou shalt receive him back safe and sound, so far
 as depends upon a guardian's carefulness."
-    Thus assured, Croesus let them depart, accompanied by a band of
+
+Thus assured, Croesus let them depart, accompanied by a band of
 picked youths, and well provided with dogs of chase. When they reached
 Olympus, they scattered in quest of the animal; he was soon found, and
 the hunters, drawing round him in a circle, hurled their weapons at
@@ -632,7 +684,8 @@ by the point of an iron weapon, and the warning of the vision was
 fulfilled. Then one ran to Sardis to bear the tidings to the king, and
 he came and informed him of the combat and of the fate that had
 befallen his son.
-    If it was a heavy blow to the father to learn that his child was
+
+If it was a heavy blow to the father to learn that his child was
 dead, it yet more strongly affected him to think that the very man
 whom he himself once purified had done the deed. In the violence of
 his grief he called aloud on Jupiter Catharsius to be a witness of
@@ -641,7 +694,8 @@ the same god as Jupiter Ephistius and Hetaereus- using the one term
 because he had unwittingly harboured in his house the man who had
 now slain his son; and the other, because the stranger, who had been
 sent as his child's guardian, had turned out his most cruel enemy.
-    Presently the Lydians arrived, bearing the body of the youth,
+
+Presently the Lydians arrived, bearing the body of the youth,
 and behind them followed the homicide. He took his stand in front of
 the corse, and, stretching forth his hands to Croesus, delivered
 himself into his power with earnest entreaties that he would sacrifice
@@ -661,7 +715,8 @@ in time past, the destroyer now of his purifier, regarding himself
 as the most unfortunate wretch whom he had ever known, so soon as
 all was quiet about the place, slew himself upon the tomb. Croesus,
 bereft of his son, gave himself up to mourning for two full years.
-    At the end of this time the grief of Croesus was interrupted by
+
+At the end of this time the grief of Croesus was interrupted by
 intelligence from abroad. He learnt that Cyrus, the son of Cambyses,
 had destroyed the empire of Astyages, the son of Cyaxares; and that
 the Persians were becoming daily more powerful. This led him to
@@ -677,7 +732,8 @@ consult the oracle of Ammon. These messengers were sent to test the
 knowledge of the oracles, that, if they were found really to return
 true answers, he might send a second time, and inquire if he ought
 to attack the Persians.
-    The messengers who were despatched to make trial of the oracles
+
+The messengers who were despatched to make trial of the oracles
 were given the following instructions: they were to keep count of
 the days from the time of their leaving Sardis, and, reckoning from
 that date, on the hundredth day they were to consult the oracles,
@@ -688,14 +744,14 @@ remain on record except that of the oracle at Delphi. There, the
 moment that the Lydians entered the sanctuary, and before they put
 their questions, the Pythoness thus answered them in hexameter verse:-
 
-    I can count the sands, and I can measure the ocean;
-    I have ears for the silent, and know what the dumb man meaneth;
-    Lo! on my sense there striketh the smell of a shell-covered
-      tortoise,
-    Boiling now on a fire, with the flesh of a lamb, in a cauldron-
-    Brass is the vessel below, and brass the cover above it.
+> I can count the sands, and I can measure the ocean;  
+> I have ears for the silent, and know what the dumb man meaneth;  
+> Lo! on my sense there striketh the smell of a shell-covered
+  tortoise,  
+> Boiling now on a fire, with the flesh of a lamb, in a cauldron-  
+> Brass is the vessel below, and brass the cover above it.
 
-    These words the Lydians wrote down at the mouth of the Pythoness
+These words the Lydians wrote down at the mouth of the Pythoness
 as she prophesied, and then set off on their return to Sardis. When
 all the messengers had come back with the answers which they had
 received, Croesus undid the rolls, and read what was written in
@@ -710,13 +766,15 @@ agreed on came, he acted as he had determined. He took a tortoise
 and a lamb, and cutting them in pieces with his own hands, boiled them
 both together in a brazen cauldron, covered over with a lid which
 was also of brass.
-    Such then was the answer returned to Croesus from Delphi. What the
+
+Such then was the answer returned to Croesus from Delphi. What the
 answer was which the Lydians who went to the shrine of Amphiarans
 and performed the customary rites obtained of the oracle there, I have
 it not in my power to mention, for there is no record of it. All
 that is known is that Croesus believed himself to have found there
 also an oracle which spoke the truth.
-    After this Croesus, having resolved to propitiate the Delphic
+
+After this Croesus, having resolved to propitiate the Delphic
 god with a magnificent sacrifice, offered up three thousand of every
 kind of sacrificial beast, and besides made a huge pile, and placed
 upon it couches coated with silver and with gold, and golden
@@ -734,7 +792,8 @@ talents. At the time when the temple of Delphi was burnt to the
 ground, this lion fell from the ingots on which it was placed; it
 now stands in the Corinthian treasury, and weighs only six talents and
 a half, having lost three talents and a half by the fire.
-    On the completion of these works Croesus sent them away to Delphi,
+
+On the completion of these works Croesus sent them away to Delphi,
 and with them two bowls of an enormous size, one of gold, the other of
 silver, which used to stand, the latter upon the right, the former
 upon the left, as one entered the temple. They too were moved at the
@@ -758,12 +817,14 @@ number of round silver basins. Also he dedicated a female figure in
 gold, three cubits high, which is said by the Delphians to be the
 statue of his baking-woman; and further, he presented the necklace and
 the girdles of his wife.
-    These were the offerings sent by Croesus to Delphi. To the
+
+These were the offerings sent by Croesus to Delphi. To the
 shrine of Amphiaraus, with whose valour and misfortune he was
 acquainted, he sent a shield entirely of gold, and a spear, also of
 solid gold, both head and shaft. They were still existing in my day at
 Thebes, laid up in the temple of Ismenian Apollo.
-    The messengers who had the charge of conveying these treasures
+
+The messengers who had the charge of conveying these treasures
 to the shrines, received instructions to ask the oracles whether
 Croesus should go to war with the Persians and if so, whether he
 should strengthen himself by the forces of an ally. Accordingly,
@@ -778,7 +839,8 @@ the tenor of their reply, which was in each case a prophecy that if
 Croesus attacked the Persians, he would destroy a mighty empire, and a
 recommendation to him to look and see who were the most powerful of
 the Greeks, and to make alliance with them.
-    At the receipt of these oracular replies Croesus was overjoyed,
+
+At the receipt of these oracular replies Croesus was overjoyed,
 and feeling sure now that he would destroy the empire of the Persians,
 he sent once more to Pytho, and presented to the Delphians, the number
 of whom he had ascertained, two gold staters apiece. In return for
@@ -786,17 +848,18 @@ this the Delphians granted to Croesus and the Lydians the privilege of
 precedency in consulting the oracle, exemption from all charges, the
 most honourable seat at the festivals, and the perpetual right of
 becoming at pleasure citizens of their town.
-    After sending these presents to the Delphians, Croesus a third
+
+After sending these presents to the Delphians, Croesus a third
 time consulted the oracle, for having once proved its truthfulness, he
 wished to make constant use of it. The question whereto he now desired
 an answer was- "Whether his kingdom would be of long duration?" The
 following was the reply of the Pythoness:-
 
-    Wait till the time shall come when a mule is monarch of Media;
-    Then, thou delicate Lydian, away to the pebbles of Hermus;
-    Haste, oh! haste thee away, nor blush to behave like a coward.
+> Wait till the time shall come when a mule is monarch of Media;  
+> Then, thou delicate Lydian, away to the pebbles of Hermus;  
+> Haste, oh! haste thee away, nor blush to behave like a coward.
 
-    Of all the answers that had reached him, this pleased him far
+Of all the answers that had reached him, this pleased him far
 the best, for it seemed incredible that a mule should ever come to
 be king of the Medes, and so he concluded that the sovereignty would
 never depart from himself or his seed after him. Afterwards he
@@ -816,7 +879,8 @@ Histiaeotis; forced to retire from that region by the Cadmeians,
 they settled, under the name of Macedni, in the chain of Pindus. Hence
 they once more removed and came to Dryopis; and from Dryopis having
 entered the Peloponnese in this way, they became known as Dorians.
-    What the language of the Pelasgi was I cannot say with any
+
+What the language of the Pelasgi was I cannot say with any
 certainty. If, however, we may form a conjecture from the tongue
 spoken by the Pelasgi of the present day- those, for instance, who
 live at Creston above the Tyrrhenians, who formerly dwelt in the
@@ -835,7 +899,8 @@ and the same is true of the Placianians, while the language spoken
 by these two people is the same; which shows that they both retain the
 idiom which they brought with them into the countries where they are
 now settled.
-    The Hellenic race has never, since its first origin, changed its
+
+The Hellenic race has never, since its first origin, changed its
 speech. This at least seems evident to me. It was a branch of the
 Pelasgic, which separated from the main body, and at first was
 scanty in numbers and of little power; but it gradually spread and
@@ -843,7 +908,8 @@ increased to a multitude of nations, chiefly by the voluntary entrance
 into its ranks of numerous tribes of barbarians. The Pelasgi, on the
 other hand, were, as I think, a barbarian race which never greatly
 multiplied.
-    On inquiring into the condition of these two nations, Croesus
+
+On inquiring into the condition of these two nations, Croesus
 found that one, the Athenian, was in a state of grievous oppression
 and distraction under Pisistratus, the son of Hippocrates, who was
 at that time tyrant of Athens. Hippocrates, when he was a private
@@ -879,7 +945,8 @@ which he continued to hold without disturbing the previously
 existing offices or altering any of the laws. He administered the
 state according to the established usages, and his arrangements were
 wise and salutary.
-    However, after a little time, the partisans of Megacles and
+
+However, after a little time, the partisans of Megacles and
 those of Lycurgus agreed to forget their differences, and united to
 drive him out. So Pisistratus, having by the means described first
 made himself master of Athens, lost his power again before it had time
@@ -909,7 +976,8 @@ directions, and immediately the rumour spread throughout the country
 districts that Minerva was bringing back her favourite. They of the
 city also, fully persuaded that the woman was the veritable goddess,
 prostrated themselves before her, and received Pisistratus back.
-    Pisistratus, having thus recovered the sovereignty, married,
+
+Pisistratus, having thus recovered the sovereignty, married,
 according to agreement, the daughter of Megacles. As, however, he
 had already a family of grown up sons, and the Alcmaeonidae were
 supposed to be under a curse, he determined that there should be no
@@ -931,7 +999,8 @@ all was at length got ready for their return. A band of Argive
 mercenaries arrived from the Peloponnese, and a certain Naxian named
 Lygdamis, who volunteered his services, was particularly zealous in
 the cause, supplying both men and money.
-    In the eleventh year of their exile the family of Pisistratus
+
+In the eleventh year of their exile the family of Pisistratus
 set sail from Eretria on their return home. They made the coast of
 Attica, near Marathon, where they encamped, and were joined by their
 partisans from the capital and by numbers from the country
@@ -948,10 +1017,11 @@ an Acarnanian, moved by a divine impulse, came into the presence of
 Pisistratus, and approaching him uttered this prophecy in the
 hexameter measure:-
 
-    Now has the cast been made, the net is out-spread in the water,
-    Through the moonshiny night the tunnies will enter the meshes.
+> Now has the cast been made, the net is out-spread in the water,
+> 
+> Through the moonshiny night the tunnies will enter the meshes.
 
-    Such was the prophecy uttered under a divine inspiration.
+Such was the prophecy uttered under a divine inspiration.
 Pisistratus, apprehending its meaning, declared that he accepted the
 oracle, and instantly led on his army. The Athenians from the city had
 just finished their midday meal, after which they had betaken
@@ -963,7 +1033,8 @@ a body any more. He mounted his sons on horseback and sent them on
 in front to overtake the fugitives, and exhort them to be of good
 cheer, and return each man to his home. The Athenians took the advice,
 and Pisistratus became for the third time master of Athens.
-    Upon this he set himself to root his power more firmly, by the aid
+
+Upon this he set himself to root his power more firmly, by the aid
 of a numerous body of mercenaries, and by keeping up a full exchequer,
 partly supplied from native sources, partly from the countries about
 the river Strymon. He also demanded hostages from many of the
@@ -977,7 +1048,8 @@ another part of the isle. Thus was the tyranny of Pisistratus
 established at Athens, many of the Athenians having fallen in the
 battle, and many others having fled the country together with the
 son of Alcmaeon.
-    Such was the condition of the Athenians when Croesus made
+
+Such was the condition of the Athenians when Croesus made
 inquiry concerning them. Proceeding to seek information concerning the
 Lacedaemonians, he learnt that, after passing through a period of
 great depression, they had lately been victorious in a war with the
@@ -992,10 +1064,10 @@ following:- Lycurgus, a man of distinction among the Spartans, had
 gone to Delphi, to visit the oracle. Scarcely had he entered into
 the inner fane, when the Pythoness exclaimed aloud,
 
-    Oh! thou great Lycurgus, that com'st to my beautiful dwelling,
-    Dear to love, and to all who sit in the halls of Olympus,
-    Whether to hail thee a god I know not, or only a mortal,
-    But my hope is strong that a god thou wilt prove, Lycurgus.
+> Oh! thou great Lycurgus, that com'st to my beautiful dwelling,  
+> Dear to love, and to all who sit in the halls of Olympus,  
+> Whether to hail thee a god I know not, or only a mortal,  
+> But my hope is strong that a god thou wilt prove, Lycurgus.
 
 Some report besides, that the Pythoness delivered to him the entire
 system of laws which are still observed by the Spartans. The
@@ -1008,7 +1080,8 @@ whatever appertained to war, establishing the Enomotiae, Triacades,
 and Syssitia, besides which he instituted the senate,' and the
 ephoralty. Such was the way in which the Lacedaemonians became a
 well-governed people.
-    On the death of Lycurgus they built him a temple, and ever since
+
+On the death of Lycurgus they built him a temple, and ever since
 they have worshipped him with the utmost reverence. Their soil being
 good and the population numerous, they sprang up rapidly to power, and
 became a flourishing people. In consequence they soon ceased to be
@@ -1016,11 +1089,11 @@ satisfied to stay quiet; and, regarding the Arcadians as very much
 their inferiors, they sent to consult the oracle about conquering
 the whole of Arcadia. The Pythoness thus answered them:
 
-    Cravest thou Arcady? Bold is thy craving. I shall not content it.
-    Many the men that in Arcady dwell, whose food is the acorn-
-    They will never allow thee. It is not I that am niggard.
-    I will give thee to dance in Tegea, with noisy foot-fall,
-    And with the measuring line mete out the glorious champaign.
+> Cravest thou Arcady? Bold is thy craving. I shall not content it.  
+> Many the men that in Arcady dwell, whose food is the acorn-  
+> They will never allow thee. It is not I that am niggard.  
+> I will give thee to dance in Tegea, with noisy foot-fall,  
+> And with the measuring line mete out the glorious champaign.
 
 When the Lacedaemonians received this reply, leaving the rest of
 Arcadia untouched, they marched against the Tegeans, carrying with
@@ -1032,7 +1105,8 @@ themselves brought, and fastened together in a string, measured the
 Tegean plain as they executed their labours. The fetters in which they
 worked were still, in my day, preserved at Tegea where they hung round
 the walls of the temple of Minerva Alea.
-    Throughout the whole of this early contest with the Tegeans, the
+
+Throughout the whole of this early contest with the Tegeans, the
 Lacedaemonians met with nothing but defeats; but in the time of
 Croesus, under the kings Anaxandrides and  Aristo, fortune had
 turned in their favour, in the manner which I will now relate.
@@ -1045,11 +1119,11 @@ burial-place, they sent a second time, and asked the god where the
 body of the hero had been laid. The following was the answer they
 received:-
 
-    Level and smooth is the plain where Arcadian Tegea standeth;
-    There two winds are ever, by strong necessity, blowing,
-    Counter-stroke answers stroke, and evil lies upon evil.
-    There all-teeming Earth doth harbour the son of Atrides;
-    Bring thou him to thy city, and then be Tegea's master.
+> Level and smooth is the plain where Arcadian Tegea standeth;  
+> There two winds are ever, by strong necessity, blowing,  
+> Counter-stroke answers stroke, and evil lies upon evil.  
+> There all-teeming Earth doth harbour the son of Atrides;  
+> Bring thou him to thy city, and then be Tegea's master.
 
 After this reply, the Lacedaemonians were no nearer discovering the
 burial-place than before, though they continued to search for it
@@ -1059,13 +1133,15 @@ served their time among the knights. The five eldest of the knights go
 out every year, and are bound during the year after their discharge to
 go wherever the State sends them, and actively employ themselves in
 its service.
-    Lichas was one of this body when, partly by good luck, partly by
+
+Lichas was one of this body when, partly by good luck, partly by
 his own wisdom, he discovered the burial-place. Intercourse between
 the two States existing just at this time, he went to Tegea, and,
 happening to enter into the workshop of a smith, he saw him forging
 some iron. As he stood marvelling at what he beheld, he was observed
 by the smith who, leaving off his work, went up to him and said,
-    "Certainly, then, you Spartan stranger, you would have been
+
+"Certainly, then, you Spartan stranger, you would have been
 wonderfully surprised if you had seen what I have, since you make a
 marvel even of the working in iron. I wanted to make myself a well
 in this room, and began to dig it, when what think you? I came upon
@@ -1073,7 +1149,8 @@ a coffin seven cubits long. I had never believed that men were
 taller in the olden times than they are now, so I opened the coffin.
 The body inside was of the same length: I measured it, and filled up
 the hole again."
-    Such was the man's account of what he had seen. The other, on
+
+Such was the man's account of what he had seen. The other, on
 turning the matter over in his mind, conjectured that this was the
 body of Orestes, of which the oracle had spoken. He guessed so,
 because he observed that the smithy had two bellows, which he
@@ -1092,17 +1169,20 @@ Sparta. From henceforth, whenever the Spartans and the Tegeans made
 trial of each other's skill in arms, the Spartans always had greatly
 the advantage; and by the time to which we are now come they were
 masters of most of the Peloponnese.
-    Croesus, informed of all these circumstances, sent messengers to
+
+Croesus, informed of all these circumstances, sent messengers to
 Sparta, with gifts in their hands, who were to ask the Spartans to
 enter into alliance with him. They received strict injunctions as to
 what they should say, and on their arrival at Sparta spake as
 follows:-
-    "Croesus, king of the Lydians and of other nations, has sent us to
+
+"Croesus, king of the Lydians and of other nations, has sent us to
 speak thus to you: 'Oh Lacedaemonians, the god has bidden me to make
 the Greek my friend; I therefore apply to you, in conformity with
 the oracle, knowing that you hold the first rank in Greece, and desire
 to become your friend and ally in all true faith and honesty.'"
-    Such was the message which Croesus sent by his heralds. The
+
+Such was the message which Croesus sent by his heralds. The
 Lacedaemonians, who were aware beforehand of the reply given him by
 the oracle, were full of joy at the coming of the messengers, and at
 once took the oaths of friendship and alliance: this they did the more
@@ -1111,7 +1191,8 @@ towards him. They had sent to Sardis on one occasion to purchase
 some gold, intending to use it on a statue of Apollo- the statue,
 namely, which remains to this day at Thornax in Laconia, when Croesus,
 hearing of the matter, gave them as a gift the gold which they wanted.
-    This was one reason why the Lacedaemonians were so willing to make
+
+This was one reason why the Lacedaemonians were so willing to make
 the alliance: another was, because Croesus had chosen them for his
 friends in preference to all the other Greeks. They therefore held
 themselves in readiness to come at his summons, and not content with
@@ -1130,14 +1211,16 @@ Croesus was a prisoner, sold it in their island, and the purchasers
 shrine of Juno: the sellers were very likely on their return to Sparta
 to have said that they had been robbed of it by the Samians. Such,
 then, was the fate of the vase.
-    Meanwhile Croesus, taking the oracle in a wrong sense, led his
+
+Meanwhile Croesus, taking the oracle in a wrong sense, led his
 forces into Cappadocia, fully expecting to defeat Cyrus and destroy
 the empire of the Persians. While he was still engaged in making
 preparations for his attack, a Lydian named Sandanis, who had always
 been looked upon as a wise man, but who after this obtained a very
 great name indeed among his countrymen, came forward and counselled
 the king in these words:
-    "Thou art about, oh! king, to make war against men who wear
+
+"Thou art about, oh! king, to make war against men who wear
 leathern trousers, and have all their other garments of leather; who
 feed not on what they like, but on what they can get from a soil
 that is sterile and unkindly; who do not indulge in wine, but drink
@@ -1149,10 +1232,12 @@ a taste of our pleasant things, they will keep such hold of them
 that we shall never be able to make them loose their grasp. For my
 part, I am thankful to the gods that they have not put it into the
 hearts of the Persians to invade Lydia."
-    Croesus was not persuaded by this speech, though it was true
+
+Croesus was not persuaded by this speech, though it was true
 enough; for before the conquest of Lydia, the Persians possessed
 none of the luxuries or delights of life.
-    The Cappadocians are known to the Greeks by the name of Syrians.
+
+The Cappadocians are known to the Greeks by the name of Syrians.
 Before the rise of the Persian power, they had been subject to the
 Medes; but at the present time they were within the empire of Cyrus,
 for the boundary between the Median and the Lydian empires was the
@@ -1164,7 +1249,8 @@ the Cappadocian Syrians from the Paphlagonians, who occupy the left
 bank, thus forming the boundary of almost the whole of Lower Asia,
 from the sea opposite Cyprus to the Euxine. Just there is the neck
 of the peninsula, a journey of five days across for an active walker.
-    There were two motives which led Croesus to attack Cappadocia:
+
+There were two motives which led Croesus to attack Cappadocia:
 firstly, he coveted the land, which he wished to add to his own
 dominions; but the chief reason was that he wanted to revenge on Cyrus
 the wrongs of Astyages, and was made confident by the oracle of
@@ -1193,7 +1279,8 @@ of Sadyattes. The plan was carried out: Cyaxares and his guests ate of
 the flesh prepared by the Scythians, and they themselves, having
 accomplished their purpose, fled to Alyattes in the guise of
 suppliants.
-    Afterwards, on the refusal of Alyattes to give up his suppliants
+
+Afterwards, on the refusal of Alyattes to give up his suppliants
 when Cyaxares sent to demand them of him, war broke out between the
 Lydians and the Medes, and continued for five years, with various
 success. In the course of it the Medes gained many victories over
@@ -1216,7 +1303,8 @@ but little security in men's covenants. Oaths are taken by these
 people in the same way as by the Greeks, except that they make a
 slight flesh wound in their arms, from which each sucks a portion of
 the other's blood.
-    Cyrus had captured this Astyages, who was his mother's father, and
+
+Cyrus had captured this Astyages, who was his mother's father, and
 kept him prisoner, for a reason which I shall bring forward in another
 of my history. This capture formed the ground of quarrel between Cyrus
 and Croesus, in consequence of which Croesus sent his servants to
@@ -1240,7 +1328,8 @@ easily fordable. It is said by some that the water was entirely
 drained off from the natural bed of the river. But I am of a different
 opinion; for I do not see how, in that case, they could have crossed
 it on their return.
-    Having passed the Halys with the forces under his command, Croesus
+
+Having passed the Halys with the forces under his command, Croesus
 entered the district of Cappadocia which is called Pteria. It lies
 in the neighbourhood of the city of Sinope upon the Euxine, and is the
 strongest position in the whole country thereabouts. Here Croesus
@@ -1259,7 +1348,8 @@ took place between the contending powers. The combat was hot and
 bloody, and upon both sides the number of the slain was great; nor had
 victory declared in favour of either party, when night came down
 upon the battle-field. Thus both armies fought valiantly.
-    Croesus laid the blame of his ill success on the number of his
+
+Croesus laid the blame of his ill success on the number of his
 troops, which fell very short of the enemy; and as on the next day
 Cyrus did not repeat the attack, he set off on his return to Sardis,
 intending to collect his allies and renew the contest in the spring.
@@ -1280,7 +1370,8 @@ Persians and had since accompanied him to his capital, and let them
 depart to their homes, never imagining that Cyrus, after a battle in
 which victory had been so evenly balanced, would venture to march upon
 Sardis.
-    While Croesus was still in this mind, all the suburbs of Sardis
+
+While Croesus was still in this mind, all the suburbs of Sardis
 were found to swarm with snakes, on the appearance of which the horses
 left feeding in the pasture-grounds, and flocked to the suburbs to eat
 them. The king, who witnessed the unusual sight, regarded it very
@@ -1297,7 +1388,8 @@ the horse a warrior and a foreigner. Croesus was already a prisoner
 when the Telmessians thus answered his inquiry, but they had no
 knowledge of what was taking place at Sardis, or of the fate of the
 monarch.
-    Cyrus, however, when Croesus broke up so suddenly from his
+
+Cyrus, however, when Croesus broke up so suddenly from his
 quarters after the battle at Pteria, conceiving that he had marched
 away with the intention of disbanding his army, considered a little,
 and soon saw that it was advisable for him to advance upon Sardis with
@@ -1311,12 +1403,14 @@ battle. In all Asia there was not at that time a braver or more
 warlike people. Their manner of fighting was on horseback; they
 carried long lances, and were clever in the management of their
 steeds.
-    The two armies met in the plain before Sardis. It is a vast
+
+The two armies met in the plain before Sardis. It is a vast
 flat, bare of trees, watered by the Hyllus and a number of other
 streams, which all flow into one larger than the rest, called the
 Hermus. This river rises in the sacred mountain of the Dindymenian
 Mother, and falls into the sea near the town of Phocaea.
-    When Cyrus beheld the Lydians arranging themselves in order of
+
+When Cyrus beheld the Lydians arranging themselves in order of
 battle on this plain, fearful of the strength of their cavalry, he
 adopted a device which Harpagus, one of the Medes, suggested to him.
 He collected together all the camels that had come in the train of his
@@ -1341,14 +1435,16 @@ engaged with the Persians on foot. The combat was long; but at last,
 after a great slaughter on both sides, the Lydians turned and fled.
 They were driven within their walls and the Persians laid siege to
 Sardis.
-    Thus the siege began. Meanwhile Croesus, thinking that the place
+
+Thus the siege began. Meanwhile Croesus, thinking that the place
 would hold out no inconsiderable time, sent off fresh heralds to his
 allies from the beleaguered town. His former messengers had been
 charged to bid them assemble at Sardis in the course of the fifth
 month; they whom he now sent were to say that he was already besieged,
 and to beseech them to come to his aid with all possible speed.
 Among his other allies Croesus did not omit to send to Lacedaemon.
-    It chanced, however, that the Spartans were themselves just at
+
+It chanced, however, that the Spartans were themselves just at
 this time engaged in a quarrel with the Argives about a place called
 Thyrea, which was within the limits of Argolis, but had been seized on
 by the Lacedaemonians. Indeed, the whole country westward, as far as
@@ -1388,14 +1484,16 @@ wear their hair long, though they had always before cut it close.
 Othryadas himself, it is said, the sole survivor of the three hundred,
 prevented by a sense of shame from returning to Sparta after all his
 comrades had fallen, laid violent hands upon himself in Thyrea.
-    Although the Spartans were engaged with these matters when the
+
+Although the Spartans were engaged with these matters when the
 herald arrived from Sardis to entreat them to come to the assistance
 of the besieged king, yet, notwithstanding, they instantly set to work
 to afford him help. They had completed their preparations, and the
 ships were just ready to start, when a second message informed them
 that the place had already fallen, and that Croesus was a prisoner.
 Deeply grieved at his misfortune, the Spartans ceased their efforts.
-    The following is the way in which Sardis was taken. On the
+
+The following is the way in which Sardis was taken. On the
 fourteenth day of the siege Cyrus bade some horsemen ride about his
 lines, and make proclamation to the whole army that he would give a
 reward to the man who should first mount the wall. After this he
@@ -1419,7 +1517,8 @@ over what he had witnessed, and formed his plan. He climbed the rock
 himself, and other Persians followed in his track, until a large
 number had mounted to the top. Thus was Sardis taken, and given up
 entirely to pillage.
-    With respect to Croesus himself, this is what befell him at the
+
+With respect to Croesus himself, this is what befell him at the
 taking of the town. He had a son, of whom I made mention above, a
 worthy youth, whose only defect was that he was deaf and dumb. In
 the days of his prosperity Croesus had done the utmost that be could
@@ -1427,13 +1526,13 @@ for him, and among other plans which he had devised, had sent to
 Delphi to consult the oracle on his behalf. The answer which he had
 received from the Pythoness ran thus:-
 
-    Lydian, wide-ruling monarch, thou wondrous simple Croesus,
-    Wish not ever to hear in thy palace the voice thou hast prayed for
-    Uttering intelligent sounds. Far better thy son should be silent!
-    Ah! woe worth the day when thine car shall first list to his
-      accents.
+> Lydian, wide-ruling monarch, thou wondrous simple Croesus,  
+> Wish not ever to hear in thy palace the voice thou hast prayed for  
+> Uttering intelligent sounds. Far better thy son should be silent!  
+> Ah! woe worth the day when thine car shall first list to his
+>  accents.
 
-    When the town was taken, one of the Persians was just going to
+When the town was taken, one of the Persians was just going to
 kill Croesus, not knowing who he was. Croesus saw the man coming,
 but under the pressure of his affliction, did not care to avoid the
 blow, not minding whether or no he died beneath the stroke. Then
@@ -1442,7 +1541,8 @@ towards Croesus, in the agony of his fear and grief burst into speech,
 and said, "Man, do not kill Croesus." This was the first time that
 he had ever spoken a word, but afterwards he retained the power of
 speech for the remainder of his life.
-    Thus was Sardis taken by the Persians, and Croesus himself fell
+
+Thus was Sardis taken by the Persians, and Croesus himself fell
 into their hands, after having reigned fourteen years, and been
 besieged in his capital fourteen days; thus too did Croesus fulfill
 the oracle, which said that he should destroy a mighty empire by
@@ -1481,7 +1581,8 @@ afraid, moreover, of retribution, and full of the thought that
 whatever is human is insecure. So he bade them quench the blazing fire
 as quickly as they could, and take down Croesus and the other Lydians,
 which they tried to do, but the flames were not to be mastered.
-    Then, the Lydians say that Croesus, perceiving by the efforts made
+
+Then, the Lydians say that Croesus, perceiving by the efforts made
 to quench the fire that Cyrus had relented, and seeing also that all
 was in vain, and that the men could not get the fire under, called
 with a loud voice upon the god Apollo, and prayed him, if he ever
@@ -1500,7 +1601,8 @@ rests with the god of the Greeks, who encouraged me to begin the
 war. No one is so foolish as to prefer war to peace, in which, instead
 of sons burying their fathers, fathers bury their sons. But the gods
 willed it so."
-    Thus did Croesus speak. Cyrus then ordered his fetters to be taken
+
+Thus did Croesus speak. Cyrus then ordered his fetters to be taken
 off, and made him sit down near himself, and paid him much respect,
 looking upon him, as did also the courtiers, with a sort of wonder.
 Croesus, wrapped in thought, uttered no word. After a while, happening
@@ -1512,7 +1614,8 @@ yonder are doing so busily?" "Plundering thy city," Cyrus answered,
 "and carrying off thy riches." "Not my city," rejoined the other, "nor
 my riches. They are not mine any more. It is thy wealth which they are
 pillaging."
-    Cyrus, struck by what Croesus had said, bade all the court to
+
+Cyrus, struck by what Croesus had said, bade all the court to
 withdraw, and then asked Croesus what he thought it best for him to do
 as regarded the plundering. Croesus answered, "Now that the gods
 have made me thy slave, oh! Cyrus, it seems to me that it is my
@@ -1528,7 +1631,8 @@ that they do so because the tenths are due to Jupiter. So wilt thou
 escape the hatred they would feel if the plunder were taken away
 from them by force; and they, seeing that what is proposed is just,
 will do it willingly."
-    Cyrus was beyond measure pleased with this advice, so excellent
+
+Cyrus was beyond measure pleased with this advice, so excellent
 did it seem to him. He praised Croesus highly, and gave orders to
 his bodyguard to do as he had suggested. Then, turning to Croesus,
 he said, "Oh! Croesus, I see that thou are resolved both in speech and
@@ -1553,7 +1657,8 @@ destroyer of the empire of Cyrus, to begin a war with Persia, of which
 such were the first-fruits?" As they said this they were to point to
 the fetters- and further they were to inquire, "If it was the wont
 of the Greek gods to be ungrateful?"
-    The Lydians went to Delphi and delivered their message, on which
+
+The Lydians went to Delphi and delivered their message, on which
 the Pythoness is said to have replied- "It is not possible even for
 a god to escape the decree of destiny. Croesus has been punished for
 the sin of his fifth ancestor, who, when he was one of the bodyguard
@@ -1577,12 +1682,14 @@ mule. For the parents of Cyrus were of different races, and of
 different conditions- his mother a Median princess, daughter of King
 Astyages, and his father a Persian and a subject, who, though so far
 beneath her in all respects, had married his royal mistress."
-    Such was the answer of the Pythoness. The Lydians returned to
+
+Such was the answer of the Pythoness. The Lydians returned to
 Sardis and communicated it to Croesus, who confessed, on hearing it,
 that the fault was his, not the god's. Such was the way in which Ionia
 was first conquered, and so was the empire of Croesus brought to a
 close.
-    Besides the offerings which have been already mentioned, there are
+
+Besides the offerings which have been already mentioned, there are
 many others in various parts of Greece presented by Croesus; as at
 Thebes in Boeotia, where there is a golden tripod, dedicated by him to
 Ismenian Apollo; at Ephesus, where the golden heifers, and most of the
@@ -1604,7 +1711,8 @@ against him, and broke him upon the wheel. His property, which he
 had previously devoted to the service of the gods, Croesus applied
 in the way mentioned above. This is all I shall say about his
 offerings.
-    Lydia, unlike most other countries, scarcely offers any wonders
+
+Lydia, unlike most other countries, scarcely offers any wonders
 for the historian to describe, except the gold-dust which is washed
 down from the range of Tmolus. It has, however, one structure of
 enormous size, only inferior to the monuments of Egypt and Babylon.
@@ -1622,7 +1730,8 @@ are wont to contract themselves in marriage. The tomb is six stades
 and two plethra in circumference; its breadth is thirteen plethra.
 Close to the tomb is a large lake, which the Lydians say is never dry.
 They call it the Lake Gygaea.
-    The Lydians have very nearly the same customs as the Greeks,
+
+The Lydians have very nearly the same customs as the Greeks,
 with the exception that these last do not bring up their girls in
 the same way. So far as we have any knowledge, they were the first
 nation to introduce the use of gold and silver coin, and the first who
@@ -1652,7 +1761,8 @@ to Umbria, where they built cities for themselves, and fixed their
 residence. Their former name of Lydians they laid aside, and called
 themselves after the name of the king's son, who led the colony,
 Tyrrhenians.
-    Thus far I have been engaged in showing how the Lydians were
+
+Thus far I have been engaged in showing how the Lydians were
 brought under the Persian yoke. The course of my history now compels
 me to inquire who this Cyrus was by whom the Lydian empire was
 destroyed, and by what means the Persians had become the lords
@@ -1660,14 +1770,16 @@ paramount of Asia. And herein I shall follow those Persian authorities
 whose object it appears to be not to magnify the exploits of Cyrus,
 but to relate the simple truth. I know besides three ways in which the
 story of Cyrus is told, all differing from my own narrative.
-    The Assyrians had held the Empire of Upper Asia for the space of
+
+The Assyrians had held the Empire of Upper Asia for the space of
 five hundred and twenty years, when the Medes set the example of
 revolt from their authority. They took arms for the recovery of
 their freedom, and fought a battle with the Assyrians, in which they
 behaved with such gallantry as to shake off the yoke of servitude, and
 to become a free people. Upon their success the other nations also
 revolted and regained their independence.
-    Thus the nations over that whole extent of country obtained the
+
+Thus the nations over that whole extent of country obtained the
 blessing of self-government, but they fell again under the sway of
 kings, in the manner which I will now relate. There was a certain Mede
 named Deioces, son of Phraortes, a man of much wisdom, who had
@@ -1690,7 +1802,8 @@ oppressive judgments; so that, when they heard of the singular
 uprightness of Deioces, and of the equity of his decisions, they
 joyfully had recourse to him in the various quarrels and suits that
 arose, until at last they came to put confidence in no one else.
-    The number of complaints brought before him continually
+
+The number of complaints brought before him continually
 increasing, as people learnt more and more the fairness of his
 judgments, Deioces, feeling himself now all important, announced
 that he did not intend any longer to hear causes, and appeared no more
@@ -1707,7 +1820,8 @@ king over us, that so the land may be well governed, and we
 ourselves may be able to attend to our own affairs, and not be
 forced to quit our country on account of anarchy." The assembly was
 persuaded by these arguments, and resolved to appoint a king.
-    It followed to determine who should be chosen to the office.
+
+It followed to determine who should be chosen to the office.
 When this debate began the claims of Deioces and his praises were at
 once in every mouth; so that presently all agreed that he should be
 king. Upon this he required a palace to be built for him suitable to
@@ -1730,7 +1844,8 @@ that of Athens. Of this wall the battlements are white, of the next
 black, of the third scarlet, of the fourth blue, of the fifth
 orange; all these are coloured with paint. The two last have their
 battlements coated respectively with silver and gold.
-    All these fortifications Deioces caused to be raised for himself
+
+All these fortifications Deioces caused to be raised for himself
 and his own palace. The people were required to build their
 dwellings outside the circuit of the walls. When the town was
 finished, he proceeded to arrange the ceremonial. He allowed no one to
@@ -1745,7 +1860,8 @@ inferior to him in manly qualities, if they saw him frequently would
 be pained at the sight, and would therefore be likely to conspire
 against him; whereas if they did not see him, they would think him
 quite a different sort of being from themselves.
-    After completing these arrangements, and firmly settling himself
+
+After completing these arrangements, and firmly settling himself
 upon the throne, Deioces continued to administer justice with the same
 strictness as before. Causes were stated in writing, and sent in to
 the king, who passed his judgment upon the contents, and transmitted
@@ -1753,10 +1869,12 @@ his decisions to the parties concerned: besides which he had spies and
 eavesdroppers in all parts of his dominions, and if he heard of any
 act of oppression, he sent for the guilty party, and awarded him the
 punishment meet for his offence.
-    Thus Deioces collected the Medes into a nation, and ruled over
+
+Thus Deioces collected the Medes into a nation, and ruled over
 them alone. Now these are the tribes of which they consist: the Busae,
 the Paretaceni, the Struchates, the Arizanti, the Budii, and the Magi.
-    Having reigned three-and-fifty years, Deioces was at his death
+
+Having reigned three-and-fifty years, Deioces was at his death
 succeeded by his son Phraortes. This prince, not satisfied with a
 dominion which did not extend beyond the single nation of the Medes,
 began by attacking the Persians; and marching an army into their
@@ -1770,7 +1888,8 @@ of their allies, yet still their internal condition was as flourishing
 as ever. Phraortes attacked them, but perished in the expedition
 with the greater part of his army, after having reigned over the Medes
 two-and-twenty years.
-    On the death of Phraortes his son Cyaxares ascended the throne. Of
+
+On the death of Phraortes his son Cyaxares ascended the throne. Of
 him it is reported that he was still more war-like than any of his
 ancestors, and that he was the first who gave organisation to an
 Asiatic army, dividing the troops into companies, and forming distinct
@@ -1786,9 +1905,10 @@ suffered a defeat, and Cyaxares had already begun the siege of the
 place, when a numerous horde of Scyths, under their king Madyes, son
 of Prtotohyes, burst into Asia in pursuit of the Cimmerians whom
 they had driven out of Europe, and entered the Median territory.
-    The distance from the Palus Maeotis to the river Phasis and the
+
+The distance from the Palus Maeotis to the river Phasis and the
 Colchians is thirty days' journey for a lightly-equipped traveller.
->From Colchis to cross into Media does not take long- there is only a
+From Colchis to cross into Media does not take long- there is only a
 single intervening nation, the Saspirians, passing whom you find
 yourself in Media. This however was not the road followed by the
 Scythians, who turned out of the straight course, and took the upper
@@ -1796,7 +1916,8 @@ route, which is much longer, keeping the Caucasus upon their right.
 The Scythians, having thus invaded Media, were opposed by the Medes,
 who gave them battle, but, being defeated, lost their empire. The
 Scythians became masters of Asia.
-    After this they marched forward with the design of invading Egypt.
+
+After this they marched forward with the design of invading Egypt.
 When they had reached Palestine, however, Psammetichus the Egyptian
 king met them with gifts and prayers, and prevailed on them to advance
 no further. On their return, passing through Ascalon, a city of Syria,
@@ -1811,7 +1932,8 @@ the goddess with the female sickness, which still attaches to their
 posterity. They themselves confess that they are afflicted with the
 disease for this reason, and travellers who visit Scythia can see what
 sort of a disease it is. Those who suffer from it are called Enarees.
-    The dominion of the Scythians over Asia lasted eight-and-twenty
+
+The dominion of the Scythians over Asia lasted eight-and-twenty
 years, during which time their insolence and oppression spread ruin on
 every side. For besides the regular tribute, they exacted from the
 several nations additional imposts, which they fixed at pleasure;
@@ -1824,7 +1946,8 @@ Nineveh- I will relate how in another history- and conquered all
 Assyria except the district of Babylonia. After this Cyaxares died,
 having reigned over the Medes, if we include the time of the
 Scythian rule, forty years.
-    Astyages, the son of Cyaxares, succeeded to the throne. He had a
+
+Astyages, the son of Cyaxares, succeeded to the throne. He had a
 daughter who was named Mandane concerning whom he had a wonderful
 dream. He dreamt that from her such a stream of water flowed forth
 as not only to fill his capital, but to flood the whole of Asia.
@@ -1835,7 +1958,8 @@ of ripe age, he would not give her in marriage to any of the Medes who
 were of suitable rank, lest the dream should be accomplished; but he
 married her to a Persian of good family indeed, but of a quiet temper,
 whom he looked on as much inferior to a Mede of even middle condition.
-    Thus Cambyses (for so was the Persian called) wedded Mandane,
+
+Thus Cambyses (for so was the Persian called) wedded Mandane,
 and took her to his home, after which, in the very first year,
 Astyages saw another vision. He fancied that a vine grew from the womb
 of his daughter, and overshadowed the whole of Asia. After this dream,
@@ -1857,7 +1981,8 @@ king," replied the other, "never in time past did Harpagus disoblige
 thee in anything, and be sure that through all future time he will
 be careful in nothing to offend. If therefore it be thy will that this
 thing be done, it is for me to serve thee with all diligence."
-    When Harpagus had thus answered, the child was given into his
+
+When Harpagus had thus answered, the child was given into his
 hands, clothed in the garb of death, and he hastened weeping to his
 home. There on his arrival he found his wife, to whom he told all that
 Astyages had said. "What then," said she, "is it now in thy heart to
@@ -1871,7 +1996,8 @@ whose child he now wishes to slay by my hand- what remains for me
 but danger of the fearfullest kind? For my own safety, indeed, the
 child must die; but some one belonging to Astyages must take his life,
 not I or mine."
-    So saying he sent off a messenger to fetch a certain Mitradates,
+
+So saying he sent off a messenger to fetch a certain Mitradates,
 one of the herdsmen of Astyages, whose pasturages he knew to be the
 fittest for his purpose, lying as they did among mountains infested
 with wild beasts. This man was married to one of the king's female
@@ -1887,7 +2013,8 @@ the wildest part of the hills, where he will be sure to die
 speedily. And he bade me tell thee, that if thou dost not kill the
 boy, but anyhow allowest him to escape, he will put thee to the most
 painful of deaths. I myself am appointed to see the child exposed."
-    The herdsman on hearing this took the child in his arms, and
+
+The herdsman on hearing this took the child in his arms, and
 went back the way he had come till he reached the folds. There,
 providentially, his wife, who had been expecting daily to be put to
 bed, had just, during the absence of her husband, been delivered of
@@ -1917,7 +2044,8 @@ a servant with me to show me the way out of the town, and to leave the
 baby in my hands; and he told me that the child's mother is the king's
 daughter Mandane, and his father Cambyses, the son of Cyrus; and
 that the king orders him to be killed; and look, here the child is."
-    With this the herdsman uncovered the infant, and showed him to his
+
+With this the herdsman uncovered the infant, and showed him to his
 wife, who, when she saw him, and observed how fine a child and how
 beautiful he was, burst into tears, and clinging to the knees of her
 husband, besought him on no account to expose the babe; to which he
@@ -1933,7 +2061,8 @@ daughter of Astyages. So shalt thou not be charged with unfaithfulness
 to thy lord, nor shall we have managed badly for ourselves. Our dead
 babe will have a royal funeral, and this living child will not be
 deprived of life."
-    It seemed to the herdsman that this advice was the best under
+
+It seemed to the herdsman that this advice was the best under
 the circumstances. He therefore followed it without loss of time.
 The child which he had intended to put to death he gave over to his
 wife, and his own dead child he put in the cradle wherein he had
@@ -1948,7 +2077,8 @@ satisfied with their seeing it, gave orders for the funeral. Thus
 was the herdsman's child buried, and the other child, who was
 afterwards known by the name of Cyrus, was taken by the herdsman's
 wife, and brought up under a different name.
-    When the boy was in his tenth year, an accident which I will now
+
+When the boy was in his tenth year, an accident which I will now
 relate, caused it to be discovered who he was. He was at play one
 day in the village where the folds of the cattle were, along with
 the boys of his own age, in the street. The other boys who were
@@ -1970,7 +2100,8 @@ accompanied by his son, and made complaint of the gross injury which
 had been done him. Pointing to the boy's shoulders, he exclaimed,
 "Thus, oh! king, has thy slave, the son of a cowherd, heaped insult
 upon us."
-    At this sight and these words Astyages, wishing to avenge the
+
+At this sight and these words Astyages, wishing to avenge the
 son of Artembares for his father's sake, sent for the cowherd and
 his boy. When they came together into his presence, fixing his eyes on
 Cyrus, Astyages said, "Hast thou then, the son of so mean a fellow
@@ -1982,7 +2113,8 @@ of the boys who chose me. All the others did according to my orders;
 but he refused, and made light of them, until at last he got his due
 reward. If for this I deserve to suffer punishment, here I am ready to
 submit to it."
-    While the boy was yet speaking Astyages was struck with a
+
+While the boy was yet speaking Astyages was struck with a
 suspicion who he was. He thought he saw something in the character
 of his face like his own, and there was a nobleness about the answer
 he had made; besides which his age seemed to tally with the time
@@ -2004,7 +2136,8 @@ herdsman, as they were dragging him to the rack, began at the
 beginning, and told the whole story exactly as it happened, without
 concealing anything, ending with entreaties and prayers to the king to
 grant him forgiveness.
-    Astyages, having got the truth of the matter from the herdsman,
+
+Astyages, having got the truth of the matter from the herdsman,
 was very little further concerned about him, but with Harpagus he
 was exceedingly enraged. The guards were bidden to summon him into the
 presence, and on his appearance Astyages asked him, "By what death was
@@ -2026,7 +2159,8 @@ when he had done according to all that I commanded him, and the
 child had died, I sent some of the most trustworthy of my eunuchs, who
 viewed the body for me, and then I had the child buried. This, sire,
 is the simple truth, and this is the death by which the child died."
-    Thus Harpagus related the whole story in a plain,
+
+Thus Harpagus related the whole story in a plain,
 straightforward way; upon which Astyages, letting no sign escape him
 of the anger that he felt, began by repeating to him all that he had
 just heard from the cowherd, and then concluded with saying, "So the
@@ -2037,7 +2171,8 @@ then, and send thy son to be with the new comer, and to-night, as I
 mean to sacrifice thank-offerings for the child's safety to the gods
 to whom such honour is due, I look to have thee a guest at the
 banquet."
-    Harpagus, on hearing this, made obeisance, and went home rejoicing
+
+Harpagus, on hearing this, made obeisance, and went home rejoicing
 to find that his disobedience had turned out so fortunately, and that,
 instead of being punished, he was invited to a banquet given in honour
 of the happy occasion. The moment he reached home he called for his
@@ -2066,7 +2201,8 @@ knew very well, and that whatever the king did was agreeable. After
 this reply, he took with him such morsels of the flesh as were
 uneaten, and went home, intending, as I conceive, to collect the
 remains and bury them.
-    Such was the mode in which Astyages punished Harpagus: afterwards,
+
+Such was the mode in which Astyages punished Harpagus: afterwards,
 proceeding to consider what he should do with Cyrus, his grandchild,
 he sent for the Magi, who formerly interpreted his dream in the way
 which alarmed him so much, and asked them how they had expounded it.
@@ -2100,14 +2236,16 @@ But truly we are persuaded that the dream has had its accomplishment
 in this harmless way; and so our own fears being at rest, we recommend
 thee to banish thine. As for the boy, our advice is that thou send him
 away to Persia, to his father and mother."
-    Astyages heard their answer with pleasure, and calling Cyrus
+
+Astyages heard their answer with pleasure, and calling Cyrus
 into his presence, said to him, "My child, I was led to do thee a
 wrong by a dream which has come to nothing: from that wrong thou
 wert saved by thy own good fortune. Go now with a light heart to
 Persia; I will provide thy escort. Go, and when thou gettest to thy
 journey's end, thou wilt behold thy father and thy mother, quite other
 people from Mitradates the cowherd and his wife."
-    With these words Astyages dismissed his grandchild. On his arrival
+
+With these words Astyages dismissed his grandchild. On his arrival
 at the house of Cambyses, he was received by his parents, who, when
 they learnt who he was, embraced him heartily, having always been
 convinced that he died almost as soon as he was born. So they asked
@@ -2124,7 +2262,8 @@ catching the name at his mouth, and wishing to persuade the Persians
 that there was a special providence in his preservation, spread the
 report that Cyrus, when he was exposed, was suckled by a bitch. This
 was the sole origin of the rumour.
-    Afterwards, when Cyrus grew to manhood, and became known as the
+
+Afterwards, when Cyrus grew to manhood, and became known as the
 bravest and most popular of all his compeers, Harpagus, who was bent
 on revenging himself upon Astyages, began to pay him court by gifts
 and messages. His own rank was too humble for him to hope to obtain
@@ -2146,7 +2285,8 @@ faithful slaves, disguising him as a hunter with nets, and sent him
 off to Persia to take the game as a present to Cyrus, bidding him tell
 Cyrus, by word of mouth, to paunch the animal himself, and let no
 one be present at the time.
-    All was done as he wished, and Cyrus, on cutting the hare open,
+
+All was done as he wished, and Cyrus, on cutting the hare open,
 found the letter inside, and read as follows:- "Son of Cambyses, the
 gods assuredly watch over thee, or never wouldst thou have passed
 through thy many wonderful adventures- now is the time when thou mayst
@@ -2163,7 +2303,8 @@ go as thou couldst wish. They will be the first to fall away from him,
 and joining thy side, exert themselves to overturn his power. Be
 sure that on our part all is ready; wherefore do thou thy part, and
 that speedily."
-    Cyrus, on receiving the tidings contained in this letter, set
+
+Cyrus, on receiving the tidings contained in this letter, set
 himself to consider how he might best persuade the Persians to revolt.
 After much thought, he hit on the following as the most expedient
 course: he wrote what he thought proper upon a roll, and then
@@ -2171,7 +2312,8 @@ calling an assembly of the Persians, he unfolded the roll, and read
 out of it that Astyages appointed him their general. "And now," said
 he, "since it is so, I command you to go and bring each man his
 reaping-hook." With these words he dismissed the assembly.
-    Now the Persian nation is made up of many tribes. Those which
+
+Now the Persian nation is made up of many tribes. Those which
 Cyrus assembled and persuaded to revolt from the Medes were the
 principal ones on which all the others are dependent. These are the
 Pasargadae, the Maraphians, and the Maspians, of whom the Pasargadae
@@ -2180,7 +2322,8 @@ kings, is one of their clans. The rest of the Persian tribes are the
 following: the Panthialaeans, the Derusiaeans, the Germanians, who are
 engaged in husbandry; the Daans, the Mardians, the Dropicans, and
 the Sagartians, who are nomads.
-    When, in obedience to the orders which they had received, the
+
+When, in obedience to the orders which they had received, the
 Persians came with their reaping-hooks, Cyrus led them to a tract of
 ground, about eighteen or twenty furlongs each way, covered with
 thorns, and ordered them to clear it before the day was out. They
@@ -2205,7 +2348,8 @@ be free. For myself I feel that I am destined by Providence to
 undertake your liberation; and you, I am sure, are no whit inferior to
 the Medes in anything, least of all in bravery. Revolt, therefore,
 from Astyages, without a moment's delay."
-    The Persians, who had long been impatient of the Median
+
+The Persians, who had long been impatient of the Median
 dominion, now that they had found a leader, were delighted to shake
 off the yoke. Meanwhile Astyages, informed of the doings of Cyrus,
 sent a messenger to summon him to his presence. Cyrus replied, "Tell
@@ -2216,7 +2360,8 @@ Harpagus to be their general, forgetting how greatly he had injured
 him. So when the two armies met and engaged, only a few of the
 Medes, who were not in the secret, fought; others deserted openly to
 the Persians; while the greater number counterfeited fear, and fled.
-    Astyages, on learning the shameful flight and dispersion of his
+
+Astyages, on learning the shameful flight and dispersion of his
 army, broke out into threats against Cyrus, saying, "Cyrus shall
 nevertheless have no reason to rejoice"; and directly he seized the
 Magian interpreters, who had persuaded him to allow Cyrus to escape,
@@ -2224,7 +2369,8 @@ and impaled them; after which, he armed all the Medes who had remained
 in the city, both young and old; and leading them against the
 Persians, fought a battle, in which he was utterly defeated, his
 army being destroyed, and he himself falling into the enemy's hands.
-    Harpagus then, seeing him a prisoner, came near, and exulted
+
+Harpagus then, seeing him a prisoner, came near, and exulted
 over him with many jibes and jeers. Among other cutting speeches which
 he made, he alluded to the supper where the flesh of his son was given
 him to eat, and asked Astyages to answer him now, how he enjoyed being
@@ -2243,7 +2389,8 @@ a Mede, rather than a Persian, should receive the dignity. Now,
 however, the Medes, who had been no parties to the wrong of which he
 complained, were made slaves instead of lords, and slaves moreover
 of those who till recently had been their subjects."
-    Thus after a reign of thirty-five years, Astyages lost his
+
+Thus after a reign of thirty-five years, Astyages lost his
 crown, and the Medes, in consequence of his cruelty, were brought
 under the rule of the Persians. Their empire over the parts of Asia
 beyond the Halys had lasted one hundred and twenty-eight years, except
@@ -2259,7 +2406,8 @@ which he mounted the throne. It was at a later date that he was
 attacked by Croesus, and overthrew him, as I have related in an
 earlier portion of this history. The overthrow of Croesus made him
 master of the whole of Asia.
-    The customs which I know the Persians to observe are the
+
+The customs which I know the Persians to observe are the
 following: they have no images of the gods, no temples nor altars, and
 consider the use of them a sign of folly. This comes, I think, from
 their not believing the gods to have the same nature with men, as
@@ -2272,7 +2420,8 @@ down to them from ancient times. At a later period they began the
 worship of Urania, which they borrowed from the Arabians and
 Assyrians. Mylitta is the name by which the Assyrians know this
 goddess, whom the Arabians call Alitta, and the Persians Mitra.
-    To these gods the Persians offer sacrifice in the following
+
+To these gods the Persians offer sacrifice in the following
 manner: they raise no altar, light no fire, pour no libations; there
 is no sound of the flute, no putting on of chaplets, no consecrated
 barley-cake; but the man who wishes to sacrifice brings his victim
@@ -2289,7 +2438,8 @@ recounts the origin of the gods. It is not lawful to offer sacrifice
 unless there is a Magus present. After waiting a short time the
 sacrificer carries the flesh of the victim away with him, and makes
 whatever use of it he may please.
-    Of all the days in the year, the one which they celebrate most
+
+Of all the days in the year, the one which they celebrate most
 is their birthday. It is customary to have the board furnished on that
 day with an ampler supply than common. The richer Persians cause an
 ox, a horse, a camel, and an ass to be baked whole and so served up to
@@ -2302,7 +2452,8 @@ put before them, they would not stop eating." They are very fond of
 wine, and drink it in large quantities. To vomit or obey natural calls
 in the presence of another is forbidden among them. Such are their
 customs in these matters.
-    It is also their general practice to deliberate upon affairs of
+
+It is also their general practice to deliberate upon affairs of
 weight when they are drunk; and then on the morrow, when they are
 sober, the decision to which they came the night before is put
 before them by the master of the house in which it was made; and if it
@@ -2310,7 +2461,8 @@ is then approved of, they act on it; if not, they set it aside.
 Sometimes, however, they are sober at their first deliberation, but in
 this case they always reconsider the matter under the influence of
 wine.
-    When they meet each other in the streets, you may know if the
+
+When they meet each other in the streets, you may know if the
 persons meeting are of equal rank by the following token: if they are,
 instead of speaking, they kiss each other on the lips. In the case
 where one is a little inferior to the other, the kiss is given on
@@ -2331,14 +2483,16 @@ governed the States beyond, who likewise bore rule over the nations
 which adjoined on them. And this is the order which the Persians
 also follow in their distribution of honour; for that people, like
 the Medes, has a progressive scale of administration and government.
-    There is no nation which so readily adopts foreign customs as
+
+There is no nation which so readily adopts foreign customs as
 the Persians. Thus, they have taken the dress of the Medes,
 considering it superior to their own; and in war they wear the
 Egyptian breastplate. As soon as they hear of any luxury, they
 instantly make it their own: and hence, among other novelties, they
 have learnt unnatural lust from the Greeks. Each of them has several
 wives, and a still larger number of concubines.
-    Next to prowess in arms, it is regarded as the greatest proof of
+
+Next to prowess in arms, it is regarded as the greatest proof of
 manly excellence to be the father of many sons. Every year the king
 sends rich gifts to the man who can show the largest number: for
 they hold that number is strength. Their sons are carefully instructed
@@ -2347,20 +2501,23 @@ ride, to draw the bow, and to speak the truth. Until their fifth
 year they are not allowed to come into the sight of their father,
 but pass their lives with the women. This is done that, if the child
 die young, the father may not be afflicted by its loss.
-    To my mind it is a wise rule, as also is the following- that the
+
+To my mind it is a wise rule, as also is the following- that the
 king shall not put any one to death for a single fault, and that
 none of the Persians shall visit a single fault in a slave with any
 extreme penalty; but in every case the services of the offender
 shall be set against his misdoings; and, if the latter be found to
 outweigh the former, the aggrieved party shall then proceed to
 punishment.
-    The Persians maintain that never yet did any one kill his own
+
+The Persians maintain that never yet did any one kill his own
 father or mother; but in all such cases they are quite sure that, if
 matters were sifted to the bottom, it would be found that the child
 was either a changeling or else the fruit of adultery; for it is not
 likely, they say, that the real father should perish by the hands of
 his child.
-    They hold it unlawful to talk of anything which it is unlawful
+
+They hold it unlawful to talk of anything which it is unlawful
 to do. The most disgraceful thing in the world, they think, is to
 tell a lie; the next worst, to owe a debt: because, among other
 reasons, the debtor is obliged to tell lies. If a Persian has the
@@ -2378,7 +2535,8 @@ end with the same letter- the letter which is called San by the
 Dorians, and Sigma by the Ionians. Any one who examines will find
 that the Persian names, one and all without exception, end with this
 letter.
-    Thus much I can declare of the Persians with entire certainty,
+
+Thus much I can declare of the Persians with entire certainty,
 from my own actual knowledge. There is another custom which is
 spoken of with reserve, and not openly, concerning their dead. It is
 said that the body of a male Persian is never buried, until it has
@@ -2386,7 +2544,8 @@ been torn either by a dog or a bird of prey. That the Magi have this
 custom is beyond a doubt, for they practise it without any
 concealment. The dead bodies are covered with wax, and then buried
 in the ground.
-    The Magi are a very peculiar race, different entirely from the
+
+The Magi are a very peculiar race, different entirely from the
 Egyptian priests, and indeed from all other men whatsoever. The
 Egyptian priests make it a point of religion not to kill any live
 animals except those which they offer in sacrifice. The Magi, on the
@@ -2396,7 +2555,8 @@ and kill, as readily as they do other animals, ants and snakes, and
 such like flying or creeping things. However, since this has always
 been their custom, let them keep to it. I return to my former
 narrative.
-    Immediately after the conquest of Lydia by the Persians, the
+
+Immediately after the conquest of Lydia by the Persians, the
 Ionian and Aeolian Greeks sent ambassadors to Cyrus at Sardis, and
 prayed to become his lieges on the footing which they had occupied
 under Croesus. Cyrus listened attentively to their proposals, and
@@ -2417,7 +2577,8 @@ excepting the Milesians, with whom Cyrus had concluded a separate
 treaty, by which he allowed them the terms they had formerly
 obtained from Croesus. The other Ionians resolved, with one accord, to
 send ambassadors to Sparta to implore assistance.
-    Now the Ionians of Asia, who meet at the Panionium, have built
+
+Now the Ionians of Asia, who meet at the Panionium, have built
 their cities in a region where the air and climate are the most
 beautiful in the whole world: for no other region is equally blessed
 with Ionia, neither above it nor below it, nor east nor west of it.
@@ -2435,7 +2596,8 @@ isles, namely, Samos and Chios; and one upon the mainland, which is
 Erythrae. Of these Chios and Erythrae have the same dialect, while
 Samos possesses a language peculiar to itself. Such are the four
 varieties of which I spoke.
-    Of the Ionians at this period, one people, the Milesians, were
+
+Of the Ionians at this period, one people, the Milesians, were
 in no danger of attack, as Cyrus had received them into alliance.
 The islanders also had as yet nothing to fear, since Phoenicia was
 still independent of Persia, and the Persians themselves were not a
@@ -2452,7 +2614,8 @@ appellation; they gave the temple which they built for themselves
 the name of the Panionium, and decreed that it should not be open to
 any of the other Ionic States; no State, however, except Smyrna, has
 craved admission to it.
-    In the same way the Dorians of the region which is now called
+
+In the same way the Dorians of the region which is now called
 the Pentapolis, but which was formerly known as the Doric Hexapolis,
 exclude all their Dorian neighbours from their temple, the Triopium:
 nay, they have even gone so far as to shut out from it certain of
@@ -2467,7 +2630,8 @@ tripod home to his own house and there hung it against the wall. As
 a punishment for this fault, the five other cities, Lindus,
 Ialyssus, Cameirus, Cos, and Cnidus, deprived the sixth city,
 Halicarnassus, of the right of entering the temple.
-    The Ionians founded twelve cities in Asia, and refused to
+
+The Ionians founded twelve cities in Asia, and refused to
 enlarge the number, on account (as I imagine) of their having been
 divided into twelve States when they lived in the Peloponnese; just as
 the Achaeans, who drove them out, are at the present day. The first
@@ -2478,7 +2642,8 @@ the Ionians took refuge on their defeat by the Achaean invaders-
 Aegium, Rhypes, Patreis, Phareis, Olenus on the Peirus, which is a
 large river- Dyme and Tritaeeis, all sea-port towns except the last
 two, which lie up the country.
-    These are the twelve divisions of what is now Achaea, and was
+
+These are the twelve divisions of what is now Achaea, and was
 formerly Ionia; and it was owing to their coming from a country so
 divided that the Ionians, on reaching Asia, founded their twelve
 States: for it is the height of folly to maintain that these Ionians
@@ -2497,7 +2662,8 @@ them, "That none should ever sit at meat with her husband, or call him
 by his name"; because the invaders slew their fathers, their husbands,
 and their sons, and then forced them to become their wives. It was
 at Miletus that these events took place.
-    The kings, too, whom they set over them, were either Lycians, of
+
+The kings, too, whom they set over them, were either Lycians, of
 the blood of Glaucus, son of Hippolochus, or Pylian Caucons of the
 blood of Codrus, son of Melanthus; or else from both those families.
 But since these Ionians set more store by the name than any of the
@@ -2506,14 +2672,16 @@ are Ionians who have their origin from Athens, and keep the
 Apaturia. This is a festival which all the Ionians celebrate, except
 the Ephesians and the Colophonians, whom a certain act of bloodshed
 excludes from it.
-    The Panionium is a place in Mycale, facing the north, which was
+
+The Panionium is a place in Mycale, facing the north, which was
 chosen by the common voice of the Ionians and made sacred to
 Heliconian Neptune. Mycale itself is a promontory of the mainland,
 stretching out westward towards Samos, in which the Ionians assemble
 from all their States to keep the feast of the Panionia. The names
 of festivals, not only among the Ionians but among all the Greeks,
 end, like the Persian proper names, in one and the same letter.
-    The above-mentioned, then, are the twelve towns of the Ionians.
+
+The above-mentioned, then, are the twelve towns of the Ionians.
 The Aeolic cities are the following:- Cyme, called also Phriconis,
 Larissa, Neonteichus, Temnus, Cilla, Notium, Aegiroessa, Pitane,
 Aegaeae, Myrina, and Gryneia. These are the eleven ancient cities of
@@ -2521,7 +2689,8 @@ the Aeolians. Originally, indeed, they had twelve cities upon the
 mainland, like the Ionians, but the Ionians deprived them of Smyrna,
 one of the number. The soil of Aeolis is better than that of Ionia,
 but the climate is less agreeable.
-    The following is the way in which the loss of Smyrna happened.
+
+The following is the way in which the loss of Smyrna happened.
 Certain men of Colophon had been engaged in a sedition there, and
 being the weaker party, were driven by the others into banishment. The
 Smyrnaeans received the fugitives, who, after a time, watching their
@@ -2532,7 +2701,8 @@ were agreed on between the parties, the Ionians consenting to give
 up all the moveables, and the Aeolians making a surrender of the
 place. The expelled Smyrnaeans were distributed among the other States
 of the Aeolians, and were everywhere admitted to citizenship.
-    These, then, were all the Aeolic cities upon the mainland, with
+
+These, then, were all the Aeolic cities upon the mainland, with
 the exception of those about Mount Ida, which made no part of this
 confederacy. As for the islands, Lesbos contains five cities.
 Arisba, the sixth, was taken by the Methymnaeans, their kinsmen, and
@@ -2542,7 +2712,8 @@ Isles. The Aeolians of Lesbos and Tenedos, like the Ionian
 islanders, had at this time nothing to fear. The other Aeolians
 decided in their common assembly to follow the Ionians, whatever
 course they should pursue.
-    When the deputies of the Ionians and Aeolians, who had journeyed
+
+When the deputies of the Ionians and Aeolians, who had journeyed
 with all speed to Sparta, reached the city, they chose one of their
 number, Pythermus, a Phocaean, to be their spokesman. In order to draw
 together as large an audience as possible, he clothed himself in a
@@ -2558,7 +2729,8 @@ Phocaea, sent to Sardis Lacrines, the most distinguished of their
 number, to prohibit Cyrus, in the name of the Lacedaemonians, from
 offering molestation to any city of Greece, since they would not allow
 it.
-    Cyrus is said, on hearing the speech of the herald, to have
+
+Cyrus is said, on hearing the speech of the herald, to have
 asked some Greeks who were standing by, "Who these Lacedaemonians
 were, and what was their number, that they dared to send him such a
 notice?" When he had received their reply, he turned to the Spartan
@@ -2571,7 +2743,8 @@ reproach against all the Greeks, because of their having market-places
 where they buy and sell, which is a custom unknown to the Persians,
 who never make purchases in open marts, and indeed have not in their
 whole country a single market-place.
-    After this interview Cyrus quitted Sardis, leaving the city
+
+After this interview Cyrus quitted Sardis, leaving the city
 under the charge of Tabalus, a Persian, but appointing Pactyas, a
 native, to collect the treasure belonging to Croesus and the other
 Lydians, and bring after him. Cyrus himself proceeded towards
@@ -2580,14 +2753,16 @@ as important enough to be his immediate object. Larger designs were in
 his mind. He wished to war in person against Babylon, the Bactrians,
 the Sacae, and Egypt; he therefore determined to assign to one of
 his generals the task of conquering the Ionians.
-    No sooner, however, was Cyrus gone from Sardis than Pactyas
+
+No sooner, however, was Cyrus gone from Sardis than Pactyas
 induced his countrymen to rise in open revolt against him and his
 deputy Tabalus. With the vast treasures at his disposal he then went
 down to the sea, and employed them in hiring mercenary troops, while
 at the same time he engaged the people of the coast to enrol
 themselves in his army. He then marched upon Sardis, where he besieged
 Tabalus, who shut himself up in the citadel.
-    When Cyrus, on his way to Agbatana, received these tidings, he
+
+When Cyrus, on his way to Agbatana, received these tidings, he
 returned to Croesus and said, "Where will all this end, Croesus,
 thinkest thou? It seemeth that these Lydians will not cease to cause
 trouble both to themselves and others. I doubt me if it were not
@@ -2610,7 +2785,8 @@ cloaks, and to put buskins upon their legs, and make them bring up
 their sons to cithern-playing, harping, and shop-keeping. So wilt thou
 soon see them become women instead of men, and there will be no more
 fear of their revolting from thee."
-    Croesus thought the Lydians would even so be better off than if
+
+Croesus thought the Lydians would even so be better off than if
 they were sold for slaves, and therefore gave the above advice to
 Cyrus, knowing that, unless he brought forward some notable
 suggestion, he would not be able to persuade him to alter his mind. He
@@ -2625,7 +2801,8 @@ slaves all who had joined the Lydians in their attack upon Sardis, and
 above aught else to be sure that he brought Pactyas with him alive
 on his return. Having given these orders Cyrus continued his journey
 towards the Persian territory.
-    Pactyas, when news came of the near approach of the army sent
+
+Pactyas, when news came of the near approach of the army sent
 against him, fled in terror to Cyme. Mazares, therefore, the Median
 general, who had marched on Sardis with a detachment of the army of
 Cyrus, finding on his arrival that Pactyas and his troops were gone,
@@ -2637,7 +2814,8 @@ Cymaeans resolved to send to Branchidae and ask the advice of the god.
 Branchidae is situated in the territory of Miletus, above the port
 of Panormus. There was an oracle there, established in very ancient
 times, which both the Ionians and Aeolians were wont often to consult.
-    Hither therefore the Cymaeans sent their deputies to make
+
+Hither therefore the Cymaeans sent their deputies to make
 inquiry at the shrine, "What the gods would like them to do with the
 Lydian, Pactyas?" The oracle told them, in reply, to give him up to
 the Persians. With this answer the messengers returned, and the people
@@ -2647,7 +2825,8 @@ distinction, hindered them. He declared that he distrusted the
 response, and believed that the messengers had reported it falsely;
 until at last another embassy, of which Aristodicus himself made part,
 was despatched, to repeat the former inquiry concerning Pactyas.
-    On their arrival at the shrine of the god, Aristodicus, speaking
+
+On their arrival at the shrine of the god, Aristodicus, speaking
 on behalf of the whole body, thus addressed the oracle: "Oh! king,
 Pactyas the Lydian, threatened by the Persians with a violent death,
 has come to us for sanctuary, and lo, they ask him at our hands,
@@ -2668,7 +2847,8 @@ suppliants, and dost thou command the Cymaeans to give up a
 suppliant?" "Yes," returned the god, "I do command it, that so for the
 impiety you may the sooner perish, and not come here again to
 consult my oracle about the surrender of suppliants."
-    On the receipt of this answer the Cymaeans, unwilling to bring the
+
+On the receipt of this answer the Cymaeans, unwilling to bring the
 threatened destruction on themselves by giving up the man, and
 afraid of having to endure a siege if they continued to harbour him,
 sent Pactyas away to Mytilene. On this Mazares despatched envoys to
@@ -2686,13 +2866,15 @@ to produce him before Cyrus. For a long time afterwards none of the
 Chians would use the barley of Atarneus to place on the heads of
 victims, or make sacrificial cakes of the corn grown there, but the
 whole produce of the land was excluded from all their temples.
-    Meanwhile Mazares, after he had recovered Pactyas from the Chians,
+
+Meanwhile Mazares, after he had recovered Pactyas from the Chians,
 made war upon those who had taken part in the attack on Tabalus, and
 in the first place took Priene and sold the inhabitants for slaves,
 after which he overran the whole plain of the Maeander and the
 district of Magnesia, both of which he gave up for pillage to the
 soldiery. He then suddenly sickened and died.
-    Upon his death Harpagus was sent down to the coast to succeed to
+
+Upon his death Harpagus was sent down to the coast to succeed to
 his command. He also was of the race of the Medes, being the man
 whom the Median king, Astyages, feasted at the unholy banquet, and who
 lent his aid to Place Cyrus upon the throne. Appointed by Cyrus to
@@ -2701,7 +2883,8 @@ cities by means of mounds. Forcing the enemy to shut themselves up
 within their defences, he heaped mounds of earth against their
 walls, and thus carried the towns. Phocaea was the city against
 which he directed his first attack.
-    Now the Phocaeans were the first of the Greeks who performed
+
+Now the Phocaeans were the first of the Greeks who performed
 long voyages, and it was they who made the Greeks acquainted with
 the Adriatic and with Tyrrhenia, with Iberia, and the city of
 Tartessus. The vessel which they used in their voyages was not the
@@ -2718,7 +2901,8 @@ and certainly he must have given it with a bountiful hand, for the
 town is many furlongs in circuit, and the wall is built entirely of
 great blocks of stone skilfully fitted together. The wall, then, was
 built by his aid.
-    Harpagus, having advanced against the Phocaeans with his army,
+
+Harpagus, having advanced against the Phocaeans with his army,
 laid siege to their city, first, however, offering them terms. "It
 would content him," he said, "if the Phocaeans would agree to throw
 down one of their battlements, and dedicate one dwelling-house to
@@ -2735,7 +2919,8 @@ except the paintings and the works in stone or brass, which were
 left behind. With the rest they embarked, and putting to sea, set sail
 for Chios. The Persians, on their return, took possession of an
 empty town.
-    Arrived at Chios, the Phocaeans made offers for the purchase of
+
+Arrived at Chios, the Phocaeans made offers for the purchase of
 the islands called the Oenussae, but the Chians refused to part with
 them, fearing lest the Phocaeans should establish a factory there, and
 exclude their merchants from the commerce of those seas. On their
@@ -2753,7 +2938,8 @@ Cyrnus, more than half of their number were seized with such sadness
 and so great a longing to see once more their city and their ancient
 homes, that they broke the oath by which they had bound themselves and
 sailed back to Phocaea.
-    The rest of the Phocaeans who kept their oath, proceeded without
+
+The rest of the Phocaeans who kept their oath, proceeded without
 stopping upon their voyage, and when they came to Cyrnus established
 themselves along with the earlier settlers at Alalia and built temples
 in the place. For five years they annoyed their neighbours by
@@ -2769,7 +2955,8 @@ no longer serviceable. The Phocaeans therefore sailed back again to
 Alalia, and taking their wives and children on board, with such
 portion of their goods and chattels as the vessels could bear, bade
 adieu to Cyrnus and sailed to Rhegium.
-    The Carthaginians and Tyrrhenians, who had got into their hands
+
+The Carthaginians and Tyrrhenians, who had got into their hands
 many more than the Phocaeans from among the crews of the forty vessels
 that were destroyed, landed their captives upon the coast after the
 fight, and stoned them all to death. Afterwards, when sheep, or
@@ -2787,7 +2974,8 @@ district of Oenotria. This city they colonised, upon the showing of
 a man of Posidonia, who suggested that the oracle had not meant to bid
 them set up a town in Cyrnus the island, but set up the worship of
 Cyrnus the hero.
-    Thus fared it with the men of the city of Phocaea in Ionia. They
+
+Thus fared it with the men of the city of Phocaea in Ionia. They
 of Teos did and suffered almost the same; for they too, when
 Harpagus had raised his mound to the height of their defences, took
 ship, one and all, and sailing across the sea to Thrace, founded there
@@ -2795,7 +2983,8 @@ the city of Abdera. The site was one which Timesius of Clazomenae
 had previously tried to colonise, but without any lasting success, for
 he was expelled by the Thracians. Still the Teians of Abdera worship
 him to this day as a hero.
-    Of all the Ionians these two states alone, rather than submit to
+
+Of all the Ionians these two states alone, rather than submit to
 slavery, forsook their fatherland. The others (I except Miletus)
 resisted Harpagus no less bravely than those who fled their country,
 and performed many feats of arms, each fighting in their own
@@ -2807,7 +2996,8 @@ peace. Thus was continental Ionia once more reduced to servitude;
 and when the Ionians of the islands saw their brethren upon the
 mainland subjugated, they also, dreading the like, gave themselves
 up to Cyrus.
-    It was while the Ionians were in this distress, but still, amid it
+
+It was while the Ionians were in this distress, but still, amid it
 all, held their meetings, as of old, at the Panionium, that Bias of
 Priene, who was present at the festival, recommended (as I am
 informed) a project of the very highest wisdom, which would, had it
@@ -2825,7 +3015,8 @@ single seat of government, and pointed out Teos as the fittest place
 for it; "for that," he said, "was the centre of Ionia. Their other
 cities might still continue to enjoy their own laws, just as if they
 were independent states." This also was good advice.
-    After conquering the Ionians, Harpagus proceeded to attack the
+
+After conquering the Ionians, Harpagus proceeded to attack the
 Carians, the Caunians, and the Lycians. The Ionians and Aeolians
 were forced to serve in his army. Now, of the above nations the
 Carians are a race who came into the mainland from the islands. In
@@ -2854,7 +3045,8 @@ Carians: for Lydus and Mysus, they say, were brothers of Car. These
 nations, therefore, have the aforesaid right; but such as are of a
 different race, even though they have come to use the Carian tongue,
 are excluded from this temple.
-    The Caunians, in my judgment, are aboriginals; but by their own
+
+The Caunians, in my judgment, are aboriginals; but by their own
 account they came from Crete. In their language, either they have
 approximated to the Carians, or the Carians to them- on this point I
 cannot speak with certainty. In their customs, however, they differ
@@ -2868,7 +3060,8 @@ would worship their own old ancestral gods alone. Then their whole
 youth took arms, and striking the air with their spears, marched to
 the Calyndic frontier, declaring that they were driving out the
 foreign gods.
-    The Lycians are in good truth anciently from Crete; which
+
+The Lycians are in good truth anciently from Crete; which
 island, in former days, was wholly peopled with barbarians. A
 quarrel arising there between the two sons of Europa, Sarpedon and
 Minos, as to which of them should be king, Minos, whose party
@@ -2891,7 +3084,8 @@ marry a man who is a slave, their children are full citizens; but if a
 free man marry a foreign woman, or live with a concubine, even
 though he be the first person in the State, the children forfeit all
 the rights of citizenship.
-    Of these nations, the Carians submitted to Harpagus without
+
+Of these nations, the Carians submitted to Harpagus without
 performing any brilliant exploits. Nor did the Greeks who dwelt in
 Caria behave with any greater gallantry. Among them were the Cnidians,
 colonists from Lacedaemon, who occupy a district facing the sea, which
@@ -2912,12 +3106,13 @@ the rock. The Cnidians, therefore, sent to Delphi, to inquire what
 it was that hindered their efforts; and received, according to their
 own account, the following answer from the oracle:-
 
-    Fence not the isthmus off, nor dig it through-
-    Jove would have made an island, had he wished.
+> Fence not the isthmus off, nor dig it through-  
+> Jove would have made an island, had he wished.
 
 So the Cnidians ceased digging, and when Harpagus advanced with his
 army, they gave themselves up to him without striking a blow.
-    Above Halicarnassus and further from the coast, were the
+
+Above Halicarnassus and further from the coast, were the
 Pedasians. With this people, when any evil is about to befall either
 themselves or their neighbours, the priestess of Minerva grows an
 ample beard. Three times has this marvel happened. They alone, of
@@ -2925,7 +3120,8 @@ all the dwellers in Caria, resisted Harpagus for a while, and gave him
 much trouble, maintaining themselves in a certain mountain called
 Lida, which they had fortified; but in course of time they also were
 forced to submit.
-    When Harpagus, after these successes, led his forces into the
+
+When Harpagus, after these successes, led his forces into the
 Xanthian plain, the Lycians of Xanthus went out to meet him in the
 field: though but a small band against a numerous host, they engaged
 in battle, and performed many glorious exploits. Overpowered at
@@ -2939,14 +3135,16 @@ immigrants, except eighty families, who happened to be absent from the
 country, and so survived the others. Thus was Xanthus taken by
 Harpagus, and Caunus fell in like manner into his hands; for the
 Caunians in the main followed the example of the Lycians.
-    While the lower parts of Asia were in this way brought under by
+
+While the lower parts of Asia were in this way brought under by
 Harpagus, Cyrus in person subjected the upper regions, conquering
 every nation, and not suffering one to escape. Of these conquests I
 shall pass by the greater portion, and give an account of those only
 which gave him the most trouble, and are the worthiest of mention.
 When he had brought all the rest of the continent under his sway, he
 made war on the Assyrians.
-    Assyria possesses a vast number of great cities, whereof the
+
+Assyria possesses a vast number of great cities, whereof the
 most renowned and strongest at this time was Babylon, whither, after
 the fall of Nineveh, the seat of government had been removed. The
 following is a description of the place:- The city stands on a broad
@@ -2957,7 +3155,8 @@ city that approaches to it. It is surrounded, in the first place, by a
 broad and deep moat, full of water, behind which rises a wall fifty
 royal cubits in width, and two hundred in height. (The royal cubit
 is longer by three fingers' breadth than the common cubit.)
-    And here I may not omit to tell the use to which the mould dug out
+
+And here I may not omit to tell the use to which the mould dug out
 of the great moat was turned, nor the manner wherein the wall was
 wrought. As fast as they dug the moat the soil which they got from the
 cutting was made into bricks, and when a sufficient number were
@@ -2974,7 +3173,8 @@ brought to Babylon from the Is, a small stream which flows into the
 Euphrates at the point where the city of the same name stands, eight
 days' journey from Babylon. Lumps of bitumen are found in great
 abundance in this river.
-    The city is divided into two portions by the river which runs
+
+The city is divided into two portions by the river which runs
 through the midst of it. This river is the Euphrates, a broad, deep,
 swift stream, which rises in Armenia, and empties itself into the
 Erythraean sea. The city wall is brought down on both sides to the
@@ -2986,7 +3186,8 @@ the cross streets which lead down to the water-side. At the river
 end of these cross streets are low gates in the fence that skirts
 the stream, which are, like the great gates in the outer wall, of
 brass, and open on the water.
-    The outer wall is the main defence of the city. There is, however,
+
+The outer wall is the main defence of the city. There is, however,
 a second inner wall, of less thickness than the first, but very little
 inferior to it in strength. The centre of each division of the town
 was occupied by a fortress. In the one stood the palace of the
@@ -3005,7 +3206,8 @@ golden table by its side. There is no statue of any kind set up in the
 place, nor is the chamber occupied of nights by any one but a single
 native woman, who, as the Chaldaeans, the priests of this god, affirm,
 is chosen for himself by the deity out of all the women of the land.
-    They also declare- but I for my part do not credit it- that the
+
+They also declare- but I for my part do not credit it- that the
 god comes down in person into this chamber, and sleeps upon the couch.
 This is like the story told by the Egyptians of what takes place in
 their city of Thebes, where a woman always passes the night in the
@@ -3014,7 +3216,8 @@ debarred all intercourse with men. It is also like the custom of
 Patara, in Lycia, where the priestess who delivers the oracles, during
 the time that she is so employed- for at Patara there is not always an
 oracle- is shut up in the temple every night.
-    Below, in the same precinct, there is a second temple, in which is
+
+Below, in the same precinct, there is a second temple, in which is
 a sitting figure of Jupiter, all of gold. Before the figure stands a
 large golden table, and the throne whereon it sits, and the base on
 which the throne is placed, are likewise of gold. The Chaldaeans
@@ -3033,7 +3236,8 @@ upon it. Xerxes, however, the son of Darius, killed the priest who
 forbade him to move the statue, and took it away. Besides the
 ornaments which I have mentioned, there are a large number of
 private offerings in this holy precinct.
-    Many sovereigns have ruled over this city of Babylon, and lent
+
+Many sovereigns have ruled over this city of Babylon, and lent
 their aid to the building of its walls and the adornment of its
 temples, of whom I shall make mention in my Assyrian history. Among
 them two were women. Of these, the earlier, called Semiramis, held the
@@ -3041,7 +3245,8 @@ throne five generations before the later princess. She raised
 certain embankments well worthy of inspection, in the plain near
 Babylon, to control the river, which, till then, used to overflow, and
 flood the whole country round about.
-    The later of the two queens, whose name was Nitocris, a wiser
+
+The later of the two queens, whose name was Nitocris, a wiser
 princess than her predecessor, not only left behind her, as
 memorials of her occupancy of the throne, the works which I shall
 presently describe, but also, observing the great power and restless
@@ -3072,7 +3277,8 @@ where the passes lay, and the roads into Media were the straightest,
 and the aim of the queen in making them was to prevent the Medes
 from holding intercourse with the Babylonians, and so to keep them
 in ignorance of her affairs.
-    While the soil from the excavation was being thus used for the
+
+While the soil from the excavation was being thus used for the
 defence of the city, Nitocris engaged also in another undertaking, a
 mere by-work compared with those we have already mentioned. The
 city, as I said, was divided by the river into two distinct
@@ -3101,7 +3307,8 @@ bridge was finished, the Euphrates was turned back again into its
 ancient bed; and thus the basin, transformed suddenly into a lake, was
 seen to answer the purpose for which it was made, and the inhabitants,
 by help of the basin, obtained the advantage of a bridge.
-    It was this same princess by whom a remarkable deception was
+
+It was this same princess by whom a remarkable deception was
 planned. She had her tomb constructed in the upper part of one of
 the principal gateways of the city, high above the heads of the
 passers by, with this inscription cut upon it:- "If there be one among
@@ -3117,7 +3324,8 @@ have been over his head. Accordingly he opened the tomb; but instead
 of money, found only the dead body, and a writing which said- "Hadst
 thou not been insatiate of pelf, and careless how thou gottest it,
 thou wouldst not have broken open the sepulchres of the dead."
-    The expedition of Cyrus was undertaken against the son of this
+
+The expedition of Cyrus was undertaken against the son of this
 princess, who bore the same name as his father Labynetus, and was king
 of the Assyrians. The Great King, when he goes to the wars, is
 always supplied with provisions carefully prepared at home, and with
@@ -3127,7 +3335,8 @@ the kings of Persia taste. Wherever he travels, he is attended by a
 number of four-wheeled cars drawn by mules, in which the Choaspes
 water, ready boiled for use, and stored in flagons of silver, is moved
 with him from place to place.
-    Cyrus on his way to Babylon came to the banks of the Gyndes, a
+
+Cyrus on his way to Babylon came to the banks of the Gyndes, a
 stream which, rising in the Matienian mountains, runs through the
 country of the Dardanians, and empties itself into the river Tigris.
 The Tigris, after receiving the Gyndes, flows on by the city of
@@ -3145,7 +3354,8 @@ the Gyndes, leading off from it in all directions, and setting his
 army to dig, some on one side of the river, some on the other, he
 accomplished his threat by the aid of so great a number of hands,
 but not without losing thereby the whole summer season.
-    Having, however, thus wreaked his vengeance on the Gyndes, by
+
+Having, however, thus wreaked his vengeance on the Gyndes, by
 dispersing it through three hundred and sixty channels, Cyrus, with
 the first approach of the ensuing spring, marched forward against
 Babylon. The Babylonians, encamped without their walls, awaited his
@@ -3156,7 +3366,8 @@ made light of his siege, having laid in a store of provisions for many
 years in preparation against this attack; for when they saw Cyrus
 conquering nation after nation, they were convinced that he would
 never stop, and that their turn would come at last.
-    Cyrus was now reduced to great perplexity, as time went on and
+
+Cyrus was now reduced to great perplexity, as time went on and
 he made no progress against the place. In this distress either some
 one made the suggestion to him, or he bethought himself of a plan,
 which he proceeded to put in execution. He placed a portion of his
@@ -3184,7 +3395,8 @@ town were taken, knew nothing of what had chanced, but as they were
 engaged in a festival, continued dancing and revelling until they
 learnt the capture but too certainly. Such, then, were the
 circumstances of the first taking of Babylon.
-    Among many proofs which I shall bring forward of the power and
+
+Among many proofs which I shall bring forward of the power and
 resources of the Babylonians, the following is of special account. The
 whole country under the dominion of the Persians, besides paying a
 fixed tribute, is parcelled out into divisions, which have to supply
@@ -3202,7 +3414,8 @@ war horses, eight hundred stallions and sixteen thousand mares, twenty
 to each stallion. Besides which he kept so great a number of Indian
 hounds, that four large villages of the plain were exempted from all
 other charges on condition of finding them in food.
-    But little rain falls in Assyria, enough, however, to make the
+
+But little rain falls in Assyria, enough, however, to make the
 corn begin to sprout, after which the plant is nourished and the
 ears formed by means of irrigation from the river. For the river
 does not, as in Egypt, overflow the corn-lands of its own accord,
@@ -3231,7 +3444,8 @@ the branches of the date-bearing palm, to let the gall-fly enter the
 dates and ripen them, and to prevent the fruit from falling off. The
 male-palms, like the wild fig-trees, have usually the gall-fly in
 their fruit.
-    But that which surprises me most in the land, after the city
+
+But that which surprises me most in the land, after the city
 itself, I will now proceed to mention. The boats which come down the
 river to Babylon are circular, and made of skins. The frames, which
 are of willow, are cut in the country of the Armenians above
@@ -3252,7 +3466,8 @@ off on their way back to Armenia. The current is too strong to allow a
 boat to return upstream, for which reason they make their boats of
 skins rather than wood. On their return to Armenia they build fresh
 boats for the next voyage.
-    The dress of the Babylonians is a linen tunic reaching to the
+
+The dress of the Babylonians is a linen tunic reaching to the
 feet, and above it another tunic made in wool, besides which they have
 a short white cloak thrown round them, and shoes of a peculiar
 fashion, not unlike those worn by the Boeotians. They have long
@@ -3261,7 +3476,8 @@ perfumes. Every one carries a seal, and a walking-stick, carved at the
 top into the form of an apple, a rose, a lily, an eagle, or
 something similar; for it is not their habit to use a stick without an
 ornament.
-    Of their customs, whereof I shall now proceed to give an
+
+Of their customs, whereof I shall now proceed to give an
 account, the following (which I understand belongs to them in common
 with the Illyrian tribe of the Eneti) is the wisest in my judgment.
 Once a year in each village the maidens of age to marry were collected
@@ -3293,7 +3509,8 @@ which is to bring up their daughters to be courtesans. This is now
 done by all the poorer of the common people, who since the conquest
 have been maltreated by their lords, and have had ruin brought upon
 their families.
-    The following custom seems to me the wisest of their
+
+The following custom seems to me the wisest of their
 institutions next to the one lately praised. They have no
 physicians, but when a man is ill, they lay him in the public
 square, and the passers-by come up to him, and if they have ever had
@@ -3302,13 +3519,15 @@ they give him advice, recommending him to do whatever they found
 good in their own case, or in the case known to them; and no one is
 allowed to pass the sick man in silence without asking him what his
 ailment is.
-    They bury their dead in honey, and have funeral lamentations
+
+They bury their dead in honey, and have funeral lamentations
 like the Egyptians. When a Babylonian has consorted with his wife,
 he sits down before a censer of burning incense, and the woman sits
 opposite to him. At dawn of day they wash; for till they are washed
 they will not touch any of their common vessels. This practice is
 observed also by the Arabians.
-    The Babylonians have one most shameful custom. Every woman born in
+
+The Babylonians have one most shameful custom. Every woman born in
 the country must once in her life go and sit down in the precinct of
 Venus, and there consort with a stranger. Many of the wealthier
 sort, who are too proud to mix with the others, drive in covered
@@ -3332,18 +3551,21 @@ beautiful are soon released, but others who are ugly have to stay a
 long time before they can fulfil the law. Some have waited three or
 four years in the precinct. A custom very much like this is found also
 in certain parts of the island of Cyprus.
-    Such are the customs of the Babylonians generally. There are
+
+Such are the customs of the Babylonians generally. There are
 likewise three tribes among them who eat nothing but fish. These are
 caught and dried in the sun, after which they are brayed in a
 mortar, and strained through a linen sieve. Some prefer to make
 cakes of this material, while others bake it into a kind of bread.
-    When Cyrus had achieved the conquest of the Babylonians, he
+
+When Cyrus had achieved the conquest of the Babylonians, he
 conceived the desire of bringing the Massagetae under his dominion.
 Now the Massagetae are said to be a great and warlike nation, dwelling
 eastward, toward the rising of the sun, beyond the river Araxes, and
 opposite the Issedonians. By many they are regarded as a Scythian
 race.
-    As for the Araxes, it is, according to some accounts, larger,
+
+As for the Araxes, it is, according to some accounts, larger,
 according to others smaller than the Ister (Danube). It has islands in
 it, many of which are said to be equal in size to Lesbos. The men
 who inhabit them feed during the summer on roots of all kinds, which
@@ -3357,14 +3579,16 @@ the fumes which it gives out in burning, they grow drunk, as the
 Greeks do with wine. More of the fruit is then thrown on the fire,
 and, their drunkenness increasing, they often jump up and begin to
 dance and sing. Such is the account which I have heard of this people.
-    The river Araxes, like the Gyndes, which Cyrus dispersed into
+
+The river Araxes, like the Gyndes, which Cyrus dispersed into
 three hundred and sixty channels, has its source in the country of the
 Matienians. It has forty mouths, whereof all, except one, end in
 bogs and swamps. These bogs and swamps are said to be inhabited by a
 race of men who feed on raw fish, and clothe themselves with the skins
 of seals. The other mouth of the river flows with a clear course
 into the Caspian Sea.
-    The Caspian is a sea by itself, having no connection with any
+
+The Caspian is a sea by itself, having no connection with any
 other. The sea frequented by the Greeks, that beyond the Pillars of
 Hercules, which is called the Atlantic, and also the Erythraean, are
 all one and the same sea. But the Caspian is a distinct sea, lying
@@ -3379,7 +3603,8 @@ a dye, wherewith they paint upon their clothes the figures of animals;
 and the figures so impressed never wash out, but last as though they
 had been inwoven in the cloth from the first, and wear as long as
 the garment.
-    On the west then, as I have said, the Caspian Sea is bounded by
+
+On the west then, as I have said, the Caspian Sea is bounded by
 the range of Caucasus. On the cast it is followed by a vast plain,
 stretching out interminably before the eye, the greater portion of
 which is possessed by those Massagetae, against whom Cyrus was now
@@ -3388,7 +3613,8 @@ and urged him on- his birth especially, which seemed something more
 than human, and his good fortune in all his former wars, wherein he
 had always found that against what country soever he turned his
 arms, it was impossible for that people to escape.
-    At this time the Massagetae were ruled by a queen, named
+
+At this time the Massagetae were ruled by a queen, named
 Tomyris, who at the death of her husband, the late king, had mounted
 the throne. To her Cyrus sent ambassadors, with instructions to
 court her on his part, pretending that he wished to take her to
@@ -3399,7 +3625,8 @@ marched towards the Araxes, and openly displaying his hostile
 intentions; set to work to construct a bridge on which his army
 might cross the river, and began building towers upon the boats
 which were to be used in the passage.
-    While the Persian leader was occupied in these labours, Tomyris
+
+While the Persian leader was occupied in these labours, Tomyris
 sent a herald to him, who said, "King of the Medes, cease to press
 this enterprise, for thou canst not know if what thou art doing will
 be of real advantage to thee. Be content to rule in peace thy own
@@ -3415,7 +3642,8 @@ Cyrus, on this offer, called together the chiefs of the Persians,
 and laid the matter before them, requesting them to advise him what he
 should do. All the votes were in favour of his letting Tomyris cross
 the stream, and giving battle on Persian ground.
-    But Croesus the Lydian, who was present at the meeting of the
+
+But Croesus the Lydian, who was present at the meeting of the
 chiefs, disapproved of this advice; he therefore rose, and thus
 delivered his sentiments in opposition to it: "Oh! my king! I promised
 thee long since, that, as Jove had given me into thy hands, I would,
@@ -3450,7 +3678,8 @@ behind us our worst troops, let us fall back towards the river. Unless
 I very much mistake, when they see the good fare set out, they will
 forget all else and fall to. Then it will remain for us to do our
 parts manfully."
-    Cyrus, when the two plans were thus placed in contrast before him,
+
+Cyrus, when the two plans were thus placed in contrast before him,
 changed his mind, and preferring the advice which Croesus had given,
 returned for answer to Tomyris that she should retire, and that he
 would cross the stream. She therefore retired, as she had engaged; and
@@ -3458,7 +3687,8 @@ Cyrus, giving Croesus into the care of his son Cambyses (whom he had
 appointed to succeed him on the throne), with strict charge to pay him
 all respect and treat him well, if the expedition failed of success;
 and sending them both back to Persia, crossed the river with his army.
-    The first night after the passage, as he slept in the enemy's
+
+The first night after the passage, as he slept in the enemy's
 country, a vision appeared to him. He seemed to see in his sleep the
 eldest of the sons of Hystaspes, with wings upon his shoulders,
 shadowing with the one wing Asia, and Europe with the other. Now
@@ -3478,11 +3708,13 @@ is engaged in some plot against me. Return thou then at once to
 Persia, and be sure, when I come back from conquering the
 Massagetae, to have thy son ready to produce before me, that I may
 examine him."
-    Thus Cyrus spoke, in the belief that he was plotted against by
+
+Thus Cyrus spoke, in the belief that he was plotted against by
 Darius; but he missed the true meaning of the dream, which was sent by
 God to forewarn him, that he was to die then and there, and that his
 kingdom was to fall at last to Darius.
-    Hystaspes made answer to Cyrus in these words:- "Heaven forbid,
+
+Hystaspes made answer to Cyrus in these words:- "Heaven forbid,
 sire, that there should be a Persian living who would plot against
 thee! If such an one there be, may a speedy death overtake him! Thou
 foundest the Persians a race of slaves, thou hast made them free
@@ -3491,7 +3723,8 @@ of all. If a vision has announced that my son is practising against
 thee, lo, I resign him into thy hands to deal with as thou wilt."
 Hystaspes, when he had thus answered, recrossed the Araxes and
 hastened back to Persia, to keep a watch on his son Darius.
-    Meanwhile Cyrus, having advanced a day's march from the river, did
+
+Meanwhile Cyrus, having advanced a day's march from the river, did
 as Croesus had advised him, and, leaving the worthless portion of
 his army in the camp, drew off with his good troops towards the river.
 Soon afterwards, a detachment of the Massagetae, one-third of their
@@ -3502,7 +3735,8 @@ prepared, they sat down and began to feast. When they had eaten and
 drunk their fill, and were now sunk in sleep, the Persians under Cyrus
 arrived, slaughtered a great multitude, and made even a larger
 number prisoners. Among these last was Spargapises himself.
-    When Tomyris heard what had befallen her son and her army, she
+
+When Tomyris heard what had befallen her son and her army, she
 sent a herald to Cyrus, who thus addressed the conqueror:- "Thou
 bloodthirsty Cyrus, pride not thyself on this poor success: it was the
 grape-juice- which, when ye drink it, makes you so mad, and as ye
@@ -3514,13 +3748,15 @@ thee from the land unharmed, triumphant over a third part of the
 host of the Massagetae. Refuse, and I swear by the sun, the
 sovereign lord of the Massagetae, bloodthirsty as thou art, I will
 give thee thy fill of blood."
-    To the words of this message Cyrus paid no manner of regard. As
+
+To the words of this message Cyrus paid no manner of regard. As
 for Spargapises, the son of the queen, when the wine went off, 'and he
 saw the extent of his calamity, he made request to Cyrus to release
 him from his bonds; then, when his prayer was granted, and the fetters
 were taken from his limbs, as soon as his hands were free, he
 destroyed himself.
-    Tomyris, when she found that Cyrus paid no heed to her advice,
+
+Tomyris, when she found that Cyrus paid no heed to her advice,
 collected all the forces of her kingdom, and gave him battle. Of all
 the combats in which the barbarians have engaged among themselves, I
 reckon this to have been the fiercest. The following, as I understand,
@@ -3539,7 +3775,8 @@ for thou tookest my son with guile; but thus I make good my threat,
 and give thee thy fill of blood." Of the many different accounts which
 are given of the death of Cyrus, this which I have followed appears to
 me most worthy of credit.
-    In their dress and mode of living the Massagetae resemble the
+
+In their dress and mode of living the Massagetae resemble the
 Scythians. They fight both on horseback and on foot, neither method is
 strange to them: they use bows and lances, but their favourite
 weapon is the battle-axe. Their arms are all either of gold or
@@ -3549,7 +3786,8 @@ girdles, of gold. So too with the caparison of their horses, they give
 them breastplates of brass, but employ gold about the reins, the
 bit, and the cheek-plates. They use neither iron nor silver, having
 none in their country; but they have brass and gold in abundance.
-    The following are some of their customs;- Each man has but one
+
+The following are some of their customs;- Each man has but one
 wife, yet all the wives are held in common; for this is a custom of
 the Massagetae and not of the Scythians, as the Greeks wrongly say.
 Human life does not come to its natural close with this people; but
@@ -3564,17 +3802,19 @@ plenty in the Araxes. Milk is what they chiefly drink. The only god
 they worship is the sun, and to him they offer the horse in sacrifice;
 under the notion of giving to the swiftest of the gods the swiftest of
 all mortal creatures.
-                      The Second Book, Entitled
-                               EUTERPE
 
-    On the death of Cyrus, Cambyses his son by Cassandane daughter
+II EUTERPE
+----------
+
+On the death of Cyrus, Cambyses his son by Cassandane daughter
 of Pharnaspes took the kingdom. Cassandane had died in the lifetime of
 Cyrus, who had made a great mourning for her at her death, and had
 commanded all the subjects of his empire to observe the like.
 Cambyses, the son of this lady and of Cyrus, regarding the Ionian
 and Aeolian Greeks as vassals of his father, took them with him in his
 expedition against Egypt among the other nations which owned his sway.
-    Now the Egyptians, before the reign of their king Psammetichus,
+
+Now the Egyptians, before the reign of their king Psammetichus,
 believed themselves to be the most ancient of mankind. Since
 Psammetichus, however, made an attempt to discover who were actually
 the primitive race, they have been of opinion that while they
@@ -3601,7 +3841,8 @@ what people there was who called anything "becos," and hereupon he
 learnt that "becos" was the Phrygian name for bread. In
 consideration of this circumstance the Egyptians yielded their claims,
 and admitted the greater antiquity of the Phrygians.
-    That these were the real facts I learnt at Memphis from the
+
+That these were the real facts I learnt at Memphis from the
 priests of Vulcan. The Greeks, among other foolish tales, relate
 that Psammetichus had the children brought up by women whose tongues
 he had previously cut out; but the priests said their bringing up
@@ -3615,7 +3856,8 @@ concerning their religion it is not my intention to repeat, except the
 names of their deities, which I believe all men know equally. If I
 relate anything else concerning these matters, it will only be when
 compelled to do so by the course of my narrative.
-    Now with regard to mere human matters, the accounts which they
+
+Now with regard to mere human matters, the accounts which they
 gave, and in which all agreed, were the following. The Egyptians, they
 said, were the first to discover the solar year, and to portion out
 its course into twelve parts. They obtained this knowledge from the
@@ -3633,19 +3875,22 @@ who ruled over Egypt was Min, and that in his time all Egypt, except
 the Thebaic canton, was a marsh, none of the land below Lake Moeris
 then showing itself above the surface of the water. This is a distance
 of seven days' sail from the sea up the river.
-    What they said of their country seemed to me very reasonable.
+
+What they said of their country seemed to me very reasonable.
 For any one who sees Egypt, without having heard a word about it
 before, must perceive, if he has only common powers of observation,
 that the Egypt to which the Greeks go in their ships is an acquired
 country, the gift of the river. The same is true of the land above the
 lake, to the distance of three days' voyage, concerning which the
 Egyptians say nothing, but which exactly the same kind of country.
-    The following is the general character of the region. In the first
+
+The following is the general character of the region. In the first
 place, on approaching it by sea, when you are still a day's sail
 from the land, if you let down a sounding-line you will bring up
 mud, and find yourself in eleven fathoms' water, which shows that
 the soil washed down by the stream extends to that distance.
-    The length of the country along shore, according to the bounds
+
+The length of the country along shore, according to the bounds
 that we assign to Egypt, namely from the Plinthinetic gulf to Lake
 Serbonis, which extends along the base of Mount Casius, is sixty
 schoenes. The nations whose territories are scanty measure them by the
@@ -3655,7 +3900,8 @@ country which is very vast, they measure it by the schoene. Now the
 length of the parasang is thirty furlongs, but the schoene, which is
 an Egyptian measure, is sixty furlongs. Thus the coastline of Egypt
 would extend a length of three thousand six hundred furlongs.
-    From the coast inland as far as Heliopolis the breadth of Egypt is
+
+From the coast inland as far as Heliopolis the breadth of Egypt is
 considerable, the country is flat, without springs, and full of
 swamps. The length of the route from the sea up to Heliopolis is
 almost exactly the same as that of the road which runs from the
@@ -3665,7 +3911,8 @@ difference between the two routes, not more than about fifteen
 furlongs; for the road from Athens to Pisa falls short of fifteen
 hundred furlongs by exactly fifteen, whereas the distance of
 Heliopolis from the sea is just the round number.
-    As one proceeds beyond Heliopolis up the country, Egypt becomes
+
+As one proceeds beyond Heliopolis up the country, Egypt becomes
 narrow, the Arabian range of hills, which has a direction from north
 to south, shutting it in upon the one side, and the Libyan range
 upon the other. The former ridge runs on without a break, and
@@ -3684,14 +3931,16 @@ Egypt is narrow; the valley between the two ranges is a level plain,
 and seemed to me to be, at the narrowest point, not more than two
 hundred furlongs across from the Arabian to the Libyan hills. Above
 this point Egypt again widens.
-    From Heliopolis to Thebes is nine days' sail up the river; the
+
+From Heliopolis to Thebes is nine days' sail up the river; the
 distance is eighty-one schoenes, or 4860 furlongs. If we now put
 together the several measurements of the country we shall find that
 the distance along shore is, as I stated above, 3600 furlongs, and the
 distance from the sea inland to Thebes 6120 furlongs. Further, it is a
 distance of eighteen hundred furlongs from Thebes to the place
 called Elephantine.
-    The greater portion of the country above described seemed to me to
+
+The greater portion of the country above described seemed to me to
 be, as the priests declared, a tract gained by the inhabitants. For
 the whole region above Memphis, lying between the two ranges of
 hills that have been spoken of, appeared evidently to have formed at
@@ -3705,7 +3954,8 @@ changes. Among these not the least is the Achelous, which, after
 passing through Acarnania, empties itself into the sea opposite the
 islands called Echinades, and has already joined one-half of them to
 the continent.
-    In Arabia, not far from Egypt, there is a long and narrow gulf
+
+In Arabia, not far from Egypt, there is a long and narrow gulf
 running inland from the sea called the Erythraean, of which I will
 here set down the dimensions. Starting from its innermost recess,
 and using a row-boat, you take forty days to reach the open main,
@@ -3723,7 +3973,8 @@ thousand years? For my part, I think it would be filled in half the
 time. How then should not a gulf, even of much greater size, have been
 filled up in the ages that passed before I was born, by a river that
 is at once so large and so given to working changes?
-    Thus I give credit to those from whom I received this account of
+
+Thus I give credit to those from whom I received this account of
 Egypt, and am myself, moreover, strongly of the same opinion, since
 I remarked that the country projects into the sea further than the
 neighbouring shores, and I observed that there were shells upon the
@@ -3737,7 +3988,8 @@ know, sandy and of a reddish hue, and that of Arabia and Syria
 inclines to stone and clay, Egypt has a soil that is black and
 crumbly, as being alluvial and formed of the deposits brought down
 by the river from Ethiopia.
-    One fact which I learnt of the priests is to me a strong
+
+One fact which I learnt of the priests is to me a strong
 evidence of the origin of the country. They said that when Moeris
 was king, the Nile overflowed all Egypt below Memphis, as soon as it
 rose so little as eight cubits. Now Moeris had not been dead 900 years
@@ -3757,7 +4009,8 @@ day see fit not to grant the Greeks rain, but shall afflict them
 with a long drought, the Greeks will be swept away by a famine,
 since they have nothing to rely on but rain from Jove, and have no
 other resource for water."
-    And certes, in thus speaking of the Greeks the Egyptians say
+
+And certes, in thus speaking of the Greeks the Egyptians say
 nothing but what is true. But now let me tell the Egyptians how the
 case stands with themselves. If, as I said before, the country below
 Memphis, which is the land that is always rising, continues to
@@ -3776,7 +4029,8 @@ of ground, and after sowing turns his swine into it- the swine tread
 in the corn- after which he has only to await the harvest. The swine
 serve him also to thrash the grain, which is then carried to the
 garner.
-    If then we choose to adopt the views of the Ionians concerning
+
+If then we choose to adopt the views of the Ionians concerning
 Egypt, we must come to the conclusion that the Egyptians had
 formerly no country at all. For the Ionians say that nothing is really
 Egypt but the Delta, which extends along shore from the Watch-tower of
@@ -3798,7 +4052,8 @@ began; as the land went on increasing, part of the population came
 down into the new country, part remained in their old settlements.
 In ancient times the Thebais bore the name of Egypt, a district of
 which the entire circumference is but 6120 furlongs.
-    If, then, my judgment on these matters be right, the Ionians are
+
+If, then, my judgment on these matters be right, the Ionians are
 mistaken in what they say of Egypt. If, on the contrary, it is they
 who are right, then I undertake to show that neither the Ionians nor
 any of the other Greeks know how to count. For they all say that the
@@ -3808,7 +4063,8 @@ include it either in Asia or Libya. For is it not their theory that
 the Nile separates Asia from Libya? As the Nile, therefore, splits
 in two at the apex of the Delta, the Delta itself must be a separate
 country, not contained in either Asia or Libya.
-    Here I take my leave of the opinions of the Ionians, and proceed
+
+Here I take my leave of the opinions of the Ionians, and proceed
 to deliver my own sentiments on these subjects. I consider Egypt to be
 the whole country inhabited by the Egyptians, just as Cilicia is the
 tract occupied by the Cilicians, and Assyria that possessed by the
@@ -3831,7 +4087,8 @@ called the Sebennytic. Besides these there are two other mouths
 which run out of the Sebennytic called respectively the Saitic and the
 Mendesian. The Bolbitine mouth, and the Bucolic, are not natural
 branches, but channels made by excavation.
-    My judgment as to the extent of Egypt is confirmed by an oracle
+
+My judgment as to the extent of Egypt is confirmed by an oracle
 delivered at the shrine of Ammon, of which I had no knowledge at all
 until after I had formed my opinion. It happened that the people of
 the cities Marea and Apis, who live in the part of Egypt that
@@ -3846,12 +4103,14 @@ refused by the god, who declared in reply that Egypt was the entire
 tract of country which the Nile overspreads and irrigates, and the
 Egyptians were the people who lived below Elephantine, and drank the
 waters of that river.
-    So said the oracle. Now the Nile, when it overflows, floods not
+
+So said the oracle. Now the Nile, when it overflows, floods not
 only the Delta, but also the tracts of country on both sides the
 stream which are thought to belong to Libya and Arabia, in some places
 reaching to the extent of two days' journey from its banks, in some
 even exceeding that distance, but in others falling short of it.
-    Concerning the nature of the river, I was not able to gain any
+
+Concerning the nature of the river, I was not able to gain any
 information either from the priests or from others. I was particularly
 anxious to learn from them why the Nile, at the commencement of the
 summer solstice, begins to rise, and continues to increase for a
@@ -3864,7 +4123,8 @@ reported- they could neither tell me what special virtue the Nile
 has which makes it so opposite in its nature to all other streams, nor
 why, unlike every other river, it gives forth no breezes from its
 surface.
-    Some of the Greeks, however, wishing to get a reputation for
+
+Some of the Greeks, however, wishing to get a reputation for
 cleverness, have offered explanations of the phenomena of the river,
 for which they have accounted in three different ways. Two of these
 I do not think it worth while to speak of, further than simply to
@@ -3878,11 +4138,13 @@ to present the same phenomena as the Nile, and the more so as they are
 all smaller streams, and have a weaker current. But these rivers, of
 which there are many both in Syria and Libya, are entirely unlike
 the Nile in this respect.
-    The second opinion is even more unscientific than the one just
+
+The second opinion is even more unscientific than the one just
 mentioned, and also, if I may so say, more marvellous. It is that
 the Nile acts so strangely, because it flows from the ocean, and
 that the ocean flows all round the earth.
-    The third explanation, which is very much more plausible than
+
+The third explanation, which is very much more plausible than
 either of the others, is positively the furthest from the truth; for
 there is really nothing in what it says, any more than in the other
 theories. It is, that the inundation of the Nile is caused by the
@@ -3903,12 +4165,14 @@ winter, flock thither to pass the cold season. If then, in the country
 whence the Nile has its source, or in that through which it flows,
 there fell ever so little snow, it is absolutely impossible that any
 of these circumstances could take place.
-    As for the writer who attributes the phenomenon to the ocean,
+
+As for the writer who attributes the phenomenon to the ocean,
 his account is involved in such obscurity that it is impossible to
 disprove it by argument. For my part I know of no river called
 Ocean, and I think that Homer, or one of the earlier poets, invented
 the name, and introduced it into his poetry.
-    Perhaps, after censuring all the opinions that have been put
+
+Perhaps, after censuring all the opinions that have been put
 forward on this obscure subject, one ought to propose some theory of
 one's own. I will therefore proceed to explain what I think to be
 the reason of the Nile's swelling in the summer time. During the
@@ -3918,7 +4182,8 @@ fewest possible words; for it stands to reason that the country to
 which the Sun-god approaches the nearest, and which he passes most
 directly over, will be scantest of water, and that there the streams
 which feed the rivers will shrink the most.
-    To explain, however, more at length, the case is this. The sun, in
+
+To explain, however, more at length, the case is this. The sun, in
 his passage across the upper parts of Libya, affects them in the
 following way. As the air in those regions is constantly clear, and
 the country warm through the absence of cold winds, the sun in his
@@ -3943,7 +4208,8 @@ unlike all other streams, with a less burthen of water than in the
 summer time. For in summer it is exposed to attraction equally with
 all other rivers, but in winter it suffers alone. The sun,
 therefore, I regard as the sole cause of the phenomenon.
-    It is the sun also, in my opinion, which, by heating the space
+
+It is the sun also, in my opinion, which, by heating the space
 through which it passes, makes the air in Egypt so dry. There is
 thus perpetual summer in the upper parts of Libya. Were the position
 of the heavenly regions reversed, so that the place where now the
@@ -3955,10 +4221,12 @@ the northern gales, would betake himself to the upper parts of Europe,
 as he now does to those of Libya, and then I believe his passage
 across Europe would affect the Ister exactly as the Nile is affected
 at the present day.
-    And with respect to the fact that no breeze blows from the Nile, I
+
+And with respect to the fact that no breeze blows from the Nile, I
 am of opinion that no wind is likely to arise in very hot countries,
 for breezes love to blow from some cold quarter.
-    Let us leave these things, however, to their natural course, to
+
+Let us leave these things, however, to their natural course, to
 continue as they are and have been from the beginning. With regard
 to the sources of the Nile, I have found no one among all those with
 whom I have conversed, whether Egyptians, Libyans, or Greeks, who
@@ -3980,7 +4248,8 @@ said, that in this fountain there are certain strong eddies, and a
 regurgitation, owing to the force wherewith the water dashes against
 the mountains, and hence a Sounding-line cannot be got to reach the
 bottom of the spring.
-    No other information on this head could I obtain from any quarter.
+
+No other information on this head could I obtain from any quarter.
 All that I succeeded in learning further of the more distant
 portions of the Nile, by ascending myself as high as Elephantine and
 making inquiries concerning the parts beyond, was the following:- As
@@ -4010,7 +4279,8 @@ There is an oracle of Jupiter in the city, which directs the warlike
 expeditions of the Ethiopians; when it commands they go to war, and in
 whatever direction it bids them march, thither straightway they
 carry their arms.
-    On leaving this city, and again mounting the stream, in the same
+
+On leaving this city, and again mounting the stream, in the same
 space of time which it took you to reach the capital from Elephantine,
 you come to the Deserters, who bear the name of Asmach. This word,
 translated into our language, means "the men who stand on the left
@@ -4037,7 +4307,8 @@ which belonged to certain Ethiopians with whom he was at feud, bidding
 them expel the inhabitants and take possession of their territory.
 >From the time that this settlement was formed, their acquaintance with
 Egyptian manners has tended to civilise the Ethiopians.
-    Thus the course of the Nile is known, not only throughout Egypt,
+
+Thus the course of the Nile is known, not only throughout Egypt,
 but to the extent of four months' journey either by land or water
 above the Egyptian boundary; for on calculation it will be found
 that it takes that length of time to travel from Elephantine to the
@@ -4045,7 +4316,8 @@ country of the Deserters. There the direction of the river is from
 west to east. Beyond, no one has any certain knowledge of its
 course, since the country is uninhabited by reason of the excessive
 heat.
-    I did hear, indeed, what I will now relate, from certain natives
+
+I did hear, indeed, what I will now relate, from certain natives
 of Cyrene. Once upon a time, they said, they were on a visit to the
 oracular shrine of Ammon, when it chanced that in the course of
 conversation with Etearchus, the Ammonian king, the talk fell upon the
@@ -4083,7 +4355,8 @@ Nasamonians. They were led across extensive marshes, and finally
 came to a town, where all the men were of the height of their
 conductors, and black-complexioned. A great river flowed by the
 town, running from west to east, and containing crocodiles.
-    Here let me dismiss Etearchus the Ammonian, and his story, only
+
+Here let me dismiss Etearchus the Ammonian, and his story, only
 adding that (according to the Cyrenaeans) he declared that the
 Nasamonians got safe back to their country, and that the men whose
 city they had reached were a nation of sorcerers. With respect to
@@ -4098,7 +4371,8 @@ pillars of Hercules, and border on the Cynesians, who dwell at the
 extreme west of Europe. Thus the Ister flows through the whole of
 Europe before it finally empties itself into the Euxine at Istria, one
 of the colonies of the Milesians.
-    Now as this river flows through regions that are inhabited, its
+
+Now as this river flows through regions that are inhabited, its
 course is perfectly well known; but of the sources of the Nile no
 one can give any account, since Libya, the country through which it
 passes, is desert and without inhabitants. As far as it was possible
@@ -4110,7 +4384,8 @@ by the direct route. Sinope lies opposite the place where the Ister
 falls into the sea. My opinion therefore is that the Nile, as it
 traverses the whole of Libya, is of equal length with the Ister. And
 here I take my leave of this subject.
-    Concerning Egypt itself I shall extend my remarks to a great
+
+Concerning Egypt itself I shall extend my remarks to a great
 length, because there is no country that possesses so many wonders,
 nor any that has such a number of works which defy description. Not
 only is the climate different from that of the rest of the world,
@@ -4127,7 +4402,8 @@ nothing unseemly about it, should be done openly. A woman cannot serve
 the priestly office, either for god or goddess, but men are priests to
 both; sons need not support their parents unless they choose, but
 daughters must, whether they choose or no.
-    In other countries the priests have long hair, in Egypt their
+
+In other countries the priests have long hair, in Egypt their
 heads are shaven; elsewhere it is customary, in mourning, for near
 relations to cut their hair close: the Egyptians, who wear no hair
 at any other time, when they lose a relative, let their beards and the
@@ -4145,7 +4421,8 @@ Greeks, from left to right, they move their hand from right to left;
 and they insist, notwithstanding, that it is they who go to the right,
 and the Greeks who go to the left. They have two quite different kinds
 of writing, one of which is called sacred, the other common.
-    They are religious to excess, far beyond any other race of men,
+
+They are religious to excess, far beyond any other race of men,
 and use the following ceremonies:- They drink out of brazen cups,
 which they scour every day: there is no exception to this practice.
 They wear linen garments, which they are specially careful to have
@@ -4168,7 +4445,8 @@ boiled- the priests will not even endure to look on, since they
 consider it an unclean kind of pulse. Instead of a single priest, each
 god has the attendance of a college, at the head of which is a chief
 priest; when one of these dies, his son is appointed in his room.
-    Male kine are reckoned to belong to Epaphus, and are therefore
+
+Male kine are reckoned to belong to Epaphus, and are therefore
 tested in the following manner:- One of the priests appointed for
 the purpose searches to see if there is a single black hair on the
 whole body, since in that case the beast is unclean. He examines him
@@ -4182,7 +4460,8 @@ his horns, and attaching thereto some sealing-clay, which he then
 stamps with his own signet-ring. After this the beast is led away; and
 it is forbidden, under the penalty of death, to sacrifice an animal
 which has not been marked in this way.
-    The following is their manner of sacrifice:- They lead the victim,
+
+The following is their manner of sacrifice:- They lead the victim,
 marked with their signet, to the altar where they are about to offer
 it, and setting the wood alight, pour a libation of wine upon the
 altar in front of the victim, and at the same time invoke the god.
@@ -4197,7 +4476,8 @@ fall upon that head. These practices, the imprecations upon the heads,
 and the libations of wine, prevail all over Egypt, and extend to
 victims of all sorts; and hence the Egyptians will never eat the
 head of any animal.
-    The disembowelling and burning are, however, different in
+
+The disembowelling and burning are, however, different in
 different sacrifices. I will mention the mode in use with respect to
 the goddess whom they regard as the greatest, and honour with the
 chiefest festival. When they have flayed their steer they pray, and
@@ -4211,7 +4491,8 @@ oil. Before offering the sacrifice they fast, and while the bodies
 of the victims are being consumed they beat themselves. Afterwards,
 when they have concluded this part of the ceremony, they have the
 other parts of the victim served up to them for a repast.
-    The male kine, therefore, if clean, and the male calves, are
+
+The male kine, therefore, if clean, and the male calves, are
 used for sacrifice by the Egyptians universally; but the females
 they are not allowed to sacrifice, since they are sacred to Isis.
 The statue of this goddess has the form of a woman but with horns like
@@ -4235,7 +4516,8 @@ to the other towns, where they dig up the bones, which they take
 away with them and bury together in one place. The same practice
 prevails with respect to the interment of all other cattle- the law so
 determining; they do not slaughter any of them.
-    Such Egyptians as possess a temple of the Theban Jove, or live
+
+Such Egyptians as possess a temple of the Theban Jove, or live
 in the Thebaic canton, offer no sheep in sacrifice, but only goats;
 for the Egyptians do not all worship the same gods, excepting Isis and
 Osiris, the latter of whom they say is the Grecian Bacchus. Those,
@@ -4260,7 +4542,8 @@ cover with it the statue of that god, as he once covered himself,
 and then bring up to the statue of Jove an image of Hercules. When
 this has been done, the whole assembly beat their breasts in
 mourning for the ram, and afterwards bury him in a holy sepulchre.
-    The account which I received of this Hercules makes him one of the
+
+The account which I received of this Hercules makes him one of the
 twelve gods. Of the other Hercules, with whom the Greeks are familiar,
 I could hear nothing in any part of Egypt. That the Greeks, however
 (those I mean who gave the son of Amphitryon that name), took the name
@@ -4278,7 +4561,8 @@ that of Hercules. But the Egyptian Hercules is one of their ancient
 gods. Seventeen thousand years before the reign of Amasis, the
 twelve gods were, they affirm, produced from the eight: and of these
 twelve, Hercules is one.
-    In the wish to get the best information that I could on these
+
+In the wish to get the best information that I could on these
 matters, I made a voyage to Tyre in Phoenicia, hearing there was a
 temple of Hercules at that place, very highly venerated. I visited the
 temple, and found it richly adorned with a number of offerings,
@@ -4300,7 +4584,8 @@ temples of Hercules, in the one of which the Hercules worshipped is
 known by the name of Olympian, and has sacrifice offered to him as
 an immortal, while in the other the honours paid are such as are due
 to a hero.
-    The Greeks tell many tales without due investigation, and among
+
+The Greeks tell many tales without due investigation, and among
 them the following silly fable respecting Hercules:- "Hercules,"
 they say, "went once to Egypt, and there the inhabitants took him, and
 putting a chaplet on his head, led him out in solemn procession,
@@ -4315,7 +4600,8 @@ be believed that they would sacrifice men? And again, how would it
 have been possible for Hercules alone, and, as they confess, a mere
 mortal, to destroy so many thousands? In saying thus much concerning
 these matters, may I incur no displeasure either of god or hero!
-    I mentioned above that some of the Egyptians abstain from
+
+I mentioned above that some of the Egyptians abstain from
 sacrificing goats, either male or female. The reason is the
 following:- These Egyptians, who are the Mendesians, consider Pan to
 be one of the eight gods who existed before the twelve, and Pan is
@@ -4329,7 +4615,8 @@ of the males especial honour. One is venerated more highly than all
 the rest, and when he dies there is a great mourning throughout all
 the Mendesian canton. In Egyptian, the goat and Pan are both called
 Mendes.
-    The pig is regarded among them as an unclean animal, so much so
+
+The pig is regarded among them as an unclean animal, so much so
 that if a man in passing accidentally touch a pig, he instantly
 hurries to the river, and plunges in with all his clothes on. Hence,
 too, the swineherds, notwithstanding that they are of pure Egyptian
@@ -4352,7 +4639,8 @@ eaten on the same day that the sacrifice is offered, which is the
 day of the full moon: at any other time they would not so much as
 taste it. The poorer sort, who cannot afford live pigs, form pigs of
 dough, which they bake and offer in sacrifice.
-    To Bacchus, on the eve of his feast, every Egyptian sacrifices a
+
+To Bacchus, on the eve of his feast, every Egyptian sacrifices a
 hog before the door of his house, which is then given back to the
 swineherd by whom it was furnished, and by him carried away. In
 other respects the festival is celebrated almost exactly as Bacchic
@@ -4362,7 +4650,8 @@ consisting of images a cubit high, pulled by strings, which the
 women carry round to the villages. A piper goes in front, and the
 women follow, singing hymns in honour of Bacchus. They give a
 religious reason for the peculiarities of the image.
-    Melampus, the son of Amytheon, cannot (I think) have been ignorant
+
+Melampus, the son of Amytheon, cannot (I think) have been ignorant
 of this ceremony- nay, he must, I should conceive, have been well
 acquainted with it. He it was who introduced into Greece the name of
 Bacchus, the ceremonial of his worship, and the procession of the
@@ -4383,7 +4672,8 @@ admit that the Egyptians borrowed these customs, or any other, from
 the Greeks. My belief is that Melampus got his knowledge of them
 from Cadmus the Tyrian, and the followers whom he brought from
 Phoenicia into the country which is now called Boeotia.
-    Almost all the names of the gods came into Greece from Egypt. My
+
+Almost all the names of the gods came into Greece from Egypt. My
 inquiries prove that they were all derived from a foreign source,
 and my opinion is that Egypt furnished the greater number. For with
 the exception of Neptune and the Dioscuri, whom I mentioned above, and
@@ -4395,7 +4685,8 @@ from the Pelasgi, except Neptune. Of him they got their knowledge from
 the Libyans, by whom he has been always honoured, and who were
 anciently the only people that had a god of the name. The Egyptians
 differ from the Greeks also in paying no divine honours to heroes.
-    Besides these which have been here mentioned, there are many other
+
+Besides these which have been here mentioned, there are many other
 practices whereof I shall speak hereafter, which the Greeks have
 borrowed from Egypt. The peculiarity, however, which they observe in
 their statues of Mercury they did not derive from the Egyptians, but
@@ -4412,7 +4703,8 @@ inhabitants. The Athenians, then, who were the first of all the Greeks
 to make their statues of Mercury in this way, learnt the practice from
 the Pelasgians; and by this people a religious account of the matter
 is given, which is explained in the Samothracian mysteries.
-    In early times the Pelasgi, as I know by information which I got
+
+In early times the Pelasgi, as I know by information which I got
 at Dodona, offered sacrifices of all kinds, and prayed to the gods,
 but had no distinct names or appellations for them, since they had
 never heard of any. They called them gods (Theoi, disposers),
@@ -4427,7 +4719,8 @@ should adopt the names that had been imported from the foreigners?"
 the oracle replied by recommending their use. Thenceforth in their
 sacrifices the Pelasgi made use of the names of the gods, and from
 them the names passed afterwards to the Greeks.
-    Whence the gods severally sprang, whether or no they had all
+
+Whence the gods severally sprang, whether or no they had all
 existed from eternity, what forms they bore- these are questions of
 which the Greeks knew nothing until the other day, so to speak. For
 Homer and Hesiod were the first to compose Theogonies, and give the
@@ -4438,7 +4731,8 @@ by some to be earlier than these, they are, in my judgment,
 decidedly later writers. In these matters I have the authority of
 the priestesses of Dodona for the former portion of my statements;
 what I have said of Homer and Hesiod is my own opinion.
-    The following tale is commonly told in Egypt concerning the oracle
+
+The following tale is commonly told in Egypt concerning the oracle
 of Dodona in Greece, and that of Ammon in Libya. My informants on
 the point were the priests of Jupiter at Thebes. They said "that two
 of the sacred women were once carried off from Thebes by the
@@ -4450,7 +4744,8 @@ answered, "that diligent search had been made after them at the
 time, but that it had not been found possible to discover where they
 were; afterwards, however, they received the information which they
 had given me."
-    This was what I heard from the priests at Thebes; at Dodona,
+
+This was what I heard from the priests at Thebes; at Dodona,
 however, the women who deliver the oracles relate the matter as
 follows:- "Two black doves flew away from Egyptian Thebes, and while
 one directed its flight to Libya, the other came to them. She alighted
@@ -4464,7 +4759,8 @@ received these particulars were three priestesses of the Dodonaeans,
 the eldest Promeneia, the next Timarete, and the youngest Nicandra-
 what they said was confirmed by the other Dodonaeans who dwell
 around the temple.
-    My own opinion of these matters is as follows:- I think that, if
+
+My own opinion of these matters is as follows:- I think that, if
 it be true that the Phoenicians carried off the holy women, and sold
 them for slaves, the one into Libya and the other into Greece, or
 Pelasgia (as it was then called), this last must have been sold to the
@@ -4475,7 +4771,8 @@ an attendant in a temple of Jupiter at Thebes- to that particular god.
 Then, having acquired a knowledge of the Greek tongue, she set up an
 oracle. She also mentioned that her sister had been sold for a slave
 into Libya by the same persons as herself.
-    The Dodonaeans called the women doves because they were
+
+The Dodonaeans called the women doves because they were
 foreigners, and seemed to them to make a noise like birds. After a
 while the dove spoke with a human voice, because the woman, whose
 foreign talk had previously sounded to them like the chattering of a
@@ -4486,12 +4783,14 @@ Dodonaeans indicated that the woman was an Egyptian. And certainly the
 character of the oracles at Thebes and Dodona is very similar. Besides
 this form of divination, the Greeks learnt also divination by means of
 victims from the Egyptians.
-    The Egyptians were also the first to introduce solemn
+
+The Egyptians were also the first to introduce solemn
 assemblies, processions, and litanies to the gods; of all which the
 Greeks were taught the use by them. It seems to me a sufficient
 proof of this that in Egypt these practices have been established from
 remote antiquity, while in Greece they are only recently known.
-    The Egyptians do not hold a single solemn assembly, but several in
+
+The Egyptians do not hold a single solemn assembly, but several in
 the course of the year. Of these the chief, which is better attended
 than any other, is held at the city of Bubastis in honour of Diana.
 The next in importance is that which takes place at Busiris, a city
@@ -4499,7 +4798,8 @@ situated in the very middle of the Delta; it is in honour of Isis, who
 is called in the Greek tongue Demiter (Ceres). There is a third
 great festival in Sais to Minerva, a fourth in Heliopolis to the
 Sun, a fifth in Buto to Latona, and a sixth in Papremis to Mars.
-    The following are the proceedings on occasion of the assembly at
+
+The following are the proceedings on occasion of the assembly at
 Bubastis:- Men and women come sailing all together, vast numbers in
 each boat, many of the women with castanets, which they strike,
 while some of the men pipe during the whole time of the voyage; the
@@ -4515,7 +4815,8 @@ More grape-wine is consumed at this festival than in all the rest of
 the year besides. The number of those who attend, counting only the
 men and women and omitting the children, amounts, according to the
 native reports, to seven hundred thousand.
-    The ceremonies at the feast of Isis in the city of Busiris have
+
+The ceremonies at the feast of Isis in the city of Busiris have
 been already spoken of. It is there that the whole multitude, both
 of men and women, many thousands in number, beat themselves at the
 close of the sacrifice, in honour of a god, whose name a religious
@@ -4523,7 +4824,8 @@ scruple forbids me to mention. The Carian dwellers in Egypt proceed on
 this occasion to still greater lengths, even cutting their faces
 with their knives, whereby they let it been seen that they are not
 Egyptians but foreigners.
-    At Sais, when the assembly takes place for the sacrifices, there
+
+At Sais, when the assembly takes place for the sacrifices, there
 is one night on which the inhabitants all burn a multitude of lights
 in the open air round their houses. They use lamps in the shape of
 flat saucers filled with a mixture of oil and salt, on the top of
@@ -4535,7 +4837,8 @@ illumination is not confined to the city of Sais, but extends over the
 whole of Egypt. And there is a religious reason assigned for the
 special honour paid to this night, as well as for the illumination
 which accompanies it.
-    At Heliopolis and Buto the assemblies are merely for the purpose
+
+At Heliopolis and Buto the assemblies are merely for the purpose
 of sacrifice; but at Papremis, besides the sacrifices and other
 rites which are performed there as elsewhere, the following custom
 is observed:- When the sun is getting low, a few only of the priests
@@ -4555,7 +4858,8 @@ upon the opponents, who are sure to offer resistance. A sharp fight
 with clubs ensues, in which heads are commonly broken on both sides.
 Many, I am convinced, die of the wounds that they receive, though
 the Egyptians insist that no one is ever killed.
-    The natives give the subjoined account of this festival. They
+
+The natives give the subjoined account of this festival. They
 say that the mother of the god Mars once dwelt in the temple.
 Brought up at a distance from his parent, when he grew to man's estate
 he conceived a wish to visit her. Accordingly he came, but the
@@ -4564,7 +4868,8 @@ succeeded in keeping him out. So he went to another city and collected
 a body of men, with whose aid he handled the attendants very
 roughly, and forced his way in to his mother. Hence they say arose the
 custom of a fight with sticks in honour of Mars at this festival.
-    The Egyptians first made it a point of religion to have no
+
+The Egyptians first made it a point of religion to have no
 converse with women in the sacred places, and not to enter them
 without washing, after such converse. Almost all other nations, except
 the Greeks and the Egyptians, act differently, regarding man as in
@@ -4575,7 +4880,8 @@ if the gods were displeased at it. Such are the arguments by which
 they defend their practice, but I nevertheless can by no means approve
 of it. In these points the Egyptians are specially careful, as they
 are indeed in everything which concerns their sacred edifices.
-    Egypt, though it borders upon Libya, is not a region abounding
+
+Egypt, though it borders upon Libya, is not a region abounding
 in wild animals. The animals that do exist in the country, whether
 domesticated or otherwise, are all regarded as sacred. If I were to
 explain why they are consecrated to the several gods, I should be
@@ -4597,7 +4903,8 @@ if he did it with malice prepense, he is punished with death; if
 unwittingly, he has to pay such a fine as the priests choose to
 impose. When an ibis, however, or a hawk is killed, whether it was
 done by accident or on purpose, the man must needs die.
-    The number of domestic animals in Egypt is very great, and would
+
+The number of domestic animals in Egypt is very great, and would
 be still greater were it not for what befalls the cats. As the
 females, when they have kittened, no longer seek the company of the
 males, these last, to obtain once more their companionship, practise a
@@ -4613,7 +4920,8 @@ headlong into the flames. When this happens, the Egyptians are in deep
 affliction. If a cat dies in a private house by a natural death, all
 the inmates of the house shave their eyebrows; on the death of a dog
 they shave the head and the whole of the body.
-    The cats on their decease are taken to the city of Bubastis, where
+
+The cats on their decease are taken to the city of Bubastis, where
 they are embalmed, after which they are buried in certain sacred
 repositories. The dogs are interred in the cities to which they
 belong, also in sacred burial-places. The same practice obtains with
@@ -4622,7 +4930,8 @@ contrary, are conveyed to the city of Buto for burial, and the
 ibises to Hermopolis. The bears, which are scarce in Egypt, and the
 wolves, which are not much bigger than foxes, they bury wherever
 they happen to find them lying.
-    The following are the peculiarities of the crocodile:- During
+
+The following are the peculiarities of the crocodile:- During
 the four winter months they eat nothing; they are four-footed, and
 live indifferently on land or in the water. The female lays and
 hatches her eggs ashore, passing the greater portion of the day on dry
@@ -4647,7 +4956,8 @@ land, is in the habit of lying with his mouth wide open, facing the
 western breeze: at such times the trochilus goes into his mouth and
 devours the leeches. This benefits the crocodile, who is pleased,
 and takes care not to hurt the trochilus.
-    The crocodile is esteemed sacred by some of the Egyptians, by
+
+The crocodile is esteemed sacred by some of the Egyptians, by
 others he is treated as an enemy. Those who live near Thebes, and
 those who dwell around Lake Moeris, regard them with especial
 veneration. In each of these places they keep one crocodile in
@@ -4662,7 +4972,8 @@ that they even eat their flesh. In the Egyptian language they are
 not called crocodiles, but Champsae. The name of crocodiles was
 given them by the Ionians, who remarked their resemblance to the
 lizards, which in Ionia live in the walls and are called crocodiles.
-    The modes of catching the crocodile are many and various. I
+
+The modes of catching the crocodile are many and various. I
 shall only describe the one which seems to me most worthy of
 mention. They bait a hook with a chine of pork and let the meat be
 carried out into the middle of the stream, while the hunter upon the
@@ -4672,18 +4983,21 @@ instantly swallows down. The men on the shore haul, and when they have
 got him to land, the first thing the hunter does is to plaster his
 eyes with mud. This once accomplished, the animal is despatched with
 ease, otherwise he gives great trouble.
-    The hippopotamus, in the canton of Papremis, is a sacred animal,
+
+The hippopotamus, in the canton of Papremis, is a sacred animal,
 but not in any other part of Egypt. It may be thus described:- It is a
 quadruped, cloven-footed, with hoofs like an ox, and a flat nose. It
 has the mane and tail of a horse, huge tusks which are very
 conspicuous, and a voice like a horse's neigh. In size it equals the
 biggest oxen, and its skin is so tough that when dried it is made into
 javelins.
-    Otters also are found in the Nile, and are considered sacred. Only
+
+Otters also are found in the Nile, and are considered sacred. Only
 two sorts of fish are venerated, that called the lepidotus and the
 eel. These are regarded as sacred to the Nile, as likewise among birds
 is the vulpanser, or fox-goose.
-    They have also another sacred bird called the phoenix which I
+
+They have also another sacred bird called the phoenix which I
 myself have never seen, except in pictures. Indeed it is a great
 rarity, even in Egypt, only coming there (according to the accounts of
 the people of Heliopolis) once in five hundred years, when the old
@@ -4700,11 +5014,13 @@ covers over the opening with fresh myrrh, and the ball is then of
 exactly the same weight as at first; so he brings it to Egypt,
 plastered over as I have said, and deposits it in the temple of the
 Sun. Such is the story they tell of the doings of this bird.
-    In the neighbourhood of Thebes there are some sacred serpents
+
+In the neighbourhood of Thebes there are some sacred serpents
 which are perfectly harmless. They are of small size, and have two
 horns growing out of the top of the head. These snakes, when they die,
 are buried in the temple of Jupiter, the god to whom they are sacred.
-    I went once to a certain place in Arabia, almost exactly
+
+I went once to a certain place in Arabia, almost exactly
 opposite the city of Buto, to make inquiries concerning the winged
 serpents. On my arrival I saw the back-bones and ribs of serpents in
 such numbers as it is impossible to describe: of the ribs there were a
@@ -4717,7 +5033,8 @@ Egypt, but are met in this gorge by the birds called ibises, who
 forbid their entrance and destroy them all. The Arabians assert, and
 the Egyptians also admit, that it is on account of the service thus
 rendered that the Egyptians hold the ibis in so much reverence.
-    The ibis is a bird of a deep-black colour, with legs like a crane;
+
+The ibis is a bird of a deep-black colour, with legs like a crane;
 its beak is strongly hooked, and its size is about that of the
 land-rail. This is a description of the black ibis which contends with
 the serpents. The commoner sort, for there are two quite distinct
@@ -4728,7 +5045,8 @@ and legs it resembles the other species. The winged serpent is
 shaped like the water-snake. Its wings are not feathered, but resemble
 very closely those of the bat. And thus I conclude the subject of
 the sacred animals.
-    With respect to the Egyptians themselves, it is to be remarked
+
+With respect to the Egyptians themselves, it is to be remarked
 that those who live in the corn country, devoting themselves, as
 they do, far more than any other people in the world, to the
 preservation of the memory of past actions, are the best skilled in
@@ -4749,13 +5067,15 @@ of fish they eat raw, either salted or dried in the sun. Quails
 also, and ducks and small birds, they eat uncooked, merely first
 salting them. All other birds and fishes, excepting those which are
 set apart as sacred, are eaten either roasted or boiled.
-    In social meetings among the rich, when the banquet is ended, a
+
+In social meetings among the rich, when the banquet is ended, a
 servant carries round to the several guests a coffin, in which there
 is a wooden image of a corpse, carved and painted to resemble nature
 as nearly as possible, about a cubit or two cubits in length. As he
 shows it to each guest in turn, the servant says, "Gaze here, and
 drink and be merry; for when you die, such will you be."
-    The Egyptians adhere to their own national customs, and adopt no
+
+The Egyptians adhere to their own national customs, and adopt no
 foreign usages. Many of these customs are worthy of note: among others
 their song, the Linus, which is sung under various names not only in
 Egypt but in Phoenicia, in Cyprus, and in other places; and which
@@ -4768,7 +5088,8 @@ Maneros; and they told me that Maneros was the only son of their first
 king, and that on his untimely death he was honoured by the
 Egyptians with these dirgelike strains, and in this way they got their
 first and only melody.
-    There is another custom in which the Egyptians resemble a
+
+There is another custom in which the Egyptians resemble a
 particular Greek people, namely the Lacedaemonians. Their young men,
 when they meet their elders in the streets, give way to them and
 step aside; and if an elder come in where young men are present, these
@@ -4776,7 +5097,8 @@ latter rise from their seats. In a third point they differ entirely
 from all the nations of Greece. Instead of speaking to each other when
 they meet in the streets, they make an obeisance, sinking the hand
 to the knee.
-    They wear a linen tunic fringed about the legs, and called
+
+They wear a linen tunic fringed about the legs, and called
 calasiris; over this they have a white woollen garment thrown on
 afterwards. Nothing of woollen, however, is taken into their temples
 or buried with them, as their religion forbids it. Here their practice
@@ -4784,7 +5106,8 @@ resembles the rites called Orphic and Bacchic, but which are in
 reality Egyptian and Pythagorean; for no one initiated in these
 mysteries can be buried in a woollen shroud, a religious reason
 being assigned for the observance.
-    The Egyptians likewise discovered to which of the gods each
+
+The Egyptians likewise discovered to which of the gods each
 month and day is sacred; and found out from the day of a man's birth
 what he will meet with in the course of his life, and how he will
 end his days, and what sort of man he will be- discoveries whereof the
@@ -4793,19 +5116,22 @@ discovered more prognostics than all the rest of mankind besides.
 Whenever a prodigy takes place, they watch and record the result;
 then, if anything similar ever happens again, they expect the same
 consequences.
-    With respect to divination, they hold that it is a gift which no
+
+With respect to divination, they hold that it is a gift which no
 mortal possesses, but only certain of the gods: thus they have an
 oracle of Hercules, one of Apollo, of Minerva, of Diana, of Mars,
 and of Jupiter. Besides these, there is the oracle of Latona at
 Buto, which is held in much higher repute than any of the rest. The
 mode of delivering the oracles is not uniform, but varies at the
 different shrines.
-    Medicine is practised among them on a plan of separation; each
+
+Medicine is practised among them on a plan of separation; each
 physician treats a single disorder, and no more: thus the country
 swarms with medical practitioners, some undertaking to cure diseases
 of the eye, others of the head, others again of the teeth, others of
 the intestines, and some those which are not local.
-    The following is the way in which they conduct their mournings and
+
+The following is the way in which they conduct their mournings and
 their funerals:- On the death in any house of a man of consequence,
 forthwith the women of the family beplaster their heads, and sometimes
 even their faces, with mud; and then, leaving the body indoors,
@@ -4814,7 +5140,8 @@ by a band, and their bosoms bare, beating themselves as they walk. All
 the female relations join them and do the same. The men too, similarly
 begirt, beat their breasts separately. When these ceremonies are over,
 the body is carried away to be embalmed.
-    There are a set of men in Egypt who practice the art of embalming,
+
+There are a set of men in Egypt who practice the art of embalming,
 and make it their proper business. These persons, when a body is
 brought to them, show the bearers various models of corpses, made in
 wood, and painted so as to resemble nature. The most perfect is said
@@ -4844,7 +5171,8 @@ it in a wooden case which they have had made for the purpose, shaped
 into the figure of a man. Then fastening the case, they place it in
 a sepulchral chamber, upright against the wall. Such is the most
 costly way of embalming the dead.
-    If persons wish to avoid expense, and choose the second process,
+
+If persons wish to avoid expense, and choose the second process,
 the following is the method pursued:- Syringes are filled with oil
 made from the cedar-tree, which is then, without any incision or
 disembowelling, injected into the abdomen. The passage by which it
@@ -4855,18 +5183,21 @@ with it the whole stomach and intestines in a liquid state. The natrum
 meanwhile has dissolved the flesh, and so nothing is left of the
 dead body but the skin and the bones. It is returned in this condition
 to the relatives, without any further trouble being bestowed upon it.
-    The third method of embalming, which is practised in the case of
+
+The third method of embalming, which is practised in the case of
 the poorer classes, is to clear out the intestines with a clyster, and
 let the body lie in natrum the seventy days, after which it is at once
 given to those who come to fetch it away.
-    The wives of men of rank are not given to be embalmed
+
+The wives of men of rank are not given to be embalmed
 immediately after death, nor indeed are any of the more beautiful
 and valued women. It is not till they have been dead three or four
 days that they are carried to the embalmers. This is done to prevent
 indignities from being offered them. It is said that once a case of
 this kind occurred: the man was detected by the information of his
 fellow-workman.
-    Whensoever any one, Egyptian or foreigner, has lost his life by
+
+Whensoever any one, Egyptian or foreigner, has lost his life by
 falling a prey to a crocodile, or by drowning in the river, the law
 compels the inhabitants of the city near which the body is cast up
 to have it embalmed, and to bury it in one of the sacred
@@ -4875,7 +5206,8 @@ corpse, not even any of the friends or relatives, but only the priests
 of the Nile, who prepare it for burial with their own hands- regarding
 it as something more than the mere body of a man- and themselves lay
 it in the tomb.
-    The Egyptians are averse to adopt Greek customs, or, in a word,
+
+The Egyptians are averse to adopt Greek customs, or, in a word,
 those of any other nation. This feeling is almost universal among
 them. At Chemmis, however, which is a large city in the Thebaic
 canton, near Neapolis, there is a square enclosure sacred to
@@ -4901,7 +5233,8 @@ visit, and acknowledged them for his kinsmen- he had heard the name of
 their city from his mother before he left Greece- he bade them
 institute a gymnastic contest in his honour, and that was the reason
 why they observed the practice."
-    The customs hitherto described are those of the Egyptians who live
+
+The customs hitherto described are those of the Egyptians who live
 above the marsh-country. The inhabitants of the marshes have the
 same customs as the rest, as well in those matters which have been
 mentioned above as in respect of marriage, each Egyptian taking to
@@ -4929,7 +5262,8 @@ the byblus in full perfection bake it first in a closed vessel, heated
 to a glow. Some of these folk, however, live entirely on fish, which
 are gutted as soon as caught, and then hung up in the sun: when dry,
 they are used as food.
-    Gregarious fish are not found in any numbers in the rivers; they
+
+Gregarious fish are not found in any numbers in the rivers; they
 frequent the lagunes, whence, at the season of breeding, they
 proceed in shoals towards the sea. The males lead the way, and drop
 their milt as they go, while the females, following close behind,
@@ -4960,7 +5294,8 @@ retreating waters, they had first deposited their spawn in the mud
 upon the banks; and so, when at the usual season the water returns,
 small fry are rapidly engendered out of the spawn of the preceding
 year. So much concerning the fish.
-    The Egyptians who live in the marshes use for the anointing of
+
+The Egyptians who live in the marshes use for the anointing of
 their bodies an oil made from the fruit of the sillicyprium, which
 is known among them by the name of "kiki." To obtain this they plant
 the sillicyprium (which grows wild in Greece) along the banks of the
@@ -4970,7 +5305,8 @@ and then bruised and pressed, or else boiled down after roasting:
 the liquid which comes from it is collected and is found to be
 unctuous, and as well suited as olive-oil for lamps, only that it
 gives out an unpleasant odour.
-    The contrivances which they use against gnats, wherewith the
+
+The contrivances which they use against gnats, wherewith the
 country swarms, are the following. In the parts of Egypt above the
 marshes the inhabitants pass the night upon lofty towers, which are of
 great service, as the gnats are unable to fly to any height on account
@@ -4980,7 +5316,8 @@ at night he spreads it over the bed in which he is to rest, and
 creeping in, goes to sleep underneath. The gnats, which, if he rolls
 himself up in his dress or in a piece of muslin, are sure to bite
 through the covering, do not so much as attempt to pass the net.
-    The vessels used in Egypt for the transport of merchandise are
+
+The vessels used in Egypt for the transport of merchandise are
 made of the Acantha (Thorn), a tree which in its growth is very like
 the Cyrenaic lotus, and from which there exudes a gum. They cut a
 quantity of planks about two cubits in length from this tree, and then
@@ -5004,7 +5341,8 @@ sort of boat) after it; while the stone, which is pulled along in
 the wake of the vessel, and lies deep in the water, keeps the boat
 straight. There are a vast number of these vessels in Egypt, and
 some of them are of many thousand talents' burthen.
-    When the Nile overflows, the country is converted into a sea,
+
+When the Nile overflows, the country is converted into a sea,
 and nothing appears but the cities, which look like the islands in the
 Egean. At this season boats no longer keep the course of the river,
 but sail right across the plain. On the voyage from Naucratis to
@@ -5013,19 +5351,22 @@ usual course is by the apex of the Delta, and the city of
 Cercasorus. You can sail also from the maritime town of Canobus across
 the flat to Naucratis, passing by the cities of Anthylla and
 Archandropolis.
-    The former of these cities, which is a place of note, is
+
+The former of these cities, which is a place of note, is
 assigned expressly to the wife of the ruler of Egypt for the time
 being, to keep her in shoes. Such has been the custom ever since Egypt
 fell under the Persian yoke. The other city seems to me to have got
 its name of Archandropolis from Archander the Phthian, son of Achaeus,
 and son-in-law of Danaus. There might certainly have been another
 Archander; but, at any rate, the name is not Egyptian.
-    Thus far I have spoken of Egypt from my own observation,
+
+Thus far I have spoken of Egypt from my own observation,
 relating what I myself saw, the ideas that I formed, and the results
 of my own researches. What follows rests on the accounts given me by
 the Egyptians, which shall now repeat, adding thereto some particulars
 which fell under by own notice.
-    The priests said that Min was the first king of Egypt, and that it
+
+The priests said that Min was the first king of Egypt, and that it
 was he who raised the dyke which protects Memphis from the inundations
 of the Nile. Before his time the river flowed entirely along the sandy
 range of hills which skirts Egypt on the side of Libya. He, however,
@@ -5045,7 +5386,8 @@ the north and west, communicating with the river, which was itself the
 eastern boundary. Besides these works, he also, the priests said,
 built the temple of Vulcan which stands within the city, a vast
 edifice, very worthy of mention.
-    Next, they read me from a papyrus the names of three hundred and
+
+Next, they read me from a papyrus the names of three hundred and
 thirty monarchs, who (they said) were his successors upon the
 throne. In this number of generations there were eighteen Ethiopian
 kings, and one queen who was a native; all the rest were kings and
@@ -5063,7 +5405,8 @@ this only did they tell me of her, except that, when she had done as I
 have said, she threw herself into an apartment full of ashes, that she
 might escape the vengeance whereto she would otherwise have been
 exposed.
-    The other kings, they said, were personages of no note or
+
+The other kings, they said, were personages of no note or
 distinction, and left no monuments of any account, with the
 exception of the last, who was named Moeris. He left several memorials
 of his reign- the northern gateway of the temple of Vulcan, the lake
@@ -5071,7 +5414,8 @@ excavated by his orders, whose dimensions I shall give presently,
 and the pyramids built by him in the lake, the size of which will be
 stated when I describe the lake itself wherein they stand. Such were
 his works: the other kings left absolutely nothing.
-    Passing over these monarchs, therefore, I shall speak of the
+
+Passing over these monarchs, therefore, I shall speak of the
 king who reigned next, whose name was Sesostris. He, the priests said,
 first of all proceeded in a fleet of ships of war from the Arabian
 gulf along the shores of the Erythraean sea, subduing the nations as
@@ -5087,7 +5431,8 @@ the contrary, they submitted readily and without a struggle, he
 inscribed on the pillars, in addition to these particulars, an
 emblem to mark that they were a nation of women, that is, unwarlike
 and effeminate.
-    In this way he traversed the whole continent of Asia, whence he
+
+In this way he traversed the whole continent of Asia, whence he
 passed on into Europe, and made himself master of Scythia and of
 Thrace, beyond which countries I do not think that his army extended
 its march. For thus far the pillars which he erected are still
@@ -5098,7 +5443,8 @@ place. Either he of his own accord detached a body of troops from
 his main army and left them to colonise the country, or else a certain
 number of his soldiers, wearied with their long wanderings,
 deserted, and established themselves on the banks of this stream.
-    There can be no doubt that the Colchians are an Egyptian race.
+
+There can be no doubt that the Colchians are an Egyptian race.
 Before I heard any mention of the fact from others, I had remarked
 it myself. After the thought had struck me, I made inquiries on the
 subject both in Colchis and in Egypt, and I found that the Colchians
@@ -5124,13 +5470,15 @@ from Egypt is clear to me from the fact that the Phoenicians, when
 they come to have commerce with the Greeks, cease to follow the
 Egyptians in this custom, and allow their children to remain
 uncircumcised.
-    I will add a further proof to the identity of the Egyptians and
+
+I will add a further proof to the identity of the Egyptians and
 the Colchians. These two nations weave their linen in exactly the same
 way, and this is a way entirely unknown to the rest of the world; they
 also in their whole mode of life and in their language resemble one
 another. The Colchian linen is called by the Greeks Sardinian, while
 that which comes from Egypt is known as Egyptian.
-    The pillars which Sesostris erected in the conquered countries
+
+The pillars which Sesostris erected in the conquered countries
 have for the most part disappeared; but in the part of Syria called
 Palestine, I myself saw them still standing, with the writing
 above-mentioned, and the emblem distinctly visible. In Ionia also,
@@ -5146,7 +5494,8 @@ who he is, or whence he comes, though elsewhere Sesostris records
 these facts. Hence it has been imagined by some of those who have seen
 these forms, that they are figures of Memnon; but such as think so err
 very widely from the truth.
-    This Sesostris, the priests went on to say, upon his return
+
+This Sesostris, the priests went on to say, upon his return
 home, accompanied by vast multitudes of the people whose countries
 he had subdued, was received by his brother, whom he had made
 viceroy of Egypt on his departure, at Daphnae near Pelusium, and
@@ -5159,7 +5508,8 @@ their six sons upon the fire, and so make a bridge across the
 flames, whereby the rest might effect their escape. Sesostris did as
 she recommended, and thus while two of his sons were burnt to death,
 he himself and his other children were saved.
-    The king then returned to his own land and took vengeance upon his
+
+The king then returned to his own land and took vengeance upon his
 brother, after which he proceeded to make use of the multitudes whom
 he had brought with him from the conquered countries, partly to drag
 the huge masses of stone which were moved in the course of his reign
@@ -5175,7 +5525,8 @@ inhabitants of the towns situated in the mid-country, and not lying
 upon the river; for previously they had been obliged, after the
 subsidence of the floods, to drink a brackish water which they
 obtained from wells.
-    Sesostris also, they declared, made a division of the soil of
+
+Sesostris also, they declared, made a division of the soil of
 Egypt among the inhabitants, assigning square plots of ground of equal
 size to all, and obtaining his chief revenue from the rent which the
 holders were required to pay him year by year. If the river carried
@@ -5188,7 +5539,8 @@ think, geometry first came to be known in Egypt, whence it passed into
 Greece. The sun-dial, however, and the gnomon with the division of the
 day into twelve parts, were received by the Greeks from the
 Babylonians.
-    Sesostris was king not only of Egypt, but also of Ethiopia. He was
+
+Sesostris was king not only of Egypt, but also of Ethiopia. He was
 the only Egyptian monarch who ever ruled over the latter country. He
 left, as memorials of his reign, the stone statues which stand in
 front of the temple of Vulcan, two of which, representing himself
@@ -5203,7 +5555,8 @@ conquered the Scythians, whom Darius had failed to master. It was
 not fair, therefore, that he should erect his statue in front of the
 offerings of a king, whose deeds he had been unable to surpass."
 Darius, they say, pardoned the freedom of this speech.
-    On the death of Sesostris, his son Pheron, the priests said,
+
+On the death of Sesostris, his son Pheron, the priests said,
 mounted the throne. He undertook no warlike expeditions; being
 struck with blindness, owing to the following circumstance. The
 river had swollen to the unusual height of eighteen cubits, and had
@@ -5229,7 +5582,8 @@ among which the best worthy of mention are the two stone obelisks
 which he gave to the temple of the Sun. These are magnificent works;
 each is made of a single stone, eight cubits broad, and a hundred
 cubits in height.
-    Pheron, they said, was succeeded by a man of Memphis, whose
+
+Pheron, they said, was succeeded by a man of Memphis, whose
 name, in the language of the Greeks, was Proteus. There is a sacred
 precinct of this king in Memphis, which is very beautiful, and
 richly adorned, situated south of the great temple of Vulcan.
@@ -5241,7 +5595,8 @@ the daughter of Tyndarus; first, because she, as I have heard say,
 passed some time at the court of Proteus; and secondly, because the
 temple is dedicated to Venus the Stranger; for among all the many
 temples of Venus there is no other where the goddess bears this title.
-    The priests, in answer to my inquiries on the subject of Helen,
+
+The priests, in answer to my inquiries on the subject of Helen,
 informed me of the following particulars. When Alexander had carried
 off Helen from Sparta, he took ship and sailed homewards. On his way
 across the Egean a gale arose, which drove him from his course and
@@ -5260,7 +5615,8 @@ their master, they accused him to the Egyptians, narrating all the
 circumstances of the rape of Helen and the wrong done to Menelaus.
 These charges they brought, not only before the priests, but also
 before the warden of that mouth of the river, whose name was Thonis.
-    As soon as he received the intelligence, Thonis sent a message
+
+As soon as he received the intelligence, Thonis sent a message
 to Proteus, who was at Memphis, to this effect: "A stranger is arrived
 from Greece; he is by race a Teucrian, and has done a wicked deed in
 the country from which he is come. Having beguiled the wife of the man
@@ -5270,7 +5626,8 @@ to let him depart as he came, or shall we seize what he has
 brought?" Proteus replied, "Seize the man, be he who he may, that
 has dealt thus wickedly with his friend, and bring him before me, that
 I may hear what he will say for himself."
-    Thonis, on receiving these orders, arrested Alexander, and stopped
+
+Thonis, on receiving these orders, arrested Alexander, and stopped
 the departure of his ships; then, taking with him Alexander, Helen,
 the treasures, and also the fugitive slaves, he went up to Memphis.
 When all were arrived, Proteus asked Alexander, "who he was, and
@@ -5295,7 +5652,8 @@ Greek stranger comes in person and takes them back with him. For
 thyself and thy companions, I command thee to begone from my land
 within the space of three days- and I warn you, that otherwise at
 the end of that time you will be treated as enemies."
-    Such was the tale told me by the priests concerning the arrival of
+
+Such was the tale told me by the priests concerning the arrival of
 Helen at the court of Proteus. It seems to me that Homer was
 acquainted with this story, and while discarding it, because he
 thought it less adapted for epic poetry than the version which he
@@ -5306,34 +5664,36 @@ making him be carried out of his course on his return with Helen,
 and after divers wanderings come at last to Sidon in Phoenicia. The
 passage is in the Bravery of Diomed, and the words are as follows:-
 
-    There were the robes, many-coloured, the work of Sidonian women:
-    They from Sidon had come, what time god-shaped Alexander
-    Over the broad sea brought, that way, the high-born Helen.
+> There were the robes, many-coloured, the work of Sidonian women:
+> They from Sidon had come, what time god-shaped Alexander
+> Over the broad sea brought, that way, the high-born Helen.
 
-    In the Odyssey also the same fact is alluded to, in these words:-
+> In the Odyssey also the same fact is alluded to, in these words:-
 
-    Such, so wisely prepared, were the drugs that her stores
-      afforded,
-    Excellent; gift which once Polydamna, partner of Thonis,
-    Gave her in Egypt, where many the simples that grow in the
-      meadows,
-    Potent to cure in part, in part as potent to injure.
+> Such, so wisely prepared, were the drugs that her stores
+>     afforded,
+> Excellent; gift which once Polydamna, partner of Thonis,
+> Gave her in Egypt, where many the simples that grow in the
+>     meadows,
+> Potent to cure in part, in part as potent to injure.
 
-    Menelaus too, in the same poem, thus addresses Telemachus:-
+> Menelaus too, in the same poem, thus addresses Telemachus:-
 
-    Much did I long to return, but the Gods still kept me in Egypt-
-    Angry because I had failed to pay them their hecatombs duly.
+> Much did I long to return, but the Gods still kept me in Egypt-
+> Angry because I had failed to pay them their hecatombs duly.
 
-    In these places Homer shows himself acquainted with the voyage
+In these places Homer shows himself acquainted with the voyage
 of Alexander to Egypt, for Syria borders on Egypt, and the
 Phoenicians, to whom Sidon belongs, dwell in Syria.
-    From these various passages, and from that about Sidon especially,
+
+From these various passages, and from that about Sidon especially,
 it is clear that Homer did not write the Cypria. For there it is
 said that Alexander arrived at Ilium with Helen on the third day after
 he left Sparta, the wind having been favourable, and the sea smooth;
 whereas in the Iliad, the poet makes him wander before he brings her
 home. Enough, however, for the present of Homer and the Cypria.
-    I made inquiry of the priests whether the story which the Greeks
+
+I made inquiry of the priests whether the story which the Greeks
 tell about Ilium is a fable, or no. In reply they related the
 following particulars, of which they declared that Menelaus had
 himself informed them. After the rape of Helen, a vast army of Greeks,
@@ -5353,7 +5713,8 @@ merely laughing at them, laid siege to the town, and never rested
 until they finally took it. As, however, no Helen was found, and
 they were still told the same story, they at length believed in its
 truth, and despatched Menelaus to the court of Proteus.
-    So Menelaus travelled to Egypt, and on his arrival sailed up the
+
+So Menelaus travelled to Egypt, and on his arrival sailed up the
 river as far as Memphis, and related all that had happened. He met
 with the utmost hospitality, received Helen back unharmed, and
 recovered all his treasures. After this friendly treatment Menelaus,
@@ -5369,7 +5730,8 @@ the Egyptians could not say whither he went. The rest they knew full
 well, partly by the inquiries which they had made, and partly from the
 circumstances having taken place in their own land, and therefore
 not admitting of doubt.
-    Such is the account given by the Egyptian priests, and I am myself
+
+Such is the account given by the Egyptian priests, and I am myself
 inclined to regard as true all that they say of Helen from the
 following considerations:- If Helen had been at Troy, the
 inhabitants would, I think, have given her up to the Greeks, whether
@@ -5395,7 +5757,8 @@ Providence, as I think, so willing, that by their utter destruction it
 might be made evident to all men that when great wrongs are done,
 the gods will surely visit them with great punishments. Such, at
 least, is my view of the matter.
-    (1.) When Proteus died, Rhampsinitus, the priests informed me,
+
+(1.) When Proteus died, Rhampsinitus, the priests informed me,
 succeeded to the throne. His monuments were the western gateway of the
 temple of Vulcan, and the two statues which stand in front of this
 gateway, called by the Egyptians, the one Summer, the other Winter,
@@ -5423,7 +5786,8 @@ they lived. Then the father died, and the sons were not slow in
 setting to work: they went by night to the palace, found the stone
 in the wall of the building, and having removed it with ease,
 plundered the treasury of a round sum.
-    (2.) When the king next paid a visit to the apartment, he was
+
+(2.) When the king next paid a visit to the apartment, he was
 astonished to see that the money was sunk in some of the vessels
 wherein it was stored away. Whom to accuse, however, he knew not, as
 the seals were all perfect, and the fastenings of the room secure.
@@ -5441,7 +5805,8 @@ discovered it might not be recognised, which would have the effect
 of bringing ruin upon both. The other thief thought the advice good,
 and was persuaded to follow it then, fitting the stone into its place,
 he went home, taking with him his brother's head.
-    (3.) When day dawned, the king came into the room, and marvelled
+
+(3.) When day dawned, the king came into the room, and marvelled
 greatly to see the body of the thief in the trap without a head, while
 the building was still whole, and neither entrance nor exit was to
 be seen anywhere. In this perplexity he commanded the body of the dead
@@ -5453,7 +5818,8 @@ sorely to heart, and spoke to her surviving child, bidding him
 devise some plan or other to get back the body, and threatening,
 that if he did not exert himself, she would go herself to the king,
 and denounce him as the robber.
-    (4.) The son said all he could to persuade her to let the matter
+
+(4.) The son said all he could to persuade her to let the matter
 rest, but in vain; she still continued to trouble him, until at last
 he yielded to her importunity, and contrived as follows:- Filling some
 skins with wine, he loaded them on donkeys, which he drove before
@@ -5483,7 +5849,8 @@ shaved off the right side of all the soldiers' beards, and so left
 them. Laying his brother's body upon the asses, he carried it home
 to his mother, having thus accomplished the thing that she had
 required of him.
-    (5.) When it came to the king's ears that the thief's body was
+
+(5.) When it came to the king's ears that the thief's body was
 stolen away, he was sorely vexed. Wishing, therefore, whatever it
 might cost, to catch the man who had contrived the trick, he had
 recourse (the priests said) to an expedient, which I can scarcely
@@ -5506,7 +5873,8 @@ the thief took advantage of the darkness to hold out to her the hand
 of the corpse. Imagining it to be his own hand, she seized and held it
 fast; while the thief, leaving it in her grasp, made his escape by the
 door.
-    (6.) The king, when word was brought him of this fresh success,
+
+(6.) The king, when word was brought him of this fresh success,
 amazed at the sagacity and boldness of the man, sent messengers to all
 the towns in his dominions to proclaim a free pardon for the thief,
 and to promise him a rich reward, if he came and made himself known.
@@ -5515,7 +5883,8 @@ presence; whereupon Rhampsinitus, greatly admiring him, and looking on
 him as the most knowing of men, gave him his daughter in marriage.
 "The Egyptians," he said, "excelled all the rest of the world in
 wisdom, and this man excelled all other Egyptians."
-    The same king, I was also informed by the priests, afterwards
+
+The same king, I was also informed by the priests, afterwards
 descended alive into the region which the Greeks call Hades, and there
 played at dice with Ceres, sometimes winning and sometimes suffering
 defeat. After a while he returned to earth, and brought with him a
@@ -5533,7 +5902,8 @@ leave him to himself. Then the priest, thus blindfolded, is led
 furlongs from the city, where he stays awhile, after which he is
 brought back from the temple by the wolves, and left upon the spot
 where they first joined him.
-    Such as think the tales told by the Egyptians credible are free to
+
+Such as think the tales told by the Egyptians credible are free to
 accept them for history. For my own part, I propose to myself
 throughout my whole work faithfully to record the traditions of the
 several nations. The Egyptians maintain that Ceres and Bacchus preside
@@ -5548,7 +5918,8 @@ three thousand years. There are Greek writers, some of an earlier,
 some of a later date, who have borrowed this doctrine from the
 Egyptians, and put it forward as their own. I could mention their
 names, but I abstain from doing so.
-    Till the death of Rhampsinitus, the priests said, Egypt was
+
+Till the death of Rhampsinitus, the priests said, Egypt was
 excellently governed, and flourished greatly; but after him Cheops
 succeeded to the throne, and plunged into all manner of wickedness. He
 closed the temples, and forbade the Egyptians to offer sacrifice,
@@ -5572,7 +5943,8 @@ itself was twenty years in building. It is a square, eight hundred
 feet each way, and the height the same, built entirely of polished
 stone, fitted together with the utmost care. The stones of which it is
 composed are none of them less than thirty feet in length.
-    The pyramid was built in steps, battlement-wise, as it is
+
+The pyramid was built in steps, battlement-wise, as it is
 called, or, according to others, altar-wise. After laying the stones
 for the base, they raised the remaining stones to their places by
 means of machines formed of short wooden planks. The first machine
@@ -5596,7 +5968,8 @@ labourers, considering the length of time the work lasted, which has
 already been stated, and the additional time- no small space, I
 imagine- which must have been occupied by the quarrying of the stones,
 their conveyance, and the formation of the underground apartments.
-    The wickedness of Cheops reached to such a pitch that, when he had
+
+The wickedness of Cheops reached to such a pitch that, when he had
 spent all his treasures and wanted more, he sent his daughter to the
 stews, with orders to procure him a certain sum- how much I cannot
 say, for I was not told; she procured it, however, and at the same
@@ -5605,9 +5978,11 @@ memory, she required each man to make her a present of a stone towards
 the works which she contemplated. With these stones she built the
 pyramid which stands midmost of the three that are in front of the
 great pyramid, measuring along each side a hundred and fifty feet.
-    Cheops reigned, the Egyptians said, fifty years, and was succeeded
+
+Cheops reigned, the Egyptians said, fifty years, and was succeeded
 at his demise by Chephren, his brother.
-    Chephren imitated the conduct of his predecessor, and, like him,
+
+Chephren imitated the conduct of his predecessor, and, like him,
 built a pyramid, which did not, however, equal the dimensions of his
 brother's. Of this I am certain, for I measured them both myself. It
 has no subterraneous apartments, nor any canal from the Nile to supply
@@ -5619,13 +5994,15 @@ he lowered the height forty feet. For the basement he employed the
 many-coloured stone of Ethiopia. These two pyramids stand both on
 the same hill, an elevation not far short of a hundred feet in height.
 The reign of Chephren lasted fifty-six years.
-    Thus the affliction of Egypt endured for the space of one
+
+Thus the affliction of Egypt endured for the space of one
 hundred and six years, during the whole of which time the temples were
 shut up and never opened. The Egyptians so detest the memory of
 these kings that they do not much like even to mention their names.
 Hence they commonly call the pyramids after Philition, a shepherd
 who at that time fed his flocks about the place.
-    After Chephren, Mycerinus (they said), son of Cheops, ascended the
+
+After Chephren, Mycerinus (they said), son of Cheops, ascended the
 throne. This prince disapproved the conduct of his father, re-opened
 the temples, and allowed the people, who were ground down to the
 lowest point of misery, to return to their occupations, and to
@@ -5643,7 +6020,8 @@ entomb his child in some unusual way. He therefore caused a cow to
 be made of wood, and after the interior had been hollowed out, he
 had the whole surface coated with gold; and in this novel tomb laid
 the dead body of his daughter.
-    The cow was not placed under ground, but continued visible to my
+
+The cow was not placed under ground, but continued visible to my
 times: it was at Sais, in the royal palace, where it occupied a
 chamber richly adorned. Every day there are burnt before it
 aromatics of every kind; and all night long a lamp is kept burning
@@ -5652,7 +6030,8 @@ priests at Sais, declared to represent the various concubines of
 Mycerinus. They are colossal figures in wood, of the number of about
 twenty, and are represented naked. Whose images they really are, I
 cannot say- I can only repeat the account which was given to me.
-    Concerning these colossal figures and the sacred cow, there is
+
+Concerning these colossal figures and the sacred cow, there is
 also another tale narrated, which runs thus: "Mycerinus was
 enamoured of his daughter, and offered her violence- the damsel for
 grief hanged herself, and Mycerinus entombed her in the cow. Then
@@ -5663,7 +6042,8 @@ judgment, especially what is said about the hands of the colossal
 statues. I could plainly see that the figures had only lost their
 hands through the effect of time. They had dropped off, and were still
 lying on the ground about the feet of the statues.
-    As for the cow, the greater portion of it is hidden by a scarlet
+
+As for the cow, the greater portion of it is hidden by a scarlet
 coverture; the head and neck, however, which are visible, are coated
 very thickly with gold, and between the horns there is a
 representation in gold of the orb of the sun. The figure is not erect,
@@ -5675,7 +6055,8 @@ honour of one of their gods, whose name I am unwilling to mention in
 connection with such a matter. They say that the daughter of Mycerinus
 requested her father in her dying moments to allow her once a year
 to see the sun.
-    After the death of his daughter, Mycerinus was visited with a
+
+After the death of his daughter, Mycerinus was visited with a
 second calamity, of which I shall now proceed to give an account. An
 oracle reached him from the town of Buto, which said, "Six years
 only shalt thou live upon the earth, and in the seventh thou shalt end
@@ -5695,7 +6076,8 @@ unceasingly both day and night, moving about in the marsh-country
 and the woods, and visiting all the places that he heard were
 agreeable sojourns. His wish was to prove the oracle false, by turning
 the nights into days, and so living twelve years in the space of six.
-    He too left a pyramid, but much inferior in size to his
+
+He too left a pyramid, but much inferior in size to his
 father's. It is a square, each side of which falls short of three
 plethra by twenty feet, and is built for half its height of the
 stone of Ethiopia. Some of the Greeks call it the work of Rhodopis the
@@ -5714,7 +6096,8 @@ compensation for the murder of Aesop he should receive it, the
 person who at last came forward was Iadmon, grandson of the former
 Iadmon, and he received the compensation. Aesop therefore must
 certainly have been the former Iadmon's slave.
-    Rhodopis really arrived in Egypt under the conduct of Xantheus the
+
+Rhodopis really arrived in Egypt under the conduct of Xantheus the
 Samian; she was brought there to exercise her trade, but was
 redeemed for a vast sum by Charaxus, a Mytilenaean, the son of
 Scamandronymus, and brother of Sappho the poetess. After thus
@@ -5739,7 +6122,8 @@ Archidice, notorious throughout Greece, though not so much talked of
 as her predecessor. Charaxus, after ransoming Rhodopis, returned to
 Mytilene, and was often lashed by Sappho in her poetry. But enough has
 been said on the subject of this courtesan.
-    After Mycerinus, the priests said, Asychis ascended the throne. He
+
+After Mycerinus, the priests said, Asychis ascended the throne. He
 built the eastern gateway of the temple of Vulcan, which in size and
 beauty far surpasses the other three. All the four gateways have
 figures graven on them, and a vast amount of architectural ornament,
@@ -5759,7 +6143,8 @@ comparison with the stone pyramids; for I surpass them all, as much as
 Jove surpasses the other gods. A pole was plunged into a lake, and the
 mud which clave thereto was gathered; and bricks were made of the mud,
 and so I was formed." Such were the chief actions of this prince.
-    He was succeeded on the throne, they said, by a blind man, a
+
+He was succeeded on the throne, they said, by a blind man, a
 native of Anysis, whose own name also was Anysis. Under him Egypt
 was invaded by a vast army of Ethiopians, led by Sabacos, their
 king. The blind Anysis fled away to the marsh-country, and the
@@ -5779,7 +6164,8 @@ well deserves to be described. Other temples may be grander, and may
 have cost more in the building, but there is none so pleasant to the
 eye as this of Bubastis. The Bubastis of the Egyptians is the same
 as the Artemis (Diana) of the Greeks.
-    The following is a description of this edifice:- Excepting the
+
+The following is a description of this edifice:- Excepting the
 entrance, the whole forms an island. Two artificial channels from
 the Nile, one on either side of the temple, encompass the building,
 leaving only a narrow passage by which it is approached. These
@@ -5799,7 +6185,8 @@ passes straight through the market-place with an easterly direction,
 and is about four hundred feet in width. Trees of an extraordinary
 height grow on each side the road, which conducts from the temple of
 Bubastis to that of Mercury.
-    The Ethiopian finally quitted Egypt, the priests said, by a
+
+The Ethiopian finally quitted Egypt, the priests said, by a
 hasty flight under the following circumstances. He saw in his sleep
 a vision:- a man stood by his side, and counselled him to gather
 together all the priests of Egypt and cut every one of them asunder.
@@ -5813,7 +6200,8 @@ now (he thought) expired. For before he left Ethiopia he had been told
 by the oracles which are venerated there, that he was to reign fifty
 years over Egypt. The years were now fled, and the dream had come to
 trouble him; he therefore of his own accord withdrew from the land.
-    As soon as Sabacos was gone, the blind king left the marshes,
+
+As soon as Sabacos was gone, the blind king left the marshes,
 and resumed the government. He had lived in the marsh-region the whole
 time, having formed for himself an island there by a mixture of
 earth and ashes. While he remained, the natives had orders to bring
@@ -5824,7 +6212,8 @@ this island, which continued unknown to the kings of Egypt who
 preceded him on the throne for the space of seven hundred years and
 more. The name which it bears is Elbo. It is about ten furlongs across
 in each direction.
-    The next king, I was told, was a priest of Vulcan, called
+
+The next king, I was told, was a priest of Vulcan, called
 Sethos. This monarch despised and neglected the warrior class of the
 Egyptians, as though he did not need their services. Among other
 indignities which he offered them, he took from them the lands which
@@ -5850,7 +6239,8 @@ fell, as they had no arms with which to defend themselves. There
 stands to this day in the temple of Vulcan, a stone statue of
 Sethos, with a mouse in his hand, and an inscription to this effect-
 "Look on me, and learn to reverence the gods."
-    Thus far I have spoken on the authority of the Egyptians and their
+
+Thus far I have spoken on the authority of the Egyptians and their
 priests. They declare that from their first king to this
 last-mentioned monarch, the priest of Vulcan, was a period of three
 hundred and forty-one generations; such, at least, they say, was the
@@ -5867,7 +6257,8 @@ wonted course, twice rising where he now sets, and twice setting where
 he now rises. Egypt was in no degree affected by these changes; the
 productions of the land, and of the river, remained the same; nor
 was there anything unusual either in the diseases or the deaths.
-    When Hecataeus the historian was at Thebes, and, discoursing of
+
+When Hecataeus the historian was at Thebes, and, discoursing of
 his genealogy, traced his descent to a god in the person of his
 sixteenth ancestor, the priests of Jupiter did to him exactly as
 they afterwards did to me, though I made no boast of my family. They
@@ -5888,7 +6279,8 @@ and the number of them was three hundred and forty-five; through the
 whole series Piromis followed Piromis, and the line did not run up
 either to a god or a hero. The word Piromis may be rendered
 "gentleman."
-    Of such a nature were, they said, the beings represented by
+
+Of such a nature were, they said, the beings represented by
 these images- they were very far indeed from being gods. However, in
 the times anterior to them it was otherwise; then Egypt had gods for
 its rulers, who dwelt upon the earth with men, one being always
@@ -5896,7 +6288,8 @@ supreme above the rest. The last of these was Horus, the son of
 Osiris, called by the Greeks Apollo. He deposed Typhon, and ruled over
 Egypt as its last god-king. Osiris is named Dionysus (Bacchus) by
 the Greeks.
-    The Greeks regard Hercules, Bacchus, and Pan as the youngest of
+
+The Greeks regard Hercules, Bacchus, and Pan as the youngest of
 the gods. With the Egyptians, contrariwise, Pan is exceedingly
 ancient, and belongs to those whom they call "the eight gods," who
 existed before the rest. Hercules is one of the gods of the second
@@ -5914,7 +6307,8 @@ than sixteen hundred years; to that of Hercules, son of Alcmena, is
 about nine hundred; while to the time of Pan, son of Penelope (Pan,
 according to the Greeks, was her child by Mercury), is a shorter space
 than to the Trojan war, eight hundred years or thereabouts.
-    It is open to all to receive whichever he may prefer of these
+
+It is open to all to receive whichever he may prefer of these
 two traditions; my own opinion about them has been already declared.
 If indeed these gods had been publicly known, and had grown old in
 Greece, as was the case with Hercules, son of Amphitryon, Bacchus, son
@@ -5929,7 +6323,8 @@ these gods became known to the Greeks after those of their other
 deities, and that they count their birth from the time when they first
 acquired a knowledge of them. Thus far my narrative rests on the
 accounts given by the Egyptians.
-    In what follows I have the authority, not of the Egyptians only,
+
+In what follows I have the authority, not of the Egyptians only,
 but of others also who agree with them. I shall speak likewise in part
 from my own observation. When the Egyptians regained their liberty
 after the reign of the priest of Vulcan, unable to continue any
@@ -5944,7 +6339,8 @@ first establishment of the twelve kingdoms an oracle had declared-
 "That he among them who should pour in Vulcan's temple a libation from
 a cup of bronze would become monarch of the whole land of Egypt."
 Now the twelve held their meetings at all the temples.
-    To bind themselves yet more closely together, it seemed good to
+
+To bind themselves yet more closely together, it seemed good to
 them to leave a common monument. In pursuance of this resolution
 they made the Labyrinth which lies a little above Lake Moeris, in
 the neighbourhood of the place called the city of Crocodiles. I
@@ -5979,7 +6375,8 @@ surrounded with a colonnade which was built of white stones
 exquisitely fitted together. At the corner of the Labyrinth stands a
 pyramid, forty fathoms high, with large figures engraved on it,
 which is entered by a subterranean passage.
-    Wonderful as is the Labyrinth, the work called the Lake of Moeris,
+
+Wonderful as is the Labyrinth, the work called the Lake of Moeris,
 which is close by the Labyrinth, is yet more astonishing. The
 measure of its circumference is sixty schoenes, or three thousand
 six hundred furlongs, which is equal to the entire length of Egypt
@@ -5999,7 +6396,8 @@ into the lake from the river, and for the next six months into the
 river from the lake. it runs outward it returns a talent of silver
 daily to the royal treasury from the fish that are taken, but when the
 current is the other way the return sinks to one-third of that sum.
-    The natives told me that there was a subterranean passage from
+
+The natives told me that there was a subterranean passage from
 this lake to the Libyan Syrtis, running westward into the interior
 by the hills above Memphis. As I could not anywhere see the earth
 which had been taken out when the excavation was made, and I was
@@ -6020,7 +6418,8 @@ they did it by day and not by night; for as fast as the earth was dug,
 they carried it to the Nile, which they knew would disperse it far and
 wide. Such was the account which I received of the formation of this
 lake.
-    The twelve kings for some time dealt honourably by one another,
+
+The twelve kings for some time dealt honourably by one another,
 but at length it happened that on a certain occasion, when they had
 met to worship in the temple of Vulcan, the high-priest on the last
 day of the festival, in bringing forth the golden goblets from which
@@ -6041,7 +6440,8 @@ not think it would be just to kill him; but determined, instead, to
 strip him of the chief part of his power and to banish him to the
 marshes, forbidding him to leave them or to hold any communication
 with the rest of Egypt.
-    This was the second time that Psammetichus had been driven into
+
+This was the second time that Psammetichus had been driven into
 banishment. On a former occasion he had fled from Sabacos the
 Ethiopian, who had put his father Necos to death; and had taken refuge
 in Syria from whence, after the retirement of the Ethiop in
@@ -6067,7 +6467,8 @@ at once that the oracle was accomplished, made friendly advances to
 the strangers, and engaged them, by splendid promises, to enter into
 his service. He then, with their aid and that of the Egyptians who
 espoused his cause, attacked the eleven and vanquished them.
-    When Psammetichus had thus become sole monarch of Egypt, he
+
+When Psammetichus had thus become sole monarch of Egypt, he
 built the southern gateway of the temple of Vulcan in Memphis, and
 also a court for Apis, in which Apis is kept whenever he makes his
 appearance in Egypt. This court is opposite the gateway of
@@ -6075,7 +6476,8 @@ Psammetichus, and is surrounded with a colonnade and adorned with a
 multitude of figures. Instead of pillars, the colonnade rests upon
 colossal statues, twelve cubits in height. The Greek name for Apis
 is Epaphus.
-    To the Ionians and Carians who had lent him their assistance
+
+To the Ionians and Carians who had lent him their assistance
 Psammetichus assigned as abodes two places opposite to each other, one
 on either side of the Nile, which received the name of "the Camps." He
 also made good all the splendid promises by which he had gained
@@ -6096,7 +6498,8 @@ docks where their vessels were laid up and the ruins of their
 habitations were still to be seen in my day at the place where they
 dwelt originally, before they were removed by Amasis. Such was the
 mode by which Psammetichus became master of Egypt.
-    I have already made mention more than once of the Egyptian oracle,
+
+I have already made mention more than once of the Egyptian oracle,
 and, as it well deserves notice, I shall now proceed to give an
 account of it more at length. It is a temple of Latona, situated in
 the midst of a great city on the Sebennytic mouth of the Nile, at some
@@ -6109,7 +6512,8 @@ was a chapel in the enclosure made of a single stone, the length and
 height of which were the same, each wall being forty cubits square,
 and the whole a single block! Another block of stone formed the roof
 and projected at the eaves to the extent of four cubits.
-    This, as I have said, was what astonished me the most, of all
+
+This, as I have said, was what astonished me the most, of all
 the things that were actually to be seen about the temple. The next
 greatest marvel was the island called Chemmis. This island lies in the
 middle of a broad and deep lake close by the temple, and the natives
@@ -6135,12 +6539,14 @@ took the idea, which is found in none of the earlier poets, of
 making Diana the daughter of Ceres.) The island, therefore, in
 consequence of this event, was first made to float. Such at least is
 the account which the Egyptians give.
-    Psammetichus ruled Egypt for fifty-four years, during
+
+Psammetichus ruled Egypt for fifty-four years, during
 twenty-nine of which he pressed the siege of Azotus without
 intermission, till finally he took the place. Azotus is a great town
 in Syria. Of all the cities that we know, none ever stood so long a
 siege.
-    Psammetichus left a son called Necos, who succeeded him upon the
+
+Psammetichus left a son called Necos, who succeeded him upon the
 throne. This prince was the first to attempt the construction of the
 canal to the Red Sea- a work completed afterwards by Darius the
 Persian- the length of which is four days' journey, and the width such
@@ -6164,7 +6570,8 @@ excavation. He at length desisted from his undertaking, in consequence
 of an oracle which warned him "that he was labouring for the
 barbarian." The Egyptians call by the name of barbarians all such as
 speak a language different from their own.
-    Necos, when he gave up the construction of the canal, turned all
+
+Necos, when he gave up the construction of the canal, turned all
 his thoughts to war, and set to work to build a fleet of triremes,
 some intended for service in the northern sea, and some for the
 navigation of the Erythraean. These last were built in the Arabian
@@ -6176,7 +6583,8 @@ city of Syria. The dress which he wore on these occasions he sent to
 Branchidae in Milesia, as an offering to Apollo. After having
 reigned in all sixteen years, Necos died, and at his death
 bequeathed the throne to his son Psammis.
-    In the reign of Psammis, ambassadors from Elis arrived in Egypt,
+
+In the reign of Psammis, ambassadors from Elis arrived in Egypt,
 boasting that their arrangements for the conduct of the Olympic
 Games were the best and fairest that could be devised, and fancying
 that not even the Egyptians, who surpassed all other nations in
@@ -6198,7 +6606,8 @@ fairness, and if this was the object of their coming to Egypt, they
 advised them to confine the contests to strangers, and allow no native
 of Elis to be a candidate." Such was the advice which the Egyptians
 gave to the Eleans.
-    Psammis reigned only six years. He attacked Ethiopia, and died
+
+Psammis reigned only six years. He attacked Ethiopia, and died
 almost directly afterwards. Apries, his son, succeeded him upon the
 throne, who, excepting Psammetichus, his great-grandfather, was the
 most prosperous of all the kings that ever ruled over Egypt. The
@@ -6214,7 +6623,8 @@ believed he had wished a vast number of them to be slain in order that
 he himself might reign with more security over the rest of the
 Egyptians. Indignant therefore at this usage, the soldiers who
 returned and the friends of the slain broke instantly into revolt.
-    Apries, on learning these circumstances, sent Amasis to the rebels
+
+Apries, on learning these circumstances, sent Amasis to the rebels
 to appease the tumult by persuasion. Upon his arrival, as he was seek.
 ing to restrain the malcontents by his exhortations, one of them,
 coming behind him, put a helmet on his head, saying, as he put it
@@ -6243,7 +6653,8 @@ hitherto espoused the cause of Apries, when they saw a man of such
 note among them so shamefully outraged, without a moment's
 hesitation went over to the rebels, and put themselves at the disposal
 of Amasis.
-    Apries, informed of this new calamity, armed his mercenaries,
+
+Apries, informed of this new calamity, armed his mercenaries,
 and led them against the Egyptians: this was a body of Carians and
 Ionians, numbering thirty thousand men, which was now with him at
 Says, where his palace stood- a vast building, well worthy of
@@ -6251,18 +6662,21 @@ notice. The army of Apries marched out to attack the host of the
 Egyptians, while that of Amasis went forth to fight the strangers; and
 now both armies drew near the city of Momemphis and prepared for the
 coming fight.
-    The Egyptians are divided into seven distinct classes- these
+
+The Egyptians are divided into seven distinct classes- these
 are, the priests, the warriors, the cowherds, the swineherds, the
 tradesmen, the interpreters, and the boatmen. Their titles indicate
 their occupations. The warriors consist of Hermotybians and
 Calascirians, who come from different cantons, the whole of Egypt
 being parcelled out into districts bearing this name.
-    The following cantons furnish the Hermotybians:- The cantons of
+
+The following cantons furnish the Hermotybians:- The cantons of
 Busiris, Sais, Chemmis, Papremis, that of the island called
 Prosopitis, and half of Natho. They number, when most numerous, a
 hundred and sixty thousand. None of them ever practices a trade, but
 all are given wholly to war.
-    The cantons of the Calascirians are different- they include the
+
+The cantons of the Calascirians are different- they include the
 following:- The cantons of Thebes, Bubastis, Aphthis, Tanis, Mendes,
 Sebennytus, Athribis, Pharbaethus, Thmuis, Onuphis, Anysis, and
 Myecphoris- this last canton consists of an island which lies over
@@ -6271,7 +6685,8 @@ number, have amounted to two hundred and fifty thousand. Like the
 Hermotybians, they are forbidden to pursue any trade, and devote
 themselves entirely to warlike exercises, the son following the
 father's calling.
-    Whether the Greeks borrowed from the Egyptians their notions about
+
+Whether the Greeks borrowed from the Egyptians their notions about
 trade, like so many others, I cannot say for certain. I have
 remarked that the Thracians, the Scyths, the Persians, the Lydians,
 and almost all other barbarians, hold the citizens who practice
@@ -6280,7 +6695,8 @@ esteem as noble those who keep aloof from handicrafts, and
 especially honour such as are given wholly to war. These ideas prevail
 throughout the whole of Greece, particularly among the Lacedaemonians.
 Corinth is the place where mechanics are least despised.
-    The warrior class in Egypt had certain special privileges in which
+
+The warrior class in Egypt had certain special privileges in which
 none of the rest of the Egyptians participated, except the priests. In
 the first place each man had twelve arurae of land assigned him free
 from tax. (The arura is a square of a hundred Egyptian cubits, the
@@ -6292,7 +6708,8 @@ of Hermotybians, formed in alternate years the body-guard of the king;
 and during their year of service these persons, besides their
 arurae, received a daily portion of meat and drink, consisting of five
 pounds of baked bread, two pounds of beef, and four cups of wine.
-    When Apries, at the head of his mercenaries, and Amasis, in
+
+When Apries, at the head of his mercenaries, and Amasis, in
 command of the whole native force of the Egyptians, encountered one
 another near the city of Momemphis, an engagement presently took
 place. The foreign troops fought bravely, but were overpowered by
@@ -6319,14 +6736,16 @@ stands in the court, and is a spacious cloister built of stone and
 adorned with pillars carved so as to resemble palm trees, and with
 other sumptuous ornaments. Within the cloister is a chamber with
 folding doors, behind which lies the sepulchre of the king.
-    Here too, in this same precinct of Minerva at Sais, is the
+
+Here too, in this same precinct of Minerva at Sais, is the
 burial-place of one whom I think it not right to mention in such a
 connection. It stands behind the temple, against the backwall, which
 it entirely covers. There are also some large stone obelisks in the
 enclosure, and there is a lake near them, adorned with an edging of
 stone. In form it is circular, and in size, as it seemed to me,
 about equal to the lake in Delos called "the Hoop."
-    On this lake it is that the Egyptians represent by night his
+
+On this lake it is that the Egyptians represent by night his
 sufferings whose name I refrain from mentioning, and this
 representation they call their Mysteries. I know well the whole course
 of the proceedings in these ceremonies, but they shall not pass my
@@ -6338,7 +6757,8 @@ women of the Peloponnese. Afterwards, when the inhabitants of the
 peninsula were driven from their homes by the Dorians, the rites
 perished. Only in Arcadia, where the natives remained and were not
 compelled to migrate, their observance continued.
-    After Apries had been put to death in the way that I have
+
+After Apries had been put to death in the way that I have
 described above, Amasis reigned over Egypt. He belonged to the
 canton of Sais, being a native of the town called Siouph. At first his
 subjects looked down on him and held him in small esteem, because he
@@ -6359,7 +6779,8 @@ foot-pan. If he was a private person formerly, yet now he had come
 to be their king. And so he bade them honour and reverence him."
 Such was the mode in which he won over the Egyptians, and brought them
 to be content to do him service.
-    The following was the general habit of his life:- from early
+
+The following was the general habit of his life:- from early
 dawn to the time when the forum is wont to fill, he sedulously
 transacted all the business that was brought before him; during the
 remainder of the day he drank and joked with his guests, passing the
@@ -6378,7 +6799,8 @@ with men. If they give themselves constantly to serious work, and
 never indulge awhile in pastime or sport, they lose their senses,
 and become mad or moody. Knowing this, I divide my life between
 pastime and business." Thus he answered his friends.
-    It is said that Amasis, even while he was a private man, had the
+
+It is said that Amasis, even while he was a private man, had the
 same tastes for drinking and jesting, and was averse to engaging in
 any serious employment. He lived in constant feasts and revelries, and
 whenever his means failed him, he roamed about and robbed people. On
@@ -6392,7 +6814,8 @@ sacrifice, since he regarded them as utterly worthless and their
 oracles as wholly false: but the gods who had detected his guilt he
 considered to be true gods whose oracles did not deceive, and these he
 honoured exceedingly.
-    First of all, therefore, he built the gateway of the temple of
+
+First of all, therefore, he built the gateway of the temple of
 Minerva at Sais, which is an astonishing work, far surpassing all
 other buildings of the same kind both in extent and height, and
 built with stones of rare size and excellency. In the next place, he
@@ -6418,7 +6841,8 @@ by Amasis who, regarding it as an omen, would not allow the chamber to
 be moved forward any farther. Some, however, say that one of the
 workmen engaged at the levers was crushed and killed by the mass,
 and that this was the reason of its being left where it now stands.
-    To the other temples of much note Amasis also made magnificent
+
+To the other temples of much note Amasis also made magnificent
 offerings- at Memphis, for instance, he gave the recumbent colossus in
 front of the temple of Vulcan, which is seventy-five feet long. Two
 other colossal statues stand on the same base, each twenty feet
@@ -6426,7 +6850,8 @@ high, carved in the stone of Ethiopia, one on either side of the
 temple. There is also a stone colossus of the same size at Says,
 recumbent like that at Memphis. Amasis finally built the temple of
 Isis at Memphis, a vast structure, well worth seeing.
-    It is said that the reign of Amasis was the most prosperous time
+
+It is said that the reign of Amasis was the most prosperous time
 that Egypt ever saw,- the river was more liberal to the land, and
 the land brought forth more abundantly for the service of man than had
 ever been known before; while the number of inhabited cities was not
@@ -6437,7 +6862,8 @@ do so, and to prove that he got an honest livelihood, should be put to
 death. Solon the Athenian borrowed this law from the Egyptians, and
 imposed it on his countrymen, who have observed it ever since. It is
 indeed an excellent custom.
-    Amasis was partial to the Greeks, and among other favours which he
+
+Amasis was partial to the Greeks, and among other favours which he
 granted them, gave to such as liked to settle in Egypt the city of
 Naucratis for their residence. To those who only wished to trade
 upon the coast, and did not want to fix their abode in the country, he
@@ -6453,14 +6879,16 @@ governors of the factory; the other cities which claim a share in
 the building, claim what in no sense belongs to them. Three nations,
 however, consecrated for themselves separate temples- the Eginetans
 one to Jupiter, the Samians to Juno, and the Milesians to Apollo.
-    In ancient times there was no factory but Naucratis in the whole
+
+In ancient times there was no factory but Naucratis in the whole
 of Egypt; and if a person entered one of the other mouths of the Nile,
 he was obliged to swear that he had not come there of his own free
 will. Having so done, he was bound to sail in his ship to the
 Canobic mouth, or were that impossible owing to contrary winds, he
 must take his wares by boat all round the Delta, and so bring them
 to Naucratis, which had an exclusive privilege.
-    It happened in the reign of Amasis that the temple of Delphi had
+
+It happened in the reign of Amasis that the temple of Delphi had
 been accidentally burnt, and the Amphictyons had contracted to have it
 rebuilt for three hundred talents, of which sum one-fourth was to be
 furnished by the Delphians. Under these circumstances the Delphians
@@ -6468,7 +6896,8 @@ went from city to city begging contributions, and among their other
 wanderings came to Egypt and asked for help. From few other places did
 they obtain so much- Amasis gave them a thousand talents of alum,
 and the Greek settlers twenty minae.
-    A league was concluded by Amasis with the Cyrenaeans, by which
+
+A league was concluded by Amasis with the Cyrenaeans, by which
 Cyrene and Egypt became close friends and allies. He likewise took a
 wife from that city, either as a sign of his friendly feeling, or
 because he had a fancy to marry a Greek woman. However this may be,
@@ -6489,7 +6918,8 @@ caused to be made, and sent to Cyrene continued there to my day,
 standing with its face looking outwards from the city. Ladice herself,
 when Cambyses conquered Egypt, suffered no wrong; for Cambyses, on
 learning of her who she was, sent her back unharmed to her country.
-    Besides the marks of favour already mentioned, Amasis also
+
+Besides the marks of favour already mentioned, Amasis also
 enriched with offerings many of the Greek temples. He sent to Cyrene a
 statue of Minerva covered with plates of gold, and a painted
 likeness of himself. To the Minerva of Lindus he gave two statues in
@@ -6503,10 +6933,11 @@ touched there in their flight from the sons of Aegyptus, and built the
 temple of Minerva. Such were the offerings of Amasis. He likewise took
 Cyprus, which no man had ever done before, and compelled it to pay him
 a tribute.
-                      The Third Book, Entitled
-                               THALIA
 
-    The above-mentioned Amasis was the Egyptian king against whom
+III THALIA
+----------
+
+The above-mentioned Amasis was the Egyptian king against whom
 Cambyses, son of Cyrus, made his expedition; and with him went an army
 composed of the many nations under his rule, among them being included
 both Ionic and Aeolic Greeks. The reason of the invasion was the
@@ -6537,7 +6968,8 @@ and master, until he rebelled against him, together with the rest of
 the Egyptians, and put him to death." It was this speech, and the
 cause of quarrel it disclosed, which roused the anger of Cambyses, son
 of Cyrus, and brought his arms upon Egypt. Such is the Persian story.
-    The Egyptians, however, claim Cambyses as belonging to them,
+
+The Egyptians, however, claim Cambyses as belonging to them,
 declaring that he was the son of this Nitetis. It was Cyrus, they say,
 and not Cambyses, who sent to Amasis for his daughter. But here they
 mis-state the truth. Acquainted as they are beyond all other men
@@ -6548,7 +6980,8 @@ son of Cassandane, the daughter of Pharnaspes, an Achaemenian, and not
 of this Egyptian. But the fact is that they pervert history in order
 to claim relationship with the house of Cyrus. Such is the truth of
 this matter.
-    I have also heard another account, which I do not at all
+
+I have also heard another account, which I do not at all
 believe: that a Persian lady came to visit the wives of Cyrus, and
 seeing how tall and beautiful were the children of Cassandane, then
 standing by, broke out into loud praise of them, and admired them
@@ -6561,7 +6994,8 @@ you." He was but ten years old, as the tale runs, when he said this,
 and astonished all the women, yet he never forgot it afterwards; and
 on this account, they say, when he came to be a man, and mounted the
 throne, he made his expedition against Egypt.
-    There was another matter, quite distinct, which helped to bring
+
+There was another matter, quite distinct, which helped to bring
 about the expedition. One of the mercenaries of Amasis, a
 Halicarnassian, Phanes by name, a man of good judgment, and a brave
 warrior, dissatisfied for some reason or other with his master,
@@ -6579,7 +7013,8 @@ the desert, when Phanes arrived, and not only told him all the secrets
 of Amasis, but advised him also how the desert might be crossed. He
 counselled him to send an ambassador to the king of the Arabs, and ask
 him for safe-conduct through the region.
-    Now the only entrance into Egypt is by this desert: the country
+
+Now the only entrance into Egypt is by this desert: the country
 from Phoenicia to the borders of the city Cadytis belongs to the
 people called the Palaestine Syrians; from Cadytis, which it appears
 to me is a city almost as large as Sardis, the marts upon the coast
@@ -6590,7 +7025,8 @@ the tale goes that Typhon hid himself, Egypt begins. Now the whole
 tract between Jenysus on the one side, and Lake Serbonis and Mount
 Casius on the other, and this is no small space, being as much as
 three days' journey, is a dry desert without a drop of water.
-    I shall now mention a thing of which few of those who sail to
+
+I shall now mention a thing of which few of those who sail to
 Egypt are aware. Twice a year wine is brought into Egypt from every
 part of Greece, as well as from Phoenicia, in earthen jars; and yet in
 the whole country you will nowhere see, as I may say, a single jar.
@@ -6602,14 +7038,16 @@ them to this desert tract of Syria. And so it comes to pass that all
 the jars which enter Egypt year by year, and are there put up to sale,
 find their way into Syria, whither all the old jars have gone before
 them.
-    This way of keeping the passage into Egypt fit for use by
+
+This way of keeping the passage into Egypt fit for use by
 storing water there, was begun by the Persians so soon as they
 became masters of that country. As, however, at the time of which we
 speak the tract had not yet been so supplied, Cambyses took the advice
 of his Halicarnassian guest, and sent messengers to the Arabian to beg
 a safe-conduct through the region. The Arabian granted his prayer, and
 each pledged faith to the other.
-    The Arabs keep such pledges more religiously than almost any other
+
+The Arabs keep such pledges more religiously than almost any other
 people. They plight faith with the forms following. When two men would
 swear a friendship, they stand on each side of a third: he with a
 sharp stone makes a cut on the inside of the hand of each near the
@@ -6623,7 +7061,8 @@ Urania; and they say that in their mode of cutting the hair, they
 follow Bacchus. Now their practice is to cut it in a ring, away from
 the temples. Bacchus they call in their language Orotal, and Urania,
 Alilat.
-    When therefore the Arabian had pledged his faith to the messengers
+
+When therefore the Arabian had pledged his faith to the messengers
 of Cambyses, he straightway contrived as follows:- he filled a
 number of camels' skins with water, and loading therewith all the live
 camels that he possessed, drove them into the desert, and awaited
@@ -6637,7 +7076,8 @@ the desert, and so brought the water to certain cisterns which he
 had dug in the desert to receive it. It is a twelve days' journey from
 the river to this desert tract. And the water, they say, was brought
 through three different pipes to three separate places.
-    Psammenitus, son of Amasis, lay encamped at the mouth of the.
+
+Psammenitus, son of Amasis, lay encamped at the mouth of the.
 Nile, called the Pelusiac, awaiting Cambyses. For Cambyses, when he
 went up against Egypt, found Amasis no longer in life: he had died
 after ruling Egypt forty and four years, during all which time no
@@ -6649,7 +7089,8 @@ Thebes, a thing which never happened before, and which, to the present
 time, has never happened again, as the Thebans themselves testify.
 In Upper Egypt it does not usually rain at all; but on this
 occasion, rain fell at Thebes in small drops.
-    The Persians crossed the desert, and, pitching their camp close to
+
+The Persians crossed the desert, and, pitching their camp close to
 the Egyptians, made ready for battle. Hereupon the mercenaries in
 the pay of Psammenitus, who were Greeks and Carians, full of anger
 against Phanes for having brought a foreign army upon Egypt, bethought
@@ -6663,7 +7104,8 @@ poured into the bowl, and all the soldiers tasted of the blood, and so
 they went to the battle. Stubborn was the fight which followed, and it
 was not till vast numbers had been slain upon both sides, that the
 Egyptians turned and fled.
-    On the field where this battle was fought I saw a very wonderful
+
+On the field where this battle was fought I saw a very wonderful
 thing which the natives pointed out to me. The bones of the slain
 lie scattered upon the field in two lots, those of the Persians in one
 place by themselves, as the bodies lay at the first- those of the
@@ -6682,7 +7124,8 @@ from the first, wearing turbans upon their heads. What I have here
 mentioned I saw with my own eyes, and I observed also the like at
 Papremis, in the case of the Persians who were killed with
 Achaeamenes, the son of Darius, by Inarus the Libyan.
-    The Egyptians who fought in the battle, no sooner turned their
+
+The Egyptians who fought in the battle, no sooner turned their
 backs upon the enemy, than they fled away in complete disorder to
 Memphis, where they shut themselves up within the walls. Hereupon
 Cambyses sent a Mytilenaean vessel, with a Persian herald on board,
@@ -6700,7 +7143,8 @@ graciously, but not so the gifts of the Cyrenaeans. They had sent no
 more than five hundred minx of silver, which Cambyses, I imagine,
 thought too little. He therefore snatched the money from them, and
 with his own hands scattered it among his soldiers.
-    Ten days after the fort had fallen, Cambyses resolved to try the
+
+Ten days after the fort had fallen, Cambyses resolved to try the
 spirit of Psammenitus, the Egyptian king, whose whole reign had been
 but six months. He therefore had him set in one of the suburbs, and
 many other Egyptians with him, and there subjected him to insult.
@@ -6746,7 +7190,8 @@ Even Cambyses himself was touched with pity, and he forthwith gave
 an order that the son of Psammenitus should be spared from the
 number of those appointed to die, and Psammenitus himself brought from
 the suburb into his presence.
-    The messengers were too late to save the life of Psammenitus' son,
+
+The messengers were too late to save the life of Psammenitus' son,
 who had been cut in pieces the first of all; but they took Psammenitus
 himself and brought him before the king. Cambyses allowed him to
 live with him, and gave him no more harsh treatment; nay, could he
@@ -6764,7 +7209,8 @@ was discovered to be stirring up revolt in Egypt, wherefore
 Cambyses, when his guilt clearly appeared, compelled him to drink
 bull's blood, which presently caused his death. Such was the end of
 Psammenitus.
-    After this Cambyses left Memphis, and went to Sais, wishing to
+
+After this Cambyses left Memphis, and went to Sais, wishing to
 do that which he actually did on his arrival there. He entered the
 palace of Amasis, and straightway commanded that the body of the
 king should be brought forth from the sepulchre. When the attendants
@@ -6796,7 +7242,8 @@ entrance, commanding his son to bury him, when he died, in the
 furthest recess of the same sepulchre. For my own part I do not
 believe that these orders were ever given by Amasis; the Egyptians, as
 it seems to me, falsely assert it, to save their own dignity.
-    After this Cambyses took counsel with himself, and planned three
+
+After this Cambyses took counsel with himself, and planned three
 expeditions. One was against the Carthaginians, another against the
 Ammonians, and a third against the long-lived Ethiopians, who dwelt in
 that part of Libya which borders upon the southern sea. He judged it
@@ -6806,14 +7253,16 @@ into Ethiopia, under the pretence of carrying presents to the king,
 but in reality to take note of all they saw, and especially to observe
 whether there was really what is called "the table of the Sun" in
 Ethiopia.
-    Now the table of the Sun according to the accounts given of it may
+
+Now the table of the Sun according to the accounts given of it may
 be thus described:- It is a meadow in the skirts of their city full of
 the boiled flesh of all manner of beasts, which the magistrates are
 careful to store with meat every night, and where whoever likes may
 come and eat during the day. The people of the land say that the earth
 itself brings forth the food. Such is the description which is given
 of this table.
-    When Cambyses had made up his mind that the spies should go, he
+
+When Cambyses had made up his mind that the spies should go, he
 forthwith sent to Elephantine for certain of the Icthyophagi who
 were acquainted with the Ethiopian tongue; and, while they were
 being fetched, issued orders to his fleet to sail against Carthage.
@@ -6827,7 +7276,8 @@ the war upon the Phoenicians, because they had yielded themselves to
 the Persians, and because upon the Phoenicians all his sea-service
 depended. The Cyprians had also joined the Persians of their own
 accord, and took part with them in the expedition against Egypt.
-    As soon as the Icthyophagi arrived from Elephantine, Cambyses,
+
+As soon as the Icthyophagi arrived from Elephantine, Cambyses,
 having told them what they were to say, forthwith despatched them into
 Ethiopia with these following gifts: to wit, a purple robe, a gold
 chain for the neck, armlets, an alabaster box of myrrh, and a cask
@@ -6837,7 +7287,8 @@ they differ greatly from the rest of mankind, and particularly in
 the way they choose their kings; for they find out the man who is
 the tallest of all the citizens, and of strength equal to his
 height, and appoint him to rule over them.
-    The Icthyophagi on reaching this people, delivered the gifts to
+
+The Icthyophagi on reaching this people, delivered the gifts to
 the king of the country, and spoke as follows:- "Cambyses, king of the
 Persians, anxious to become thy ally and sworn friend, has sent us
 to hold converse with thee, and to bear thee the gifts thou seest,
@@ -6854,7 +7305,8 @@ this strength thus easily, then let him come with an army of
 superior strength against the long-lived Ethiopians- till then, let
 him thank the gods that they have not put it into the heart of the
 sons of the Ethiops to covet countries which do not belong to them.'
-    So speaking, he unstrung the bow, and gave it into the hands of
+
+So speaking, he unstrung the bow, and gave it into the hands of
 the messengers. Then, taking the purple robe, he asked them what it
 was, and how it had been made. They answered truly, telling him
 concerning the purple, and the art of the dyer- whereat he observed
@@ -6876,7 +7328,8 @@ indeed he was sure they never would have lived so long as eighty
 years, except for the refreshment they got from that drink (meaning
 the wine), wherein he confessed the Persians surpassed the
 Ethiopians."
-    The Icthyophagi then in their turn questioned the king
+
+The Icthyophagi then in their turn questioned the king
 concerning the term of life, and diet of his people, and were told
 that most of them lived to be a hundred and twenty years old, while
 some even went beyond that age- they ate boiled flesh, and had for
@@ -6893,7 +7346,8 @@ prisoners were all of them bound with fetters of gold. Among these
 Ethiopians copper is of all metals the most scarce and valuable. After
 they had seen the prison, they were likewise shown what is called "the
 table of the Sun."
-    Also, last of all, they were allowed to behold the coffins of
+
+Also, last of all, they were allowed to behold the coffins of
 the Ethiopians, which are made (according to report) of crystal, after
 the following fashion:- When the dead body has been dried, either in
 the Egyptian, or in some other manner, they cover the whole with
@@ -6908,7 +7362,8 @@ bare. The next of kin keep the crystal pillar in their houses for a
 full year from the time of the death, and give it the first fruits
 continually, and honour it with sacrifice. After the year is out
 they bear the pillar forth, and set it up near the town.
-    When the spies had now seen everything, they returned back to
+
+When the spies had now seen everything, they returned back to
 Egypt, and made report to Cambyses, who was stirred to anger by
 their words. Forthwith he set out on his march against the
 Ethiopians without having made any provision for the sustenance of his
@@ -6937,7 +7392,8 @@ attack on Ethiopia, and retreating by the way he had come, reached
 Thebes, after he had lost vast numbers of his soldiers. From Thebes he
 marched down to Memphis, where he dismissed the Greeks, allowing
 them to sail home. And so ended the expedition against Ethiopia.
-    The men sent to attack the Ammonians, started from Thebes,
+
+The men sent to attack the Ammonians, started from Thebes,
 having guides with them, and may be clearly traced as far as the
 city Oasis, which is inhabited by Samians, said to be of the tribe
 Aeschrionia. The place is distant from Thebes seven days' journey
@@ -6953,7 +7409,8 @@ meal, a wind arose from the south, strong and deadly, bringing with it
 vast columns of whirling sand, which entirely covered up the troops
 and caused them wholly to disappear. Thus, according to the Ammonians,
 did it fare with this army.
-    About the time when Cambyses arrived at Memphis, Apis appeared
+
+About the time when Cambyses arrived at Memphis, Apis appeared
 to the Egyptians. Now Apis is the god whom the Greeks call Epaphus. As
 soon as he appeared, straightway all the Egyptians arrayed
 themselves in their gayest garments, and fell to feasting and jollity:
@@ -6968,7 +7425,8 @@ accustomed to show himself in Egypt- and that always on his appearance
 the whole of Egypt feasted and kept jubilee." When Cambyses heard
 this, he told them that they lied, and as liars he condemned them
 all to suffer death.
-    When they were dead, he called the priests to his presence, and
+
+When they were dead, he called the priests to his presence, and
 questioning them received the same answer; whereupon he observed,
 "That he would soon know whether a tame god had really come to dwell
 in Egypt"- and straightway, without another word, he bade them bring
@@ -6980,7 +7438,8 @@ calf which is so called has the following marks:- He is black, with
 a square spot of white upon his forehead, and on his back the figure
 of an eagle; the hairs in his tail are double, and there is a beetle
 upon his tongue.
-    When the priests returned bringing Apis with them, Cambyses,
+
+When the priests returned bringing Apis with them, Cambyses,
 like the harebrained person that he was, drew his dagger, and aimed at
 the belly of the animal, but missed his mark, and stabbed him in the
 thigh. Then he laughed, and said thus to the priests:- "Oh!
@@ -6994,7 +7453,8 @@ stopped throughout the land of Egypt, and the priests suffered
 punishment. Apis, wounded in the thigh, lay some time pining in the
 temple; at last he died of his wound, and the priests buried him
 secretly without the knowledge of Cambyses.
-    And now Cambyses, who even before had not been quite in his
+
+And now Cambyses, who even before had not been quite in his
 right mind, was forthwith, as the Egyptians say, smitten with
 madness for this crime. The first of his outrages was the slaying of
 Smerdis, his full brother, whom he had sent back to Persia from
@@ -7010,7 +7470,8 @@ whom he trusted beyond all the other Persians, bidding him put Smerdis
 to death. So this Prexaspes went up to Susa and slew Smerdis. Some say
 he killed him as they hunted together, others, that he took him down
 to the Erythraean Sea, and there drowned him.
-    This, it is said, was the first outrage which Cambyses
+
+This, it is said, was the first outrage which Cambyses
 committed. The second was the slaying of his sister, who had
 accompanied him into Egypt, and lived with him as his wife, though she
 was his full sister, the daughter both of his father and his mother.
@@ -7035,7 +7496,8 @@ the king's help, which allowed him to have his wish. Cambyses,
 therefore, married the object of his love, and no long time afterwards
 he took to wife another sister. It was the younger of these who went
 with him into Egypt, and there suffered death at his hands.
-    Concerning the manner of her death, as concerning that of Smerdis,
+
+Concerning the manner of her death, as concerning that of Smerdis,
 two different accounts are given. The story which the Greeks tell is
 that Cambyses had set a young dog to fight the cub of a lioness- his
 wife looking on at the time. Now the dog was getting the worse, when a
@@ -7054,14 +7516,16 @@ on." "But thou," she rejoined, "hast done as I did to the lettuce, and
 made bare the house of Cyrus." Then Cambyses was wroth, and sprang
 fiercely upon her, though she was with child at the time. And so it
 came to pass that she miscarried and died.
-    Thus mad was Cambyses upon his own kindred, and this either from
+
+Thus mad was Cambyses upon his own kindred, and this either from
 his usage of Apis, or from some other among the many causes from which
 calamities are wont to arise. They say that from his birth he was
 afflicted with a dreadful disease, the disorder which some call "the
 sacred sickness." It would be by no means strange, therefore, if his
 mind were affected in some degree, seeing that his body laboured under
 so sore a malady.
-    He was mad also upon others besides his kindred; among the rest,
+
+He was mad also upon others besides his kindred; among the rest,
 upon Prexaspes, the man whom he esteemed beyond all the rest of the
 Persians, who carried his messages, and whose son held the office-
 an honour of no small account in Persia- of his cupbearer. Him
@@ -7083,7 +7547,8 @@ standing near, and misliked the comparison, spoke thus to Cambyses:
 thou hast not yet left behind thee such a son as he." Cambyses was
 delighted when he heard this reply, and praised the judgment of
 Croesus.
-    Recollecting these answers, Cambyses spoke fiercely to
+
+Recollecting these answers, Cambyses spoke fiercely to
 Prexaspes, saying, "Judge now thyself, Prexaspes, whether the Persians
 tell the truth, or whether it is not they who are mad for speaking
 as they do. Look there now at thy son standing in the vestibule- if
@@ -7103,7 +7568,8 @@ that God himself could shoot so dexterously." Such was the outrage
 which Cambyses committed at this time: at another, he took twelve of
 the noblest Persians, and, without bringing any charge worthy of death
 against them, buried them all up to the neck.
-    Hereupon Croesus the Lydian thought it right to admonish Cambyses,
+
+Hereupon Croesus the Lydian thought it right to admonish Cambyses,
 which he did in these words following:- "Oh! king, allow not thyself
 to give way entirely to thy youth, and the heat of thy temper, but
 check and control thyself. It is well to look to consequences, and
@@ -7136,7 +7602,8 @@ servants, perceiving it, let him know that he was still alive. "I am
 glad," said he, "that Croesus lives, but as for you who saved him,
 ye shall not escape my vengeance, but shall all of you be put to
 death." And he did even as he had said.
-    Many other wild outrages of this sort did Cambyses commit, both
+
+Many other wild outrages of this sort did Cambyses commit, both
 upon the Persians and the allies, while he still stayed at Memphis;
 among the rest he opened the ancient sepulchres, and examined the
 bodies that were buried in them. He likewise went into the temple of
@@ -7148,7 +7615,8 @@ pigmy. He went also into the temple of the Cabiri, which it is
 unlawful for any one to enter except the priests, and not only made
 sport of the images, but even burnt them. They are made like the
 statue of Vulcan, who is said to have been their father.
-    Thus it appears certain to me, by a great variety of proofs,
+
+Thus it appears certain to me, by a great variety of proofs,
 that Cambyses was raving mad; he would not else have set himself to
 make a mock of holy rites and long-established usages. For if one were
 to offer men to choose out of all the customs in the world such as
@@ -7169,7 +7637,8 @@ the bodies of their fathers at their decease?" The Indians exclaimed
 aloud, and bade him forbear such language. Such is men's wont
 herein; and Pindar was right, in my judgment, when he said, "Law is
 the king o'er all."
-    While Cambyses was carrying on this war in Egypt, the
+
+While Cambyses was carrying on this war in Egypt, the
 Lacedaemonians likewise sent a force to Samos against Polycrates,
 the son of Aeaces, who had by insurrection made himself master of that
 island. At the outset he divided the state into three parts, and
@@ -7190,7 +7659,8 @@ he overcame the Lesbians in a sea-fight, when they came with all their
 forces to the help of Miletus, and made a number of them prisoners.
 These persons, laden with fetters, dug the moat which surrounds the
 castle at Samos.
-    The exceeding good fortune of Polycrates did not escape the notice
+
+The exceeding good fortune of Polycrates did not escape the notice
 of Amasis, who was much disturbed thereat. When therefore his
 successes continued increasing, Amasis wrote him the following letter,
 and sent it to Samos. "Amasis to Polycrates thus sayeth: It is a
@@ -7208,7 +7678,8 @@ throw it away, so that it may be sure never to come any more into
 the sight of man. Then, if thy good fortune be not thenceforth
 chequered with ill, save thyself from harm by again doing as I have
 counselled."
-    When Polycrates read this letter, and perceived that the advice of
+
+When Polycrates read this letter, and perceived that the advice of
 Amasis was good, he considered carefully with himself which of the
 treasures that he had in store it would grieve him most to lose. After
 much thought he made up his mind that it was a signet-ring which he
@@ -7219,7 +7690,8 @@ out into the open sea. When he was now a long way from the island,
 he took the ring from his finger, and, in the sight of all those who
 were on board, flung it into the deep. This done, he returned home,
 and gave vent to his sorrow.
-    Now it happened five or six days afterwards that a fisherman
+
+Now it happened five or six days afterwards that a fisherman
 caught a fish so large and beautiful that he thought it well
 deserved to be made a present of to the king. So he took it with him
 to the gate of the palace, and said that he wanted to see
@@ -7240,7 +7712,8 @@ found. The king, who saw something providential in the matter,
 forthwith wrote a letter to Amasis, telling him all that had happened,
 what he had himself done, and what had been the upshot- and despatched
 the letter to Egypt.
-    When Amasis had read the letter of Polycrates, he perceived that
+
+When Amasis had read the letter of Polycrates, he perceived that
 it does not belong to man to save his fellow-man from the fate which
 is in store for him; likewise he felt certain that Polycrates would
 end ill, as he prospered in everything, even finding what he had
@@ -7248,7 +7721,8 @@ thrown away. So he sent a herald to Samos, and dissolved the
 contract of friendship. This he did, that when the great and heavy
 misfortune came, he might escape the grief which he would have felt if
 the sufferer had been his bond-friend.
-    It was with this Polycrates, so fortunate in every undertaking,
+
+It was with this Polycrates, so fortunate in every undertaking,
 that the Lacedaemonians now went to war. Certain Samians, the same who
 afterwards founded the city of Cydonia in Crete, had earnestly
 intreated their help. For Polycrates, at the time when Cambyses, son
@@ -7261,7 +7735,8 @@ from among the citizens such as he thought most likely to stir
 revolt against him, and manned with them forty triremes, which he sent
 to Cambyses, bidding him keep the men safe, and never allow them to
 return home.
-    Now some accounts say that these Samians did not reach Egypt;
+
+Now some accounts say that these Samians did not reach Egypt;
 for that when they were off Carpathus, they took counsel together
 and resolved to sail no further. But others maintain that they did
 go to Egypt, and, finding themselves watched, deserted, and sailed
@@ -7280,7 +7755,8 @@ his own subjects, to hinder them from betraying him and joining the
 exiles, Polycrates shut up their wives and children in the sheds built
 to shelter his ships, and was ready to burn sheds and all in case of
 need.
-    When the banished Samians reached Sparta, they had audience of the
+
+When the banished Samians reached Sparta, they had audience of the
 magistrates, before whom they made a long speech, as was natural
 with persons greatly in want of aid. Accordingly at this first sitting
 the Spartans answered them that they had forgotten the first half of
@@ -7289,7 +7765,8 @@ the Samians had another audience, whereat they simply said, showing
 a bag which they had brought with them, "The bag wants flour." The
 Spartans answered that they did not need to have said "the bag";
 however, they resolved to give them aid.
-    Then the Lacedaemonians made ready and set forth to the attack
+
+Then the Lacedaemonians made ready and set forth to the attack
 of Samos, from a motive of gratitude, if we may believe the Samians,
 because the Samians had once sent ships to their aid against the
 Messenians; but as the Spartans themselves say, not so much from any
@@ -7304,7 +7781,8 @@ in it is that each of the twists, although of fine texture, contains
 within it three hundred and sixty threads, all of them clearly
 visible. The corselet which Amasis gave to the temple of Minerva in
 Lindus is just such another.
-    The Corinthians likewise right willingly lent a helping hand
+
+The Corinthians likewise right willingly lent a helping hand
 towards the expedition against Samos; for a generation earlier,
 about the time of the seizure of the wine-bowl, they too had
 suffered insult at the hands of the Samians. It happened that
@@ -7323,7 +7801,8 @@ there, choirs of youths and virgins were placed about the temple,
 carrying in their hands cakes made of sesame and honey, in order
 that the Corcyraean boys might snatch the cakes, and so get enough
 to live upon.
-    And this went on for so long, that at last the Corinthians who had
+
+And this went on for so long, that at last the Corinthians who had
 charge of the boys gave them up, and took their departure, upon
 which the Samians conveyed them back to Corcyra. If now, after the
 death of Periander, the Corinthians and Corcyraeans had been good
@@ -7336,7 +7815,8 @@ grudge for it. Periander had chosen the youths from among the first
 families in Corcyra, and sent them a present to Alyattes, to avenge
 a wrong which he had received. For it was the Corcyraeans who began
 the quarrel and injured Periander by an outrage of a horrid nature.
-    After Periander had put to death his wife Melissa, it chanced that
+
+After Periander had put to death his wife Melissa, it chanced that
 on this first affliction a second followed of a different kind. His
 wife had borne him two sons, and one of them had now reached the age
 of seventeen, the other of eighteen years, when their mother's father,
@@ -7352,7 +7832,8 @@ mother's murderer, he would neither speak to him, nor answer when
 spoken to, nor utter a word in reply to all his questionings. So
 Periander at last, growing furious at such behaviour, banished him
 from his house.
-    The younger son gone, he turned to the elder and asked him,
+
+The younger son gone, he turned to the elder and asked him,
 "what it was that their grandfather had said to them?" Then he related
 in how kind and friendly a fashion he had received them; but, not
 having taken any notice of the speech which Procles had uttered at
@@ -7370,7 +7851,8 @@ to shut their doors against him. Still, as fast as he was forced to
 leave one house he went to another, and was received by the inmates;
 for his acquaintance, although in no small alarm, yet gave him
 shelter, as he was Periander's son.
-    At last Periander made proclamation that whoever harboured his son
+
+At last Periander made proclamation that whoever harboured his son
 or even spoke to him, should forfeit a certain sum of money to Apollo.
 On hearing this no one any longer liked to take him in, or even to
 hold converse with him, and he himself did not think it right to
@@ -7400,7 +7882,8 @@ for Procles, Periander, regarding him as the true author of all his
 present troubles, went to war with him as soon as his son was gone,
 and not only made himself master of his kingdom Epidaurus, but also
 took Procles himself, and carried him into captivity.
-    As time went on, and Periander came to be old, he found himself no
+
+As time went on, and Periander came to be old, he found himself no
 longer equal to the oversight and management of affairs. Seeing,
 therefore, in his eldest son no manner of ability, but knowing him
 to be dull and blockish, he sent to Corcyra and recalled Lycophron
@@ -7429,7 +7912,8 @@ was making ready to pass into Corcyra and his son to return to
 Corinth, when the Corcyraeans, being informed of what was taking
 place, to keep Periander away, put the young man to death. For this
 reason it was that Periander took vengeance on the Corcyraeans.
-    The Lacedaemonians arrived before Samos with a mighty armament,
+
+The Lacedaemonians arrived before Samos with a mighty armament,
 and forthwith laid siege to the place. In one of the assaults upon the
 walls, they forced their way to the top of the tower which stands by
 the sea on the side where the suburb is, but Polycrates came in person
@@ -7438,7 +7922,8 @@ the upper tower, which stood on the ridge of the hill, the besieged,
 both mercenaries and Samians, made a sally; but after they had
 withstood the Lacedaemonians a short time, they fled backwards, and
 the Lacedaemonians, pressing upon them, slew numbers.
-    If now all who were present had behaved that day like Archias
+
+If now all who were present had behaved that day like Archias
 and Lycopas, two of the Lacedaemonians, Samos might have been taken.
 For these two heroes, following hard upon the flying Samians,
 entered the city along with them, and, being all alone, and their
@@ -7450,15 +7935,18 @@ foreigners, and he told me that his father was called Samius,
 because his grandfather Archias died in Samos so gloriously, and
 that the reason why he respected the Samians so greatly was that his
 grandsire was buried with public honours by the Samian people.
-    The Lacedaemonians besieged Samos during forty days, but not
+
+The Lacedaemonians besieged Samos during forty days, but not
 making any progress before the place, they raised the siege at the end
 of that time, and returned home to the Peloponnese. There is a silly
 tale told that Polycrates struck a quantity of the coin of his country
 in lead, and, coating it with gold, gave it to the Lacedaemonians, who
 on receiving it took their departure.
-    This was the first expedition into Asia of the Lacedaemonian
+
+This was the first expedition into Asia of the Lacedaemonian
 Dorians.
-    The Samians who had fought against Polycrates, when they knew that
+
+The Samians who had fought against Polycrates, when they knew that
 the Lacedaemonians were about to forsake them, left Samos
 themselves, and sailed to Siphnos. They happened to be in want of
 money; and the Siphnians at that time were at the height of their
@@ -7471,13 +7959,14 @@ when they formed the treasury, the Siphnians consulted the oracle, and
 asked whether their good things would remain to them many years. The
 Pythoness made answer as follows:-
 
-    When the Prytanies'seat shines white in the island of Siphnos,
-    White-browed all the forum-need then of a true seer's wisdom-
-    Danger will threat from a wooden host, and a herald in scarlet.
+> When the Prytanies'seat shines white in the island of Siphnos,  
+> White-browed all the forum-need then of a true seer's wisdom-  
+> Danger will threat from a wooden host, and a herald in scarlet.
 
 Now about this time the forum of the Siphnians and their townhall or
 prytaneum had been adorned with Parian marble.
-    The Siphnians, however, were unable to understand the oracle,
+
+The Siphnians, however, were unable to understand the oracle,
 either at the time when it was given, or afterwards on the arrival
 of the Samians. For these last no sooner came to anchor off the island
 than they sent one of their vessels, with an ambassage on board, to
@@ -7491,7 +7980,8 @@ Siphnians, who straightway sallied forth to save their crops; then a
 battle was fought, in which the Siphnians suffered defeat, and many of
 their number were cut off from the city by the Samians, after which
 these latter forced the Siphnians to give them a hundred talents.
-    With this money they bought of the Hermionians the island of
+
+With this money they bought of the Hermionians the island of
 Hydrea, off the coast of the Peloponnese, and this they gave in
 trust to the Troezenians, to keep for them, while they themselves went
 on to Crete, and founded the city of Cydonia. They had not meant, when
@@ -7509,7 +7999,8 @@ had first, when Amphicrates was king of Samos, made war on them and
 done great harm to their island, suffering, however, much damage
 also themselves. Such was the reason which moved the Eginetans to make
 this attack.
-    I have dwelt the longer on the affairs of the Samians, because
+
+I have dwelt the longer on the affairs of the Samians, because
 three of the greatest works in all Greece were made by them. One is
 a tunnel, under a hill one hundred and fifty fathoms high, carried
 entirely through the base of the hill, with a mouth at either end. The
@@ -7524,7 +8015,8 @@ above two furlongs. The third is a temple; the largest of all the
 temples known to us, whereof Rhoecus, son of Phileus, a Samian, was
 first architect. Because of these works I have dwelt the longer on the
 affairs of Samos.
-    While Cambyses, son of Cyrus, after losing his senses, still
+
+While Cambyses, son of Cyrus, after losing his senses, still
 lingered in Egypt, two Magi, brothers, revolted against him. One of
 them had been left in Persia by Cambyses as comptroller of his
 household; and it was he who began the revolt. Aware that Smerdis
@@ -7540,7 +8032,8 @@ business through, took him and made him sit upon the royal throne.
 Having so done, he sent heralds through all the land, to Egypt and
 elsewhere, to make proclamation to the troops that henceforth they
 were to obey Smerdis the son of Cyrus, and not Cambyses.
-    The other heralds therefore made proclamation as they were
+
+The other heralds therefore made proclamation as they were
 ordered, and likewise the herald whose place it was to proceed into
 Egypt. He, when he reached Agbatana in Syria, finding Cambyses and his
 army there, went straight into the middle of the host, and standing
@@ -7560,7 +8053,8 @@ course of nature be the same as formerly, then be sure no ill will
 ever come upon thee from this quarter. Now, therefore, my counsel is
 that we send in pursuit of the herald, and strictly question him who
 it was that charged him to bid us obey king Smerdis."
-    When Prexaspes had so spoken, and Cambyses had approved his words,
+
+When Prexaspes had so spoken, and Cambyses had approved his words,
 the herald was forthwith pursued, and brought back to the king. Then
 Prexaspes said to him, "Sirrah, thou bear'st us a message, sayst thou,
 from Smerdis, son of Cyrus. Now answer truly, and go thy way
@@ -7579,7 +8073,8 @@ think, my liege," he answered, "that I apprehend the whole business.
 The men who have risen in revolt against thee are the two Magi,
 Patizeithes, who was left comptroller of thy household, and his
 brother, who is named Smerdis."
-    Cambyses no sooner heard the name of Smerdis than he was struck
+
+Cambyses no sooner heard the name of Smerdis than he was struck
 with the truth of Prexaspes' words, and the fulfilment of his own
 dream- the dream, I mean, which he had in former days, when one
 appeared to him in his sleep and told him that Smerdis sate upon the
@@ -7601,7 +8096,8 @@ name of the place, the double shock that he had received, from the
 revolt of the Magus and from his wound, brought him back to his
 senses. And he understood now the true meaning of the oracle, and
 said, "Here then Cambyses, son of Cyrus, is doomed to die."
-    At this time he said no more; but twenty days afterwards he called
+
+At this time he said no more; but twenty days afterwards he called
 to his presence all the chief Persians who were with the army, and
 addressed them as follows:- "Persians, needs must I tell you now
 what hitherto I have striven with the greatest care to keep concealed.
@@ -7639,7 +8135,8 @@ be on you, and may the opposite of all these things happen to you- and
 not only so, but may you, one and all, perish at the last by such a
 fate as mine!" Then Cambyses, when he left speaking, bewailed his
 whole misfortune from beginning to end.
-    Whereupon the Persians, seeing their king weep, rent the
+
+Whereupon the Persians, seeing their king weep, rent the
 garments that they had on, and uttered lamentable cries; after
 which, as the bone presently grew carious, and the limb gangrened,
 Cambyses, son of Cyrus, died. He had reigned in all seven years and
@@ -7653,7 +8150,8 @@ had rebelled and now sate on the throne. For Prexaspes stoutly
 denied that he had slain Smerdis, since it was not safe for him, after
 Cambyses was dead, to allow that a son of Cyrus had met with death
 at his hands.
-    Thus then Cambyses died, and the Magus now reigned in security,
+
+Thus then Cambyses died, and the Magus now reigned in security,
 and passed himself off for Smerdis the son of Cyrus. And so went by
 the seven months which were wanting to complete the eighth year of
 Cambyses. His subjects, while his reign lasted, received great
@@ -7662,7 +8160,8 @@ Asia mourned his loss exceedingly, except only the Persians. For no
 sooner did he come to the throne than forthwith he sent round to every
 nation under his rule, and granted them freedom from war-service and
 from taxes for the space of three years.
-    In the eighth month, however, it was discovered who he was in
+
+In the eighth month, however, it was discovered who he was in
 the mode following. There was a man called Otanes, the son of
 Pharnaspes, who for rank and wealth was equal to the greatest of the
 Persians. This Otanes was the first to suspect that the Magus was
@@ -7684,7 +8183,8 @@ daughter made answer, "I can neither get speech with Atossa, nor
 with any of the women who lodge in the palace. For no sooner did
 this man, be he who he may, obtain the kingdom, than he parted us from
 one another, and gave us all separate chambers."
-    This made the matter seem still more plain to Otanes. Nevertheless
+
+This made the matter seem still more plain to Otanes. Nevertheless
 he sent a third message to his daughter in these words following:-
 "Daughter, thou art of noble blood- thou wilt not shrink from a risk
 which thy father bids thee encounter. If this fellow be not Smerdis
@@ -7707,7 +8207,8 @@ Magus (in Persia a man's wives sleep with him in their turns),
 waited till he was sound asleep, and then felt for his ears. She
 quickly perceived that he had no ears; and of this, as soon as day
 dawned, she sent word to her father.
-    Then Otanes took to him two of the chief Persians, Aspathines
+
+Then Otanes took to him two of the chief Persians, Aspathines
 and Gobryas, men whom it was most advisable to trust in such a matter,
 and told them everything. Now they had already of themselves suspected
 how the matter stood. When Otanes therefore laid his reasons before
@@ -7718,7 +8219,8 @@ Gobryas Megabyzus, and Aspathines Hydarnes. After the number had
 thus become six, Darius, the son of Hystaspes, arrived at Susa from
 Persia, whereof his father was governor. On his coming it seemed
 good to the six to take him likewise into their counsels.
-    After this, the men, being now seven in all, met together to
+
+After this, the men, being now seven in all, met together to
 exchange oaths, and hold discourse with one another. And when it
 came to the turn of Darius to speak his mind, he said as follows:-
 "Methought no one but I knew that Smerdis, the son of Cyrus, was not
@@ -7740,7 +8242,8 @@ secret, and have opened the matter to me, take my advice and make
 the attempt today- or if not, if a single day be suffered to pass
 by, be sure that I will let no one betray me to the Magian. I myself
 will go to him, and plainly denounce you all."
-    Otanes, when he saw Darius so hot, replied, "But if thou wilt
+
+Otanes, when he saw Darius so hot, replied, "But if thou wilt
 force us to action, and not allow a day's delay, tell us, I pray thee,
 how we shall get entrance into the palace, so as to set upon them.
 Guards are placed everywhere, as thou thyself well knowest- for if
@@ -7766,7 +8269,8 @@ much as your true-speaking man. The doorkeeper, who lets us in
 readily, shall have his guerdon some day or other; but woe to the
 man who resists us, he must forthwith be declared an enemy. Forcing
 our way past him, we will press in and go straight to our work."
-    After Darius had thus said, Gobryas spoke as follows:- "Dear
+
+After Darius had thus said, Gobryas spoke as follows:- "Dear
 friends, when will a fitter occasion offer for us to recover the
 kingdom, or, if we are not strong enough, at least die in the attempt?
 Consider that we Persians are governed by a Median Magus, and one,
@@ -7779,7 +8283,8 @@ his brother. Now, however, my vote is that we do as Darius has
 counselled- march straight in a body to the palace from the place
 where we now are, and forthwith set upon the Magian." So Gobryas
 spake, and the others all approved.
-    While the seven were thus taking counsel together, it so chanced
+
+While the seven were thus taking counsel together, it so chanced
 that the following events were happening:- The Magi had been
 thinking what they had best do, and had resolved for many reasons to
 make a friend of Prexaspes. They knew how cruelly he had been outraged
@@ -7800,7 +8305,8 @@ ruled the land. This they bade him do, because Prexaspes was a man
 of great weight with his countrymen, and had often declared in
 public that Smerdis the son of Cyrus was still alive, and denied being
 his murderer.
-    Prexaspes said he was quite ready to do their will in the
+
+Prexaspes said he was quite ready to do their will in the
 matter; so the Magi assembled the people, and placed Prexaspes upon
 the top of the tower, and told him to make his speech. Then this
 man, forgetting of set purpose all that the Magi had intreated him
@@ -7816,7 +8322,8 @@ Magi. Last of all, with many curses upon the Persians if they did
 not recover the kingdom, and wreak vengeance on the Magi, he threw
 himself headlong from the tower into the abyss below. Such was the end
 of Prexaspes, a man all his life of high repute among the Persians.
-    And now the seven Persians, having resolved that they would attack
+
+And now the seven Persians, having resolved that they would attack
 the Magi without more delay, first offered prayers to the gods and
 then set off for the palace, quite unacquainted with what had been
 done by Prexaspes. The news of his doings reached them upon their way,
@@ -7831,7 +8338,8 @@ seven pairs of hawks, pursuing them, and the hawks tore the vultures
 both with their claws and bills. At this sight the seven with one
 accord came in to the opinion of Darius, and encouraged by the omen
 hastened on towards the palace.
-    At the gate they were received as Darius had foretold. The guards,
+
+At the gate they were received as Darius had foretold. The guards,
 who had no suspicion that they came for any ill purpose, and held
 the chief Persians in much reverence, let them pass without
 difficulty- it seemed as if they were under the special protection
@@ -7844,7 +8352,8 @@ but the eunuchs would not suffer them. Then these men, with cheers
 encouraging one another, drew their daggers, and stabbing those who
 strove to withstand them, rushed forward to the apartment of the
 males.
-    Now both the Magi were at this time within, holding counsel upon
+
+Now both the Magi were at this time within, holding counsel upon
 the matter of Prexaspes. So when they heard the stir among the
 eunuchs, and their loud cries, they ran out themselves, to see what
 was happening. Instantly perceiving their danger, they both flew to
@@ -7865,7 +8374,8 @@ when he perceived that Darius stood doing nothing, asked him, "why his
 hand was idle?" "I fear to hurt thee," he answered. "Fear not," said
 Gobryas; "strike, though it be through both." Darius did as he
 desired, drove his dagger home, and by good hap killed the Magus.
-    Thus were the Magi slain; and the seven, cutting off both the
+
+Thus were the Magi slain; and the seven, cutting off both the
 heads, and leaving their own wounded in the palace, partly because
 they were disabled, and partly to guard the citadel, went forth from
 the gates with the heads in their hands, shouting and making an
@@ -7881,7 +8391,8 @@ with one accord, and keep it more strictly than any other in the whole
 year. It is then that they hold the great festival, which they call
 the Magophonia. No Magus may show himself abroad during the whole time
 that the feast lasts; but all must remain at home the entire day.
-    And now when five days were gone, and the hubbub had settled down,
+
+And now when five days were gone, and the hubbub had settled down,
 the conspirators met together to consult about the situation of
 affairs. At this meeting speeches were made, to which many of the
 Greeks give no credence, but they were made nevertheless. Otanes
@@ -7916,7 +8427,8 @@ places are given by lot, the magistrate is answerable for what he
 does, and measures rest with the commonalty. I vote, therefore, that
 we do away with monarchy, and raise the people to power. For the
 people are all in all."
-    Such were the sentiments of Otanes. Megabyzus spoke next, and
+
+Such were the sentiments of Otanes. Megabyzus spoke next, and
 advised the setting up of an oligarchy:- "In all that Otanes has
 said to persuade you to put down monarchy," he observed, "I fully
 concur; but his recommendation that we should call the people to power
@@ -7935,7 +8447,8 @@ citizens a certain number of the worthiest, and put the government
 into their hands. For thus both we ourselves shall be among the
 governors, and power being entrusted to the best men, it is likely
 that the best counsels will prevail in the state."
-    This was the advice which Megabyzus gave, and after him Darius
+
+This was the advice which Megabyzus gave, and after him Darius
 came forward, and spoke as follows:- "All that Megabyzus said
 against democracy was well said, I think; but about oligarchy he did
 not speak advisedly; for take these three forms of government-
@@ -7965,7 +8478,8 @@ or oligarchy, or a monarch? As a single man recovered our freedom
 for us, my sentence is that we keep to the rule of one. Even apart
 from this, we ought not to change the laws of our forefathers when
 they work fairly; for to do so is not well."
-    Such were the three opinions brought forward at this meeting;
+
+Such were the three opinions brought forward at this meeting;
 the four other Persians voted in favour of the last. Otanes, who
 wished to give his countrymen a democracy, when he found the
 decision against him, arose a second time, and spoke thus before the
@@ -7982,7 +8496,8 @@ Otanes continues to be the only free family in Persia; those who
 belong to it submit to the rule of the king only so far as they
 themselves choose; they are bound, however, to observe the laws of the
 land like the other Persians.
-    After this the six took counsel together, as to the fairest way of
+
+After this the six took counsel together, as to the fairest way of
 setting up a king: and first, with respect to Otanes, they resolved,
 that if any of their own number got the kingdom, Otanes and his seed
 after him should receive year by year, as a mark of special honour,
@@ -7998,7 +8513,8 @@ conspirators. Concerning the appointment of a king, the resolve to
 which they came was the following:- They would ride out together
 next morning into the skirts of the city, and he whose steed first
 neighed after the sun was up should have the kingdom.
-    Now Darius had a groom, a sharp-witted knave, called Oebares.
+
+Now Darius had a groom, a sharp-witted knave, called Oebares.
 After the meeting had broken up, Darius sent for him, and said,
 "Oebares, this is the way in which the king is to be chosen- we are to
 mount our horses, and the man whose horse first neighs after the sun
@@ -8015,7 +8531,8 @@ rode, and tethering it in the suburb, brought his master's horse to
 the place; then, after leading him round and round the mare several
 times, nearer and nearer at each circuit, he ended by letting them
 come together.
-    And now, when the morning broke, the six Persians, according to
+
+And now, when the morning broke, the six Persians, according to
 agreement, met together on horseback, and rode out to the suburb. As
 they went along they neared the spot where the mare was tethered the
 night before, whereupon the horse of Darius sprang forward and
@@ -8024,21 +8541,24 @@ there was a flash of lightning, followed by a thunderclap. It seemed
 as if the heavens conspired with Darius, and hereby inaugurated him
 king: so the five other nobles leaped with one accord from their
 steeds, and bowed down before him and owned him for their king.
-    This is the account which some of the Persians gave of the
+
+This is the account which some of the Persians gave of the
 contrivance of Oebares; but there are others who relate the matter
 differently. They say that in the morning he stroked the mare with his
 hand, which he then hid in his trousers until the sun rose and the
 horses were about to start, when he suddenly drew his hand forth and
 put it to the nostrils of his master's horse, which immediately
 snorted and neighed.
-    Thus was Darius, son of Hystaspes, appointed king; and, except the
+
+Thus was Darius, son of Hystaspes, appointed king; and, except the
 Arabians, all they of Asia were subject to him; for Cyrus, and after
 him Cambyses, had brought them all under. The Arabians were never
 subject as slaves to the Persians, but had a league of friendship with
 them from the time when they brought Cambyses on his way as he went
 into Egypt; for had they been unfriendly the Persians could never have
 made their invasion.
-    And now Darius contracted marriages of the first rank, according
+
+And now Darius contracted marriages of the first rank, according
 to the notions of the Persians: to wit, with two daughters of Cyrus,
 Atossa and Artystone; of whom, Atossa had been twice married before,
 once to Cambyses, her brother, and once to the Magus, while the other,
@@ -8051,7 +8571,8 @@ mounted upon a horse, with an inscription in these words following:-
 "Darius, son of Hystaspes, by aid of his good horse" (here followed
 the horse's name), "and of his good groom Oebares, got himself the
 kingdom of the Persians."
-    This he set up in Persia; and afterwards he proceeded to establish
+
+This he set up in Persia; and afterwards he proceeded to establish
 twenty governments of the kind which the Persians call satrapies,
 assigning to each its governor, and fixing the tribute which was to be
 paid him by the several nations. And generally he joined together in
@@ -8069,28 +8590,34 @@ doings, the Persians say that Darius was a huckster, Cambyses a
 master, and Cyrus a father; for Darius looked to making a gain in
 everything; Cambyses was harsh and reckless; while Cyrus was gentle,
 and procured them all manner of goods.
-    The Ionians, the Magnesians of Asia, the Aeolians, the Carians,
+
+The Ionians, the Magnesians of Asia, the Aeolians, the Carians,
 the Lycians, the Milyans, and the Pamphylians, paid their tribute in a
 single sum, which was fixed at four hundred talents of silver. These
 formed together the first satrapy.
-    The Mysians, Lydians, Lasonians, Cabalians, and Hygennians paid
+
+The Mysians, Lydians, Lasonians, Cabalians, and Hygennians paid
 the sum of five hundred talents. This was the second satrapy.
-    The Hellespontians, of the right coast as one enters the
+
+The Hellespontians, of the right coast as one enters the
 straits, the Phrygians, the Asiatic Thracians, the Paphlagonians,
 the Mariandynians' and the Syrians paid a tribute of three hundred and
 sixty talents. This was the third satrapy.
-    The Cilicians gave three hundred and sixty white horses, one for
+
+The Cilicians gave three hundred and sixty white horses, one for
 each day in the year, and five hundred talents of silver. Of this
 sum one hundred and forty talents went to pay the cavalry which
 guarded the country, while the remaining three hundred and sixty
 were received by Darius. This was the fourth satrapy.
-    The country reaching from the city of Posideium (built by
+
+The country reaching from the city of Posideium (built by
 Amphilochus, son of Amphiaraus, on the confines of Syria and
 Cilicia) to the borders of Egypt, excluding therefrom a district which
 belonged to Arabia and was free from tax, paid a tribute of three
 hundred and fifty talents. All Phoenicia, Palestine Syria, and Cyprus,
 were herein contained. This was the fifth satrapy.
-    From Egypt, and the neighbouring parts of Libya, together with the
+
+From Egypt, and the neighbouring parts of Libya, together with the
 towns of Cyrene and Barca, which belonged to the Egyptian satrapy, the
 tribute which came in was seven hundred talents. These seven hundred
 talents did not include the profits of the fisheries of Lake Moeris,
@@ -8098,45 +8625,60 @@ nor the corn furnished to the troops at Memphis. Corn was supplied
 to 120,000 Persians, who dwelt at Memphis in the quarter called the
 White Castle, and to a number of auxiliaries. This was the sixth
 satrapy.
-    The Sattagydians, the Gandarians, the Dadicae, and the Aparytae,
+
+The Sattagydians, the Gandarians, the Dadicae, and the Aparytae,
 who were all reckoned together, paid a tribute of a hundred and
 seventy talents. This was the seventh satrapy.
-    Susa, and the other parts of Cissia, paid three hundred talents.
+
+Susa, and the other parts of Cissia, paid three hundred talents.
 This was the eighth satrapy.
-    From Babylonia, and the rest of Assyria, were drawn a thousand
+
+From Babylonia, and the rest of Assyria, were drawn a thousand
 talents of silver, and five hundred boy-eunuchs. This was the ninth
 satrapy.
-    Agbatana, and the other parts of Media, together with the
+
+Agbatana, and the other parts of Media, together with the
 Paricanians and Orthocorybantes, paid in all four hundred and fifty
 talents. This was the tenth satrapy.
-    The Caspians, Pausicae, Pantimathi, and Daritae, were joined in
+
+The Caspians, Pausicae, Pantimathi, and Daritae, were joined in
 one government, and paid the sum of two hundred talents. This was
 the eleventh satrapy.
-    From the Bactrian tribes as far as the Aegli the tribute
+
+From the Bactrian tribes as far as the Aegli the tribute
 received was three hundred and sixty talents. This was the twelfth
 satrapy.
-    From Pactyica, Armenia, and the countries reaching thence to the
+
+From Pactyica, Armenia, and the countries reaching thence to the
 Euxine, the sum drawn was four hundred talents. This was the
 thirteenth satrapy.
-    The Sagartians, Sarangians, Thamanaeans, Utians, and Mycians,
+
+The Sagartians, Sarangians, Thamanaeans, Utians, and Mycians,
 together with the inhabitants of the islands in the Erythraean sea,
 where the king sends those whom he banishes, furnished altogether a
 tribute of six hundred talents. This was the fourteenth satrapy.
-    The Sacans and Caspians gave two hundred and fifty talents. This
+
+The Sacans and Caspians gave two hundred and fifty talents. This
 was the fifteenth satrapy.
-    The Parthians, Chorasmians, Sogdians, and Arians, gave three
+
+The Parthians, Chorasmians, Sogdians, and Arians, gave three
 hundred. This was the sixteenth satrapy.
-    The Paricanians and Ethiopians of Asia furnished a tribute of four
+
+The Paricanians and Ethiopians of Asia furnished a tribute of four
 hundred talents. This was the seventeenth satrapy.
-    The Matienians, Saspeires, and Alarodians were rated to pay two
+
+The Matienians, Saspeires, and Alarodians were rated to pay two
 hundred talents. This was the eighteenth satrapy.
-    The Moschi, Tibareni, Macrones, Mosynoeci, and Mares had to pay
+
+The Moschi, Tibareni, Macrones, Mosynoeci, and Mares had to pay
 three hundred talents. This was the nineteenth satrapy.
-    The Indians, who are more numerous than any other nation with
+
+The Indians, who are more numerous than any other nation with
 which we are acquainted, paid a tribute exceeding that of every
 other people, to wit, three hundred and sixty talents of gold-dust.
 This was the twentieth satrapy.
-    If the Babylonian money here spoken of be reduced to the Euboic
+
+If the Babylonian money here spoken of be reduced to the Euboic
 scale, it will make nine thousand five hundred and forty such talents;
 and if the gold be reckoned at thirteen times the worth of silver, the
 Indian gold-dust will come to four thousand six hundred and eighty
@@ -8144,7 +8686,8 @@ talents. Add these two amounts together and the whole revenue which
 came in to Darius year by year will be found to be in Euboic money
 fourteen thousand five hundred and sixty talents, not to mention parts
 of a talent.
-    Such was the revenue which Darius derived from Asia and a small
+
+Such was the revenue which Darius derived from Asia and a small
 part of Libya. Later in his reign the sum was increased by the tribute
 of the islands, and of the nations of Europe as far as Thessaly. The
 Great King stores away the tribute which he receives after this
@@ -8152,7 +8695,8 @@ fashion- he melts it down, and, while it is in a liquid state, runs it
 into earthen vessels, which are afterwards removed, leaving the
 metal in a solid mass. When money is wanted, he coins as much of
 this bullion as the occasion requires.
-    Such then were the governments, and such the amounts of tribute at
+
+Such then were the governments, and such the amounts of tribute at
 which they were assessed respectively. Persia alone has not been
 reckoned among the tributaries- and for this reason, because the
 country of the Persians is altogether exempt from tax. The following
@@ -8172,7 +8716,8 @@ still brought every fifth year, consisting of a hundred boys, and
 the same number of maidens. The Arabs brought every year a thousand
 talents of frankincense. Such were the gifts which the king received
 over and above the tribute-money.
-    The way in which the Indians get the plentiful supply of gold
+
+The way in which the Indians get the plentiful supply of gold
 which enables them to furnish year by year so vast an amount of
 gold-dust to the kind is the following:- eastward of India lies a
 tract which is entirely sand. Indeed of all the inhabitants of Asia,
@@ -8185,7 +8730,8 @@ the river live on raw fish, which they take in boats made of reeds,
 each formed out of a single joint. These Indians wear a dress of
 sedge, which they cut in the river and bruise; afterwards they weave
 it into mats, and wear it as we wear a breast-plate.
-    Eastward of these Indians are another tribe, called Padaeans,
+
+Eastward of these Indians are another tribe, called Padaeans,
 who are wanderers, and live on raw flesh. This tribe is said to have
 the following customs:- If one of their number be ill, man or woman,
 they take the sick person, and if he be a man, the men of his
@@ -8200,7 +8746,8 @@ there is seldom any question, as commonly before that time they have
 had some disease or other, and so have been put to death- but if a
 man, notwithstanding, comes to be old, then they offer him in
 sacrifice to their gods, and afterwards eat his flesh.
-    There is another set of Indians whose customs are very
+
+There is another set of Indians whose customs are very
 different. They refuse to put any live animal to death, they sow no
 corn, and have no dwelling-houses. Vegetables are their only food.
 There is a plant which grows wild in their country, bearing seed,
@@ -8209,11 +8756,13 @@ this seed and having boiled it, calyx and all, to use it for food.
 If one of them is attacked with sickness, he goes forth into the
 wilderness, and lies down to die; no one has the least concern
 either for the sick or for the dead.
-    All the tribes which I have mentioned live together like the brute
+
+All the tribes which I have mentioned live together like the brute
 beasts: they have also all the same tint of skin, which approaches
 that of the Ethiopians. Their country is a long way from Persia
 towards the south: nor had king Darius ever any authority over them.
-    Besides these, there are Indians of another tribe, who border on
+
+Besides these, there are Indians of another tribe, who border on
 the city of Caspatyrus, and the country of Pactyica; these people
 dwell northward of all the rest of the Indians, and follow nearly
 the same mode of life as the Bactrians. They are more warlike than any
@@ -8232,11 +8781,13 @@ a leading-rein. The rider sits on the female, and they are
 particular to choose for the purpose one that has but just dropped her
 young; for their female camels can run as fast as horses, while they
 bear burthens very much better.
-    As the Greeks are well acquainted with the shape of the camel, I
+
+As the Greeks are well acquainted with the shape of the camel, I
 shall not trouble to describe it; but I shall mention what seems to
 have escaped their notice. The camel has in its hind legs four
 thigh-bones and four knee-joints.
-    When the Indians therefore have thus equipped themselves they
+
+When the Indians therefore have thus equipped themselves they
 set off in quest of the gold, calculating the time so that they may be
 engaged in seizing it during the most sultry part of the day, when the
 ants hide themselves to escape the heat. The sun in those parts shines
@@ -8249,7 +8800,8 @@ much the same in India as in other countries, after which, as the
 day declines, the warmth is only equal to that of the morning sun
 elsewhere. Towards evening the coolness increases, till about sunset
 it becomes very cold.
-    When the Indians reach the place where the gold is, they fill
+
+When the Indians reach the place where the gold is, they fill
 their bags with the sand, and ride away at their best speed: the ants,
 however, scenting them, as the Persians say, rush forth in pursuit.
 Now these animals are, they declare, so swift, that there is nothing
@@ -8262,7 +8814,8 @@ left behind, and never give way or flag. Such, according to the
 Persians, is the manner in which the Indians get the greater part of
 their gold; some is dug out of the earth, but of this the supply is
 more scanty.
-    It seems as if the extreme regions of the earth were blessed by
+
+It seems as if the extreme regions of the earth were blessed by
 nature with the most excellent productions, just in the same way
 that Greece enjoys a climate more excellently tempered than any
 other country. In India, which, as I observed lately, is the
@@ -8275,7 +8828,8 @@ some carried off in the mode which I have but now described. And
 further, there are trees which grow wild there, the fruit whereof is a
 wool exceeding in beauty and goodness that of sheep. The natives
 make their clothes of this tree-wool.
-    Arabia is the last of inhabited lands towards the south, and it is
+
+Arabia is the last of inhabited lands towards the south, and it is
 the only country which produces frankincense, myrrh, cassia, cinnamon,
 and ledanum. The Arabians do not get any of these, except the myrrh,
 without trouble. The frankincense they procure by means of the gum
@@ -8286,7 +8840,8 @@ varied colours, whereof vast numbers hang about every tree. They are
 of the same kind as the serpents that invade Egypt; and there is
 nothing but the smoke of the styrax which will drive them from the
 trees.
-    The Arabians say that the whole world would swarm with these
+
+The Arabians say that the whole world would swarm with these
 serpents, if they were not kept in check in the way in which I know
 that vipers are. Of a truth Divine Providence does appear to be, as
 indeed one might expect beforehand, a wise contriver. For timid
@@ -8308,7 +8863,8 @@ of any other animal, scratch the womb; as the time goes on, and he
 grows bigger, he tears it ever more and more; so that at last, when
 the birth comes, there is not a morsel in the whole womb that is
 sound.
-    Now with respect to the vipers and the winged snakes of Arabia, if
+
+Now with respect to the vipers and the winged snakes of Arabia, if
 they increased as fast as their nature would allow, impossible were it
 for man to maintain himself upon the earth. Accordingly it is found
 that when the male and female come together, at the very moment of
@@ -8322,7 +8878,8 @@ other snakes, which are harmless, lay eggs, and hatch a vast number of
 young. Vipers are found in all parts of the world, but the winged
 serpents are nowhere seen except in Arabia, where they are all
 congregated together. This makes them appear so numerous.
-    Such, then, is the way in which the Arabians obtain their
+
+Such, then, is the way in which the Arabians obtain their
 frankincense; their manner of collecting the cassia is the following:-
 They cover all their body and their face with the hides of oxen and
 other skins, leaving only holes for the eyes, and thus protected go in
@@ -8331,7 +8888,8 @@ round the shores and in the lake itself there dwell a number of winged
 animals, much resembling bats, which screech horribly, and are very
 valiant. These creatures they must keep from their eyes all the
 while that they gather the cassia.
-    Still more wonderful is the mode in which they collect the
+
+Still more wonderful is the mode in which they collect the
 cinnamon. Where the wood grows, and what country produces it, they
 cannot tell- only some, following probability, relate that it comes
 from the country in which Bacchus was brought up. Great birds, they
@@ -8348,13 +8906,15 @@ their nests; which, not being able to support the weight, break off
 and fall to the ground. Hereupon the Arabians return and collect the
 cinnamon, which is afterwards carried from Arabia into other
 countries.
-    Ledanum, which the Arabs call ladanum, is procured in a yet
+
+Ledanum, which the Arabs call ladanum, is procured in a yet
 stranger fashion. Found in a most inodorous place, it is the
 sweetest-scented of all substances. It is gathered from the beards
 of he-goats, where it is found sticking like gum, having come from the
 bushes on which they browse. It is used in many sorts of unguents, and
 is what the Arabs burn chiefly as incense.
-    Concerning the spices of Arabia let no more be said. The whole
+
+Concerning the spices of Arabia let no more be said. The whole
 country is scented with them, and exhales an odour marvellously sweet.
 There are also in Arabia two kinds of sheep worthy of admiration,
 the like of which is nowhere else to be seen; the one kind has long
@@ -8365,12 +8925,14 @@ little trucks for their sheep's tails. The trucks are placed under the
 tails, each sheep having one to himself, and the tails are then tied
 down upon them. The other kind has a broad tail, which is a cubit
 across sometimes.
-    Where the south declines towards the setting sun lies the
+
+Where the south declines towards the setting sun lies the
 country called Ethiopia, the last inhabited land in that direction.
 There gold is obtained in great plenty, huge elephants abound, with
 wild trees of all sorts, and ebony; and the men are taller, handsomer,
 and longer lived than anywhere else.
-    Now these are the farthest regions of the world in Asia and Libya.
+
+Now these are the farthest regions of the world in Asia and Libya.
 Of the extreme tracts of Europe towards the west I cannot speak with
 any certainty; for I do not allow that there is any river, to which
 the barbarians give the name of Eridanus, emptying itself into the
@@ -8383,7 +8945,8 @@ pains, I have never been able to get an assurance from an
 eye-witness that there is any sea on the further side of Europe.
 Nevertheless, tin and amber do certainly come to us from the ends of
 the earth.
-    The northern parts of Europe are very much richer in gold than any
+
+The northern parts of Europe are very much richer in gold than any
 other region: but how it is procured I have no certain knowledge.
 The story runs that the one-eyed Arimaspi purloin it from the
 griffins; but here too I am incredulous, and cannot persuade myself
@@ -8392,7 +8955,8 @@ resemble the rest of mankind. Nevertheless it seems to be true that
 the extreme regions of the earth, which surround and shut up within
 themselves all other countries, produce the things which are the
 rarest, and which men reckon the most beautiful.
-    There is a plain in Asia which is shut in on all sides by a
+
+There is a plain in Asia which is shut in on all sides by a
 mountain-range, and in this mountain-range are five openings. The
 plain lies on the confines of the Chorasmians, Hyrcanians,
 Parthians, Sarangians, and Thamanaeans, and belonged formerly to the
@@ -8421,7 +8985,8 @@ on this side are shut, and others are unclosed for the nation which,
 of the remainder, needs it most. It has been told me that the king
 never gives the order to open the gates till the suppliants have
 paid him a large sum of money over and above the tribute.
-    Of the seven Persians who rose up against the Magus, one,
+
+Of the seven Persians who rose up against the Magus, one,
 Intaphernes, lost his life very shortly after the outbreak, for an act
 of insolence. He wished to enter the palace and transact a certain
 business with the king. Now the law was that all those who had taken
@@ -8434,7 +8999,8 @@ the king, they said, was with his wife. But Intaphernes thought they
 told lies; so, drawing his scymitar, he cut off their noses and
 their ears, and, hanging them on the bridle of his horse, put the
 bridle round their necks, and so let them go.
-    Then these two men went and showed themselves to the king, and
+
+Then these two men went and showed themselves to the king, and
 told him how it had come to pass that they were thus treated. Darius
 trembled lest it was by the common consent of the six that the deed
 had been done; he therefore sent for them all in turn, and sounded
@@ -8464,7 +9030,8 @@ life that she had asked, the life also of her eldest son, because he
 was greatly pleased with her. But he slew all the rest. Thus one of
 the seven died, in the way I have described, very shortly after the
 insurrection.
-    About the time of Cambyses' last sickness, the following events
+
+About the time of Cambyses' last sickness, the following events
 happened. There was a certain Oroetes, a Persian, whom Cyrus had
 made governor of Sardis. This man conceived a most unholy wish. He had
 never suffered wrong or had an ill word from Polycrates the Samian-
@@ -8485,7 +9052,8 @@ Oroetes, they say, took this reproach greatly to heart; but, instead
 of seeking to revenge himself on the man by whom it was uttered, he
 conceived the desire of destroying Polycrates, since it was on
 Polycrates' account that the reproach had fallen on him.
-    Another less common version of the story is that Oroetes sent a
+
+Another less common version of the story is that Oroetes sent a
 herald to Samos to make a request, the nature of which is not
 stated; Polycrates was at the time reclining in the apartment of the
 males, and Anacreon the Teian was with him; when therefore the
@@ -8494,7 +9062,8 @@ contempt for the power of Oroetes, or it may be merely by chance,
 was lying with his face turned away towards the wall; and so he lay
 all the time that the herald spake, and when he ended, did not even
 vouchsafe him a word.
-    Such are the two reasons alleged for the death of Polycrates; it
+
+Such are the two reasons alleged for the death of Polycrates; it
 is open to all to believe which they please. What is certain is that
 Oroetes, while residing at Magnesia on the Maeander, sent a Lydian, by
 name Myrsus, the son of Gyges, with a message to Polycrates at
@@ -8506,7 +9075,8 @@ time- Polycrates, I say, was the first of mere human birth who
 conceived the design of gaining the empire of the sea, and aspired
 to rule over Ionia and the islands. Knowing then that Polycrates was
 thus minded, Oroetes sent his message, which ran as follows:-
-    "Oroetes to Polycrates thus sayeth: I hear thou raisest thy
+
+"Oroetes to Polycrates thus sayeth: I hear thou raisest thy
 thoughts high, but thy means are not equal to thy ambition. Listen
 then to my words, and learn how thou mayest at once serve thyself
 and preserve me. King Cambyses is bent on my destruction- of this I
@@ -8515,7 +9085,8 @@ away, me and all my wealth- share my wealth with me, and then, so
 far as money can aid, thou mayest make thyself master of the whole
 of Greece. But if thou doubtest of my wealth, send the trustiest of
 thy followers, and I will show my treasures to him."
-    Polycrates, when he heard this message, was full of joy, and
+
+Polycrates, when he heard this message, was full of joy, and
 straightway approved the terms; but, as money was what he chiefly
 desired, before stirring in the business he sent his secretary,
 Maeandrius, son of Maeandrius, a Samian, to look into the matter. This
@@ -8527,7 +9098,8 @@ contrived as follows:- he filled eight great chests almost brimful
 of stones, and then covering over the stones with gold, corded the
 chests, and so held them in readiness. When Maeandrius arrived, he was
 shown this as Oroetes' treasure, and having seen it returned to Samos.
-    On hearing his account, Polycrates, notwithstanding many
+
+On hearing his account, Polycrates, notwithstanding many
 warnings given him by the soothsayers, and much dissuasion of his
 friends, made ready to go in person. Even the dream which visited
 his daughter failed to check him. She had dreamed that she saw her
@@ -8538,7 +9110,8 @@ after him with words of evil omen. Then Polycrates threatened her
 that, if he returned in safety, he would keep her unmarried many
 years. She answered, "Oh! that he might perform his threat; far better
 for her to remain long unmarried than to be bereft of her father!"
-    Polycrates, however, making light of all the counsel offered
+
+Polycrates, however, making light of all the counsel offered
 him, set sail and went to Oroetes. Many friends accompanied him; among
 the rest, Democedes, the son of Calliphon, a native of Crotona, who
 was a physician, and the best skilled in his art of all men then
@@ -8556,7 +9129,8 @@ rain fell on him, was washed by Jupiter; and he was anointed by the
 sun, when his own moisture overspread his body. And so the vast good
 fortune of Polycrates came at last to the end which Amasis the
 Egyptian king had prophesied in days gone by.
-    It was not long before retribution for the murder of Polycrates
+
+It was not long before retribution for the murder of Polycrates
 overtook Oroetes. After the death of Cambyses, and during all the time
 that the Magus sat upon the throne, Oroetes remained in Sardis, and
 brought no help to the Persians, whom the Medes had robbed of the
@@ -8569,7 +9143,8 @@ the following:- there was a courier sent to him by Darius whose
 message was not to his mind- Oroetes had him waylaid and murdered on
 his road back to the king; the man and his horse both disappeared, and
 no traces were left of either.
-    Darius therefore was no sooner settled upon the throne than he
+
+Darius therefore was no sooner settled upon the throne than he
 longed to take vengeance upon Oroetes for all his misdoings, and
 especially for the murder of Mitrobates and his son. To send an
 armed force openly against him, however, he did not think advisable,
@@ -8588,7 +9163,8 @@ and his son, he has slain; and when messengers go to recall him,
 even though they have their mandate from me, with an insolence which
 is not to be endured, he puts them to death. We must kill this man,
 therefore, before he does the Persians any greater hurt."
-    Thus spoke Darius; and straightway thirty of those present came
+
+Thus spoke Darius; and straightway thirty of those present came
 forward and offered themselves for the work. As they strove
 together, Darius interfered, and bade them have recourse to the lot.
 Accordingly lots were cast, and the task fell to Bagaeus, son of
@@ -8610,7 +9186,8 @@ wherein it was written, "King Darius commands the Persians who are
 in Sardis to kill Oroetes." Then the guards drew their swords and slew
 him upon the spot. Thus did retribution for the murder of Polycrates
 the Samian overtake Oroetes the Persian.
-    Soon after the treasures of Oroetes had been conveyed to Sardis it
+
+Soon after the treasures of Oroetes had been conveyed to Sardis it
 happened that king Darius, as he leaped from his horse during the
 chase, sprained his foot. The sprain was one of no common severity,
 for the ankle-bone was forced quite out of the socket. Now Darius
@@ -8626,7 +9203,8 @@ all speed into his presence. When, therefore, they had found him among
 the slaves of Oroetes, quite uncared for by any one, they brought
 him just as he was, clanking his fetters, and all clothed in rags,
 before the king.
-    As soon as he was entered into the presence, Darius asked him if
+
+As soon as he was entered into the presence, Darius asked him if
 he knew medicine- to which he answered "No," for he feared that if
 he made himself known he would lose all chance of ever again beholding
 Greece. Darius, however, perceiving that he dealt deceitfully, and
@@ -8650,7 +9228,8 @@ dipped with a saucer into a chest of gold, and gave so bountifully
 to Democedes, that a slave named Sciton, who followed him, and
 picked up the staters which fell from the saucers, gathered together a
 great heap of gold.
-    This Democedes left his country and became attached to
+
+This Democedes left his country and became attached to
 Polycrates in the following way:- His father, who dwelt at Crotona,
 was a man of a savage temper, and treated him cruelly. When,
 therefore, he could no longer bear such constant ill-usage,
@@ -8667,7 +9246,8 @@ be reckoned such good physicians; for about this period the physicians
 of Crotona had the name of being the best, and those of Cyrene the
 second best, in all Greece. The Argives, about the same time, were
 thought to be the first musicians in Greece.
-    After Democedes had cured Darius at Susa, he dwelt there in a
+
+After Democedes had cured Darius at Susa, he dwelt there in a
 large house, and feasted daily at the king's table, nor did he lack
 anything that his heart desired, excepting liberty to return to his
 country. By interceding for them with Darius, he saved the lives of
@@ -8677,7 +9257,8 @@ surpassed by a Greek; and further, he succeeded in rescuing an Elean
 soothsayer, who had followed the fortunes of Polycrates, and was lying
 in utter neglect among his slaves. In short there was no one who stood
 so high as Democedes in the favour of the king.
-    Moreover, within a little while it happened that Atossa, the
+
+Moreover, within a little while it happened that Atossa, the
 daughter of Cyrus, who was married to Darius, had a boil form upon her
 breast, which, after it burst, began to spread and increase. Now so
 long as the sore was of no great size, she hid it through shame and
@@ -8687,10 +9268,12 @@ would make her well, but she must first promise him with an oath
 that if he cured her she would grant him whatever request he might
 prefer; assuring her at the same time that it should be nothing
 which she could blush to hear.
-    On these terms Democedes applied his art, and soon cured the
+
+On these terms Democedes applied his art, and soon cured the
 abscess; and Atossa, when she had heard his request, spake thus one
 night to Darius:-
-    "It seemeth to me strange, my lord, that, with the mighty power
+
+"It seemeth to me strange, my lord, that, with the mighty power
 which is thine, thou sittest idle, and neither makest any conquest,
 nor advancest the power of the Persians. Methinks that one who is so
 young, and so richly endowed with wealth, should perform some noble
@@ -8703,12 +9286,14 @@ Now, too, whilst thou art still young, thou mayest well accomplish
 some exploit; for as the body grows in strength the mind too ripens,
 and as the body ages, the mind's powers decay, till at last it becomes
 dulled to everything."
-    So spake Atossa, as Democedes had instructed her. Darius
+
+So spake Atossa, as Democedes had instructed her. Darius
 answered:- "Dear lady, thou hast uttered the very thoughts that occupy
 my brain. I am minded to construct a bridge which shall join our
 continent with the other, and so carry war into Scythia. Yet a brief
 space and all will be accomplished as thou desirest."
-    But Atossa rejoined:- "Look now, this war with Scythia were best
+
+But Atossa rejoined:- "Look now, this war with Scythia were best
 reserved awhile- for the Scythians may be conquered at any time.
 Prithee, lead me thy host first into Greece. I long to be served by
 some of those Lacedaemonian maids of whom I have heard so much. I want
@@ -8717,13 +9302,15 @@ court a man who can tell thee better than any one else in the whole
 world whatever thou wouldst know concerning Greece, and who might
 serve thee right well as guide; I mean him who performed the cure on
 thy foot."
-    "Dear lady," Darius answered, "since it is thy wish that we try
+
+"Dear lady," Darius answered, "since it is thy wish that we try
 first the valour of the Greeks, it were best, methinks, before
 marching against them, to send some Persians to spy out the land; they
 may go in company with the man thou mentionest, and when they have
 seen and learnt all, they can bring us back a full report. Then,
 having a more perfect knowledge of them, I will begin the war."
-    Darius, having so spoke, put no long distance between the word and
+
+Darius, having so spoke, put no long distance between the word and
 the deed, but as soon as day broke he summoned to his presence fifteen
 Persians of note, and bade them take Democedes for their guide, and
 explore the sea-coasts of Greece. Above all, they were to be sure to
@@ -8744,7 +9331,8 @@ his return- the merchant-ship which the king proposed to grant him
 to carry gifts to his brothers, that he would accept at the king's
 hands." So when Darius had laid his orders upon Democedes, he sent him
 and the Persians away to the coast.
-    The men went down to Phoenicia, to Sidon, the Phoenician town,
+
+The men went down to Phoenicia, to Sidon, the Phoenician town,
 where straightway they fitted out two triremes and a trading-vessel,
 which they loaded with all manner of precious merchandise; and,
 everything being now ready, they set sail for Greece. When they had
@@ -8756,7 +9344,8 @@ Tarentines, out of kindness to Democedes, took the rudders off the
 Median ships, and detained their crews as spies. Meanwhile Democedes
 escaped to Crotona, his native city, whereupon Aristophilides released
 the Persians from prison, and gave their rudders back to them.
-    The Persians now quitted Tarentum, and sailed to Crotona in
+
+The Persians now quitted Tarentum, and sailed to Crotona in
 pursuit of Democedes; they found him in the market-place, where they
 straightway laid violent hands on him. Some of the Crotoniats, who
 greatly feared the power of the Persians, were willing to give him up;
@@ -8778,7 +9367,8 @@ bride. For the name of Milo the wrestler was in high repute with the
 king. My belief is, that Democedes hastened his marriage by the
 payment of a large sum of money for the purpose of showing Darius that
 he was a man of mark in his own country.
-    The Persians weighed anchor and left Crotona, but, being wrecked
+
+The Persians weighed anchor and left Crotona, but, being wrecked
 on the coast of Iapygia, were made slaves by the inhabitants. From
 this condition they were rescued by Gillus, a banished Tarentine,
 who ransomed them at his own cost, and took them back to Darius.
@@ -8797,7 +9387,8 @@ attempt force. Such then was the course which this matter took.
 These were the first Persians who ever came from Asia to Greece; and
 they were sent to spy out the land for the reason which I have
 before mentioned.
-    After this, king Darius besieged and took Samos, which was the
+
+After this, king Darius besieged and took Samos, which was the
 first city, Greek or Barbarian, that he conquered. The cause of his
 making war upon Samos was the following:- at the time when Cambyses,
 son of Cyrus, marched against Egypt, vast numbers of Greeks flocked
@@ -8814,7 +9405,8 @@ purchase it. Syloson perceived how anxious he was, and by a lucky
 inspiration answered: "There is no price at which I would sell my
 cloak; but I will give it thee for nothing, if it must needs be
 thine." Darius thanked him, and accepted the garment.
-    Poor Syloson felt at the time that he had fooled away his cloak in
+
+Poor Syloson felt at the time that he had fooled away his cloak in
 a very simple manner; but afterwards, when in the course of years
 Cambyses died, and the seven Persians rose in revolt against the
 Magus, and Darius was the man chosen out of the seven to have the
@@ -8844,11 +9436,13 @@ let that be thy gift to me. It belongs now to a slave of ours, who,
 when Oroetes put my brother Polycrates to death, became its master.
 Give me Samos, I beg; but give it unharmed, with no bloodshed- no
 leading into captivity."
-    When he heard this, Darius sent off an army, under Otanes, one
+
+When he heard this, Darius sent off an army, under Otanes, one
 of the seven, with orders to accomplish all that Syloson had
 desired. And Otanes went down to the coast and made ready to cross
 over.
-    The government of Samos was held at this time by Maeandrius, son
+
+The government of Samos was held at this time by Maeandrius, son
 of Maeandrius, whom Polycrates had appointed as his deputy. This
 person conceived the wish to act like the justest of men, but it was
 not allowed him to do so. On receiving tidings of the death of
@@ -8856,7 +9450,8 @@ Polycrates, he forthwith raised an altar to love the Protector of
 Freedom, and assigned it the piece of ground which may still be seen
 in the suburb. This done, he assembled all the citizens, and spoke
 to them as follows:-
-    "Ye know, friends, that the sceptre of Polycrates, and all his
+
+"Ye know, friends, that the sceptre of Polycrates, and all his
 power, has passed into my hands, and if I choose I may rule over
 you. But what I condemn in another I will, if I may, avoid myself. I
 never approved the ambition of Polycrates to lord it over men as
@@ -8870,7 +9465,8 @@ been built, and by whom ye yourselves are now restored to liberty." As
 soon as Maeandrius had ended, one of the Samians rose up and said, "As
 if thou wert fit to rule us, base-born and rascal as thou art! Think
 rather of accounting for the monies which thou hast fingered."
-    The man who thus spoke was a certain Telesarchus, one of the
+
+The man who thus spoke was a certain Telesarchus, one of the
 leading citizens. Maeandrius, therefore, feeling sure that if he
 laid down the sovereign power some one else would become tyrant in his
 room, gave up the thought of relinquishing it. Withdrawing to the
@@ -8881,14 +9477,16 @@ within a short time fell sick: whereupon Lycaretus, one of his
 brothers, thinking that he was going to die, and wishing to make his
 own accession to the throne the easier, slew all the prisoners. It
 seemed that the Samians did not choose to be a free people.
-    When the Persians whose business it was to restore Syloson reached
+
+When the Persians whose business it was to restore Syloson reached
 Samos, not a man was found to lift up his hand against them.
 Maeandrius and his partisans expressed themselves willing to quit
 the island upon certain terms, and these terms were agreed to by
 Otanes. After the treaty was made, the most distinguished of the
 Persians had their thrones brought, and seated themselves over against
 the citadel.
-    Now the king Maeandrius had a lightheaded brother- Charilaus by
+
+Now the king Maeandrius had a lightheaded brother- Charilaus by
 name- whom for some offence or other he had shut up in prison: this
 man heard what was going on, and peering through his bars, saw the
 Persians sitting peacefully upon their seats, whereupon he exclaimed
@@ -8905,7 +9503,8 @@ revenge, though they might so easily be subdued. If thou, however, art
 afraid, lend me thy soldiers, and I will make them pay dearly for
 their coming here. I engage too to send thee first safe out of the
 island."
-    So spake Charilaus, and Maeandrius gave consent; not (I believe)
+
+So spake Charilaus, and Maeandrius gave consent; not (I believe)
 that he was so void of sense as to imagine that his own forces could
 overcome those of the king, but because he was jealous of Syloson, and
 did not wish him to get so quietly an unharmed city. He desired
@@ -8923,7 +9522,8 @@ onslaught therefore all the Persians of most note, men who were in the
 habit of using litters, were slain by the mercenaries; the rest of the
 army, however, came to the rescue, defeated the mercenaries, and drove
 them back into the citadel.
-    Then Otanes, the general, when he saw the great calamity which had
+
+Then Otanes, the general, when he saw the great calamity which had
 befallen the Persians, made up his mind to forget the orders which
 Darius had given him, "not to kill or enslave a single Samian, but
 to deliver up the island unharmed to Syloson," and gave the word to
@@ -8931,7 +9531,8 @@ his army that they should slay the Samians, both men and boys,
 wherever they could find them. Upon this some of his troops laid siege
 to the citadel, while others began the massacre, killing all they met,
 some outside, some inside the temples.
-    Maeandrius fled from Samos to Lacedaemon, and conveyed thither all
+
+Maeandrius fled from Samos to Lacedaemon, and conveyed thither all
 the riches which he had brought away from the island, after which he
 acted as follows. Having placed upon his board all the gold and silver
 vessels that he had, and bade his servants employ themselves in
@@ -8948,11 +9549,13 @@ would be best for Sparta that the Samian stranger should be sent
 away from the Peloponnese; for otherwise he might perchance persuade
 himself or some other Spartan to be base." The ephors took his advice,
 and let Maeandrius know by a herald that he must leave the city.
-    Meanwhile the Persians netted Samos, and delivered it up to
+
+Meanwhile the Persians netted Samos, and delivered it up to
 Syloson, stripped of all its men. After some time, however, this
 same general Otanes was induced to repeople it by a dream which he
 had, and a loathsome disease that seized on him.
-    After the armament of Otanes had set sail for Samos, the
+
+After the armament of Otanes had set sail for Samos, the
 Babylonians revolted, having made every preparation for defence.
 During all the time that the Magus was king, and while the seven
 were conspiring, they had profited by the troubles, and had made
@@ -8964,7 +9567,8 @@ woman, whomsoever he pleased; these alone were allowed to live,
 while all the rest were brought to one place and strangled. The
 women chosen were kept to make bread for the men; while the others
 were strangled that they might not consume the stores.
-    When tidings reached Darius of what had happened, he drew together
+
+When tidings reached Darius of what had happened, he drew together
 all his power, and began the war by marching straight upon Babylon,
 and laying siege to the place. The Babylonians, however, cared not a
 whit for his siege. Mounting upon the battlements that crowned their
@@ -8973,13 +9577,15 @@ even shouted to them and said, "Why sit ye there, Persians? why do
 ye not go back to your homes? Till mules foal ye will not take our
 city." This was by a Babylonian who thought that a mule would never
 foal.
-    Now when a year and seven months had passed, Darius and his army
+
+Now when a year and seven months had passed, Darius and his army
 were quite wearied out, finding that they could not anyhow take the
 city. All stratagems and all arts had been used, and yet the king
 could not prevail- not even when he tried the means by which Cyrus
 made himself master of the place. The Babylonians were ever upon the
 watch, and he found no way of conquering them.
-    At last, in the twentieth month, a marvellous thing happened to
+
+At last, in the twentieth month, a marvellous thing happened to
 Zopyrus, son of the Megabyzus who was among the seven men that
 overthrew the Magus. One of his sumpter-mules gave birth to a foal.
 Zopyrus, when they told him, not thinking that it could be true,
@@ -8991,7 +9597,8 @@ not take our city"- he thought, as he reflected on this speech, that
 Babylon might now be taken. For it seemed to him that there was a
 Divine Providence in the man having used the phrase, and then his mule
 having foaled.
-    As soon therefore as he felt within himself that Babylon was fated
+
+As soon therefore as he felt within himself that Babylon was fated
 to be taken, he went to Darius and asked him if he set a very high
 value on its conquest. When he found that Darius did indeed value it
 highly, he considered further with himself how he might make the
@@ -9003,7 +9610,8 @@ went over to the enemy. To do this seeming to him a light matter, he
 mutilated himself in a way that was utterly without remedy. For he cut
 off his own nose and ears, and then, clipping his hair close and
 flogging himself with a scourge, he came in this plight before Darius.
-    Wrath stirred within the king at the sight of a man of his lofty
+
+Wrath stirred within the king at the sight of a man of his lofty
 rank in such a condition; leaping down from his throne, he exclaimed
 aloud, and asked Zopyrus who it was that had disfigured him, and
 what he had done to be so treated. Zopyrus answered, "There is not a
@@ -9036,7 +9644,8 @@ other at the Cissian gates; for I expect, that, on account of my
 successes, the Babylonians will entrust everything, even the keys of
 their gates, to me. Then it will be for me and my Persians to do the
 rest."
-    Having left these instructions, Zopyrus fled towards the gates
+
+Having left these instructions, Zopyrus fled towards the gates
 of the town, often looking back, to give himself the air of a
 deserter. The men upon the towers, whose business it was to keep a
 lookout, observing him, hastened down, and setting one of the gates
@@ -9053,7 +9662,8 @@ receive, while to Darius and the Persians it will be the severest
 loss. Verily he by whom I have been so mutilated shall not escape
 unpunished. And truly all the paths of his counsels are known to
 me." Thus did Zopyrus speak.
-    The Babylonians, seeing a Persian of such exalted rank in so
+
+The Babylonians, seeing a Persian of such exalted rank in so
 grievous a plight, his nose and ears cut off, his body red with
 marks of scourging and with blood, had no suspicion but that he
 spoke the truth, and was really come to be their friend and helper.
@@ -9074,7 +9684,8 @@ he put them also to the sword. This last victory gave the finishing
 stroke to his power, and made him all in all with the Babylonians:
 accordingly they committed to him the command of their whole army, and
 put the keys of their city into his hands.
-    Darius now, still keeping to the plan agreed upon, attacked the
+
+Darius now, still keeping to the plan agreed upon, attacked the
 walls on every side, whereupon Zopyrus played out the remainder of his
 stratagem. While the Babylonians, crowding to the walls, did their
 best to resist the Persian assault, he threw open the Cissian and
@@ -9082,7 +9693,8 @@ the Belian gates, and admitted the enemy. Such of the Babylonians as
 witnessed the treachery, took refuge in the temple of Jupiter Belus;
 the rest, who did not see it, kept at their posts, till at last they
 too learnt that they were betrayed.
-    Thus was Babylon taken for the second time. Darius having become
+
+Thus was Babylon taken for the second time. Darius having become
 master of the place, destroyed the wall, and tore down all the
 gates; for Cyrus had done neither the one nor the other when he took
 Babylon. He then chose out near three thousand of the leading
@@ -9095,7 +9707,8 @@ Babylonia, who were each required to send so large a number to
 Babylon, that in all there were collected no fewer than fifty
 thousand. It is from these women that the Babylonians of our times are
 sprung.
-    As for Zopyrus, he was considered by Darius to have surpassed,
+
+As for Zopyrus, he was considered by Darius to have surpassed,
 in the greatness of his achievements, all other Persians, whether of
 former or of later times, except only Cyrus- with whom no Persian ever
 yet thought himself worthy to compare. Darius, as the story goes,
@@ -9107,10 +9720,11 @@ Babylon for his life, free from tribute; and he also granted him
 many other favours. Megabyzus, who held the command in Egypt against
 the Athenians and their allies, was a son of this Zopyrus. And
 Zopyrus, who fled from Persia to Athens, was a son of this Megabyzus.
-                        The Fourth Book, Entitled
-                                MELPOMENE
 
-    After the taking of Babylon, an expedition was led by Darius
+IV MELPOMENE
+------------
+
+After the taking of Babylon, an expedition was led by Darius
 into Scythia. Asia abounding in men, and vast sums flowing into the
 treasury, the desire seized him to exact vengeance from the Scyths,
 who had once in days gone by invaded Media, defeated those who met
@@ -9124,7 +9738,8 @@ them little less troublesome than their struggle with the Medes.
 They found an army of no small size prepared to oppose their entrance.
 For the Scythian women, when they saw that time went on, and their
 husbands did not come back, had intermarried with their slaves.
-    Now the Scythians blind all their slaves, to use them in preparing
+
+Now the Scythians blind all their slaves, to use them in preparing
 their milk. The plan they follow is to thrust tubes made of bone,
 not unlike our musical pipes, up the vulva of the mare, and then to
 blow into the tubes with their mouths, some milking while the others
@@ -9136,7 +9751,8 @@ rises to the top is drawn off, and considered the best part; the under
 portion is of less account. Such is the reason why the Scythians blind
 all those whom they take in war; it arises from their not being
 tillers of the ground, but a pastoral race.
-    When therefore the children sprung from these slaves and the
+
+When therefore the children sprung from these slaves and the
 Scythian women grew to manhood, and understood the circumstances of
 their birth, they resolved to oppose the army which was returning from
 Media. And, first of all, they cut off a tract of country from the
@@ -9152,14 +9768,16 @@ fetch his horsewhip, and go boldly up to them. So long as they see
 us with arms in our hands, they imagine themselves our equals in birth
 and bravery; but let them behold us with no other weapon but the whip,
 and they will feel that they are our slaves, and flee before us."
-    The Scythians followed this counsel, and the slaves were so
+
+The Scythians followed this counsel, and the slaves were so
 astounded, that they forgot to fight, and immediately ran away. Such
 was the mode in which the Scythians, after being for a time the
 lords of Asia, and being forced to quit it by the Medes, returned
 and settled in their own country. This inroad of theirs it was that
 Darius was anxious to avenge, and such was the purpose for which he
 was now collecting an army to invade them.
-    According to the account which the Scythians themselves give, they
+
+According to the account which the Scythians themselves give, they
 are the youngest of all nations. Their tradition is as follows. A
 certain Targitaus was the first man who ever lived in their country,
 which before his time was a desert without inhabitants. He was a
@@ -9177,12 +9795,14 @@ brother. Last of all the youngest brother approached, and
 immediately the flames were extinguished; so he picked up the gold,
 and carried it to his home. Then the two elder agreed together, and
 made the whole kingdom over to the youngest born.
-    From Leipoxais sprang the Scythians of the race called Auchatae;
+
+From Leipoxais sprang the Scythians of the race called Auchatae;
 from Arpoxais, the middle brother, those known as the Catiari and
 Traspians; from Colaxais, the youngest, the Royal Scythians, or
 Paralatae. All together they are named Scoloti, after one of their
 kings: the Greeks, however, call them Scythians.
-    Such is the account which the Scythians give of their origin. They
+
+Such is the account which the Scythians give of their origin. They
 add that from the time of Targitaus, their first king, to the invasion
 of their country by Darius, is a period of one thousand years, neither
 less nor more. The Royal Scythians guard the sacred gold with most
@@ -9198,7 +9818,8 @@ Scythia, the country is said to be concealed from sight and made
 impassable by reason of the feathers which are shed abroad abundantly.
 The earth and air are alike full of them, and this it is which
 prevents the eye from obtaining any view of the region.
-    Such is the account which the Scythians give of themselves, and of
+
+Such is the account which the Scythians give of themselves, and of
 the country which lies above them. The Greeks who dwell about the
 Pontus tell a different story. According to Hercules, when he was
 carrying off the cows of Geryon, arrived in the region which is now
@@ -9211,7 +9832,8 @@ Hercules came from thence into the region now called Scythia, and,
 being overtaken by storm and frost, drew his lion's skin about him,
 and fell fast asleep. While he slept, his mares, which he had loosed
 from his chariot to graze, by some wonderful chance disappeared.
-    On waking, he went in quest of them, and, after wandering over the
+
+On waking, he went in quest of them, and, after wandering over the
 whole country, came at last to the district called "the Woodland,"
 where he found in a cave a strange being, between a maiden and a
 serpent, whose form from the waist upwards was like that of a woman,
@@ -9234,7 +9856,8 @@ and assuredly thou wilt not err. Watch them, and when thou seest one
 of them bend this bow as I now bend it, and gird himself with this
 girdle thus, choose him to remain in the land. Those who fail in the
 trial, send away. Thus wilt thou at once please thyself and obey me."
-    Hereupon he strung one of his bows- up to that time he had carried
+
+Hereupon he strung one of his bows- up to that time he had carried
 two- and showed her how to fasten the belt. Then he gave both bow
 and belt into her hands. Now the belt had a golden goblet attached
 to its clasp. So after he had given them to her, he went his way;
@@ -9251,7 +9874,8 @@ goblet which hung from the belt, the Scythians to this day wear
 goblets at their girdles. This was the only thing which the mother
 of Scythes did for him. Such is the tale told by the Greeks who
 dwell around the Pontus.
-    There is also another different story, now to be related, in which
+
+There is also another different story, now to be related, in which
 I am more inclined to put faith than in any other. It is that the
 wandering Scythians once dwelt in Asia, and there warred with the
 Massagetae, but with ill success; they therefore quitted their
@@ -9275,7 +9899,8 @@ of the Royal tribe were slain, and the people buried them near the
 river Tyras, where their grave is still to be seen. Then the rest of
 the Cimmerians departed, and the Scythians, on their coming, took
 possession of a deserted land.
-    Scythia still retains traces of the Cimmerians; there are
+
+Scythia still retains traces of the Cimmerians; there are
 Cimmerian castles, and a Cimmerian ferry, also a tract called
 Cimmeria, and a Cimmerian Bosphorus. It appears likewise that the
 Cimmerians, when they fled into Asia to escape the Scyths, made a
@@ -9286,7 +9911,8 @@ which led along the sea-shore, but the Scyths in their pursuit held
 the Caucasus upon their right, thus proceeding inland, and falling
 upon Media. This account is one which is common both to Greeks and
 barbarians.
-    Aristeas also, son of Caystrobius, a native of Proconnesus, says
+
+Aristeas also, son of Caystrobius, a native of Proconnesus, says
 in the course of his poem that wrapt in Bacchic fury he went as far as
 the Issedones. Above them dwelt the Arimaspi, men with one eye;
 still further, the gold-guarding griffins; and beyond these, the
@@ -9298,7 +9924,8 @@ Issedonians dispossessed the Scyths; and the Scyths, pressing upon the
 Cimmerians, who dwelt on the shores of the Southern Sea, forced them
 to leave their land. Thus even Aristeas does not agree in his
 account of this region with the Scythians.
-    The birthplace of Aristeas, the poet who sung of these things, I
+
+The birthplace of Aristeas, the poet who sung of these things, I
 have already mentioned. I will now relate a tale which I heard
 concerning him both at Proconnesus and at Cyzicus. Aristeas, they
 said, who belonged to one of the noblest families in the island, had
@@ -9315,7 +9942,8 @@ was found, either dead or alive. Seven years afterwards he reappeared,
 they told me, in Proconnesus, and wrote the poem called by the
 Greeks The Arimaspeia, after which he disappeared a second time.
 This is the tale current in the two cities above-mentioned.
-    What follows I know to have happened to the Metapontines of Italy,
+
+What follows I know to have happened to the Metapontines of Italy,
 three hundred and forty years after the second disappearance of
 Aristeas, as I collect by comparing the accounts given me at
 Proconnesus and Metapontum. Aristeas then, as the Metapontines affirm,
@@ -9333,7 +9961,8 @@ they did as they had been directed: and there is now a statue
 bearing the name of Aristeas, close by the image of Apollo in the
 market-place of Metapontum, with bay-trees standing around it. But
 enough has been said concerning Aristeas.
-    With regard to the regions which lie above the country whereof
+
+With regard to the regions which lie above the country whereof
 this portion of my history treats, there is no one who possesses any
 exact knowledge. Not a single person can I find who professes to be
 acquainted with them by actual observation. Even Aristeas, the
@@ -9344,7 +9973,8 @@ hearsay, being the account which the Issedonians gave him of those
 countries. However, I shall proceed to mention all that I have
 learnt of these parts by the most exact inquiries which I have been
 able to make concerning them.
-    Above the mart of the Borysthenites, which is situated in the very
+
+Above the mart of the Borysthenites, which is situated in the very
 centre of the whole sea-coast of Scythia, the first people who inhabit
 the land are the Callipedae, a Greco-Scythic race. Next to them, as
 you go inland, dwell the people called the Alazonians. These two
@@ -9355,7 +9985,8 @@ their own use, but for sale. Still higher up are the Neuri. Northwards
 of the Neuri the continent, as far as it is known to us, is
 uninhabited. These are the nations along the course of the river
 Hypanis, west of the Borysthenes.
-    Across the Borysthenes, the first country after you leave the
+
+Across the Borysthenes, the first country after you leave the
 coast is Hylaea (the Woodland). Above this dwell the Scythian
 Husbandmen, whom the Greeks living near the Hypanis call
 Borysthenites, while they call themselves Olbiopolites. These
@@ -9366,13 +9997,15 @@ inland there is a vast tract which is uninhabited. Above this desolate
 region dwell the Cannibals, who are a people apart, much unlike the
 Scythians. Above them the country becomes an utter desert; not a
 single tribe, so far as we know, inhabits it.
-    Crossing the Panticapes, and proceeding eastward of the
+
+Crossing the Panticapes, and proceeding eastward of the
 Husbandmen, we come upon the wandering Scythians, who neither plough
 nor sow. Their country, and the whole of this region, except Hylaea,
 is quite bare of trees. They extend towards the east a distance of
 fourteen' days' journey, occupying a tract which reaches to the
 river Gerrhus.
-    On the opposite side of the Gerrhus is the Royal district, as it
+
+On the opposite side of the Gerrhus is the Royal district, as it
 is called: here dwells the largest and bravest of the Scythian tribes,
 which looks upon all the other tribes in the light of slaves. Its
 country reaches on the south to Taurica, on the east to the trench dug
@@ -9382,14 +10015,16 @@ of the country of the Royal Scythians are the Melanchaeni
 (Black-Robes), a people of quite a different race from the
 Scythians. Beyond them lie marshes and a region without inhabitants,
 so far as our knowledge reaches.
-    When one crosses the Tanais, one is no longer in Scythia; the
+
+When one crosses the Tanais, one is no longer in Scythia; the
 first region on crossing is that of the Sauromatae, who, beginning
 at the upper end of the Palus Maeotis, stretch northward a distance of
 fifteen days' journey, inhabiting a country which is entirely bare
 of trees, whether wild or cultivated. Above them, possessing the
 second region, dwell the Budini, whose territory is thickly wooded
 with trees of every kind.
-    Beyond the Budini, as one goes northward, first there is a desert,
+
+Beyond the Budini, as one goes northward, first there is a desert,
 seven days' journey across; after which, if one inclines somewhat to
 the east, the Thyssagetae are reached, a numerous nation quite
 distinct from any other, and living by the chase. Adjoining them,
@@ -9403,7 +10038,8 @@ game, lets fly an arrow; then mounting his horse, he gives the beast
 chase, his dog following hard all the while. Beyond these people, a
 little to the east, dwells a distinct tribe of Scyths, who revolted
 once from the Royal Scythians, and migrated into these parts.
-    As far as their country, the tract of land whereof I have been
+
+As far as their country, the tract of land whereof I have been
 speaking is all a smooth plain, and the soil deep; beyond you enter on
 a region which is rugged and stony. Passing over a great extent of
 this rough country, you come to a people dwelling at the foot of lofty
@@ -9425,7 +10061,8 @@ are looked upon as sacred- they do not even possess any warlike
 weapons. When their neighbours fall out, they make up the quarrel; and
 when one flies to them for refuge, he is safe from all hurt. They
 are called the Argippaeans.
-    Up to this point the territory of which we are speaking is very
+
+Up to this point the territory of which we are speaking is very
 completely explored, and all the nations between the coast and the
 bald-headed men are well known to us. For some of the Scythians are
 accustomed to penetrate as far, of whom inquiry may easily be made,
@@ -9433,7 +10070,8 @@ and Greeks also go there from the mart on the Borysthenes, and from
 the other marts along the Euxine. The Scythians who make this
 journey communicate with the inhabitants by means of seven
 interpreters and seven languages.
-    Thus far, therefore, the land is known; but beyond the bald-headed
+
+Thus far, therefore, the land is known; but beyond the bald-headed
 men lies a region of which no one can give any exact account. Lofty
 and precipitous mountains, which are never crossed, bar further
 progress. The bald men say, but it does not seem to me credible,
@@ -9444,7 +10082,8 @@ unworthy of credit. The region east of the bald-headed men is well
 known to be inhabited by the Issedonians, but the tract that lies to
 the north of these two nations is entirely unknown, except by the
 accounts which they give of it.
-    The Issedonians are said to have the following customs. When a
+
+The Issedonians are said to have the following customs. When a
 man's father dies, all the near relatives bring sheep to the house;
 which are sacrificed, and their flesh cut in pieces, while at the same
 time the dead body undergoes the like treatment. The two sorts of
@@ -9457,14 +10096,16 @@ death, just as the Greeks keep their Genesia. In other respects the
 Issedonians are reputed to be observers of justice: and it is to be
 remarked that their women have equal authority with the men. Thus
 our knowledge extends as far as this nation.
-    The regions beyond are known only from the accounts of the
+
+The regions beyond are known only from the accounts of the
 Issedonians, by whom the stories are told of the one-eyed race of
 men and the gold-guarding griffins. These stories are received by
 the Scythians from the Issedonians, and by them passed on to us
 Greeks: whence it arises that we give the one-eyed race the Scythian
 name of Arimaspi, "arima" being the Scythic word for "one," and
 "spu" for "the eye."
-    The whole district whereof we have here discoursed has winters
+
+The whole district whereof we have here discoursed has winters
 of exceeding rigour. During eight months the frost is so intense
 that water poured upon the ground does not form mud, but if a fire
 be lighted on it mud is produced. The sea freezes, and the Cimmerian
@@ -9484,24 +10125,27 @@ winter or summer. Horses bear the winter well, cold as it is, but
 mules and asses are quite unable to bear it; whereas in other
 countries mules and asses are found to endure the cold, while
 horses, if they stand still, are frost-bitten.
-    To me it seems that the cold may likewise be the cause which
+
+To me it seems that the cold may likewise be the cause which
 prevents the oxen in Scythia from having horns. There is a line of
 Homer's in the Odyssey which gives a support to my opinion:-
 
-    Libya too, where horns hud quick on the foreheads of lambkins.
+> Libya too, where horns hud quick on the foreheads of lambkins.
 
 He means to say what is quite true, that in warm countries the horns
 come early. So too in countries where the cold is severe animals
 either have no horns, or grow them with difficulty- the cold being the
 cause in this instance.
-    Here I must express my wonder- additions being what my work always
+
+Here I must express my wonder- additions being what my work always
 from the very first affected- that in Elis, where the cold is not
 remarkable, and there is nothing else to account for it, mules are
 never produced. The Eleans say it is in consequence of a curse; and
 their habit is, when the breeding-time comes, to take their mares into
 one of the adjoining countries, and there keep them till they are in
 foal, when they bring them back again into Elis.
-    With respect to the feathers which are said by the Scythians to
+
+With respect to the feathers which are said by the Scythians to
 fill the air, and to prevent persons from penetrating into the remoter
 parts of the continent, even having any view of those regions, my
 opinion is that in the countries above Scythia it always snows-
@@ -9513,14 +10157,16 @@ Scythians, with their neighbours, call the snow-flakes feathers
 because, I think, of the likeness which they bear to them. I have
 now related what is said of the most distant parts of this continent
 whereof any account is given.
-    Of the Hyperboreans nothing is said either by the Scythians or
+
+Of the Hyperboreans nothing is said either by the Scythians or
 by any of the other dwellers in these regions, unless it be the
 Issedonians. But in my opinion, even the Issedonians are silent
 concerning them; otherwise the Scythians would have repeated their
 statements, as they do those concerning the one-eyed men. Hesiod,
 however, mentions them, and Homer also in the Epigoni, if that be
 really a work of his.
-    But the persons who have by far the most to say on this subject
+
+But the persons who have by far the most to say on this subject
 are the Delians. They declare that certain offerings, packed in
 wheaten straw, were brought from the country of the Hyperboreans
 into Scythia, and that the Scythians received them and passed them
@@ -9548,7 +10194,8 @@ reached Delos. I myself know of a practice like this, which obtains
 with the women of Thrace and Paeonia. They in their sacrifices to
 the queenly Diana bring wheaten straw always with their offerings.
 Of my own knowledge I can testify that this is so.
-    The damsels sent by the Hyperboreans died in Delos; and in their
+
+The damsels sent by the Hyperboreans died in Delos; and in their
 honour all the Delian girls and youths are wont to cut off their hair.
 The girls, before their marriage-day, cut off a curl, and twining it
 round a distaff, lay it upon the grave of the strangers. This grave is
@@ -9556,7 +10203,8 @@ on the left as one enters the precinct of Diana, and has an olive-tree
 growing on it. The youths wind some of their hair round a kind of
 grass, and, like the girls, place it upon the tomb. Such are the
 honours paid to these damsels by the Delians.
-    They add that, once before, there came to Delos by the same road
+
+They add that, once before, there came to Delos by the same road
 as Hyperoche and Laodice, two other virgins from the Hyperboreans,
 whose names were Arge and Opis. Hyperoche and Laodice came to bring to
 Ilithyia the offering which they had laid upon themselves, in
@@ -9572,7 +10220,8 @@ upon the altar are scattered over the tomb of Opis and Arge. Their
 tomb lies behind the temple of Diana, facing the east, near the
 banqueting-hall of the Ceians. Thus much then, and no more, concerning
 the Hyperboreans.
-    As for the tale of Abaris, who is said to have been a Hyperborean,
+
+As for the tale of Abaris, who is said to have been a Hyperborean,
 and to have gone with his arrow all round the world without once
 eating, I shall pass it by in silence. Thus much, however, is clear:
 if there are Hyperboreans, there must also be Hypernotians. For my
@@ -9583,18 +10232,21 @@ be an exact circle, as if described by a pair of compasses, with
 Europe and Asia just of the same size. The truth in this matter I will
 now proceed to explain in a very few words, making it clear what the
 real size of each region is, and what shape should be given them.
-    The Persians inhabit a country upon the southern or Erythraean
+
+The Persians inhabit a country upon the southern or Erythraean
 sea; above them, to the north, are the Medes; beyond the Medes, the
 Saspirians; beyond them, the Colchians, reaching to the northern
 sea, into which the Phasis empties itself. These four nations fill the
 whole space from one sea to the other.
-    West of these nations there project into the sea two tracts
+
+West of these nations there project into the sea two tracts
 which I will now describe; one, beginning at the river Phasis on the
 north, stretches along the Euxine and the Hellespont to Sigeum in
 the Troas; while on the south it reaches from the Myriandrian gulf,
 which adjoins Phoenicia, to the Triopic promontory. This is one of the
 tracts, and is inhabited by thirty different nations.
-    The other starts from the country of the Persians, and stretches
+
+The other starts from the country of the Persians, and stretches
 into the Erythraean sea, containing first Persia, then Assyria, and
 after Assyria, Arabia. It ends, that is to say, it is considered to
 end, though it does not really come to a termination, at the Arabian
@@ -9605,20 +10257,23 @@ stretching from Phoenicia along the coast of Palestine-Syria till it
 comes to Egypt, where it terminates. This entire tract contains but
 three nations. The whole of Asia west of the country of the Persians
 is comprised in these two regions.
-    Beyond the tract occupied by the Persians, Medes, Saspirians,
+
+Beyond the tract occupied by the Persians, Medes, Saspirians,
 and Colchians, towards the east and the region of the sunrise, Asia is
 bounded on the south by the Erythraean sea, and on the north by the
 Caspian and the river Araxes, which flows towards the rising sun. Till
 you reach India the country is peopled; but further east it is void of
 inhabitants, and no one can say what sort of region it is. Such then
 is the shape, and such the size of Asia.
-    Libya belongs to one of the above-mentioned tracts, for it adjoins
+
+Libya belongs to one of the above-mentioned tracts, for it adjoins
 on Egypt. In Egypt the tract is at first a narrow neck, the distance
 from our sea to the Erythraean not exceeding a hundred thousand
 fathoms, in other words, a thousand furlongs; but from the point where
 the neck ends, the tract which bears the name of Libya is of very
 great breadth.
-    For my part I am astonished that men should ever have divided
+
+For my part I am astonished that men should ever have divided
 Libya, Asia, and Europe as they have, for they are exceedingly
 unequal. Europe extends the entire length of the other two, and for
 breadth will not even (as I think) bear to be compared to them. As for
@@ -9639,7 +10294,8 @@ voyage home. On their return, they declared- I for my part do not
 believe them, but perhaps others may- that in sailing round Libya they
 had the sun upon their right hand. In this way was the extent of Libya
 first discovered.
-    Next to these Phoenicians the Carthaginians, according to their
+
+Next to these Phoenicians the Carthaginians, according to their
 own accounts, made the voyage. For Sataspes, son of Teaspes the
 Achaemenian, did not circumnavigate Libya, though he was sent to do
 so; but, fearing the length and desolateness of the journey, he turned
@@ -9670,7 +10326,8 @@ with the former sentence. One of his eunuchs, on hearing of his death,
 ran away with a great portion of his wealth, and reached Samos,
 where a certain Samian seized the whole. I know the man's name well,
 but I shall willingly forget it here.
-    Of the greater part of Asia Darius was the discoverer. Wishing
+
+Of the greater part of Asia Darius was the discoverer. Wishing
 to know where the Indus (which is the only river save one that
 produces crocodiles) emptied itself into the sea, he sent a number
 of men, on whose truthfulness he could rely, and among them Scylax
@@ -9683,7 +10340,8 @@ round Libya. After this voyage was completed, Darius conquered the
 Indians, and made use of the sea in those parts. Thus all Asia, except
 the eastern portion, has been found to be similarly circumstanced with
 Libya.
-    But the boundaries of Europe are quite unknown, and there is not a
+
+But the boundaries of Europe are quite unknown, and there is not a
 man who can say whether any sea girds it round either on the north
 or on the east, while in length it undoubtedly extends as far as
 both the other two. For my part I cannot conceive why three names, and
@@ -9706,7 +10364,8 @@ Europe was an Asiatic, and never even set foot on the land which the
 Greeks now call Europe, only sailing from Phoenicia to Crete, and from
 Crete to Lycia. However let us quit these matters. We shall
 ourselves continue to use the names which custom sanctions.
-    The Euxine sea, where Darius now went to war, has nations dwelling
+
+The Euxine sea, where Darius now went to war, has nations dwelling
 around it, with the one exception of the Scythians, more unpolished
 than those of any other region that we know of. For, setting aside
 Anacharsis and the Scythian people, there is not within this region
@@ -9724,7 +10383,8 @@ wherever they go; accustomed, moreover, one and all of them, to
 shoot from horseback; and living not by husbandry but on their cattle,
 their waggons the only houses that they possess, how can they fail
 of being unconquerable, and unassailable even?
-    The nature of their country, and the rivers by which it is
+
+The nature of their country, and the rivers by which it is
 intersected, greatly favour this mode of resisting attacks. For the
 land is level, well watered, and abounding in pasture; while the
 rivers which traverse it are almost equal in number to the canals of
@@ -9733,7 +10393,8 @@ navigable to some distance from the sea. They are, the Ister, which
 has five mouths; the Tyras, the Hypanis, the Borysthenes, the
 Panticapes, the Hypacyris, the Gerrhus, and the Tanais. The courses of
 these streams I shall now proceed to describe.
-    The Ister is of all the rivers with which we are acquainted the
+
+The Ister is of all the rivers with which we are acquainted the
 mightiest. It never varies in height, but continues at the same
 level summer and winter. Counting from the west it is the first of the
 Scythian rivers, and the reason of its being the greatest is that it
@@ -9746,7 +10407,8 @@ easternmost of the tributaries. The Tiarantus is of less volume, and
 more to the west. The Ararus, Naparis, and Ordessus fall into the
 Ister between these two. All the above mentioned are genuine
 Scythian rivers, and go to swell the current of the Ister.
-    From the country of the Agathyrsi comes down another river, the
+
+From the country of the Agathyrsi comes down another river, the
 Maris, which empties itself into the same; and from the heights of
 Haemus descend with a northern course three mighty streams, the Atlas,
 the Auras, and the Tibisis, and pour their waters into it. Thrace
@@ -9765,7 +10427,8 @@ through the whole extent of Europe, rising in the country of the Celts
 (the most westerly of all the nations of Europe, excepting the
 Cynetians), and thence running across the continent till it reaches
 Scythia, whereof it washes the flanks.
-    All these streams, then, and many others, add their waters to
+
+All these streams, then, and many others, add their waters to
 swell the flood of the Ister, which thus increased becomes the
 mightiest of rivers; for undoubtedly if we compare the stream of the
 Nile with the single stream of the Ister, we must give the
@@ -9783,11 +10446,13 @@ winter, and just so much higher as the sun's power and attraction
 are greater; so that these two causes counteract each other, and the
 effect is to produce a balance, whereby the Ister remains always at
 the same level.
-    This, then, is one of the great Scythian rivers; the next to it is
+
+This, then, is one of the great Scythian rivers; the next to it is
 the Tyras, which rises from a great lake separating Scythia from the
 land of the Neuri, and runs with a southerly course to the sea. Greeks
 dwell at the mouth of the river, who are called Tyritae.
-    The third river is the Hypanis. This stream rises within the
+
+The third river is the Hypanis. This stream rises within the
 limits of Scythia, and has its source in another vast lake, around
 which wild white horses graze. The lake is called, properly enough,
 the Mother of the Hypanis. The Hypanis, rising here, during the
@@ -9804,7 +10469,8 @@ which means in our language, "The Sacred Ways." The spring itself
 bears the same name. The Tyras and the Hypanis approach each other
 in the country of the Alazonians, but afterwards separate, and leave a
 wide space between their streams.
-    The fourth of the Scythian rivers is the Borysthenes. Next to
+
+The fourth of the Scythian rivers is the Borysthenes. Next to
 the Ister, it is the greatest of them all; and, in my judgment, it
 is the most productive river, not merely in Scythia, but in the
 whole world, excepting only the Nile, with which no stream can
@@ -9831,32 +10497,38 @@ between them, a narrow point like the beak of a ship, is called Cape
 Hippolaus. Here is a temple dedicated to Ceres, and opposite the
 temple upon the Hypanis is the dwelling-place of the Borysthenites.
 But enough has been said of these streams.
-    Next in succession comes the fifth river, called the Panticapes,
+
+Next in succession comes the fifth river, called the Panticapes,
 which has, like the Borysthenes, a course from north to south, and
 rises from a lake. The space between this river and the Borysthenes is
 occupied by the Scythians who are engaged in husbandry. After watering
 their country, the Panticapes flows through Hylaea, and empties itself
 into the Borysthenes.
-    The sixth stream is the Hypacyris, a river rising from a lake, and
+
+The sixth stream is the Hypacyris, a river rising from a lake, and
 running directly through the middle of the Nomadic Scythians. It falls
 into the sea near the city of Carcinitis, leaving Hylaea and the
 course of Achilles to the right.
-    The seventh river is the Gerrhus, which is a branch thrown out
+
+The seventh river is the Gerrhus, which is a branch thrown out
 by the Borysthenes at the point where the course of that stream
 first begins to be known, to wit, the region called by the same name
 as the stream itself, viz. Gerrhus. This river on its passage
 towards the sea divides the country of the Nomadic from that of the
 Royal Scyths. It runs into the Hypacyris.
-    The eighth river is the Tanais, a stream which has its source, far
+
+The eighth river is the Tanais, a stream which has its source, far
 up the country, in a lake of vast size, and which empties itself
 into another still larger lake, the Palus Maeotis, whereby the country
 of the Royal Scythians is divided from that of the Sauromatae. The
 Tanais receives the waters of a tributary stream, called the Hyrgis.
-    Such then are the rivers of chief note in Scythia. The grass which
+
+Such then are the rivers of chief note in Scythia. The grass which
 the land produces is more apt to generate gall in the beasts that feed
 on it than any other grass which is known to us, as plainly appears on
 the opening of their carcases.
-    Thus abundantly are the Scythians provided with the most important
+
+Thus abundantly are the Scythians provided with the most important
 necessaries. Their manners and customs come now to be described.
 They worship only the following gods, namely, Vesta, whom they
 reverence beyond all the rest, Jupiter, and Tellus, whom they consider
@@ -9867,7 +10539,8 @@ tongue Vesta is called Tabiti, Jupiter (very properly, in my judgment)
 Papaeus, Tellus Apia, Apollo Oetosyrus, Celestial Venus Artimpasa, and
 Neptune Thamimasadas. They use no images, altars, or temples, except
 in the worship of Mars; but in his worship they do use them.
-    The manner of their sacrifices is everywhere and in every case the
+
+The manner of their sacrifices is everywhere and in every case the
 same; the victim stands with its two fore-feet bound together by a
 cord, and the person who is about to offer, taking his station
 behind the victim, gives the rope a pull, and thereby throws the
@@ -9877,7 +10550,8 @@ a small stick, twists it round, and so strangles him. No fire is
 lighted, there is no consecration, and no pouring out of
 drink-offerings; but directly that the beast is strangled the
 sacrificer flays him, and then sets to work to boil the flesh.
-    As Scythia, however, is utterly barren of firewood, a plan has had
+
+As Scythia, however, is utterly barren of firewood, a plan has had
 to be contrived for boiling the flesh, which is the following. After
 flaying the beasts, they take out all the bones, and (if they
 possess such gear) put the flesh into boilers made in the country,
@@ -9893,7 +10567,8 @@ victims also to do the like. When the meat is all cooked, the
 sacrificer offers a portion of the flesh and of the entrails, by
 casting it on the ground before him. They sacrifice all sorts of
 cattle, but most commonly horses.
-    Such are the victims offered to the other gods, and such is the
+
+Such are the victims offered to the other gods, and such is the
 mode in which they are sacrificed; but the rites paid to Mars are
 different. In every district, at the seat of government, there
 stands a temple of this god, whereof the following is a description.
@@ -9917,10 +10592,12 @@ prisoners are cut off, and tossed on high into the air. Then the other
 victims are slain, and those who have offered the sacrifice depart,
 leaving the hands and arms where they may chance to have fallen, and
 the bodies also, separate.
-    Such are the observances of the Scythians with respect to
+
+Such are the observances of the Scythians with respect to
 sacrifice. They never use swine for the purpose, nor indeed is it
 their wont to breed them in any part of their country.
-    In what concerns war, their customs are the following. The
+
+In what concerns war, their customs are the following. The
 Scythian soldier drinks the blood of the first man he overthrows in
 battle. Whatever number he slays, he cuts off all their heads, and
 carries them to the king; since he is thus entitled to a share of
@@ -9940,7 +10617,8 @@ man is thick and glossy, and would in whiteness surpass almost all
 other hides. Some even flay the entire body of their enemy, and
 stretching it upon a frame carry it about with them wherever they
 ride. Such are the Scythian customs with respect to scalps and skins.
-    The skulls of their enemies, not indeed of all, but of those
+
+The skulls of their enemies, not indeed of all, but of those
 whom they most detest, they treat as follows. Having sawn off the
 portion below the eyebrows, and cleaned out the inside, they cover the
 outside with leather. When a man is poor, this is all that he does;
@@ -9952,14 +10630,16 @@ strangers whom they deem of any account come to visit them, these
 skulls are handed round, and the host tells how that these were his
 relations who made war upon him, and how that he got the better of
 them; all this being looked upon as proof of bravery.
-    Once a year the governor of each district, at a set place in his
+
+Once a year the governor of each district, at a set place in his
 own province, mingles a bowl of wine, of which all Scythians have a
 right to drink by whom foes have been slain; while they who have slain
 no enemy are not allowed to taste of the bowl, but sit aloof in
 disgrace. No greater shame than this can happen to them. Such as
 have slain a very large number of foes, have two cups instead of
 one, and drink from both.
-    Scythia has an abundance of soothsayers, who foretell the future
+
+Scythia has an abundance of soothsayers, who foretell the future
 by means of a number of willow wands. A large bundle of these wands is
 brought and laid on the ground. The soothsayer unties the bundle,
 and places each wand by itself, at the same time uttering his
@@ -9970,7 +10650,8 @@ men, have another method, which they say Venus taught them. It is done
 with the inner bark of the linden-tree. They take a piece of this
 bark, and, splitting it into three strips, keep twining the strips
 about their fingers, and untwining them, while they prophesy.
-    Whenever the Scythian king falls sick, he sends for the three
+
+Whenever the Scythian king falls sick, he sends for the three
 soothsayers of most renown at the time, who come and make trial of
 their art in the mode above described. Generally they say that the
 king is ill because such or such a person, mentioning his name, has
@@ -9988,7 +10669,8 @@ goods are parted among them: if, on the contrary, they acquit him,
 other soothsayers, and again others, are sent for, to try the case.
 Should the greater number decide in favour of the man's innocence,
 then they who first accused him forfeit their lives.
-    The mode of their execution is the following: a waggon is loaded
+
+The mode of their execution is the following: a waggon is loaded
 with brushwood, and oxen are harnessed to it; the soothsayers, with
 their feet tied together, their hands bound behind their backs, and
 their mouths gagged, are thrust into the midst of the brushwood;
@@ -10001,14 +10683,16 @@ described, for other causes besides the one here spoken of. When the
 king puts one of them to death, he takes care not to let any of his
 sons survive: all the male offspring are slain with the father, only
 the females being allowed to live.
-    Oaths among the Scyths are accompanied with the following
+
+Oaths among the Scyths are accompanied with the following
 ceremonies: a large earthern bowl is filled with wine, and the parties
 to the oath, wounding themselves slightly with a knife or an awl, drop
 some of their blood into the wine; then they plunge into the mixture a
 scymitar, some arrows, a battle-axe, and a javelin, all the while
 repeating prayers; lastly the two contracting parties drink each a
 draught from the bowl, as do also the chief men among their followers.
-    The tombs of their kings are in the land of the Gerrhi, who
+
+The tombs of their kings are in the land of the Gerrhi, who
 dwell at the point where the Borysthenes is first navigable. Here,
 when the king dies, they dig a grave, which is square in shape, and of
 great size. When it is ready, they take the king's corpse, and, having
@@ -10037,7 +10721,8 @@ his horses, firstlings of all his other possessions, and some golden
 cups; for they use neither silver nor brass. After this they set to
 work, and raise a vast mound above the grave, all of them vying with
 each other and seeking to make it as tall as possible.
-    When a year is gone by, further ceremonies take place. Fifty of
+
+When a year is gone by, further ceremonies take place. Fifty of
 the best of the late king's attendants are taken, all native
 Scythians- for, as bought slaves are unknown in the country, the
 Scythian kings choose any of their subjects that they like, to wait on
@@ -10058,7 +10743,8 @@ bodies along the course of the spine to the neck; the lower end of
 which projects from the body, and is fixed into a socket, made in
 the stake that runs lengthwise down the horse. The fifty riders are
 thus ranged in a circle round the tomb, and so left.
-    Such, then, is the mode in which the kings are buried: as for
+
+Such, then, is the mode in which the kings are buried: as for
 the people, when any one dies, his nearest of kin lay him upon a
 waggon and take him round to all his friends in succession: each
 receives them in turn and entertains them with a banquet, whereat
@@ -10072,14 +10758,16 @@ sticks inclined towards one another, and stretching around them
 woollen felts, which they arrange so as to fit as close as possible:
 inside the booth a dish is placed upon the ground, into which they put
 a number of red-hot stones, and then add some hemp-seed.
-    Hemp grows in Scythia: it is very like flax; only that it is a
+
+Hemp grows in Scythia: it is very like flax; only that it is a
 much coarser and taller plant: some grows wild about the country, some
 is produced by cultivation: the Thracians make garments of it which
 closely resemble linen; so much so, indeed, that if a person has never
 seen hemp he is sure to think they are linen, and if he has, unless he
 is very experienced in such matters, he will not know of which
 material they are.
-    The Scythians, as I said, take some of this hemp-seed, and,
+
+The Scythians, as I said, take some of this hemp-seed, and,
 creeping under the felt coverings, throw it upon the red-hot stones;
 immediately it smokes, and gives out such a vapour as no Grecian
 vapour-bath can exceed; the Scyths, delighted, shout for joy, and this
@@ -10091,7 +10779,8 @@ substance, which is of a thick consistency, they plaster their faces
 all over, and indeed their whole bodies. A sweet odour is thereby
 imparted to them, and when they take off the plaster on the day
 following, their skin is clean and glossy.
-    The Scythians have an extreme hatred of all foreign customs,
+
+The Scythians have an extreme hatred of all foreign customs,
 particularly of those in use among the Greeks, as the instances of
 Anacharsis, and, more lately, of Scylas, have fully shown. The former,
 after he had travelled over a great portion of the world, and
@@ -10118,7 +10807,8 @@ Idanthyrsus, being the son of Gnurus, who was the son of Lycus and the
 grandson of Spargapithes. If Anacharsis were really of this house,
 it must have been by his own brother that he was slain, for
 Idanthyrsus was a son of the Saulius who put Anacharsis to death.
-    I have heard, however, another tale, very different from this,
+
+I have heard, however, another tale, very different from this,
 which is told by the Peloponnesians: they say, that Anacharsis was
 sent by the king of the Scyths to make acquaintance with Greece-
 that he went, and on his return home reported that the Greeks were all
@@ -10128,7 +10818,8 @@ silly tale this, which the Greeks have invented for their amusement!
 There is no doubt that Anacharsis suffered death in the mode already
 related, on account of his attachment to foreign customs, and the
 intercourse which he held with the Greeks.
-    Scylas, likewise, the son of Ariapithes, many years later, met
+
+Scylas, likewise, the son of Ariapithes, many years later, met
 with almost the very same fate. Ariapithes, the Scythian king, had
 several sons, among them this Scylas, who was the child, not of a
 native Scyth, but of a woman of Istria. Bred up by her, Scylas
@@ -10154,7 +10845,8 @@ Borysthenites, after which he would clothe himself again in his
 Scythian dress, and so take his departure. This he did repeatedly, and
 even built himself a house in Borysthenes, and married a wife there
 who was a native of the place.
-    But when the time came that was ordained to bring him woe, the
+
+But when the time came that was ordained to bring him woe, the
 occasion of his ruin was the following. He wanted to be initiated in
 the Bacchic mysteries, and was on the point of obtaining admission
 to the rites, when a most strange prodigy occurred to him. The house
@@ -10178,7 +10870,8 @@ by with the band of revellers, raving like the rest, and was seen by
 the watchers. Regarding the matter as a very great misfortune they
 instantly departed, and came and told the army what they had
 witnessed.
-    When, therefore, Scylas, after leaving Borysthenes, was about
+
+When, therefore, Scylas, after leaving Borysthenes, was about
 returning home, the Scythians broke out into revolt. They put at their
 head Octamasadas, grandson (on the mother's side) of Teres. Then
 Scylas, when he learned the danger with which he was threatened, and
@@ -10198,7 +10891,8 @@ Sitalces took his brother with him and withdrew; but Octamasadas
 beheaded Scylas upon the spot. Thus rigidly do the Scythians
 maintain their own customs, and thus severely do they punish such as
 adopt foreign usages.
-    What the population of Scythia is I was not able to learn with
+
+What the population of Scythia is I was not able to learn with
 certainty; the accounts which I received varied from one another. I
 heard from some that they were very numerous indeed; others made their
 numbers but scanty for such a nation as the Scyths. Thus much,
@@ -10219,7 +10913,8 @@ collected thereby a vast heap of arrow-heads, which he resolved to
 form into a memorial that might go down to posterity. Accordingly he
 made of them this bowl, and dedicated it at Exampaeus. This was all
 that I could learn concerning the number of the Scythians.
-    The country has no marvels except its rivers, which are larger and
+
+The country has no marvels except its rivers, which are larger and
 more numerous than those of any other land. These, and the vastness of
 the great plain, are worthy of note, and one thing besides, which I am
 about to mention. They show a footmark of Hercules, impressed on a
@@ -10227,7 +10922,8 @@ rock, in shape like the print of a man's foot, but two cubits in
 length. It is in the neighbourhood of the Tyras. Having described
 this, I return to the subject on which I originally proposed to
 discourse.
-    The preparations of Darius against the Scythians had begun,
+
+The preparations of Darius against the Scythians had begun,
 messengers had been despatched on all sides with the king's
 commands, some being required to furnish troops, others to supply
 ships, others again to bridge the Thracian Bosphorus, when
@@ -10237,7 +10933,8 @@ of attacking Scythia. Good, however, as the advice of Artabanus was,
 it failed to persuade Darius. He therefore ceased his reasonings;
 and Darius, when his preparations were complete, led his army forth
 from Susa.
-    It was then that a certain Persian, by name Oeobazus, the father
+
+It was then that a certain Persian, by name Oeobazus, the father
 of three sons, all of whom were to accompany the army, came and prayed
 the king that he would allow one of his sons to remain with him.
 Darius made answer, as if he regarded him in the light of a friend who
@@ -10247,7 +10944,8 @@ be excused from serving; the king, however, bade his attendants take
 the three sons of Oeobazus and forthwith put them to death. Thus
 they were all left behind, but not till they had been deprived of
 life.
-    When Darius, on his march from Susa, reached the territory of
+
+When Darius, on his march from Susa, reached the territory of
 Chalcedon on the shores of the Bosphorus, where the bridge had been
 made, he took ship and sailed thence to the Cyanean islands, which,
 according to the Greeks, once floated. He took his seat also in the
@@ -10262,7 +10960,8 @@ Propontis. The Propontis is five hundred furlongs across, and fourteen
 hundred long. Its waters flow into the Hellespont, the length of which
 is four hundred furlongs, and the width no more than seven. The
 Hellespont opens into the wide sea called the Egean.
-    The mode in which these distances have been measured is the
+
+The mode in which these distances have been measured is the
 following. In a long day a vessel generally accomplishes about seventy
 thousand fathoms, in the night sixty thousand. Now from the mouth of
 the Pontus to the river Phasis, which is the extreme length of this
@@ -10278,7 +10977,8 @@ give of them. The Pontus has also a lake belonging to it, not very
 much inferior to itself in size. The waters of this lake run into
 the Pontus: it is called the Maeotis, and also the Mother of the
 Pontus.
-    Darius, after he had finished his survey, sailed back to the
+
+Darius, after he had finished his survey, sailed back to the
 bridge, which had been constructed for him by Mandrocles a Samian.
 He likewise surveyed the Bosphorus, and erected upon its shores two
 pillars of white marble, whereupon he inscribed the names of all the
@@ -10294,7 +10994,8 @@ covered with Assyrian writing. The spot where Darius bridged the
 Bosphorus was, I think, but I speak only from conjecture, half-way
 between the city of Byzantium and the temple at the mouth of the
 strait.
-    Darius was so pleased with the bridge thrown across the strait
+
+Darius was so pleased with the bridge thrown across the strait
 by the Samain Mandrocles, that he not only bestowed upon him all the
 customary presents, but gave him ten of every kind. Mandrocles, by the
 way of offering first-fruits from these presents, caused a picture
@@ -10303,14 +11004,16 @@ sitting in a seat of honour, and his army engaged in the passage. This
 painting he dedicated in the temple of Juno at Samos, attaching to
 it the inscription following:-
 
-    The fish-fraught Bosphorus bridged, to Juno's fane
-      Did Mandrocles this proud memorial bring;
-    When for himself a crown he'd skill to gain,
-      For Samos praise, contenting the Great King.
+> The fish-fraught Bosphorus bridged, to Juno's fane  
+> Did Mandrocles this proud memorial bring;
+>
+> When for himself a crown he'd skill to gain,  
+> For Samos praise, contenting the Great King.
 
 Such was the memorial of his work which was left by the architect of
 the bridge.
-    Darius, after rewarding Mandrocles, passed into Europe, while he
+
+Darius, after rewarding Mandrocles, passed into Europe, while he
 ordered the Ionians to enter the Pontus, and sail to the mouth of
 the Ister. There he bade them throw a bridge across the stream and
 await his coming. The Ionians, Aeolians, and Hellespontians were the
@@ -10321,7 +11024,8 @@ distance of two days' voyage from the sea, yoked the neck of the
 stream. Meantime Darius, who had crossed the Bosphorus by the bridge
 over it, marched through Thrace; and happening upon the sources of the
 Tearus, pitched his camp and made a stay of three days.
-    Now the Tearus is said by those who dwell near it, to be the
+
+Now the Tearus is said by those who dwell near it, to be the
 most healthful of all streams, and to cure, among other diseases,
 the scab either in man or beast. Its sources, which are eight and
 thirty in number, all flowing from the same rock, are in part cold, in
@@ -10330,7 +11034,8 @@ near Perinthus, and Apollonia on the Euxine, a two days' journey
 from each. This river, the Tearus, is a tributary of the
 Contadesdus, which runs into the Agrianes, and that into the Hebrus.
 The Hebrus empties itself into the sea near the city of Aenus.
-    Here then, on the banks of the Tearus, Darius stopped and
+
+Here then, on the banks of the Tearus, Darius stopped and
 pitched his camp. The river charmed him so, that he caused a pillar to
 be erected in this place also, with an inscription to the following
 effect: "The fountains of the Tearus afford the best and most
@@ -10338,13 +11043,15 @@ beautiful water of all rivers: they were visited, on his march into
 Scythia, by the best and most beautiful of men, Darius, son of
 Hystaspes, king of the Persians, and of the whole continent." Such was
 the inscription which he set up at this place.
-    Marching thence, he came to a second river, called the Artiscus,
+
+Marching thence, he came to a second river, called the Artiscus,
 which flows through the country of the Odrysians. Here he fixed upon a
 certain spot, where every one of his soldiers should throw a stone
 as he passed by. When his orders were obeyed, Darius continued his
 march, leaving behind him great hills formed of the stones cast by his
 troops.
-    Before arriving at the Ister, the first people whom he subdued
+
+Before arriving at the Ister, the first people whom he subdued
 were the Getae, who believe in their immortality. The Thracians of
 Salmydessus, and those who dwelt above the cities of Apollonia and
 Mesembria- the Scyrmiadae and Nipsaeans, as they are called- gave
@@ -10352,7 +11059,8 @@ themselves up to Darius without a struggle; but the Getae
 obstinately defending themselves, were forthwith enslaved,
 notwithstanding that they are the noblest as well as the most just
 of all the Thracian tribes.
-    The belief of the Getae in respect of immortality is the
+
+The belief of the Getae in respect of immortality is the
 following. They think that they do not really die, but that when
 they depart this life they go to Zalmoxis, who is called also
 Gebeleizis by some among them. To this god every five years they
@@ -10368,7 +11076,8 @@ they choose another to send away. The messages are given while the man
 is still alive. This same people, when it lightens and thunders, aim
 their arrows at the sky, uttering threats against the god; and they do
 not believe that there is any god but their own.
-    I am told by the Greeks who dwell on the shores of the
+
+I am told by the Greeks who dwell on the shores of the
 Hellespont and the Pontus, that this Zalmoxis was in reality a man,
 that he lived at Samos, and while there was the slave of Pythagoras
 son of Mnesarchus. After obtaining his freedom he grew rich, and
@@ -10392,7 +11101,8 @@ years, after which he came forth from his concealment, and showed
 himself once more to his countrymen, who were thus brought to
 believe in the truth of what he had taught them. Such is the account
 of the Greeks.
-    I for my part neither put entire faith in this story of Zalmoxis
+
+I for my part neither put entire faith in this story of Zalmoxis
 and his underground chamber, nor do I altogether discredit it: but I
 believe Zalmoxis to have lived long before the time of Pythagoras.
 Whether there was ever really a man of the name, or whether Zalmoxis
@@ -10400,7 +11110,8 @@ is nothing but a native god of the Getae, I now bid him farewell. As
 for the Getae themselves, the people who observe the practices
 described above, they were now reduced by the Persians, and
 accompanied the army of Darius.
-    When Darius, with his land forces, reached the Ister, he made
+
+When Darius, with his land forces, reached the Ister, he made
 his troops cross the stream, and after all were gone over gave
 orders to the Ionians to break the bridge, and follow him with the
 whole naval force in his land march. They were about to obey his
@@ -10423,7 +11134,8 @@ is, in any case, to follow thee." The advice of Coes pleased Darius
 highly, who thus replied to him:- "Dear Lesbian, when I am safe home
 again in my palace, be sure thou come to me, and with good deeds
 will I recompense thy good words of to-day."
-    Having so said, the king took a leathern thong, and tying sixty
+
+Having so said, the king took a leathern thong, and tying sixty
 knots in it, called together the Ionian tyrants, and spoke thus to
 them:- "Men of Ionia, my former commands to you concerning the
 bridge are now withdrawn. See, here is a thong: take it, and observe
@@ -10435,7 +11147,8 @@ understand that my resolve is changed, and that you are to guard the
 bridge with all care, and watch over its safety and preservation. By
 so doing ye will oblige me greatly." When Darius had thus spoken, he
 set out on his march with all speed.
-    Before you come to Scythia, on the sea coast, lies Thrace. The
+
+Before you come to Scythia, on the sea coast, lies Thrace. The
 land here makes a sweep, and then Scythia begins, the Ister falling
 into the sea at this point with its mouth facing the east. Starting
 from the Ister I shall now describe the measurements of the seashore
@@ -10458,7 +11171,8 @@ a line were drawn from Port Brundusium to Tarentum, and a people
 different from the Iapygians inhabited the promontory. These two
 instances may suggest a number of others where the shape of the land
 closely resembles that of Taurica.
-    Beyond this tract, we find the Scythians again in possession of
+
+Beyond this tract, we find the Scythians again in possession of
 the country above the Tauri and the parts bordering on the eastern
 sea, as also of the whole district lying west of the Cimmerian
 Bosphorus and the Palus Maeotis, as far as the river Tanais, which
@@ -10466,7 +11180,8 @@ empties itself into that lake at its upper end. As for the inland
 boundaries of Scythia, if we start from the Ister, we find it enclosed
 by the following tribes, first the Agathyrsi, next the Neuri, then the
 Androphagi, and last of all, the Melanchaeni.
-    Scythia then, which is square in shape, and has two of its sides
+
+Scythia then, which is square in shape, and has two of its sides
 reaching down to the sea, extends inland to the same distance that
 it stretches along the coast, and is equal every way. For it is a
 ten days' journey from the Ister to the Borysthenes, and ten more from
@@ -10477,7 +11192,8 @@ two hundred furlongs. Thus the two sides which run straight inland are
 four thousand furlongs each, and the transverse sides at right
 angles to these are also of the same length, which gives the full size
 of Scythia.
-    The Scythians, reflecting on their situation, perceived that
+
+The Scythians, reflecting on their situation, perceived that
 they were not strong enough by themselves to contend with the army
 of Darius in open fight. They, therefore, sent envoys to the
 neighbouring nations, whose kings had already met, and were in
@@ -10485,7 +11201,8 @@ consultation upon the advance of so vast a host. Now they who had come
 together were the kings of the Tauri, the Agathyrsi, the Neuri, the
 Androphagi, the Melanchaeni, the Geloni, the Budini, and the
 Sauromatae.
-    The Tauri have the following customs. They offer in sacrifice to
+
+The Tauri have the following customs. They offer in sacrifice to
 the Virgin all shipwrecked persons, and all Greeks compelled to put
 into their ports by stress of weather. The mode of sacrifice is
 this. After the preparatory ceremonies, they strike the victim on
@@ -10502,12 +11219,14 @@ elevates above his house, most commonly over the chimney. The reason
 that the heads are set up so high, is (it is said) in order that the
 whole house may be under their protection. These people live
 entirely by war and plundering.
-    The Agathyrsi are a race of men very luxurious, and very fond of
+
+The Agathyrsi are a race of men very luxurious, and very fond of
 wearing gold on their persons. They have wives in common, that so they
 may be all brothers, and, as members of one family, may neither envy
 nor hate one another. In other respects their customs approach
 nearly to those of the Thracians.
-    The Neurian customs are like the Scythian. One generation before
+
+The Neurian customs are like the Scythian. One generation before
 the attack of Darius they were driven from their land by a huge
 multitude of serpents which invaded them. Of these some were
 produced in their own country, while others, and those by far the
@@ -10519,14 +11238,17 @@ every Neurian once a year becomes a wolf for a few days, at the end of
 which time he is restored to his proper shape. Not that I believe
 this, but they constantly affirm it to be true, and are even ready
 to back their assertion with an oath.
-    The manners of the Androphagi are more savage than those of any
+
+The manners of the Androphagi are more savage than those of any
 other race. They neither observe justice, nor are governed, by any
 laws. They are nomads, and their dress is Scythian; but the language
 which they speak is peculiar to themselves. Unlike any other nation in
 these parts, they are cannibals.
-    The Melanchaeni wear, all of them, black cloaks, and from this
+
+The Melanchaeni wear, all of them, black cloaks, and from this
 derive the name which they bear. Their customs are Scythic.
-    The Budini are a large and powerful nation: they have all deep
+
+The Budini are a large and powerful nation: they have all deep
 blue eyes, and bright red hair. There is a city in their territory,
 called Gelonus, which is surrounded with a lofty wall, thirty furlongs
 each way, built entirely of wood. All the houses in the place and
@@ -10538,7 +11260,8 @@ fall into the Bacchic fury. For the fact is that the Geloni were
 anciently Greeks, who, being driven out of the factories along the
 coast, fled to the Budini and took up their abode with them. They
 still speak a language half Greek, half Scythian.
-    The Budini, however, do not speak the same language as the Geloni,
+
+The Budini, however, do not speak the same language as the Geloni,
 nor is their mode of life the same. They are the aboriginal people
 of the country, and are nomads; unlike any of the neighbouring
 races, they eat lice. The Geloni on the contrary, are tillers of the
@@ -10551,7 +11274,8 @@ with reeds growing on it. Here otters are caught, and beavers, with
 another sort of animal which has a square face. With the skins of this
 last the natives border their capotes: and they also get from them a
 remedy, which is of virtue in diseases of the womb.
-    It is reported of the Sauromatae, that when the Greeks fought with
+
+It is reported of the Sauromatae, that when the Greeks fought with
 the Amazons, whom the Scythians call Oior-pata or "man-slayers," as it
 may be rendered, Oior being Scythic for "man," and pata for "to slay"-
 It is reported, I say, that the Greeks after gaining the battle of the
@@ -10567,7 +11291,8 @@ Here they went ashore, and proceeded by land towards the inhabited
 regions; the first herd of horses which they fell in with they seized,
 and mounting upon their backs, fell to plundering the Scythian
 territory.
-    The Scyths could not tell what to make of the attack upon them-
+
+The Scyths could not tell what to make of the attack upon them-
 the dress, the language, the nation itself, were alike unknown
 whence the enemy had come even, was a marvel. Imagining, however, that
 they were all men of about the same age, they went out against them,
@@ -10581,21 +11306,24 @@ were to retire, and avoid a fight- when they halted, the young men
 were to approach and pitch their camp near the camp of the enemy.
 All this they did on account of their strong desire to obtain children
 from so notable a race.
-    So the youths departed, and obeyed the orders which had been given
+
+So the youths departed, and obeyed the orders which had been given
 them. The Amazons soon found out that they had not come to do them any
 harm; and so they on their part ceased to offer the Scythians any
 molestation. And now day after day the camps approached nearer to
 one another; both parties led the same life, neither having anything
 but their arms and horses, so that they were forced to support
 themselves by hunting and pillage.
-    At last an incident brought two of them together- the man easily
+
+At last an incident brought two of them together- the man easily
 gained the good graces of the woman, who bade him by signs (for they
 did not understand each other's language) to bring a friend the next
 day to the spot where they had met- promising on her part to bring
 with her another woman. He did so, and the woman kept her word. When
 the rest of the youths heard what had taken place, they also sought
 and gained the favour of the other Amazons.
-    The two camps were then joined in one, the Scythians living with
+
+The two camps were then joined in one, the Scythians living with
 the Amazons as their wives; and the men were unable to learn the
 tongue of the women, but the women soon caught up the tongue of the
 men. When they could thus understand one another, the Scyths addressed
@@ -10613,7 +11341,8 @@ keep us as your wives, and would conduct yourselves with strict
 justice towards us, go you home to your parents, bid them give you
 your inheritance, and then come back to us, and let us and you live
 together by ourselves."
-    The youths approved of the advice, and followed it. They went
+
+The youths approved of the advice, and followed it. They went
 and got the portion of goods which fell to them, returned with it, and
 rejoined their wives, who then addressed them in these words
 following:- "We are ashamed, and afraid to live in the country where
@@ -10622,7 +11351,8 @@ done great damage to Scythia by our ravages. As you like us for wives,
 grant the request we make of you. Let us leave this country
 together, and go and dwell beyond the Tanais." Again the youths
 complied.
-    Crossing the Tanais they journeyed eastward a distance of three
+
+Crossing the Tanais they journeyed eastward a distance of three
 days' march from that stream, and again northward a distance of
 three days' march from the Palus Maeotis. Here they came to the
 country where they now live, and took up their abode in it. The
@@ -10630,13 +11360,15 @@ women of the Sauromatae have continued from that day to the present to
 observe their ancient customs, frequently hunting on horseback with
 their husbands, sometimes even unaccompanied; in war taking the field;
 and wearing the very same dress as the men.
-    The Sauromatae speak the language of Scythia, but have never
+
+The Sauromatae speak the language of Scythia, but have never
 talked it correctly, because the Amazons learnt it imperfectly at
 the first. Their marriage-law lays it down that no girl shall wed till
 she has killed a man in battle. Sometimes it happens that a woman dies
 unmarried at an advanced age, having never been able in her whole
 lifetime to fulfil the condition.
-    The envoys of the Scythians, on being introduced into the presence
+
+The envoys of the Scythians, on being introduced into the presence
 of the kings of these nations, who were assembled to deliberate,
 made it known to them that the Persian, after subduing the whole of
 the other continent, had thrown a bridge over the strait of the
@@ -10661,7 +11393,8 @@ entrance into Europe, he has subjugated without exception every nation
 that lay in his path. All the tribes of the Thracians have been
 brought under his sway, and among them even our next neighbours, the
 Getae."
-    The assembled princes of the nations, after hearing all that the
+
+The assembled princes of the nations, after hearing all that the
 Scythians had to say, deliberated. At the end opinion was divided- the
 kings of the Geloni, Budini, and Sauromatae were of accord, and
 pledged themselves to give assistance to the Scythians; but the
@@ -10679,7 +11412,8 @@ they invade our land, and begin aggressions upon us, we will not
 suffer them; but, till we see this come to pass, we will remain at
 home. For we believe that the Persians are not come to attack us,
 but to punish those who are guilty of first injuring them."
-    When this reply reached the Scythians, they resolved, as the
+
+When this reply reached the Scythians, they resolved, as the
 neighbouring nations refused their alliance, that they would not
 openly venture on any pitched battle with the enemy, but would
 retire before them, driving off their herds, choking up all the
@@ -10701,14 +11435,16 @@ they would not of their own free will engage in the contest, they
 might by these means be forced into it. Afterwards, it was agreed that
 they should retire into their own land, and, should it on deliberation
 appear to them expedient, join battle with the enemy.
-    When these measures had been determined on, the Scythians went out
+
+When these measures had been determined on, the Scythians went out
 to meet the army of Darius, sending on in front as scouts the fleetest
 of their horsemen. Their waggons wherein their women and their
 children lived, and all their cattle, except such a number as was
 wanted for food, which they kept with them, were made to precede
 them in their retreat, and departed, with orders to keep marching,
 without change of course, to the north.
-    The scouts of the Scythians found the Persian host advanced
+
+The scouts of the Scythians found the Persian host advanced
 three days' march from the Ister, and immediately took the lead of
 them at the distance of a day's march, encamping from time to time,
 and destroying all that grow on the ground. The Persians no sooner
@@ -10719,7 +11455,8 @@ their line of march was eastward toward the Tanais. The Scyths crossed
 the river and the Persians after them, still in pursuit. in this way
 they passed through the country of the Sauromatae, and entered that of
 the Budini.
-    As long as the march of the Persian army lay through the countries
+
+As long as the march of the Persian army lay through the countries
 of the Scythians and Sauromatae, there was nothing which they could
 damage, the land being waste and barren; but on entering the
 territories of the Budini, they came upon the wooden fortress above
@@ -10733,7 +11470,8 @@ this desert dwell the Thyssagetae, out of whose land four great
 streams flow. These rivers all traverse the country of the
 Maeotians, and fall into the Palus Maeotis. Their names are the Lycus,
 the Oarus, the Tanais, and the Syrgis.
-    When Darius reached the desert, he paused from his pursuit, and
+
+When Darius reached the desert, he paused from his pursuit, and
 halted his army upon the Oarus. Here he built eight large forts, at an
 equal distance from one another, sixty furlongs apart or
 thereabouts, the ruins of which were still remaining in my day. During
@@ -10743,7 +11481,8 @@ Scythia. On their complete disappearance, Darius, seeing nothing
 more of them, left his forts half finished, and returned towards the
 west. He imagined that the Scythians whom he had seen were the
 entire nation, and that they had fled in that direction.
-    He now quickened his march, and entering Scythia, fell in with the
+
+He now quickened his march, and entering Scythia, fell in with the
 two combined divisions of the Scythian army, and instantly gave them
 chase. They kept to their plan of retreating before him at the
 distance of a day's march; and, he still following them hotly, they
@@ -10767,7 +11506,8 @@ lands, they forgot their threats and fled away in confusion to the
 deserts lying towards the north. The Scythians, when the Agathyrsi
 forbade them to enter their country, refrained; and led the Persians
 back from the Neurian district into their own land.
-    This had gone on so long, and seemed so interminable, that
+
+This had gone on so long, and seemed so interminable, that
 Darius at last sent a horseman to Idanthyrsus, the Scythian king, with
 the following message:- "Thou strange man, why dost thou keep on
 flying before me, when there are two things thou mightest do so
@@ -10776,7 +11516,8 @@ wanderings and come, let us engage in battle. Or if thou art conscious
 that my strength is greater than thine- even so thou shouldest cease
 to run away- thou hast but to bring thy lord earth and water, and to
 come at once to a conference."
-    To this message Idanthyrsus, the Scythian king, replied:- "This is
+
+To this message Idanthyrsus, the Scythian king, replied:- "This is
 my way, Persian. I never fear men or fly from them. I have not done so
 in times past, nor do I now fly from thee. There is nothing new or
 strange in what I do; I only follow my common mode of life in peaceful
@@ -10795,7 +11536,8 @@ more suitable gifts. Last of all, in return for thy calling thyself my
 lord, I say to thee, 'Go weep.'" (This is what men mean by the
 Scythian mode of speech.) So the herald departed, bearing this message
 to Darius.
-    When the Scythian kings heard the name of slavery they were filled
+
+When the Scythian kings heard the name of slavery they were filled
 with rage, and despatched the division under Scopasis to which the
 Sauromatae were joined, with orders that they should seek a conference
 with the Ionians, who had been left at the Ister to guard the
@@ -10808,7 +11550,8 @@ enemy; these last, however, when routed, fell back upon their foot,
 who never failed to afford them support; while the Scythians, on their
 side, as soon as they had driven the horse in, retired again, for fear
 of the foot. By night too the Scythians made many similar attacks.
-    There was one very strange thing which greatly advantaged the
+
+There was one very strange thing which greatly advantaged the
 Persians, and was of equal disservice to the Scyths, in these assaults
 on the Persian camp. This was the braying of the asses and the
 appearance of the mules. For, as I observed before, the land of the
@@ -10820,14 +11563,16 @@ take fright and wheel round, pricking up their ears, and showing
 astonishment. This was owing to their having never heard the noise, or
 seen the form, of the animal before: and it was not without some
 little influence on the progress of the war.
-    The Scythians, when they perceived signs that the Persians were
+
+The Scythians, when they perceived signs that the Persians were
 becoming alarmed, took steps to induce them not to quit Scythia, in
 the hope, if they stayed, of inflicting on them the greater injury,
 when their supplies should altogether fail. To effect this, they would
 leave some of their cattle exposed with the herdsmen, while they
 themselves moved away to a distance: the Persians would make a
 foray, and take the beasts, whereupon they would be highly elated.
-    This they did several times, until at last Darius was at his wits'
+
+This they did several times, until at last Darius was at his wits'
 end; hereon the Scythian princes, understanding how matters stood,
 despatched a herald to the Persian camp with presents for the king:
 these were, a bird, a mouse, a frog, and five arrows. The Persians
@@ -10836,7 +11581,8 @@ answer that he had no orders except to deliver them, and return
 again with all speed. If the Persians were wise, he added, they
 would find out the meaning for themselves. So when they heard this,
 they held a council to consider the matter.
-    Darius gave it as his opinion that the Scyths intended a surrender
+
+Darius gave it as his opinion that the Scyths intended a surrender
 of themselves and their country, both land and water, into his
 hands. This he conceived to be the meaning of the gifts, because the
 mouse is an inhabitant of the earth, and eats the same food as man,
@@ -10849,7 +11595,8 @@ the sky, or become mice and burrow under the ground, or make
 yourselves frogs, and take refuge in the fens, ye will never make
 escape from this land, but die pierced by our arrows. Such were
 meanings which the Persians assigned to the gifts.
-    The single division of the Scyths, which in the early part of
+
+The single division of the Scyths, which in the early part of
 the war had been appointed to keep guard about the Palus Maeotis,
 and had now been sent to get speech of the Ionians stationed at the
 Ister, addressed them, on reaching the bridge, in these words- "Men of
@@ -10861,7 +11608,8 @@ sight, and in ours. Tarry here the appointed time, and at the end go
 your ways." Having said this, and received a promise from the
 Ionians to do as they desired, the Scythians hastened back with all
 possible speed.
-    After the sending of the gifts to Darius, the part of the Scythian
+
+After the sending of the gifts to Darius, the part of the Scythian
 army which had not marched to the Ister, drew out in battle array
 horse and foot against the Persians, and seemed about to come to an
 engagement. But as they stood in battle array, it chanced that a
@@ -10884,7 +11632,8 @@ weak and unequal to hardship, taking care also to leave our asses
 tethered, retreat from Scythia, before our foes march forward to the
 Ister and destroy the bridge, or the Ionians come to any resolution
 which may lead to our ruin."
-    So Gobryas advised; and when night came, Darius followed his
+
+So Gobryas advised; and when night came, Darius followed his
 counsel, and leaving his sick soldiers, and those whose loss would
 be of least account, with the asses also tethered about the camp,
 marched away. The asses were left that their noise might be heard: the
@@ -10896,7 +11645,8 @@ caused the fires to be lighted, Darius set forth, and marched
 hastily towards the Ister. The asses, aware of the departure of the
 host, brayed louder than ever; and the Scythians, hearing the sound,
 entertained no doubt of the Persians being still in the same place.
-    When day dawned, the men who had been left behind, perceiving that
+
+When day dawned, the men who had been left behind, perceiving that
 they were betrayed by Darius, stretched out their hands towards the
 Scythians, and spoke as. befitted their situation. The enemy no sooner
 heard, than they quickly joined all their troops in one, and both
@@ -10916,7 +11666,8 @@ hitherto: now, however, you may safely break the bridge, and hasten
 back to your homes, rejoicing that you are free, and thanking for it
 the gods and the Scythians. Your former lord and master we undertake
 so to handle, that he will never again make war upon any one."
-    The Ionians now held a council. Miltiades the Athenian, who was
+
+The Ionians now held a council. Miltiades the Athenian, who was
 king of the Chersonesites upon the Hellespont, and their commander
 at the Ister, recommended the other generals to do as the Scythians
 wished, and restore freedom to Ionia. But Histiaeus the Milesian
@@ -10927,7 +11678,8 @@ not one of them which will not prefer democracy to kingly rule."
 Then the other captains, who, till Histiaeus spoke, were about to vote
 with Miltiades, changed their minds, and declared in favour of the
 last speaker.
-    The following were the voters on this occasion- all of them men
+
+The following were the voters on this occasion- all of them men
 who stood high in the esteem of the Persian king: the tyrants of the
 Hellespont- Daphnis of Abydos, Hippoclus of Lampsacus, Herophantus
 of Parium, Metrodorus of Proconnesus, Aristagoras of Cyzicus, and
@@ -10935,7 +11687,8 @@ Ariston of Byzantium; the Ionian princes- Strattis of Chios, Aeaces of
 Samos, Laodamas of Phocaea, and Histiaeus of Miletus, the man who
 had opposed Miltiades. Only one Aeolian of note was present, to wit,
 Aristagoras of Cyme.
-    Having resolved to follow the advice of Histiaeus, the Greek
+
+Having resolved to follow the advice of Histiaeus, the Greek
 leaders further determined to speak and act as follows. In order to
 appear to the Scythians to be doing something, when in fact they
 were doing nothing of consequence, and likewise to prevent them from
@@ -10954,7 +11707,8 @@ and, believe us, we will work zealously to procure our own freedom.
 Meantime, while we labour here at our task, be it your business to
 seek them out, and, when found, for our sakes, as well as your own, to
 visit them with the vengeance which they so well deserve."
-    Again the Scyths put faith in the promises of the Ionian chiefs,
+
+Again the Scyths put faith in the promises of the Ionian chiefs,
 and retraced their steps, hoping to fall in with the Persians. They
 missed, however, the enemy's whole line of march; their own former
 acts being to blame for it. Had they not ravaged all the pasturages of
@@ -10970,20 +11724,23 @@ departing from it; and even so gained the bridge with difficulty. It
 was night when they arrived, and their terror, when they found the
 bridge broken up, was great; for they thought that perhaps the Ionians
 had deserted them.
-    Now there was in the army of Darius a certain man, an Egyptian,
+
+Now there was in the army of Darius a certain man, an Egyptian,
 who had a louder voice than any other man in the world. This person
 was bid by Darius to stand at the water's edge, and call Histiaeus the
 Milesian. The fellow did as he was bid; and Histiaeus, hearing him
 at the very first summons, brought the fleet to assist in conveying
 the army across, and once more made good the bridge.
-    By these means the Persians escaped from Scythia, while the Scyths
+
+By these means the Persians escaped from Scythia, while the Scyths
 sought for them in vain, again missing their track. And hence the
 Scythians are accustomed to say of the Ionians, by way of reproach,
 that, if they be looked upon as freemen, they are the basest and
 most dastardly of all mankind- but if they be considered as under
 servitude, they are the faithfullest of slaves, and the most fondly
 at. to their lords.
-    Darius, having passed through Thrace, reached Sestos in the
+
+Darius, having passed through Thrace, reached Sestos in the
 Chersonese, whence he crossed by the help of his fleet into Asia,
 leaving a Persian, named Megabazus, commander on the European side.
 This was the man on whom Darius once conferred special honour by a
@@ -10996,7 +11753,8 @@ better than to be lord of Greece." Such was the compliment wherewith
 Darius honoured the general to whom at this time he gave the command
 of the troops left in Europe, amounting in all to some eighty thousand
 men.
-    This same Megabazus got himself an undying remembrance among the
+
+This same Megabazus got himself an undying remembrance among the
 Hellespontians, by a certain speech which he made. It came to his
 knowledge, while he was staying at Byzantium, that the Chalcedonians
 made their settlement seventeen years earlier than the Byzantines.
@@ -11006,7 +11764,8 @@ site was open to them, they would never have chosen one so greatly
 inferior." Megabazus now, having been appointed to take the command
 upon the Hellespont, employed himself in the reduction of all those
 states which had not of their own accord joined the Medes.
-    About this very time another great expedition was undertaken
+
+About this very time another great expedition was undertaken
 against Libya, on a pretext which I will relate when I have premised
 certain particulars. The descendants of the Argonauts in the third
 generation, driven out of Lemnos by the Pelasgi who carried off the
@@ -11029,7 +11788,8 @@ their tribes. What chiefly moved them to this was the consideration
 that the sons of Tyndarus had sailed on board the Argo. The Minyae, on
 their part, forthwith married Spartan wives, and gave the wives,
 whom they had married in Lemnos, to Spartan husbands.
-    However, before much time had elapsed, the Minyae began to wax
+
+However, before much time had elapsed, the Minyae began to wax
 wanton, demanded to share the throne, and committed other impieties:
 whereupon the Lacedaemonians passed on them sentence of death, and,
 seizing them, cast them into prison. Now the Lacedaemonians never
@@ -11044,7 +11804,8 @@ exchange: after which the Minyae, dressed in their wives' garments,
 and thus passing for women, went forth. Having effected their escape
 in this manner, they seated themselves once more upon Taygetum.own
 land
-    It happened that at this very time Theras, son of Autesion
+
+It happened that at this very time Theras, son of Autesion
 (whose father Tisamenus was the son of Thersander, and grandson of
 Polynices), was about to lead out a colony from Lacedaemon This
 Theras, by birth a Cadmeian, was uncle on the mother's side to the two
@@ -11062,7 +11823,8 @@ a purpose in so doing, left there a number of Phoenicians, and with
 them his own kinsman Membliarus. Calliste had been inhabited by this
 race for eight generations of men, before the arrival of Theras from
 Lacedaemon.)
-    Theras now, having with him a certain number of men from each of
+
+Theras now, having with him a certain number of men from each of
 the tribes, was setting forth on his expedition hitherward. Far from
 intending to drive out the former inhabitants, he regarded them as his
 near kin, and meant to settle among them. It happened that just at
@@ -11078,7 +11840,8 @@ Caucons, whom they drove out, themselves occupying the region in six
 bodies, by which were afterwards built the towns of Lepreum, Macistus,
 Phryxae, Pyrgus, Epium, and Nudium; whereof the greater part were in
 my day demolished by the Eleans.
-    The island was called Thera after the name of its founder. This
+
+The island was called Thera after the name of its founder. This
 same Theras had a son, who refused to cross the sea with him; Theras
 therefore left him behind, "a sheep," as he said, "among wolves." From
 this speech his son came to be called Oeolycus, a name which
@@ -11089,7 +11852,8 @@ their children, whereupon they were bidden by an oracle to build a
 temple to the furies of Laius and Oedipus; they complied, and the
 mortality ceased. The same thing happened in Thera to the
 descendants of these men.
-    Thus far the history is delivered without variation both by the
+
+Thus far the history is delivered without variation both by the
 Theraeans and the Lacedaemonians; but from this point we have only the
 Theraean narrative. Grinus (they say), the son of Aesanius, a
 descendant of Theras, and king of the island of Thera, went to
@@ -11105,7 +11869,8 @@ and thus the matter rested for that time. When the embassy returned to
 Thera, small account was taken of the oracle by the Theraeans, as they
 were quite ignorant where Libya was, and were not so venturesome as to
 send out a colony in the dark.
-    Seven years passed from the utterance of the oracle, and not a
+
+Seven years passed from the utterance of the oracle, and not a
 drop of rain fell in Thera: all the trees in the island, except one,
 were killed with the drought. The Theraeans upon this sent to
 Delphi, and were reminded reproachfully that they had never
@@ -11122,7 +11887,8 @@ persons then sailed from Thera to reconnoitre. Guided by Corobius to
 the island of Platea, they left him there with provisions for a
 certain number of months, and returned home with all speed to give
 their countrymen an account of the island.
-    During their absence, which was prolonged beyond the time that had
+
+During their absence, which was prolonged beyond the time that had
 been agreed upon, Corobius provisions failed him. He was relieved,
 however, after a while by a Samian vessel, under the command of a
 man named Colaeus, which, on its way to Egypt, was forced to put in at
@@ -11144,14 +11910,16 @@ bronze, of the height of seven cubits, was placed as an offering in
 the temple of Juno at Samos. The aid given to Corobius was the
 original cause of that close friendship which afterwards united the
 Cyrenaeans and Theraeans with the Samians.
-    The Theraeans who had left Corobius at Platea, when they reached
+
+The Theraeans who had left Corobius at Platea, when they reached
 Thera, told their countrymen that they had colonised an island on
 the coast of Libya. They of Thera, upon this, resolved that men should
 be sent to join the colony from each of their seven districts, and
 that the brothers in every family should draw lots to determine who
 were to go. Battus was chosen to be king and leader of the colony.
 So these men departed for Platea on board of two penteconters.
-    Such is the account which the Theraeans give. In the sequel of the
+
+Such is the account which the Theraeans give. In the sequel of the
 history their accounts tally with those of the people of Cyrene; but
 in what they relate of Battus these two nations differ most widely.
 The following is the Cyrenaic story. There was once a king named
@@ -11174,7 +11942,8 @@ sailed away from Crete. Having reached the open main, to acquit
 himself of the obligation under which he was laid by his oath to
 Etearchus, he fastened ropes about the damsel, and, letting her down
 into the sea, drew her up again, and so made sail for Thera.
-    At Thera, Polymnestus, one of the chief citizens of the place,
+
+At Thera, Polymnestus, one of the chief citizens of the place,
 took Phronima to be his concubine. The fruit of this union was a
 son, who stammered and had a lisp in his speech. According to the
 Cyrenaeans and Theraeans the name given to the boy was Battus: in my
@@ -11189,8 +11958,8 @@ him. For after he had grown to man's estate, he made a journey to
 Delphi, to consult the oracle about his voice; when, upon his
 putting his question, the Pythoness thus replied to him:-
 
-    Battus, thou camest to ask of thy voice; but Phoebus Apollo
-    Bids thee establish a city in Libya, abounding in fleeces;
+> Battus, thou camest to ask of thy voice; but Phoebus Apollo
+> Bids thee establish a city in Libya, abounding in fleeces;
 
 which was as if she had said in her own tongue, "King, thou camest
 to ask of thy voice." Then he replied, "Mighty lord, I did indeed come
@@ -11200,7 +11969,8 @@ what power have I? what followers?" Thus he spake, but he did not
 persuade the Pythoness to give him any other response; so, when he
 found that she persisted in her former answer, he left her speaking,
 and set out on his return to Thera.
-    After a while, everything began to go wrong both with Battus and
+
+After a while, everything began to go wrong both with Battus and
 with the rest of the Theraeans, whereupon these last, ignorant of
 the cause of their sufferings, sent to Delphi to inquire for what
 reason they were afflicted. The Pythoness in reply told them "that
@@ -11215,16 +11985,17 @@ from whence they came. Thus compelled to return, they settled on an
 island near the Libyan coast, which (as I have already said) was
 called Platea. In size it is reported to have been about equal to
 the city of Cyrene, as it now stands.
-    In this place they continued two years, but at the end of that
+
+In this place they continued two years, but at the end of that
 time, as their ill luck still followed them, they left the island to
 the care of one of their number, and went in a body to Delphi, where
 they made complaint at the shrine to the effect that,
 notwithstanding they had colonised Libya, they prospered as poorly
 as before. Hereon the Pythoness made them the following answer:-
 
-    Knowest thou better than I, fair Libya abounding in fleeces?
-    Better the stranger than he who has trod it? Oh! clever
-      Theraeans!
+> Knowest thou better than I, fair Libya abounding in fleeces?
+> Better the stranger than he who has trod it? Oh! clever
+>   Theraeans!
 
 Battus and his friends, when they heard this, sailed back to Platea:
 it was plain the god would not hold them acquitted of the colony
@@ -11233,7 +12004,8 @@ whom they had left upon the island, they made a settlement on the
 mainland directly opposite Platea, fixing themselves at a place called
 Aziris, which is closed in on both sides by the most beautiful
 hills, and on one side is washed by a river.
-    Here they remained six years, at the end of which time the Libyans
+
+Here they remained six years, at the end of which time the Libyans
 induced them to move, promising that they would lead them to a
 better situation. So the Greeks left Aziris and were conducted by
 the Libyans towards the west, their journey being so arranged, by
@@ -11242,7 +12014,8 @@ most beautiful district of that whole country, which is the region
 called Irasa. The Libyans brought them to a spring, which goes by
 the name of Apollo's fountain, and told them- "Here, Grecians, is
 the proper place for you to settle; for here the sky leaks."
-    During the lifetime of Battus, the founder of the colony, who
+
+During the lifetime of Battus, the founder of the colony, who
 reigned forty years, and during that of his son Arcesilaus, who
 reigned sixteen, the Cyrenaeans continued at the same level, neither
 more nor fewer in number than they were at the first. But in the reign
@@ -11251,8 +12024,8 @@ Pythoness brought Greeks from every quarter into Libya, to join the
 settlement. The Cyrenaeans had offered to all comers a share in
 their lands; and the oracle had spoken as follows:-
 
-    He that is backward to share in the pleasant Libyan acres,
-    Sooner or later, I warn him, will feel regret at his folly.
+> He that is backward to share in the pleasant Libyan acres,
+> Sooner or later, I warn him, will feel regret at his folly.
 
 Thus a great multitude were collected together to Cyrene, and the
 Libyans of the neighbourhood found themselves stripped of large
@@ -11268,7 +12041,8 @@ Greeks, and so thought but meanly of them, were routed with such
 slaughter that but a very few of them ever got back home. For this
 reason, the subjects of Apries, who laid the blame of the defeat on
 him, revolted from his authority.
-    This Battus left a son called Arcesilaus, who, when he came to the
+
+This Battus left a son called Arcesilaus, who, when he came to the
 throne, had dissensions with his brothers, which ended in their
 quitting him and departing to another region of Libya, where, after
 consulting among themselves, they founded the city, which is still
@@ -11285,7 +12059,8 @@ the fight. Arcesilaus, after this blow, fell sick, and, whilst he
 was under the influence of a draught which he had taken, was strangled
 by Learchus, one of his brothers. This Learchus was afterwards
 entrapped by Eryxo, the widow of Arcesilaus, and put to death.
-    Battus, Arcesilaus' son, succeeded to the kingdom, a lame man, who
+
+Battus, Arcesilaus' son, succeeded to the kingdom, a lame man, who
 limped in his walk. Their late calamities now induced the Cyrenaeans
 to send to Delphi and inquire of the god what form of government
 they had best set up to secure themselves prosperity. The Pythoness
@@ -11300,7 +12075,8 @@ islanders. Besides this, he deprived the king Battus of his former
 privileges, only reserving for him certain sacred lands and offices;
 while, with respect to the powers which had hitherto been exercised by
 the king, he gave them all into the hands of the people.
-    Thus matters rested during the lifetime of this Battus, but when
+
+Thus matters rested during the lifetime of this Battus, but when
 his son Arcesilaus came to the throne, great disturbance arose about
 the privileges. For Arcesilaus, son of Battus the lame and
 Pheretima, refused to submit to the arrangements of Demonax the
@@ -11320,7 +12096,8 @@ gift, Evelthon at last sent her a golden spindle and distaff, with the
 wool ready for spinning. Again she uttered the same speech as
 before, whereupon Evelthon rejoined-"These are the gifts I present
 to women, not armies."
-    At Samos, meanwhile, Arcesilaus was collecting troops by the
+
+At Samos, meanwhile, Arcesilaus was collecting troops by the
 promise of granting them lands. Having in this way drawn together a
 vast host, he sent to Delphi to consult the oracle about his
 restoration. The answer of the Pythoness was this: "Loxias grants
@@ -11331,7 +12108,8 @@ Thou, for thy part, be gentle, when thou art restored. If thou findest
 the oven full of jars, bake not the jars; but be sure to speed them on
 their way. If, however, thou heatest the oven, then avoid the island
 else thou wilt die thyself, and with thee the most beautiful bull."
-    So spake the Pythoness. Arcesilaus upon this returned to Cyrene,
+
+So spake the Pythoness. Arcesilaus upon this returned to Cyrene,
 taking with him the troops which he had raised in Samos. There he
 obtained possession of the supreme power; whereupon, forgetful of
 the oracle, he took proceedings against those who had driven him
@@ -11353,7 +12131,8 @@ with a number of Cyrenaean exiles, recognising him as he walked in the
 forum, killed him; they slew also at the same time Alazir, his
 father-in-law. So Arcesilaus, wittingly or unwittingly, disobeyed
 the oracle, and thereby fulfilled his destiny.
-    Pheretima, the mother of Arcesilaus, during the time that her son,
+
+Pheretima, the mother of Arcesilaus, during the time that her son,
 after working his own ruin, dwelt at Barca, continued to enjoy all his
 privileges at Cyrene, managing the government, and taking her seat
 at the council-board. No sooner, however, did she hear of the death of
@@ -11364,7 +12143,8 @@ a rate of tribute agreed upon. Pheretima therefore went straight to
 Egypt, and presenting herself as a suppliant before Aryandes,
 entreated him to avenge her wrongs. Her son, she said, had met his
 death on account of his being so well affected towards the Medes.
-    Now Aryandes had been made governor of Egypt by Cambyses. He it
+
+Now Aryandes had been made governor of Egypt by Cambyses. He it
 was who in after times was punished with death by Darius for seeking
 to rival him. Aware, by report and also by his own eyesight, that
 Darius wished to leave a memorial of himself, such as no king had ever
@@ -11375,7 +12155,8 @@ Egyptian government, did the very same with silver, so that to this
 day there is no such pure silver anywhere as the Aryandic. Darius,
 when this came to his ears, brought another charge, a charge of
 rebellion, against Aryandes, and put him to death.
-    At the time of which we are speaking Aryandes, moved with
+
+At the time of which we are speaking Aryandes, moved with
 compassion for Pheretima, granted her all the forces which there
 were in Egypt, both land and sea. The command of the army he gave to
 Amasis, a Maraphian; while Badres, one of the tribe of the Pasargadae,
@@ -11389,7 +12170,8 @@ pretext for this expedition: its real object was, I believe, the
 subjugation of Libya. For Libya is inhabited by many and various
 races, and of these but very few were subjects of the Persian king,
 while by far the larger number held Darius in no manner of respect.
-    The Libyans dwell in the order which I will now describe.
+
+The Libyans dwell in the order which I will now describe.
 Beginning on the side of Egypt, the first Libyans are the Adyrmachidae
 These people have, in most points, the same customs as the
 Egyptians, but use the costume of the Libyans. Their women wear on
@@ -11400,7 +12182,8 @@ the only tribe with whom the custom obtains of bringing all women
 about to become brides before the king, that he may choose such as are
 agreeable to him. The Adyrmachidae extend from the borders of Egypt to
 the harbour called Port Plynus.
-    Next to the Adyrmachidae are the Gilligammae, who inhabit the
+
+Next to the Adyrmachidae are the Gilligammae, who inhabit the
 country westward as far as the island of Aphrodisias. Off this tract
 is the island of Platea, which the Cyrenaeans colonised. Here too,
 upon the mainland, are Port Menelaus, and Aziris, where the Cyrenaeans
@@ -11408,17 +12191,20 @@ once lived. The Silphium begins to grow in this region, extending from
 the island of Platea on the one side to the mouth of the Syrtis on the
 other. The customs of the Gilligammae are like those of the rest of
 their countrymen.
-    The Asbystae adjoin the Gilligammae upon the west. They inhabit
+
+The Asbystae adjoin the Gilligammae upon the west. They inhabit
 the regions above Cyrene, but do not reach to the coast, which belongs
 to the Cyrenaeans. Four-horse chariots are in more common use among
 them than among any other Libyans. In most of their customs they ape
 the manners of the Cyrenaeans.
-    Westward of the Asbystae dwell the Auschisae, who possess the
+
+Westward of the Asbystae dwell the Auschisae, who possess the
 country above Barca, reaching, however, to the sea at the place called
 Euesperides. In the middle of their territory is the little tribe of
 the Cabalians, which touches the coast near Tauchira, a city of the
 Barcaeans. Their customs are like those of the Libyans above Cyrene.
-    The Nasamonians, a numerous people, are the western neighbours
+
+The Nasamonians, a numerous people, are the western neighbours
 of the Auschisae. In summer they leave their flocks and herds upon the
 sea-shore, and go up the country to a place called Augila, where
 they gather the dates from the palms, which in those parts grow
@@ -11437,7 +12223,8 @@ guide their conduct. When they pledge their faith to one another, each
 gives the other to drink out of his hand; if there be no liquid to
 be had, they take up dust from the ground, and put their tongues to
 it.
-    On the country of the Nasamonians borders that of the Psylli,
+
+On the country of the Nasamonians borders that of the Psylli,
 who were swept away under the following circumstances. The
 south-wind had blown for a long time and dried up all the tanks in
 which their water was stored. Now the whole region within the Syrtis
@@ -11447,11 +12234,13 @@ so at least the Libyans say, I do but repeat their words- they went
 forth and reached the desert; but there the south-wind rose and buried
 them under heaps of sand: whereupon, the Psylli being destroyed, their
 lands passed to the Nasamonians.
-    Above the Nasamonians, towards the south, in the district where
+
+Above the Nasamonians, towards the south, in the district where
 the wild beasts abound, dwell the Garamantians, who avoid all
 society or intercourse with their fellow-men, have no weapon of war,
 and do not know how to defend themselves.
-    These border the Nasamonians on the south: westward along the
+
+These border the Nasamonians on the south: westward along the
 sea-shore their neighbours are the Macea, who, by letting the locks
 about the crown of their head grow long, while they clip them close
 everywhere else, make their hair resemble a crest. In war these people
@@ -11460,7 +12249,8 @@ them from the height called "the Hill of the Graces," and runs from
 thence through their country to the sea. The Hill of the Graces is
 thickly covered with wood, and is thus very unlike the rest of
 Libya, which is bare. It is distant two hundred furlongs from the sea.
-    Adjoining the Macae are the Gindanes, whose women wear on their
+
+Adjoining the Macae are the Gindanes, whose women wear on their
 legs anklets of leather. Each lover that a woman has gives her one;
 and she who can show the most is the best esteemed, as she appears
 to have been loved by the greatest number of men.
@@ -11469,14 +12259,16 @@ Gindanes is inhabited by the Lotophagi, who live entirely on the fruit
 of the lotus-tree. The lotus fruit is about the size of the lentisk
 berry, and in sweetness resembles the date. The Lotophagi even succeed
 in obtaining from it a sort of wine.
-    The sea-coast beyond the Lotophagi is occupied by the Machlyans,
+
+The sea-coast beyond the Lotophagi is occupied by the Machlyans,
 who use the lotus to some extent, though not so much as the people
 of whom we last spoke. The Machlyans reach as far as the great river
 called the Triton, which empties itself into the great lake
 Tritonis. Here, in this lake, is an island called Phla, which it is
 said the Lacedaemonians were to have colonised, according to an
 oracle.
-    The following is the story as it is commonly told. When Jason
+
+The following is the story as it is commonly told. When Jason
 had finished building the Argo at the foot of Mount Pelion, he took on
 board the usual hecatomb, and moreover a brazen tripod. Thus equipped,
 he set sail, intending to coast round the Peloponnese, and so to reach
@@ -11495,7 +12287,8 @@ the Argo's crew should seize and carry off the brazen tripod, then
 by inevitable fate would a hundred Grecian cities be built around Lake
 Tritonis." The Libyans of that region, when they heard the words of
 this prophecy, took away the tripod and hid it.
-    The next tribe beyond the Machlyans is the tribe of the Auseans.
+
+The next tribe beyond the Machlyans is the tribe of the Auseans.
 Both these nations inhabit the borders of Lake Tritonis, being
 separated from one another by the river Triton. Both also wear their
 hair long, but the Machlyans let it grow at the back of the head,
@@ -11523,7 +12316,8 @@ but dwell together like the gregarious beasts. When their children are
 full-grown, they are brought before the assembly of the men, which
 is held every third month, and assigned to those whom they most
 resemble.
-    Such are the tribes of wandering Libyans dwelling upon the
+
+Such are the tribes of wandering Libyans dwelling upon the
 sea-coast. Above them inland is the wild-beast tract: and beyond that,
 a ridge of sand, reaching from Egyptian Thebes to the Pillars of
 Hercules. Throughout this ridge, at the distance of about ten days'
@@ -11545,12 +12339,14 @@ lukewarm; still the heat increases, and at midnight it boils
 furiously. After this time it again begins to cool, and grows less and
 less hot till morning comes. This spring is called "the Fountain of
 the Sun."
-    Next to the Ammonians, at the distance of ten days' journey
+
+Next to the Ammonians, at the distance of ten days' journey
 along the ridge of sand, there is a second salt-hill like the
 Ammonian, and a second spring. The country round is inhabited, and the
 place bears the name of Augila. Hither it is that the Nasamonians come
 to gather in the dates.
-    Ten days' journey from Augila there is again a salt-hill and a
+
+Ten days' journey from Augila there is again a salt-hill and a
 spring; palms of the fruitful kind grow here abundantly, as they do
 also at the other salt-hills. This region is inhabited by a nation
 called the Garamantians, a very powerful people, who cover the salt
@@ -11567,7 +12363,8 @@ any account has reached our ears are by far the swiftest of foot.
 The Troglodytes feed on serpents, lizards, and other similar reptiles.
 Their language is unlike that of any other people; it sounds like
 the screeching of bats.
-    At the distance of ten days' journey from the Garamantians there
+
+At the distance of ten days' journey from the Garamantians there
 is again another salt-hill and spring of water; around which dwell a
 people, called the Atarantians, who alone of all known nations are
 destitute of names. The title of Atarantians is borne by the whole
@@ -11582,7 +12379,8 @@ quitting it either summer or winter. The natives call this mountain
 "the Pillar of Heaven"; and they themselves take their name from it,
 being called Atlantes. They are reported not to eat any living
 thing, and never to have any dreams.
-    As far as the Atlantes the names of the nations inhabiting the
+
+As far as the Atlantes the names of the nations inhabiting the
 sandy ridge are known to me; but beyond them my knowledge fails. The
 ridge itself extends as far as the Pillars of Hercules, and even
 further than these; and throughout the whole distance, at the end of
@@ -11593,7 +12391,8 @@ these houses could not stand. The salt quarried is of two colours,
 white and purple. Beyond the ridge, southwards, in the direction of
 the interior, the country is a desert, with no springs, no beasts,
 no rain, no wood, and altogether destitute of moisture.
-    Thus from Egypt as far as Lake Tritonis Libya is inhabited by
+
+Thus from Egypt as far as Lake Tritonis Libya is inhabited by
 wandering tribes, whose drink is milk and their food the flesh of
 animals. Cow's flesh, however, none of these tribes ever taste, but
 abstain from it for the same reason as the Egyptians, neither do
@@ -11602,7 +12401,8 @@ to eat the flesh of the cow, honouring in this Isis, the Egyptian
 goddess, whom they worship both with fasts and festivals. The Barcaean
 women abstain, not from cow's flesh only, but also from the flesh of
 swine.
-    West of Lake Tritonis the Libyans are no longer wanderers, nor
+
+West of Lake Tritonis the Libyans are no longer wanderers, nor
 do they practise the same customs as the wandering people, or treat
 their children in the same way. For the wandering Libyans, many of
 them at any rate, if not all- concerning which I cannot speak with
@@ -11618,14 +12418,16 @@ when the children are being burnt convulsions come on, there is a
 remedy of which they have made discovery. It is to sprinkle goat's
 water upon the child, who thus treated, is sure to recover. In all
 this I only repeat what is said by the Libyans.
-    The rites which the wandering Libyans use in sacrificing are the
+
+The rites which the wandering Libyans use in sacrificing are the
 following. They begin with the ear of the victim, which they cut off
 and throw over their house: this done, they kill the animal by
 twisting the neck. They sacrifice to the Sun and Moon, but not to
 any other god. This worship is common to all the Libyans. The
 inhabitants of the parts about Lake Tritonis worship in addition
 Triton, Neptune, and Minerva, the last especially.
-    The dress wherewith Minerva's statues are adorned, and her
+
+The dress wherewith Minerva's statues are adorned, and her
 Aegis, were derived by the Greeks from the women of Libya. For, except
 that the garments of the Libyan women are of leather, and their
 fringes made of leathern thongs instead of serpents, in all else the
@@ -11638,14 +12440,16 @@ the loud cries uttered in our sacred rites came also from thence;
 for the Libyan women are greatly given to such cries and utter them
 very sweetly. Likewise the Greeks learnt from the Libyans to yoke four
 horses to a chariot.
-    All the wandering tribes bury their dead according to the
+
+All the wandering tribes bury their dead according to the
 fashion of the Greeks, except the Nasamonians. They bury them sitting,
 and are right careful when the sick man is at the point of giving up
 the ghost, to make him sit and not let him die lying down. The
 dwellings of these people are made of the stems of the asphodel, and
 of rushes wattled together. They can be carried from place to place.
 Such are the customs of the afore-mentioned tribes.
-    Westward of the river Triton and adjoining upon the Auseans, are
+
+Westward of the river Triton and adjoining upon the Auseans, are
 other Libyans who till the ground, and live in houses: these people
 are named the Maxyans. They let the hair grow long on the right side
 of their heads, and shave it close on the left; they besmear their
@@ -11661,7 +12465,8 @@ aspicks, and the horned asses. Here too are the dog-faced creatures,
 and the creatures without heads, whom the Libyans declare to have
 their eyes in their breasts; and also the wild men, and wild women,
 and many other far less fabulous beasts.
-    Among the wanderers are none of these, but quite other animals; as
+
+Among the wanderers are none of these, but quite other animals; as
 antelopes, gazelles, buffaloes, and asses, not of the horned sort, but
 of a kind which does not need to drink; also oryxes, whose horns are
 used for the curved sides of citherns, and whose size is about that of
@@ -11677,13 +12482,16 @@ third, urchins. Weasels also are found in the Silphium region, much
 like the Tartessian. So many, therefore, are the animals belonging
 to the land of the wandering Libyans, in so far at least as my
 researches have been able to reach.
-    Next to the Maxyan Libyans are the Zavecians, whose wives drive
+
+Next to the Maxyan Libyans are the Zavecians, whose wives drive
 their chariots to battle.
-    On them border the Gyzantians; in whose country a vast deal of
+
+On them border the Gyzantians; in whose country a vast deal of
 honey is made by bees; very much more, however, by the skill of men.
 The people all paint themselves red, and eat monkeys, whereof there is
 inexhaustible store in the hills.
-    Off their coast, as the Carthaginians report, lies an island, by
+
+Off their coast, as the Carthaginians report, lies an island, by
 name Cyraunis, the length of which is two hundred furlongs, its
 breadth not great, and which is soon reached from the mainland.
 Vines and olive trees cover the whole of it, and there is in the
@@ -11702,7 +12510,8 @@ deal has thus been got together, they draw it off and put it up in
 jars. Whatever falls into the lake passes underground, and comes up in
 the sea, which is no less than four furlongs distant. So then what
 is said of the island off the Libyan coast is not without likelihood.
-    The Carthaginians also relate the following:- There is a country
+
+The Carthaginians also relate the following:- There is a country
 in Libya, and a nation, beyond the Pillars of Hercules, which they are
 wont to visit, where they no sooner arrive but forthwith they unlade
 their wares, and, having disposed them after an orderly fashion
@@ -11717,7 +12526,8 @@ and add to their gold, till the Carthaginians are content. Neither
 party deals unfairly by the other: for they themselves never touch the
 gold till it comes up to the worth of their goods, nor do the
 natives ever carry off the goods till the gold is taken away.
-    These be the Libyan tribes whereof I am able to give the names;
+
+These be the Libyan tribes whereof I am able to give the names;
 and most of these cared little then, and indeed care little now, for
 the king of the Medes. One thing more also I can add concerning this
 region, namely, that, so far as our knowledge reaches, four nations,
@@ -11725,7 +12535,8 @@ and no more, inhabit it; and two of these nations are indigenous,
 while two are not. The two indigenous are the Libyans and
 Ethiopians, who dwell respectively in the north and the south of
 Libya. The Phoenicians and the Greek are in-comers.
-    It seems to me that Libya is not to compare for goodness of soil
+
+It seems to me that Libya is not to compare for goodness of soil
 with either Asia or Europe, except the Cinyps region, which is named
 after the river that waters it. This piece of land is equal to any
 country in the world for cereal crops, and is in nothing like the rest
@@ -11736,7 +12547,8 @@ The returns of the harvest come up to the measure which prevails in
 Babylonia. The soil is likewise good in the country of the
 Euesperites; for there the land brings forth in the best years a
 hundred-fold. But the Cinyps region yields three hundred-fold.
-    The country of the Cyrenaeans, which is the highest tract within
+
+The country of the Cyrenaeans, which is the highest tract within
 the part of Libya inhabited by the wandering tribes, has three seasons
 that deserve remark. First the crops along the sea-coast begin to
 ripen, and are ready for the harvest and the vintage; after they
@@ -11748,7 +12560,8 @@ of the first tract has been all eaten and drunk by the time that the
 last harvest comes in. And the harvest-time of the Cyrenaeans
 continues thus for eight full months. So much concerning these
 matters.
-    When the Persians sent from Egypt by Aryandes to help Pheretima
+
+When the Persians sent from Egypt by Aryandes to help Pheretima
 reached Barca, they laid siege to the town, calling on those within to
 give up the men who had been guilty of the murder of Arcesilaus. The
 townspeople, however, as they had one and all taken part in the
@@ -11763,7 +12576,8 @@ ground was undermined, there the brass of the shield rang. Here,
 therefore, the Barcaeans countermined, and slew the Persian diggers.
 Such was the way in which the mines were discovered; as for the
 assaults, the Barcaeans beat them back.
-    When much time had been consumed, and great numbers had fallen
+
+When much time had been consumed, and great numbers had fallen
 on both sides, nor had the Persians lost fewer than their adversaries,
 Amasis, the leader of the land-army, perceiving that, although the
 Barcaeans would never be conquered by force, they might be overcome by
@@ -11786,14 +12600,16 @@ observe what they had sworn; for they had promised the Barcaeans
 that the oath should continue "so long as the ground whereon they
 stood was firm." When, therefore, the bridge was once broken down, the
 oath ceased to hold.
-    Such of the Barcaeans as were most guilty the Persians gave up
+
+Such of the Barcaeans as were most guilty the Persians gave up
 to Pheretima, who nailed them to crosses all round the walls of the
 city. She also cut off the breasts of their wives, and fastened them
 likewise about the walls. The remainder of the people she gave as
 booty to the Persians, except only the Battiadae and those who had
 taken no part in the murder, to whom she handed over the possession of
 the town.
-    The Persians now set out on their return home, carrying with
+
+The Persians now set out on their return home, carrying with
 them the rest of the Barcaeans, whom they had made their slaves. On
 their way they came to Cyrene; and the Cyrenaeans, out of regard for
 an oracle, let them pass through the town. During the passage,
@@ -11812,22 +12628,25 @@ give them provisions for the way, and, these consenting, they set
 off on their return to Egypt. But the Libyans now beset them, and, for
 the sake of their clothes and harness, slew all who dropped behind and
 straggled, during the whole march homewards.
-    The furthest point of Libya reached by this Persian host was the
+
+The furthest point of Libya reached by this Persian host was the
 city of Euesperides. The Barcaeans carried into slavery were sent from
 Egypt to the king; and Darius assigned them a village in Bactria for
 their dwelling-place. To this village they gave the name of Barca, and
 it was to my time an inhabited place in Bactria.
-    Nor did Pheretima herself end her days happily. For on her
+
+Nor did Pheretima herself end her days happily. For on her
 return to Egypt from Libya, directly after taking vengeance on the
 people of Barca, she was overtaken by a most horrid death. Her body
 swarmed with worms, which ate her flesh while she was still alive.
 Thus do men, by over-harsh punishments, draw down upon themselves
 the anger of the gods. Such then, and so fierce, was the vengeance
 which Pheretima, daughter of Battus, took upon the Barcaeans.
-                         The Fifth Book, Entitled
-                               TERPSICHORE
 
-    The Persians left behind by King Darius in Europe, who had
+V TERPSICHORE
+-------------
+
+The Persians left behind by King Darius in Europe, who had
 Megabazus for their general, reduced, before any other Hellespontine
 state, the people of Perinthus, who had no mind to become subjects
 of the king. Now the Perinthians had ere this been roughly handled
@@ -11846,14 +12665,16 @@ one to another, saying, "Now of a surety has the oracle been fulfilled
 for us; now our work begins." Then the Paeonians set upon the
 Perinthians in the midst of their paean, and defeated them utterly,
 leaving but few of them alive.
-    Such was the affair of the Paeonians, which happened a long time
+
+Such was the affair of the Paeonians, which happened a long time
 previously. At this time the Perinthians, after a brave struggle for
 freedom, were overcome by numbers, and yielded to Megabazus and his
 Persians. After Perinthus had been brought under, Megabazus led his
 host through Thrace, subduing to the dominion of the king all the
 towns and all the nations of those parts. For the king's command to
 him was that he should conquer Thrace.
-    The Thracians are the most powerful people in the world, except,
+
+The Thracians are the most powerful people in the world, except,
 of course, the Indians; and if they had one head, or were agreed among
 themselves, it is my belief that their match could not be found
 anywhere, and that they would very far surpass all other nations.
@@ -11863,7 +12684,8 @@ The Thracians bear many names in the different regions of their
 country, but all of them have like usages in every respect,
 excepting only the Getae, the Trausi, and those who dwell above the
 people of Creston.
-    Now the manners and customs of the Getae, who believe in their
+
+Now the manners and customs of the Getae, who believe in their
 immortality, I have already spoken of. The Trausi in all else resemble
 the other Thracians, but have customs at births and deaths which I
 will now describe. When a child is born all its kindred sit round
@@ -11872,7 +12694,8 @@ that it is come into the world, making mention of every ill that falls
 to the lot of humankind; when, on the other hand, a man has died, they
 bury him with laughter and rejoicings, and say that now he is free
 from a host of sufferings, and enjoys the completest happiness.
-    The Thracians who live above the Crestonaeans observe the
+
+The Thracians who live above the Crestonaeans observe the
 following customs. Each man among them has several wives; and no
 sooner does a man die than a sharp contest ensues among the wives upon
 the question which of them all the husband loved most tenderly; the
@@ -11881,7 +12704,8 @@ honour is adjudged, after receiving the praises both of men and women,
 is slain over the grave by the hand of her next of kin, and then
 buried with her husband. The others are sorely grieved, for nothing is
 considered such a disgrace.
-    The Thracians who do not belong to these tribes have the customs
+
+The Thracians who do not belong to these tribes have the customs
 which follow. They sell their children to traders. On their maidens
 they keep no watch, but leave them altogether free, while on the
 conduct of their wives they keep a most strict watch. Brides are
@@ -11891,18 +12715,21 @@ accounted the most honourable thing, and to be a tiller of the
 ground the most dishonourable. To live by war and plunder is of all
 things the most glorious. These are the most remarkable of their
 customs.
-    The gods which they worship are but three, Mars, Bacchus, and
+
+The gods which they worship are but three, Mars, Bacchus, and
 Dian. Their kings, however, unlike the rest of the citizens, worship
 Mercury more than any other god, always swearing by his name, and
 declaring that they are themselves sprung from him.
-    Their wealthy ones are buried in the following fashion. The body
+
+Their wealthy ones are buried in the following fashion. The body
 is laid out for three days; and during this time they kill victims
 of all kinds, and feast upon them, after first bewailing the departed.
 Then they either burn the body or else bury it in the ground.
 Lastly, they raise a mound over the grave, and hold games of all
 sorts, wherein the single combat is awarded the highest prize. Such is
 the mode of burial among the Thracians.
-    As regards the region lying north of this country no one can say
+
+As regards the region lying north of this country no one can say
 with any certainty what men inhabit it. It appears that you no
 sooner cross the Ister than you enter on an interminable wilderness.
 The only people of whom I can hear as dwelling beyond the Ister are
@@ -11918,7 +12745,8 @@ for my part cannot imagine. Still nothing is impossible in the long
 lapse of ages. Sigynnae is the name which the Ligurians who dwell
 above Massilia give to traders, while among the Cyprians the word
 means spears.
-    According to the account which the Thracians give, the country
+
+According to the account which the Thracians give, the country
 beyond the Ister is possessed by bees, on account of which it is
 impossible to penetrate farther. But in this they seem to me to say
 what has no likelihood; for it is certain that those creatures are
@@ -11927,7 +12755,8 @@ the cold that the regions which lie under the Bear are without
 inhabitants. Such then are the accounts given of this country, the
 sea-coast whereof Megabazus was now employed in subjecting to the
 Persians.
-    King Darius had no sooner crossed the Hellespont and reached
+
+King Darius had no sooner crossed the Hellespont and reached
 Sardis, than he bethought himself of the good deed of Histiaeus the
 Milesian, and the good counsel of the Mytilenean Coes. He therefore
 sent for both of them to Sardis, and bade them each crave a boon at
@@ -11938,7 +12767,8 @@ Such was the choice that Histiaeus made. Coes, on the other hand, as
 he was a mere burgher, and not a king, requested the sovereignty of
 Mytilene. Both alike obtained their requests, and straight-way
 betook themselves to the places which they had chosen.
-    It chanced in the meantime that King Darius saw a sight which
+
+It chanced in the meantime that King Darius saw a sight which
 determined him to bid Megabazus remove the Paeonians from their
 seats in Europe and transport them to Asia. There were two
 Paeonians, Pigres and Mantyes, whose ambition it was to obtain the
@@ -11959,7 +12789,8 @@ watered the horse, and then filling the pitcher, came back the same
 way she had gone, with the pitcher of water upon her head, and the
 horse dragging upon her arm, while she still kept twirling the
 spindle.
-    King Darius was full of wonder both at what they who had watched
+
+King Darius was full of wonder both at what they who had watched
 the woman told him, and at what he had himself seen. So he commanded
 that she should be brought before him. And the woman came; and with
 her appeared her brothers, who had been watching everything a little
@@ -11975,14 +12806,16 @@ of the Teucrians from Troy. When they had thus answered his questions,
 Darius asked if all the women of their country worked so hard? Then
 the brothers eagerly answered, Yes; for this was the very object
 with which the whole thing had been done.
-    So Darius wrote letters to Megabazus, the commander whom he had
+
+So Darius wrote letters to Megabazus, the commander whom he had
 left behind in Thrace, and ordered him to remove the Paeonians from
 their own land, and bring them into his presence, men, women, and
 children. And straightway a horseman took the message, and rode at
 speed to the Hellespont; and, crossing it, gave the paper to
 Megabazus. Then Megabazus, as soon as he had read it, and procured
 guides from Thrace, made war upon Paeonia.
-    Now when the Paeonians heard that the Persians were marching
+
+Now when the Paeonians heard that the Persians were marching
 against them, they gathered themselves together, and marched down to
 the sea-coast, since they thought the Persians would endeavour to
 enter their country on that side. Here then they stood in readiness to
@@ -11996,7 +12829,8 @@ and that to their homes, and gave themselves up to the Persians. And
 so these tribes of the Paeonians, to wit, the Siropaeonians, the
 Paeoplians and all the others as far as Lake Prasias, were torn from
 their seats and led away into Asia.
-    They on the other hand who dwelt about Mount Pangaeum and in the
+
+They on the other hand who dwelt about Mount Pangaeum and in the
 country of the Doberes, the Agrianians, and the Odomantians, and
 they likewise who inhabited Lake Prasias, were not conquered by
 Megabazus. He sought indeed to subdue the dwellers upon the lake,
@@ -12018,7 +12852,8 @@ has only to open his trap-door and to let down a basket by a rope into
 the water, and then to wait a very short time, when he draws it up
 quite full of them. The fish are of two kinds, which they call the
 paprax and the tilon.
-    The Paeonians therefore- at least such of them as had been
+
+The Paeonians therefore- at least such of them as had been
 conquered- were led away into Asia. As for Megabazus, he no sooner
 brought the Paeonians under, than he sent into Macedonia an embassy of
 Persians, choosing for the purpose the seven men of most note in all
@@ -12029,7 +12864,8 @@ close to the lake is the mine which yielded afterwards a talent of
 silver a day to Alexander; and from this mine you have only to cross
 the mountain called Dysorum to find yourself in the Macedonian
 territory.
-    So the Persians sent upon this errand, when they reached the
+
+So the Persians sent upon this errand, when they reached the
 court, and were brought into the presence of Amyntas, required him
 to give earth and water to King Darius. And Amyntas not only gave them
 what they asked, but also invited them to come and feast with him;
@@ -12037,15 +12873,18 @@ after which he made ready the board with great magnificence, and
 entertained the Persians in right friendly fashion. Now when the
 meal was over, and they were all set to the drinking, the Persians
 said-
-    "Dear Macedonian, we Persians have a custom when we make a great
+
+"Dear Macedonian, we Persians have a custom when we make a great
 feast to bring with us to the board our wives and concubines, and make
 them sit beside us. Now then, as thou hast received us so kindly,
 and feasted us so handsomely, and givest moreover earth and water to
 King Darius, do also after our custom in this matter."
-    Then Amyntas answered- "O, Persians! we have no such custom as
+
+Then Amyntas answered- "O, Persians! we have no such custom as
 this; but with us men and women are kept apart. Nevertheless, since
 you, who are our lords, wish it, this also shall be granted to you."
-    When Amyntas had thus spoken, he bade some go and fetch the women.
+
+When Amyntas had thus spoken, he bade some go and fetch the women.
 And the women came at his call and took their seats in a row over
 against the Persians. Then, when the Persians saw that the women
 were fair and comely, they spoke again to Amyntas and said, that "what
@@ -12056,7 +12895,8 @@ Amyntas was forced to bid the women sit side by side with the
 Persians. The women did as he ordered; and then the Persians, who
 had drunk more than they ought, began to put their hands on them,
 and one even tried to give the woman next him a kiss.
-    King Amyntas saw, but he kept silence, although sorely grieved,
+
+King Amyntas saw, but he kept silence, although sorely grieved,
 for he greatly feared the power of the Persians. Alexander, however,
 Amyntas' son, who was likewise there and witnessed the whole, being
 a young man and unacquainted with suffering, could not any longer
@@ -12064,13 +12904,15 @@ restrain himself. He therefore, full of wrath, spake thus to Amyntas:-
 "Dear father, thou art old and shouldst spare thyself. Rise up from
 table and go take thy rest; do not stay out the drinking. I will
 remain with the guests and give them all that is fitting."
-    Amyntas, who guessed that Alexander would play some wild prank,
+
+Amyntas, who guessed that Alexander would play some wild prank,
 made answer:- "Dear son, thy words sound to me as those of one who
 is well nigh on fire, and I perceive thou sendest me away that thou
 mayest do some wild deed. I beseech thee make no commotion about these
 men, lest thou bring us all to ruin, but bear to look calmly on what
 they do. For myself, I will e'en withdraw as thou biddest me."
-    Amyntas, when he had thus besought his son, went out; and
+
+Amyntas, when he had thus besought his son, went out; and
 Alexander said to the Persians, "Look on these ladies as your own,
 dear strangers, all or any of them- only tell us your wishes. But now,
 as the evening wears, and I see you have all had wine enough, let
@@ -12091,7 +12933,8 @@ you were both feasted and lodged handsomely." So speaking, Alexander
 set by the side of each Persian one of those whom he had called
 Macedonian women, but who were in truth men. And these men, when the
 Persians began to be rude, despatched them with their daggers.
-    So the ambassadors perished by this death, both they and also
+
+So the ambassadors perished by this death, both they and also
 their followers. For the Persians had brought a great train with them,
 carriages, and attendants, and baggage of every kind- all of which
 disappeared at the same time as the men themselves. Not very long
@@ -12102,7 +12945,8 @@ own sister Gygaea, whom he gave in marriage to Bubares, a Persian, the
 chief leader of the expedition which came in search of the lost men.
 Thus the death of these Persians was hushed up, and no more was said
 of it.
-    Now that the men of this family are Greeks, sprung from Perdiccas,
+
+Now that the men of this family are Greeks, sprung from Perdiccas,
 as they themselves affirm, is a thing which I can declare of my own
 knowledge, and which I will hereafter make plainly evident. That
 they are so has been already adjudged by those who manage the
@@ -12114,7 +12958,8 @@ not barbarians. But Alexander proved himself to be an Argive, and
 was distinctly adjudged a Greek; after which he entered the lists
 for the foot-race, and was drawn to run in the first pair. Thus was
 this matter settled.
-    Megabazus, having reached the Hellespont with the Paeonians,
+
+Megabazus, having reached the Hellespont with the Paeonians,
 crossed it, and went up to Sardis. He had become aware while in Europe
 that Histiaeus the Milesian was raising a wall at Myrcinus- the town
 upon the Strymon which he had obtained from King Darius as his guerdon
@@ -12130,7 +12975,8 @@ wouldest not be entangled in a war with thine own followers. Stop him,
 but with a gentle message, only bidding him to come to thee. Then when
 thou once hast him in thy power, be sure thou take good care that he
 never get back to Greece again."
-    With these words Megabazus easily persuaded Darius, who thought he
+
+With these words Megabazus easily persuaded Darius, who thought he
 had shown true foresight in this matter. Darius therefore sent a
 messenger to Myrcinus, who said, "These be the words of the king to
 thee, O Histiaeus! I have looked to find a man well affectioned
@@ -12138,7 +12984,8 @@ towards me and towards my greatness; and I have found none whom I
 can trust like thee. Thy deeds, and not thy words only, have proved
 thy love for me. Now then, since I have a mighty enterprise in hand, I
 pray thee come to me, that I may show thee what I purpose!"
-    Histiaeus, when he heard this, put faith in the words of the
+
+Histiaeus, when he heard this, put faith in the words of the
 messenger; and, as it seemed to him a grand thing to be the king's
 counsellor, he straightway went up to Sardis. Then Darius, when he was
 come, said to him, "Dear Histiaeus, hear why I have sent for thee.
@@ -12151,7 +12998,8 @@ what thou hast already done for me. Now then 'tis well thou art
 come; for look, I have an offer to make to thee. Let go Miletus and
 thy newly-founded town in Thrace, and come with me up to Susa; share
 all that I have; live with me, and be my counsellor.
-    When Darius had thus spoken he made Artaphernes, his brother by
+
+When Darius had thus spoken he made Artaphernes, his brother by
 the father's side, governor of Sardis, and taking Histiaeus with
 him, went up to Susa. He left as general of all the troops upon the
 sea-coast Otanes, son of Sisamnes, whose father King Cambyses slew and
@@ -12162,12 +13010,14 @@ stretched them across the seat of the throne whereon he had been
 wont to sit when he heard causes. Having so done Cambyses appointed
 the son of Sisamnes to be judge in his father's room, and bade him
 never forget in what way his seat was cushioned.
-    Accordingly this Otanes, who had occupied so strange a throne,
+
+Accordingly this Otanes, who had occupied so strange a throne,
 became the successor of Megabazus in his command, and took first of
 all Byzantium and Chalcidon, then Antandrus in the Troas, and next
 Lamponium. This done, he borrowed ships of the Lesbians, and took
 Lemnos and Imbrus, which were still inhabited by Pelasgians.
-    Now the Lemnians stood on their defence, and fought gallantly; but
+
+Now the Lemnians stood on their defence, and fought gallantly; but
 they were brought low in course of time. Such as outlived the struggle
 were placed by the Persians under the government of Lycaretus, the
 brother of that Maeandrius who was tyrant of Samos. (This Lycaretus
@@ -12176,7 +13026,8 @@ conquering and enslaving all these nations was that some had refused
 to join the king's army against Scythia, while others had molested the
 host on its return. Such were the exploits which Otanes performed in
 his command.
-    Afterwards, but for no long time, there was a respite from
+
+Afterwards, but for no long time, there was a respite from
 suffering. Then from Naxos and Miletus troubles gathered anew about
 Ionia. Now Naxos at this time surpassed all the other islands in
 prosperity, and Miletus had reached the height of her power, and was
@@ -12184,7 +13035,8 @@ the glory of Ionia. But previously for two generations the Milesians
 had suffered grievously from civil disorders, which were composed by
 the Parians, whom the Milesians chose before all the rest of the
 Greeks to rearrange their government.
-    Now the way in which the Parians healed their differences was
+
+Now the way in which the Parians healed their differences was
 the following. A number of the chief Parians came to Miletus, and when
 they saw in how ruined a condition the Milesians were, they said
 that they would like first to go over their country. So they went
@@ -12200,7 +13052,8 @@ affairs well would likewise conduct aright the business of the
 state. The other Milesians, who in time past had been at variance,
 they placed under the rule of these men. Thus was the Milesian
 government set in order by the Parians.
-    It was, however, from the two cities above mentioned that troubles
+
+It was, however, from the two cities above mentioned that troubles
 began now to gather again about Ionia; and this is the way in which
 they arose. Certain of the rich men had been banished from Naxos by
 the commonalty, and, upon their banishment, had fled to Miletus.
@@ -12215,7 +13068,8 @@ aid as his ability allowed, in hopes thereby to recover their country.
 Then Aristagoras, considering with himself that, if the Naxians should
 be restored by his help, he would be lord of Naxos, put forward the
 friendship with Histiaeus to cloak his views, and spoke as follows:-
-    "I cannot engage to furnish you with such a power as were
+
+"I cannot engage to furnish you with such a power as were
 needful to force you, against their will, upon the Naxians who hold
 the city; for I know they can bring into the field eight thousand
 bucklers, and have also a vast number of ships of war. But I will do
@@ -12224,14 +13078,16 @@ manage it in this way. Artaphernes happens to be my friend. Now he
 is a son of Hystaspes, and brother to King Darius. All the sea-coast
 of Asia is under him, and he has a numerous army and numerous ships. I
 think I can prevail on him to do what we require."
-    When the Naxians heard this, they empowered Aristagoras to
+
+When the Naxians heard this, they empowered Aristagoras to
 manage the matter for them as well as he could, and told him to
 promise gifts and pay for the soldiers, which (they said) they would
 readily furnish, since they had great hope that the Naxians, so soon
 as they saw them returned, would render them obedience, and likewise
 the other islanders. For at that time not one of the Cyclades was
 subject to King Darius.
-    So Aristagoras went to Sardis and told Artaphernes that Naxos
+
+So Aristagoras went to Sardis and told Artaphernes that Naxos
 was an island of no great size, but a fair land and fertile, lying
 near Ionia, and containing much treasure and a vast number of
 slaves. "Make war then upon this land (he said) and reinstate the
@@ -12249,7 +13105,8 @@ house of the king, and thy counsel is good in all points except the
 number of the ships. Instead of a hundred, two hundred shall be at thy
 disposal when the spring comes. But the king himself must first
 approve the undertaking."
-    When Aristagoras heard this he was greatly rejoiced, and went home
+
+When Aristagoras heard this he was greatly rejoiced, and went home
 in good heart to Miletus. And Artaphernes, after he had sent a
 messenger to Susa to lay the plans of Aristagoras before the king, and
 received his approval of the undertaking, made ready a fleet of two
@@ -12262,7 +13119,8 @@ truth in the tale), was allianced many years afterwards, when he
 conceived the desire of becoming tyrant of Greece. Artaphernes now,
 having named Megabates to the command, sent forward the armament to
 Aristagoras.
-    Megabates set sail, and, touching at Miletus, took on board
+
+Megabates set sail, and, touching at Miletus, took on board
 Aristagoras with the Ionian troops and the Naxians; after which he
 steered, as he gave out, for the Hellespont; and when he reached
 Chios, he brought the fleet to anchor off Caucasa, being minded to
@@ -12281,13 +13139,16 @@ Megabates to let the man off; but the Persian refused him; whereupon
 Aristagoras went himself and set Scylax free. When Megabates heard
 this he was still more angry than before, and spoke hotly to
 Aristagoras. Then the latter said to him-
-    "What has thou to do with these matters? Wert thou not sent here
+
+"What has thou to do with these matters? Wert thou not sent here
 by Artaphernes to obey me, and to sail whithersoever I ordered? Why
 dost meddle so?
-    Thus spake Aristagoras. The other, in high dudgeon at such
+
+Thus spake Aristagoras. The other, in high dudgeon at such
 language, waited till the night, and then despatched a boat to
 Naxos, to warn the Naxians of the coming danger.
-    Now the Naxians up to this time had not had any suspicion that the
+
+Now the Naxians up to this time had not had any suspicion that the
 armament was directed against them; as soon, therefore, as the message
 reached them, forthwith they brought within their walls all that
 they had in the open field, and made themselves ready against a
@@ -12301,7 +13162,8 @@ small sum from his private means, and more was still needed to
 insure success, the Persians gave up the attempt, and first building
 certain forts, wherein they left the banished Naxians, withdrew to the
 mainland, having utterly failed in their undertaking.
-    And now Aristagoras found himself quite unable to make good his
+
+And now Aristagoras found himself quite unable to make good his
 promises to Artaphernes; nay, he was even hard pressed to meet the
 claims whereto he was liable for the pay of the troops; and at the
 same time his fear was great, lest, owing to the failure of the
@@ -12324,10 +13186,12 @@ and because he had strong hopes that, if troubles broke out, he
 would be sent down to the coast to quell them, whereas, if Miletus
 made no movement, he did not see a chance of his ever again
 returning thither.
-    Such, then, were the views which led Histiaeus to despatch his
+
+Such, then, were the views which led Histiaeus to despatch his
 messenger; and it so chanced that all these several motives to
 revolt were brought to bear upon Aristagoras at one and the same time.
-    Accordingly, at this conjuncture Aristagoras held a council of his
+
+Accordingly, at this conjuncture Aristagoras held a council of his
 trusty friends, and laid the business before them, telling them both
 what he had himself purposed, and what message had been sent him by
 Histiaeus. At this council all his friends were of the same way of
@@ -12350,7 +13214,8 @@ resolved upon a revolt. One of their number, it was agreed, should
 sail to Myus, where the fleet had been lying since its return from
 Naxos, and endeavour to seize the captains who had gone there with the
 vessels.
-    Iatragoras accordingly was despatched on this errand, and he
+
+Iatragoras accordingly was despatched on this errand, and he
 took with guile Oliatus the son of Ibanolis the Mylassian, and
 Histiaeus the son of Tymnes the Termerean-Coes likewise, the son of
 Erxander, to whom Darius gave Mytilene, and Aristagoras the son of
@@ -12364,7 +13229,8 @@ from some of the cities he drove out their tyrants, and to others,
 whose goodwill he hoped thereby to gain, he handed theirs over, thus
 giving up all the men whom he had seized at the Naxian fleet, each
 to the city whereto he belonged.
-    Now the Mytileneans had no sooner got Coes into their power,
+
+Now the Mytileneans had no sooner got Coes into their power,
 than they led him forth from the city and stoned him; the Cymaeans, on
 the other hand, allowed their tyrant to go free; as likewise did
 most of the others. And so this form of government ceased throughout
@@ -12372,7 +13238,8 @@ all the cities. Aristagoras the Milesian, after he had in this way put
 down the tyrants, and bidden the cities choose themselves captains
 in their room, sailed away himself on board a trireme to Lacedaemon;
 for he had great need of obtaining the aid of some powerful ally.
-    At Sparta, Anaxandridas the son of Leo was no longer king: he
+
+At Sparta, Anaxandridas the son of Leo was no longer king: he
 had died, and his son Cleomenes had mounted the throne, not however by
 right of merit, but of birth. Anaxandridas took to wife his own
 sister's daughter, and was tenderly attached to her; but no children
@@ -12385,17 +13252,20 @@ well-pleasing to the Spartans." Anaxandridas however refused to do
 as they required, and said it was no good advice the Ephors gave, to
 bid him put away his wife when she had done no wrong, and take to
 himself another. He therefore declined to obey them.
-    Then the Ephors and Elders took counsel together, and laid this
+
+Then the Ephors and Elders took counsel together, and laid this
 proposal before the king:- "Since thou art so fond, as we see thee
 to be, of thy present wife, do what we now advise, and gainsay us not,
 lest the Spartans make some unwonted decree concerning thee. We ask
 thee not now to put away thy wife to whom thou art married- give her
 still the same love and honour as ever- but take thee another wife
 beside, who may bear thee children."
-    When he heard this offer, Anaxandridas gave way- and henceforth he
+
+When he heard this offer, Anaxandridas gave way- and henceforth he
 lived with two wives in two separate houses, quite against all Spartan
 custom.
-    In a short time, the wife whom he had last married bore him a son,
+
+In a short time, the wife whom he had last married bore him a son,
 who received the name of Cleomenes; and so the heir to the throne
 was brought into the world by her. After this, the first wife also,
 who in time past had been barren, by some strange chance conceived,
@@ -12411,7 +13281,8 @@ even say that Leonidas and Cleombrotus were twins. On the other
 hand, the second wife, the mother of Cleomenes (who was a daughter
 of Prinetadas, the son of Demarmenus), never gave birth to a second
 child.
-    Now Cleomenes, it is said, was not right in his mind; indeed he
+
+Now Cleomenes, it is said, was not right in his mind; indeed he
 verged upon madness; while Dorieus surpassed all his co-mates, and
 looked confidently to receiving the kingdom on the score of merit.
 When, therefore, after the death of Anaxandridas, the Spartans kept to
@@ -12427,7 +13298,8 @@ Theraeans. These men brought him to Cinyps, where he colonised a spot,
 which has not its equal in all Libya, on the banks of a river: but
 from this place he was driven in the third year by the Macians, the
 Libyans, and the Carthaginians.
-    Dorieus returned to the Peloponnese; whereupon Antichares the
+
+Dorieus returned to the Peloponnese; whereupon Antichares the
 Eleonian gave him a counsel (which he got from the oracle of Laius),
 to "found the city of Heraclea in Sicily; the whole country of Eryx
 belonged," he said, "to the Heracleids, since Hercules himself
@@ -12436,7 +13308,8 @@ inquire of the oracle whether he would take the place to which he
 was about to go. The Pythoness prophesied that he would; whereupon
 Dorieus went back to Libya, took up the men who had sailed with him at
 the first, and proceeded upon his way along the shores of Italy.
-    Just at this time, the Sybarites say, they and their king Telys
+
+Just at this time, the Sybarites say, they and their king Telys
 were about to make war upon Crotona, and the Crotoniats, greatly
 alarmed, besought Dorieus to lend them aid. Dorieus was prevailed
 upon, bore part in the war against Sybaris, and had a share in
@@ -12448,7 +13321,8 @@ of the race of the Iamidae; and he only forsook Telys the Sybaritic
 king, and deserted to their side, when he found on sacrificing that
 the victims were not favourable to an attack on Crotona. Such is the
 account which each party gives of these matters.
-    Both parties likewise adduce testimonies to the truth of what they
+
+Both parties likewise adduce testimonies to the truth of what they
 say. The Sybarites show a temple and sacred precinct near the dry
 stream of the Crastis, which they declare that Dorieus, after taking
 their city, dedicated to Minerva Crastias. And further, they bring
@@ -12465,7 +13339,8 @@ the possession of his family; while Dorieus and his descendants
 in the Sybaritic war, he would have received very much more than
 Callias. Such are the testimonies which are adduced on either side; it
 is open to every man to adopt whichever view he deems the best.
-    Certain Spartans accompanied Dorieus on his voyage as co-founders,
+
+Certain Spartans accompanied Dorieus on his voyage as co-founders,
 to wit, Thessalus, Paraebates, Celeas, and Euryleon. These men and all
 the troops under their command reached Sicily; but there they fell
 in a battle wherein they were defeated by the Egestaeans and
@@ -12477,7 +13352,8 @@ sought to become tyrant in his room, and he even reigned at Selinus
 for a brief space- but after a while the Selinusians rose up in revolt
 against him, and though he fled to the altar of Jupiter Agoraeus, they
 notwithstanding put him to death.
-    Another man who accompanied Dorieus, and died with him, was Philip
+
+Another man who accompanied Dorieus, and died with him, was Philip
 the son of Butacidas, a man of Crotona; who, after he had been
 betrothed to a daughter of Telys the Sybarite, was banished from
 Crotona, whereupon his marriage came to nought; and he in his
@@ -12488,12 +13364,14 @@ Olympian victor, and the handsomest Greek of his day. His beauty
 gained him honours at the hands of the Egestaeans which they never
 accorded to any one else; for they raised a hero-temple over his
 grave, and they still worship him with sacrifices.
-    Such then was the end of Dorieus, who if he had brooked the rule
+
+Such then was the end of Dorieus, who if he had brooked the rule
 of Cleomenes, and remained in Sparta, would have been king of
 Lacedaemon; since Cleomenes, after reigning no great length of time,
 died without male offspring, leaving behind him an only daughter, by
 name Gorgo.
-    Cleomenes, however, was still king when Aristagoras, tyrant of
+
+Cleomenes, however, was still king when Aristagoras, tyrant of
 Miletus, reached Sparta. At their interview, Aristagoras, according to
 the report of the Lacedaemonians, produced a bronze tablet,
 whereupon the whole circuit of the earth was engraved, with all its
@@ -12541,7 +13419,8 @@ give men heart to fight and die. Must ye wage such wars, and when ye
 might so easily be lords of Asia, will ye decide otherwise?" Thus
 spoke Aristagoras; and Cleomenes replied to him,- "Milesian
 stranger, three days hence I will give thee an answer."
-    So they proceeded no further at that time. When, however, the
+
+So they proceeded no further at that time. When, however, the
 day appointed for the answer came, and the two once more met,
 Cleomenes asked Aristagoras, "how many days' journey it was from the
 sea of the Ionians to the king's residence?" Hereupon Aristagoras, who
@@ -12555,7 +13434,8 @@ him thus:- "Milesian stranger, quit Sparta before sunset. This is no
 good proposal that thou makest to the Lacedaemonians, to conduct
 them a distance of three months' journey from the sea." When he had
 thus spoken, Cleomenes went to his home.
-    But Aristagoras took an olive-bough in his hand, and hastened to
+
+But Aristagoras took an olive-bough in his hand, and hastened to
 the king's house, where he was admitted by reason of his suppliant's
 pliant's guise. Gorgo, the daughter of Cleomenes, and his only
 child, a girl of about eight or nine years of age, happened to be
@@ -12570,7 +13450,8 @@ stranger will certainly corrupt thee." Then Cleomenes, pleased at
 the warning of his child, withdrew and went into another room.
 Aristagoras quitted Sparta for good, not being able to discourse any
 more concerning the road which led up to the king.
-    Now the true account of the road in question is the following:-
+
+Now the true account of the road in question is the following:-
 Royal stations exist along its whole length, and excellent
 caravanserais; and throughout, it traverses an inhabited tract, and is
 free from danger. In Lydia and Phrygia there are twenty stations
@@ -12601,13 +13482,15 @@ the Choaspes, on the banks of which the city of Susa is built. Thus
 the entire number of the stations is raised to one hundred and eleven;
 and so many are in fact the resting-places that one finds between
 Sardis and Susa.
-    If then the royal road be measured aright, and the parasang
+
+If then the royal road be measured aright, and the parasang
 equals, as it does, thirty furlongs, the whole distance from Sardis to
 the palace of Memnon (as it is called), amounting thus to 450
 parasangs, would be 13,500 furlongs. Travelling then at the rate of
 150 furlongs a day, one will take exactly ninety days to perform the
 journey.
-    Thus when Aristagoras the Milesian told Cleomenes the
+
+Thus when Aristagoras the Milesian told Cleomenes the
 Lacedaemonian that it was a three months' journey from the sea up to
 the king, he said no more than the truth. The exact distance (if any
 one desires still greater accuracy) is somewhat more; for the
@@ -12616,7 +13499,8 @@ and this will make the whole distance between the Greek Sea and Susa
 (or the city of Memnon, as it is called) 14,040 furlongs; since
 Ephesus is distant from Sardis 540 furlongs. This would add three days
 to the three months' journey.
-    When Aristagoras left Sparta he hastened to Athens, which had
+
+When Aristagoras left Sparta he hastened to Athens, which had
 got quit of its tyrants in the way that I will now describe. After the
 death of Hipparchus (the son of Pisistratus, and brother of the tyrant
 Hippias), who, in spite of the clear warning he had received
@@ -12624,18 +13508,21 @@ concerning his fate in a dream, was slain by Harmodius and
 Aristogeiton (men both of the race of the Gephyraeans), the oppression
 of the Athenians continued by the space of four years; and they gained
 nothing, but were worse used than before.
-    Now the dream of Hipparchus was the following:- The night before
+
+Now the dream of Hipparchus was the following:- The night before
 the Panathenaic festival, he thought he saw in his sleep a tall and
 beautiful man, who stood over him, and read him the following riddle:-
 
-    Bear thou unbearable woes with the all-bearing heart of a lion;
-    Never, be sure, shall wrong-doer escape the reward of
-      wrong-doing.
+> Bear thou unbearable woes with the all-bearing heart of a lion;
+
+> Never, be sure, shall wrong-doer escape the reward of
+>   wrong-doing.
 
 As soon as day dawned he sent and submitted his dream to the
 interpreters, after which he offered the averting sacrifices, and then
 went and led the procession in which he perished.
-    The family of the Gephyraeans, to which the murderers of
+
+The family of the Gephyraeans, to which the murderers of
 Hipparchus belonged, according to their own account, came originally
 from Eretria. My inquiries, however, have made it clear to me that
 they are in reality Phoenicians, descendants of those who came with
@@ -12646,7 +13533,8 @@ happened some time after that of the Cadmeians from the same parts
 by the Argives) they took refuge at Athens. The Athenians received
 them among their citizens upon set terms, whereby they were excluded
 from a number of privileges which are not worth mentioning.
-    Now the Phoenicians who came with Cadmus, and to whom the
+
+Now the Phoenicians who came with Cadmus, and to whom the
 Gephyraei belonged, introduced into Greece upon their arrival a
 great variety of arts, among the rest that of writing, whereof the
 Greeks till then had, as I think, been ignorant. And originally they
@@ -12662,27 +13550,30 @@ into Greece. Paper rolls also were called from of old "parchments"
 by the Ionians, because formerly when paper was scarce they used,
 instead, the skins of sheep and goats- on which material many of the
 barbarians are even now wont to write.
-    I myself saw Cadmeian characters engraved upon some tripods in the
+
+I myself saw Cadmeian characters engraved upon some tripods in the
 temple of Apollo Ismenias in Boeotian Thebes, most of them shaped like
 the Ionian. One of the tripods has the inscription following:-
 
-    Me did Amphitryon place, from the far Teleboans coming.
+> Me did Amphitryon place, from the far Teleboans coming.
 
-    This would be about the age of Laius, the son of Labdacus, the son
+This would be about the age of Laius, the son of Labdacus, the son
 of Polydorus, the son of Cadmus.
-    Another of the tripods has this legend in the hexameter measure:-
 
-    I to far-shooting Phoebus was offered by Scaeus the boxer,
-    When he had won at the games- a wondrous beautiful offering.
+Another of the tripods has this legend in the hexameter measure:-
+
+> I to far-shooting Phoebus was offered by Scaeus the boxer,
+> When he had won at the games- a wondrous beautiful offering.
 
 This might be Scaeus, the son of Hippocoon; and the tripod, if
 dedicated by him, and not by another of the same name, would belong to
 the time of Oedipus, the son of Laius.
-    The third tripod has also an inscription in hexameters, which runs
+
+The third tripod has also an inscription in hexameters, which runs
 thus:-
 
-    King Laodamas gave this tripod to far-seeing Phoebus,
-    When he was set on the throne- a wondrous beautiful offering.
+> King Laodamas gave this tripod to far-seeing Phoebus,
+> When he was set on the throne- a wondrous beautiful offering.
 
 It was in the reign of this Laodamas, the son of Eteocles, that the
 Cadmeians were driven by the Argives out of their country, and found a
@@ -12692,7 +13583,8 @@ and took refuge at Athens, where they have a number of temples for
 their separate use, which the other Athenians are not allowed to
 enter- among the rest, one of Achaean Ceres, in whose honour they
 likewise celebrate special orgies.
-    Having thus related the dream which Hipparchus saw, and traced the
+
+Having thus related the dream which Hipparchus saw, and traced the
 descent of the Gephyraeans, the family whereto his murderers belonged,
 I must proceed with the matter whereof I was intending before to
 speak; to wit, the way in which the Athenians got quit of their
@@ -12712,7 +13604,8 @@ much more magnificently than the plan obliged them. Besides other
 improvements, instead of the coarse stone whereof by the contract
 the temple was to have been constructed, they made the facings of
 Parian marble.
-    These same men, if we may believe the Athenians, during their stay
+
+These same men, if we may believe the Athenians, during their stay
 at Delphi persuaded the Pythoness by a bribe to tell the Spartans,
 whenever any of them came to consult the oracle, either on their own
 private affairs or on the business of the state, that they must free
@@ -12738,7 +13631,8 @@ remainder to their ships. Such was the fate of the first army sent
 from Lacedaemon, and the tomb of Anchimolius may be seen to this day
 in Attica; it is at Alopecae (Foxtown), near the temple of Hercules in
 Cynosargos.
-    Afterwards, the Lacedaemonians despatched a larger force against
+
+Afterwards, the Lacedaemonians despatched a larger force against
 Athens, which they put under the command of Cleomenes, son of
 Anaxandridas, one of their kings. These troops were not sent by sea,
 but marched by the mainland. When they were come into Attica, their
@@ -12748,7 +13642,8 @@ their escape, and fled straight to Thessaly. Cleomenes proceeded to
 the city, and, with the aid of such of the Athenians as wished for
 freedom, besieged the tyrants, who had shut themselves up in the
 Pelasgic fortress.
-    And now there had been small chance of the Pisistratidae falling
+
+And now there had been small chance of the Pisistratidae falling
 into the hands of the Spartans, who did not even design to sit down
 before the place, which had moreover been well provisioned
 beforehand with stores both of meat and drink,- nay, it is likely that
@@ -12772,7 +13667,8 @@ and suffered worthy of note from the time when they gained their
 freedom until the revolt of Ionia from King Darius, and the coming
 of Aristagoras to Athens with a request that the Athenians would
 lend the Ionians aid, I shall now proceed to relate.
-    The power of Athens had been great before; but, now that the
+
+The power of Athens had been great before; but, now that the
 tyrants were gone, it became greater than ever. The chief authority
 was lodged with two persons, Clisthenes, of the family of the
 Alcmaeonids, who is said to have been the persuader of the
@@ -12789,7 +13685,8 @@ Argades, and Hoples, the four sons of Ion, Clisthenes set these
 names aside, and called his tribes after certain other heroes, all
 of whom were native, except Ajax. Ajax was associated because,
 although a foreigner, he was a neighbour and an ally of Athens.
-    My belief is that in acting thus he did but imitate his maternal
+
+My belief is that in acting thus he did but imitate his maternal
 grandfather, Clisthenes, king of Sicyon. This king, when he was at war
 with Argos, put an end to the contests of the rhapsodists at Sicyon,
 because in the Homeric poems Argos and the Argives were so
@@ -12821,7 +13718,8 @@ been their wont to honour Adrastus with tragic choruses, which they
 assigned to him rather than Bacchus, on account of his calamities.
 Clisthenes now gave the choruses to Bacchus, transferring to
 Melanippus the rest of the sacred rites.
-    Such were his doings in the matter of Adrastus. With respect to
+
+Such were his doings in the matter of Adrastus. With respect to
 the Dorian tribes, not choosing the Sicyonians to have the same tribes
 as the Argives, he changed all the old names for new ones; and here he
 took special occasion to mock the Sicyonians, for he drew his new
@@ -12836,7 +13734,8 @@ years: then, however, they took counsel together, and changed to the
 well-known names of Hyllaeans, Pamphylians, and Dymanatae, taking at
 the same time, as a fourth name, the title of Aegialeans, from
 Aegialeus the son of Adrastus.
-    Thus had Clisthenes the Sicyonian done. The Athenian Clisthenes,
+
+Thus had Clisthenes the Sicyonian done. The Athenian Clisthenes,
 who was grandson by the mother's side of the other, and had been named
 after him, resolved, from contempt (as I believe) of the Ionians, that
 his tribes should not be the same as theirs; and so followed the
@@ -12847,7 +13746,8 @@ greater than formerly; instead of the four phylarchs he established
 ten; he likewise placed ten demes in each of the tribes; and he was,
 now that the common people took his part, very much more powerful than
 his adversaries.
-    Isagoras in his turn lost ground; and therefore, to counter-plot
+
+Isagoras in his turn lost ground; and therefore, to counter-plot
 his enemy, he called in Cleomenes the Lacedaemonian, who had
 already, at the time when he was besieging the Pisistratidae, made a
 contract of friendship with him. A charge is even brought against
@@ -12858,7 +13758,8 @@ Athenians besides, whom he called "The Accursed," should leave Athens.
 This message he sent at the suggestion of Isagoras: for in the
 affair referred to, the blood-guiltiness lay on the Alcmaeonidae and
 their partisans, while he and his friends were quite clear of it.
-    The way in which "The Accursed" at Athens got their name, was
+
+The way in which "The Accursed" at Athens got their name, was
 the following. There was a certain Athenian called Cylon, a victor
 at the Olympic Games, who aspired to the sovereignty, and aided by a
 number of his companions, who were of the same age with himself,
@@ -12868,7 +13769,8 @@ who at that time bore rule in Athens, induced the fugitives to
 remove by a promise to spare their lives. Nevertheless they were all
 slain; and the blame was laid on the Alcmaeonidae. All this happened
 before the time of Pisistratus.
-    When the message of Cleomenes arrived, requiring Clisthenes and
+
+When the message of Cleomenes arrived, requiring Clisthenes and
 "The Accursed" to quit the city, Clisthenes departed of his own
 accord. Cleomenes, however, notwithstanding his departure, came to
 Athens, with a small band of followers; and on his arrival sent into
@@ -12893,7 +13795,8 @@ attempt, and so he was forced to retire, together with his
 Lacedaemonians. The rest were cast into prison by the Athenians, and
 condemned to die- among them Timasitheus the Delphian, of whose
 prowess and courage I have great things which I could tell.
-    So these men died in prison. The Athenians directly afterwards
+
+So these men died in prison. The Athenians directly afterwards
 recalled Clisthenes, and the seven hundred families which Cleomenes
 had driven out; and, further, they sent envoys to Sardis, to make an
 alliance with the Persians, for they knew that war would follow with
@@ -12908,7 +13811,8 @@ if not, they might go home again." After consulting together, the
 envoys, anxious to form the alliance, accepted the terms; but on their
 return to Athens, they fell into deep disgrace on account of their
 compliance.
-    Meanwhile Cleomenes, who considered himself to have been
+
+Meanwhile Cleomenes, who considered himself to have been
 insulted by the Athenians both in word and deed, was drawing a force
 together from all parts of the Peloponnese, without informing any
 one of his object; which was to revenge himself on the Athenians,
@@ -12921,7 +13825,8 @@ another side, plundered divers places in Attica. The Athenians,
 notwithstanding that danger threatened them from every quarter, put
 off all thought of the Boeotians and Chalcideans till a future time,
 and marched against the Peloponnesians, who were at Eleusis.
-    As the two hosts were about to engage, first of all the
+
+As the two hosts were about to engage, first of all the
 Corinthians, bethinking themselves that they were perpetrating a
 wrong, changed their minds, and drew off from the main army. Then
 Demaratus, son of Ariston, who was himself king of Sparta and
@@ -12935,7 +13840,8 @@ hitherto both had accompanied the expeditions, as auxiliaries. So when
 the rest of the allies saw that the Lacedaemonian kings were not of
 one mind, and that the Corinthian troops had quitted their post,
 they likewise drew off and departed.
-    This was the fourth time that the Dorians had invaded Attica:
+
+This was the fourth time that the Dorians had invaded Attica:
 twice they came as enemies, and twice they came to do good service
 to the Athenian people. Their first invasion took place at the
 period when they founded Megara, and is rightly placed in the reign of
@@ -12943,7 +13849,8 @@ Codrus at Athens; the second and third occasions were when they came
 from Sparta to drive out the Pisistratidae; the fourth was the present
 attack, when Cleomenes, at the head of a Peloponnesian army, entered
 at Eleusis. Thus the Dorians had now four times invaded Attica.
-    So when the Spartan army had broken up from its quarters thus
+
+So when the Spartan army had broken up from its quarters thus
 ingloriously, the Athenians, wishing to revenge themselves, marched
 first against the Chalcideans. The Boeotians, however, advancing to
 the aid of the latter as far as the Euripus, the Athenians thought
@@ -12965,12 +13872,12 @@ ransom-money: and expended it on the brazen chariot drawn by four
 steeds, which stands on the left hand immediately that one enters
 the gateway of the citadel. The inscription runs as follows:-
 
-    When Chalcis and Boeotia dared her might,
-    Athens subdued their pride in valorous fight;
-    Gave bonds for insults; and, the ransom paid,
-    From the full tenths these steeds for Pallas made.
+> When Chalcis and Boeotia dared her might,  
+> Athens subdued their pride in valorous fight;  
+> Gave bonds for insults; and, the ransom paid,  
+> From the full tenths these steeds for Pallas made.
 
-    Thus did the Athenians increase in strength. And it is plain
+Thus did the Athenians increase in strength. And it is plain
 enough, not from this instance only, but from many everywhere, that
 freedom is an excellent thing since even the Athenians, who, while
 they continued under the rule of tyrants, were not a whit more valiant
@@ -12980,7 +13887,8 @@ undergoing oppression, they let themselves be beaten, since then
 they worked for a master; but so soon as they got their freedom,
 each man was eager to do the best he could for himself. So fared it
 now with the Athenians.
-    Meanwhile the Thebans, who longed to be revenged on the Athenians,
+
+Meanwhile the Thebans, who longed to be revenged on the Athenians,
 had sent to the oracle, and been told by the Pythoness that of their
 own strength they would be unable to accomplish their wish: "they must
 lay the matter," she said, "before the many-voiced, and ask the aid of
@@ -12992,7 +13900,8 @@ to us the men of Tanagra, of Coronaea, and Thespiae? Yet these men
 always fight on our side, and have aided us with a good heart all
 through the war. Of what use is it to ask them? But maybe this is
 not the true meaning of the oracle."
-    As they were thus discoursing one with another, a certain man,
+
+As they were thus discoursing one with another, a certain man,
 informed of the debate, cried out-"Methinks that I understand what
 course the oracle would recommend to us. Asopus, they say, had two
 daughters, Thebe and Egina. The god means that, as these two were
@@ -13002,7 +13911,8 @@ sent messengers to Egina, and, according to the advice of the
 oracle, asked their aid, as the people "nearest to them." In answer to
 this petition the Eginetans said that they would give them the
 Aeacidae for helpers.
-    The Thebans now, relying on the assistance of the Aeacidae,
+
+The Thebans now, relying on the assistance of the Aeacidae,
 ventured to renew the war; but they met with so rough a reception,
 that they resolved to send to the Eginetans again, returning the
 Aeacidae, and beseeching them to send some men instead. The Eginetans,
@@ -13015,7 +13925,8 @@ Boeotians, the Eginetans in their ships of war made descents upon
 Attica, plundered Phalerum, and ravaged a vast number of the townships
 upon the sea-board, whereby the Athenians suffered very grievous
 damage.
-    The ancient feud between the Eginetans and Athenians arose out
+
+The ancient feud between the Eginetans and Athenians arose out
 of the following circumstances. Once upon a time the land of Epidaurus
 would bear no crops; and the Epidaurians sent to consult the oracle of
 Delphi concerning their affliction. The answer bade them set up the
@@ -13032,7 +13943,8 @@ Polias and to Erechtheus. The Epidaurians agreed, and having
 obtained what they wanted, made the images of olive wood, and set them
 up in their own country. Henceforth their land bore its crops; and
 they duly paid the Athenians what had been agreed upon.
-    Anciently, and even down to the time when this took place, the
+
+Anciently, and even down to the time when this took place, the
 Eginetans were in all things subject to the Epidaurians, and had to
 cross over to Epidaurus for the trial of all suits in which they
 were engaged one with another. After this, however, the Eginetans
@@ -13048,7 +13960,8 @@ furnish the choruses, ten for each goddess. These choruses did not
 abuse men, but only the women of the country. Holy orgies of a similar
 kind were in use also among the Epidaurians, and likewise another sort
 of holy orgies, whereof it is not lawful to speak.
-    After the robbery of the images the Epidaurians ceased to make the
+
+After the robbery of the images the Epidaurians ceased to make the
 stipulated payments to the Athenians, wherefore the Athenians sent
 to Epidaurus to remonstrate. But the Epidaurians proved to them that
 they were not guilty of any wrong:-"While the images continued in
@@ -13059,7 +13972,8 @@ make their demand of the Eginetans, in whose possession the figures
 now were." Upon this the Athenians sent to Egina, and demanded the
 images back; but the Eginetans answered that the Athenians had nothing
 whatever to do with them.
-    After this the Athenians relate that they sent a trireme to
+
+After this the Athenians relate that they sent a trireme to
 Egina with certain citizens on board, and that these men, who bore
 commission from the state, landed in Egina, and sought to take the
 images away, considering them to be their own, inasmuch as they were
@@ -13071,7 +13985,8 @@ a thunderclap, and with the thunderclap an earthquake; and the crew of
 the trireme were forthwith seized with madness, and, like enemies,
 began to kill one another; until at last there was but one left, who
 returned alone to Phalerum.
-    Such is the account given by the Athenians. The Eginetans deny
+
+Such is the account given by the Athenians. The Eginetans deny
 that there was only a single vessel- "Had there been only one," they
 say, "or no more than a few, they would easily have repulsed the
 attack, even if they had had no fleet at all; but the Athenians came
@@ -13094,7 +14009,8 @@ aid. Secretly and silently they crossed over from Epidaurus, and,
 before the Athenians were aware, cut off their retreat to their ships,
 and fell upon them; and the thunder came exactly at that moment, and
 the earthquake with it.
-    The Argives and the Eginetans both agree in giving this account;
+
+The Argives and the Eginetans both agree in giving this account;
 and the Athenians themselves acknowledge that but one of their men
 returned alive to Attica. According to the Argives, he escaped from
 the battle in which the rest of the Athenian troops were destroyed
@@ -13113,7 +14029,8 @@ their dress and compelled them to wear the costume of the Ionians.
 Till this time the Athenian women had worn a Dorian dress, shaped
 nearly like that which prevails at Corinth. Henceforth they were
 made to wear the linen tunic, which does not require brooches.
-    In very truth, however, this dress is not originally Ionian, but
+
+In very truth, however, this dress is not originally Ionian, but
 Carian; for anciently the Greek women all wore the costume which is
 now called the Dorian. It is said further that the Argives and
 Eginetans made it a custom, on this same account, for their women to
@@ -13125,7 +14042,8 @@ drinking vessels should be used there in time to come. From this early
 age to my own day the Argive and Eginetan women have always
 continued to wear their brooches larger than formerly, through
 hatred of the Athenians.
-    Such then was the origin of the feud which existed between the
+
+Such then was the origin of the feud which existed between the
 Eginetans and the Athenians. Hence, when the Thebans made their
 application for succour, the Eginetans, calling to mind the matter
 of images, gladly lent their aid to the Boeotians. They ravaged all
@@ -13142,7 +14060,8 @@ for Aeacus- the same which still remains dedicated to him in their
 market-place- but they could not hear with any patience of waiting
 thirty years, after they had suffered such grievous wrong at the hands
 of the Eginetans.
-    Accordingly they were making ready to take their revenge when a
+
+Accordingly they were making ready to take their revenge when a
 fresh stir on the part of the Lacedaemonians hindered their
 projects. These last had become aware of the truth- how that the
 Alcmaeonidae had practised on the Pythoness, and the Pythoness had
@@ -13158,7 +14077,8 @@ with him to Sparta, having found them in the Athenian citadel, where
 they had been left by the Pisistratidae when they were driven from
 Athens: they were in the temple, and Cleomenes having discovered them,
 carried them off.
-    So when the Lacedaemonians obtained possession of the
+
+So when the Lacedaemonians obtained possession of the
 prophecies, and saw that the Athenians were growing in strength, and
 had no mind to acknowledge any subjection to their control, it
 occurred to them that, if the people of Attica were free, they would
@@ -13169,7 +14089,8 @@ from Sigeum upon the Hellespont, where the Pisistratidae had taken
 shelter. Hippias came at their bidding, and the Spartans on his
 arrival summoned deputies from all their other allies, and thus
 addressed the assembly:-
-    "Friends and brothers in arms, we are free to confess that we
+
+"Friends and brothers in arms, we are free to confess that we
 did lately a thing which was not right. Misled by counterfeit oracles,
 we drove from their country those who were our sworn and true friends,
 and who had, moreover, engaged to keep Athens in dependence upon us;
@@ -13186,10 +14107,12 @@ cause we have sent for Hippias to come here, and have summoned you
 likewise from your several states, that we may all now with heart
 and hand unite to restore him to Athens, and thereby give him back
 that which we took from him formerly."
-    (SS 1.) Such was the address of the Spartans. The greater number
+
+(SS 1.) Such was the address of the Spartans. The greater number
 of the allies listened without being persuaded. None however broke
 silence but Sosicles the Corinthian, who exclaimed-
-    "Surely the heaven will soon be below, and the earth above, and
+
+"Surely the heaven will soon be below, and the earth above, and
 men will henceforth live in the sea, and fish take their place upon
 the dry land, since you, Lacedaemonians, propose to put down free
 governments in the cities of Greece, and to set up tyrannies in
@@ -13214,10 +14137,10 @@ any other, went to Delphi to consult the oracle concerning the matter.
 Scarcely had he entered the temple when the Pythoness saluted him in
 these words-
 
-    No one honours thee now, Aetion, worthy of honour-
-    Labda shall soon be a mother- her offspring a rock, that will
-      one day
-    Fall on the kingly race, and right the city of Corinth.
+> No one honours thee now, Aetion, worthy of honour-  
+> Labda shall soon be a mother- her offspring a rock, that will
+>   one day  
+> Fall on the kingly race, and right the city of Corinth.
 
 By some chance this address of the oracle to Aetion came to the ears
 of the Bacchiadae, who till then had been unable to perceive the
@@ -13225,13 +14148,13 @@ meaning of another earlier prophecy which likewise bore upon
 Corinth, and pointed to the same event as Aetion's prediction. It
 was the following:-
 
-    When mid the rocks an eagle shall bear a carnivorous lion,
-    Mighty and fierce, he shall loosen the limbs of many beneath them-
+> When mid the rocks an eagle shall bear a carnivorous lion,  
+> Mighty and fierce, he shall loosen the limbs of many beneath them-
+>
+> Brood ye well upon this, all ye Corinthian people,  
+> Ye who dwell by fair Peirene, and beetling Corinth.
 
-    Brood ye well upon this, all ye Corinthian people,
-    Ye who dwell by fair Peirene, and beetling Corinth.
-
-    (SS 3.) The Bacchiadae had possessed this oracle for some time;
+(SS 3.) The Bacchiadae had possessed this oracle for some time;
 but they were quite at a loss to know what it meant until they heard
 the response given to Aetion; then however they at once perceived
 its meaning, since the two agreed so well together. Nevertheless,
@@ -13272,9 +14195,9 @@ Cypselus, after the cornbin. When he reached to man's estate, he
 went to Delphi, and on consulting the oracle, received a response
 which was two-sided. It was the following:
 
-    See there comes to my dwelling a man much favour'd of fortune,
-    Cypselus, son of Aetion, and king of the glorious Corinth-
-    He and his children too, but not his children's children.
+> See there comes to my dwelling a man much favour'd of fortune,
+> Cypselus, son of Aetion, and king of the glorious Corinth-
+> He and his children too, but not his children's children.
 
 Such was the oracle; and Cypselus put so much faith in it that he
 forthwith made his attempt, and thereby became master of Corinth.
@@ -13331,7 +14254,8 @@ as you do. We adjure you, by the common gods of Greece, plant not
 despots in her cities. If however you are determined, if you
 persist, against all justice, in seeking to restore Hippias- know,
 at least, that the Corinthians will not approve your conduct."
-    When Sosicles, the deputy from Corinth, had thus spoken, Hippias
+
+When Sosicles, the deputy from Corinth, had thus spoken, Hippias
 replied, and, invoking the same gods, he said-"Of a surety the
 Corinthians will, beyond all others, regret the Pisistratidae, when
 the fated days come for them to be distressed by the Athenians."
@@ -13342,7 +14266,8 @@ all together broke silence, and declared themselves of the same
 mind; and withal, they conjured the Lacedaemonians "not to
 revolutionise a Grecian city." And in this way the enterprise came
 to nought.
-    Hippias hereupon withdrew; and Amyntas the Macedonian offered
+
+Hippias hereupon withdrew; and Amyntas the Macedonian offered
 him the city of Anthemus, while the Thessalians were willing to give
 him Iolcos: but he would accept neither the one nor the other,
 preferring to go back to Sigeum, which city Pisistratus had taken by
@@ -13356,7 +14281,8 @@ They of Mytilene insisted on having the place restored to them: but
 the Athenians refused, since they argued that the Aeolians had no
 better claim to the Trojan territory than themselves, or than any of
 the other Greeks who helped Menelaus on occasion of the rape of Helen.
-    War accordingly continued, with many and various incidents,
+
+War accordingly continued, with many and various incidents,
 whereof the following was one. In a battle which was gained by the
 Athenians, the poet Alcaeus took to flight, and saved himself, but
 lost his arms, which fell into the hands of the conquerors. They
@@ -13367,7 +14293,8 @@ reconciled by Periander, the son of Cypselus, who was chosen by both
 parties as arbiter- he decided that they should each retain that of
 which they were at the time possessed; and Sigeum passed in this way
 under the dominion of Athens.
-    On the return of Hippias to Asia from Lacedaemon, he moved
+
+On the return of Hippias to Asia from Lacedaemon, he moved
 heaven and earth to set Artaphernes against the Athenians, and did all
 that lay in his power to bring Athens into subjection to himself and
 Darius. So when the Athenians learnt what he was about, they sent
@@ -13377,7 +14304,8 @@ wished to remain safe, they must receive back Hippias." The Athenians,
 when this answer was reported to them, determined not to consent,
 and therefore made up their minds to be at open enmity with the
 Persians.
-    The Athenians had come to this decision, and were already in bad
+
+The Athenians had come to this decision, and were already in bad
 odour with the Persians, when Aristagoras the Milesian, dismissed from
 Sparta by Cleomenes the Lacedaemonian, arrived at Athens. He knew
 that, after Sparta, Athens was the most powerful of the Grecian
@@ -13396,7 +14324,8 @@ Won by his persuasions, they voted that twenty ships should be sent to
 the aid of the Ionians, under the command of Melanthius, one of the
 citizens, a man of mark in every way. These ships were the beginning
 of mischief both to the Greeks and to the barbarians.
-    Aristagoras sailed away in advance, and when he reached Miletus,
+
+Aristagoras sailed away in advance, and when he reached Miletus,
 devised a plan, from which no manner of advantage could possibly
 accrue to the Ionians;- indeed, in forming it, he did not aim at their
 benefit, but his sole wish was to annoy King Darius. He sent a
@@ -13404,12 +14333,14 @@ messenger into Phrygia to those Paeonians who had been led away
 captive by Megabazus from the river Strymon, and who now dwelt by
 themselves in Phrygia, having a tract of land and a hamlet of their
 own. This man, when he reached the Paeonians, spoke thus to them:-
-    "Men of Paeonia, Aristagoras, king of Miletus, has sent me to you,
+
+"Men of Paeonia, Aristagoras, king of Miletus, has sent me to you,
 to inform you that you may now escape, if you choose to follow the
 advice he proffers. All Ionia has revolted from the king; and the
 way is open to you to return to your own land. You have only to
 contrive to reach the sea-coast; the rest shall be our business."
-    When the Paeonians heard this, they were exceedingly rejoiced,
+
+When the Paeonians heard this, they were exceedingly rejoiced,
 and, taking with them their wives and children, they made all speed to
 the coast; a few only remaining in Phrygia through fear. The rest,
 having reached the sea, crossed over to Chios, where they had just
@@ -13419,7 +14350,8 @@ they sent a message across to Chios, and begged the Paeonians to
 come back again. These last refused, and were conveyed by the Chians
 from Chios to Lesbos, and by the Lesbians thence to Doriscus; from
 which place they made their way on foot to Paeonia.
-    The Athenians now arrived with a fleet of twenty sail, and brought
+
+The Athenians now arrived with a fleet of twenty sail, and brought
 also in their company five triremes of the Eretrians; which had joined
 the expedition, not so much out of goodwill towards Athens, as to
 pay a debt which they already owed to the people of Miletus. For in
@@ -13430,14 +14362,16 @@ assembled the rest of his allies, and proceeded to attack Sardis,
 not however leading the army in person, but appointing to the
 command his own brother Charopinus and Hermophantus, one of the
 citizens, while he himself remained behind in Miletus.
-    The Ionians sailed with this fleet to Ephesus, and, leaving
+
+The Ionians sailed with this fleet to Ephesus, and, leaving
 their ships at Coressus in the Ephesian territory, took guides from
 the city, and went up the country with a great host. They marched
 along the course of the river Cayster, and, crossing over the ridge of
 Tmolus, came down upon Sardis and took it, no man opposing them;-
 the whole city fell into their hands, except only the citadel, which
 Artaphernes defended in person, having with him no contemptible force.
-    Though, however, they took the city, they did not succeed in
+
+Though, however, they took the city, they did not succeed in
 plundering it; for, as the houses in Sardis were most of them built of
 reeds, and even the few which were of brick had a reed thatching for
 their roof, one of them was no sooner fired by a soldier than the
@@ -13455,7 +14389,8 @@ on their defence; and the Ionians, when they saw the enemy in part
 resisting, in part pouring towards them in dense crowds, took
 fright, and drawing off to the ridge which is called Tmolus when night
 came, went back to their ships.
-    Sardis however was burnt, and, among other buildings, a temple
+
+Sardis however was burnt, and, among other buildings, a temple
 of the native goddess Cybele was destroyed; which was the reason
 afterwards alleged by the Persians for setting on fire the temples
 of the Greeks. As soon as what had happened was known, all the
@@ -13469,7 +14404,8 @@ by the Persians: among other men of note, they killed the captain of
 the Eretrians, a certain Eualcidas, a man who had gained crowns at the
 Games, and received much praise from Simonides the Cean. Such as
 made their escape from the battle, dispersed among the several cities.
-    So ended this encounter. Afterwards the Athenians quite forsook
+
+So ended this encounter. Afterwards the Athenians quite forsook
 the Ionians, and, though Aristagoras besought them much by his
 ambassadors, refused to give him any further help. Still the
 Ionians, notwithstanding this desertion, continued unceasingly their
@@ -13480,7 +14416,8 @@ quarter, under their sway. Again, quitting the Hellespont, they went
 to Caria, and won the greater part of the Carians to their side; while
 Caunus, which had formerly refused to join with them, after the
 burning of Sardis, came over likewise.
-    All the Cyprians too, excepting those of Amathus, of their own
+
+All the Cyprians too, excepting those of Amathus, of their own
 proper motion espoused the Ionian cause. The occasion of their
 revolting from the Medes was the following. There was a certain
 Onesilus, younger brother of Gorgus, king of Salamis, and son of
@@ -13495,7 +14432,8 @@ now king of Salamis, sought to bring about a revolt of the whole of
 Cyprus. All were prevailed on except the Amathusians, who refused to
 listen to him; whereupon Onesilus sate down before Amathus, and laid
 siege to it.
-    While Onesilus was engaged in the siege of Amathus, King Darius
+
+While Onesilus was engaged in the siege of Amathus, King Darius
 received tidings of the taking and burning of Sardis by the
 Athenians and Ionians; and at the same time he learnt that the
 author of the league, the man by whom the whole matter had been
@@ -13509,7 +14447,8 @@ Jupiter, to revenge myself on the Athenians!" After this speech, he
 bade one of his servants every day, when his dinner was spread,
 three times repeat these words to him- "Master, remember the
 Athenians."
-    Then he summoned into his presence Histiaeus if Miletus, whom he
+
+Then he summoned into his presence Histiaeus if Miletus, whom he
 had kept at his court for so long a time; and on his appearance
 addressed him thus "I am told, O Histiaeus, that thy lieutenant, to
 whom thou hast given Miletus in charge, has raised a rebellion against
@@ -13519,7 +14458,8 @@ recompense- to join with this force, he has robbed me of Sardis! Is
 this as it should be, thinkest thou Or can it have been done without
 thy knowledge and advice? Beware lest it be found hereafter that the
 blame of these acts is thine."
-    Histiaeus answered- "What words are these, O king, to which thou
+
+Histiaeus answered- "What words are these, O king, to which thou
 hast given utterance? I advise aught from which unpleasantness of
 any kind, little or great, should come to thee! What could I gain by
 so doing? Or what is there that I lack now? Have I not all that thou
@@ -13539,10 +14479,12 @@ has caused all the troubles. Having managed this business to thy
 heart's content, I swear by all the gods of thy royal house, I will
 not put off the clothes in which I reach Ionia till I have made
 Sardinia, the biggest island in the world, thy tributary."
-    Histiaeus spoke thus, wishing to deceive the king; and Darius,
+
+Histiaeus spoke thus, wishing to deceive the king; and Darius,
 persuaded by his words, let him go; only bidding him be sure to do
 as he had promised, and afterwards come back to Susa.
-    In the meantime- while the tidings of the burning of Sardis were
+
+In the meantime- while the tidings of the burning of Sardis were
 reaching the king, and Darius was shooting the arrow and having the
 conference with Histiaeus, and the latter, by permission of Darius,
 was hastening down to the sea- in Cyprus the following events took
@@ -13556,9 +14498,11 @@ about the same time crossed in their ships from Cilicia, and proceeded
 by land to attack Salamis; while the Phoenicians, with the fleet,
 sailed round the promontory which goes by the name of "the Keys of
 Cyprus."
-    In this posture of affairs the princes of Cyprus called together
+
+In this posture of affairs the princes of Cyprus called together
 the captains of the Ionians, and thus addressed them:-
-    "Men of Ionia, we Cyprians leave it to you to choose whether you
+
+"Men of Ionia, we Cyprians leave it to you to choose whether you
 will fight with the Persians or with the Phoenicians. If it be your
 pleasure to try your strength on land against the Persians, come on
 shore at once, and array yourselves for the battle; we will then
@@ -13567,13 +14511,15 @@ other hand, ye prefer to encounter the Phoenicians, let that be your
 task: only be sure, whichever part you choose, to acquit yourselves so
 that Ionia and Cyprus, so far as depends on you, may preserve their
 freedom."
-    The Ionians made answer- "The commonwealth of Ionia sent us here
+
+The Ionians made answer- "The commonwealth of Ionia sent us here
 to guard the sea, not to make over our ships to you, and engage with
 the Persians on shore. We will therefore keep the post which has
 been assigned to us, and seek therein to be of some service. Do you,
 remembering what you suffered when you were the slaves of the Medes,
 behave like brave warriors."
-    Such was the reply of the Ionians. Not long afterwards the
+
+Such was the reply of the Ionians. Not long afterwards the
 Persians advanced into the plain before Salamis, and the Cyprian kings
 ranged their troops in order of battle against them, placing them so
 that while the rest of the Cyprians were drawn up against the
@@ -13581,7 +14527,8 @@ auxiliaries of the enemy, the choicest troops of the Salaminians and
 the Solians were set to oppose the Persians. At the same time
 Onesilus, of his own accord, took post opposite to Artybius, the
 Persian general.
-    Now Artybius rode a horse which had been trained to rear up
+
+Now Artybius rode a horse which had been trained to rear up
 against a foot-soldier. Onesilus, informed of this, called to him
 his shield-bearer, who was a Carian by nation, a man well skilled in
 war, and of daring courage; and thus addressed him:- "I hear," he
@@ -13600,7 +14547,8 @@ foe makes death lose half its horror. To us, thy followers, leave
 his war-horse and his retinue. And have thou no fear of the horse's
 tricks. I warrant that this is the last time he will stand up
 against any one."
-    Thus spake the Carian; and shortly after, the two hosts joined
+
+Thus spake the Carian; and shortly after, the two hosts joined
 battle both by sea and land. And here it chanced that by sea the
 Ionians, who that day fought as they have never done either before
 or since, defeated the Phoenicians, the Samians especially
@@ -13613,7 +14561,8 @@ placed his fore feet upon the shield of Onesilus, when the Carian
 cut at him with a reaping-hook, and severed the two legs from the
 body. The horse fell upon the spot, and Artybius, the Persian general,
 with him.
-    In the thick of the fight, Stesanor, tyrant of Curium, who
+
+In the thick of the fight, Stesanor, tyrant of Curium, who
 commanded no inconsiderable body of troops, went over with them to the
 enemy. On this desertion of the Curians- Argive colonists, if report
 says true- forthwith the war-chariots of the Salaminians followed
@@ -13624,7 +14573,8 @@ Chersis, who was the author of the revolt, and Aristocyprus, king of
 the Solians. This Aristocyprus was son of Philocyprus, whom Solon
 the Athenian, when he visited Cyprus, praised in his poems beyond
 all other sovereigns.
-    The Amathusians, because Onesilus had laid siege to their town,
+
+The Amathusians, because Onesilus had laid siege to their town,
 cut the head off his corpse, and took it with them to Amathus, where
 it was set up over the gates. Here it hung till it became hollow;
 whereupon a swarm of bees took possession of it, and filled it with
@@ -13633,7 +14583,8 @@ and were commanded "to take down the head and bury it, and thenceforth
 to regard Onesilus as a hero, and offer sacrifice to him year by year;
 so it would go the better with them." And to this day the
 Amathusians do as they were then bidden.
-    As for the Ionians who had gained the sea-fight, when they found
+
+As for the Ionians who had gained the sea-fight, when they found
 that the affairs of Onesilus were utterly lost and ruined, and that
 siege was laid to all the cities of Cyprus excepting Salamis, which
 the inhabitants had surrendered to Gorgus, the former king,
@@ -13641,7 +14592,8 @@ forthwith they left Cyprus, and sailed away home. Of the cities
 which were besieged, Soli held out the longest: the Persians took it
 by undermining the wall in the fifth month from the beginning of the
 siege.
-    Thus, after enjoying a year of freedom, the Cyprians were enslaved
+
+Thus, after enjoying a year of freedom, the Cyprians were enslaved
 for the second time. Meanwhile Daurises, who was married to one of the
 daughters of Darius, together with Hymeas, Otanes, and other Persian
 captains, who were likewise married to daughters of the king, after
@@ -13649,13 +14601,15 @@ pursuing the Ionians who had fought at Sardis, defeating them, and
 driving them to their ships, divided their efforts against the
 different cities, and proceeded in succession to take and sack each
 one of them.
-    Daurises attacked the towns upon the Hellespont, and took in as
+
+Daurises attacked the towns upon the Hellespont, and took in as
 many days the five cities of Dardanus, Abydos, Percote, Lampsacus, and
 Paesus. From Paesus he marched against Parium; but on his way
 receiving intelligence that the Carians had made common cause with the
 Ionians, and thrown off the Persian yoke, he turned round, and,
 leaving the Hellespont, marched away towards Caria.
-    The Carians by some chance got information of this movement before
+
+The Carians by some chance got information of this movement before
 Daurises arrived, and drew together their strength to a place called
 "the White Columns," which is on the river Marsyas, a stream running
 from the Idrian country, and emptying itself into the Maeander. Here
@@ -13670,7 +14624,8 @@ however, did not prevail; it was thought best to make the enemy have
 the Maeander behind them; that so, if they were defeated in the battle
 and put to flight, they might have no retreat open, but be driven
 headlong into the river.
-    The Persians soon afterwards approached, and, crossing the
+
+The Persians soon afterwards approached, and, crossing the
 Maeander, engaged the Carians upon the banks of the Marsyas; where for
 a long time the battle was stoutly contested, but at last the
 Carians were defeated, being overpowered by numbers. On the side of
@@ -13681,14 +14636,16 @@ deity worshipped only by the Carians- and in the sacred grove of
 plane-trees. Here they deliberated as to the best means of saving
 themselves, doubting whether they would fare better if they gave
 themselves up to the Persians, or if they abandoned Asia for ever.
-    As they were debating these matters a body of Milesians and allies
+
+As they were debating these matters a body of Milesians and allies
 came to their assistance; whereupon the Carians, dismissing their
 former thoughts, prepared themselves afresh for war, and on the
 approach of the Persians gave them battle a second time. They were
 defeated, however, with still greater loss than before; and while
 all the troops engaged suffered severely, the blow fell with most
 force on the Milesians.
-    The Carians, some while after, repaired their ill fortune in
+
+The Carians, some while after, repaired their ill fortune in
 another action. Understanding that the Persians were about to attack
 their cities, they laid an ambush for them on the road which leads
 to Pedasus; the Persians, who were making a night-march, fell into the
@@ -13697,7 +14654,8 @@ Daurises, Amorges, and Sisimaces: Myrsus too, the son of Gyges, was
 killed at the same time. The leader of the ambush was Heraclides,
 the son of Ibanolis, a man of Mylasa. Such was the way in which
 these Persians perished.
-    In the meantime Hymeas, who was likewise one of those by whom
+
+In the meantime Hymeas, who was likewise one of those by whom
 the Ionians were pursued after their attack on Sardis, directing his
 course towards the Propontis, took Cius, a city of Mysia. Learning,
 however, that Daurises had left the Hellespont, and was gone into
@@ -13706,12 +14664,14 @@ army under his command to the Hellespont, reduced all the Aeolians
 of the Troad, and likewise conquered the Gergithae, a remnant of the
 ancient Teucrians. He did not, however, quit the Troad, but, after
 gaining these successes, was himself carried off by disease.
-    After his death, which happened as have related, Artaphernes,
+
+After his death, which happened as have related, Artaphernes,
 the satrap of Sardis, and Otanes, the third general, were directed
 to undertake the conduct of the war against Ionia and the neighbouring
 Aeolis. By them Clazomenae in the former, and Cyme in the latter, were
 recovered.
-    As the cities fell one after another, Aristagoras the Milesian
+
+As the cities fell one after another, Aristagoras the Milesian
 (who was in truth, as he now plainly showed, a man of but little
 courage), notwithstanding that it was he who had caused the
 disturbances in Ionia and made so great a commotion, began, seeing his
@@ -13723,24 +14683,27 @@ in case they were driven out of Miletus. Should he go out at the
 head of a colony to Sardinia, or should he sail to Myrcinus in Edonia,
 which Histiaeus had received as a gift from King Darius, and had begun
 to fortify?"
-    To this question of Aristagoras, Hecataeus, the historian, son
+
+To this question of Aristagoras, Hecataeus, the historian, son
 of Hegesander, made answer that in his judgement neither place was
 suitable. "Aristagoras should build a fort," he said, "in the island
 of Leros, and, if driven from Miletus, should go there and bide his
 time; from Leros attacks might readily be made, and he might
 re-establish himself in Miletus." Such was the advice given by
 Hecataeus.
-    Aristagoras, however, was bent on retiring to Myrcinus.
+
+Aristagoras, however, was bent on retiring to Myrcinus.
 Accordingly, he put the government of Miletus into the hands of one of
 the chief citizens, named Pythagoras, and, taking with him all who
 liked to go, sailed to Thrace, and there made himself master of the
 place in question. From thence he proceeded to attack the Thracians;
 but here he was cut off with his whole army, while besieging a city
 whose defenders were anxious to accept terms of surrender.
-                       The Sixth Book, Entitled
-                                 ERATO
 
-    ARISTAGORAS, the author of the Ionian revolt, perished in the
+VI ERATO
+--------
+
+ARISTAGORAS, the author of the Ionian revolt, perished in the
 way which I have described. Meanwhile Histiaeus, tyrant of Miletus,
 who had been allowed by Darius to leave Susa, came down to Sardis.
 On his arrival, being asked by Artaphernes, the Sardian satrap, what
@@ -13752,7 +14715,8 @@ and who had in fact full knowledge of the whole history of the
 outbreak, said to him, "I will tell thee how the case stands,
 Histiaeus: this shoe is of thy stitching; Aristagoras has but put it
 on."
-    Such was the remark made by Artaphernes concerning the
+
+Such was the remark made by Artaphernes concerning the
 rebellion. Histiaeus, alarmed at the knowledge which he displayed,
 so soon as night fell, fled away to the coast. Thus he forfeited his
 word to Darius; for though he had pledged himself to bring Sardinia,
@@ -13763,7 +14727,8 @@ who accused him of intending some mischief against them in the
 interest of Darius. However, when the whole truth was laid before
 them, and they found that Histiaeus was in reality a foe to the
 king, they forthwith set him at large again.
-    After this the Ionians inquired of him for what reason he had so
+
+After this the Ionians inquired of him for what reason he had so
 strongly urged Aristagoras to revolt from the king, thereby doing
 their nation so ill a service. In reply, he took good care not to
 disclose to them the real cause, but told them that King Darius had
@@ -13772,7 +14737,8 @@ them in Ionia, while he planted the Ionians in Phoenicia, and that
 it was for this reason he sent Aristagoras the order. Now it was not
 true that the king had entertained any such intention, but Histiaeus
 succeeded hereby in arousing the fears of the Ionians.
-    After this, Histiaeus, by means of a certain Hermippus, a native
+
+After this, Histiaeus, by means of a certain Hermippus, a native
 of Atarneus, sent letters to many of the Persians in Sardis, who had
 before held some discourse with him concerning a revolt. Hermippus,
 however, instead of conveying them to the persons to whom they were
@@ -13782,7 +14748,8 @@ letters according to their addresses, and then bring him back the
 answers which were sent to Histiaeus. The traitors being in this way
 discovered, Artaphernes put a number of Persians to death, and
 caused a commotion in Sardis.
-    As for Histiaeus, when his hopes in this matter were disappointed,
+
+As for Histiaeus, when his hopes in this matter were disappointed,
 he persuaded the Chians to carry him back to Miletus; but the
 Milesians were too well pleased at having got quit of Aristagoras to
 be anxious to receive another tyrant into their country; besides which
@@ -13796,7 +14763,8 @@ the Lesbians. They fitted out a squadron of eight triremes, and sailed
 with him to the Hellespont, where they took up their station, and
 proceeded to seize all the vessels which passed out from the Euxine,
 unless the crews declared themselves ready to obey his orders.
-    While Histiaeus and the Mytilenaeans were thus employed, Miletus
+
+While Histiaeus and the Mytilenaeans were thus employed, Miletus
 was expecting an attack from a vast armament, which comprised both a
 fleet and also a land force. The Persian captains had drawn their
 several detachments together, and formed them into a single army;
@@ -13805,7 +14773,8 @@ regarded as of lesser account, and to march straight on Miletus. Of
 the naval states, Phoenicia showed the greatest zeal; but the fleet
 was composed likewise of the Cyprians (who had so lately been
 brought under), the Cilicians, and also the Egyptians.
-    While the Persians were thus making preparations against Miletus
+
+While the Persians were thus making preparations against Miletus
 and Ionia, the Ionians, informed of their intent, sent their
 deputies to the Panionium, and held a council upon the posture of
 their affairs. Hereat it was determined that no land force should be
@@ -13814,7 +14783,8 @@ left to defend their own walls as they could; at the same time they
 agreed that the whole naval force of the states, not excepting a
 single ship, should be equipped, and should muster at Lade, a small
 island lying off Miletus- to give battle on behalf of the place.
-    Presently the Ionians began to assemble in their ships, and with
+
+Presently the Ionians began to assemble in their ships, and with
 them came the Aeolians of Lesbos; and in this way they marshalled
 their line:- The wing towards the east was formed of the Milesians
 themselves, who furnished eighty ships; next to them came the
@@ -13826,7 +14796,8 @@ the Phocaeans were the Lesbians, furnishing seventy; last of all
 came the Samians, forming the western wing, and furnishing sixty
 vessels. The fleet amounted in all to three hundred and fifty-three
 triremes. Such was the number on the Ionian side.
-    On the side of the barbarians the number of vessels was six
+
+On the side of the barbarians the number of vessels was six
 hundred. These assembled off the coast of Milesia, while the land army
 collected upon the shore; but the leaders, learning the strength of
 the Ionian fleet, began to fear lest they might fail to defeat them,
@@ -13849,13 +14820,15 @@ the fate which shall assuredly overtake them in that case. Tell
 them, when they are vanquished in fight, they shall be enslaved; their
 boys shall be made eunuchs, and their maidens transported to Bactra;
 while their country shall be delivered into the hands of foreigners."
-    Thus spake the Persians. The Ionian tyrants sent accordingly by
+
+Thus spake the Persians. The Ionian tyrants sent accordingly by
 night to their respective citizens, and reported the words of the
 Persians; but the people were all staunch, and refused to betray their
 countrymen, those of each state thinking that they alone had had
 made to them. Now these events happened on the first appearance of the
 Persians before Miletus.
-    Afterwards, while the Ionian fleet was still assembled at Lade,
+
+Afterwards, while the Ionian fleet was still assembled at Lade,
 councils were held, and speeches made by divers persons- among the
 rest by Dionysius, the Phocaean captain, who thus expressed
 himself:- "Our affairs hang on the razor's edge, men of Ionia,
@@ -13870,7 +14843,8 @@ trust yourselves to my guidance. Then, if the gods only hold the
 balance fairly between us, I undertake to say that our foes will
 either decline a battle, or, if they fight, suffer complete
 discomfiture."
-    These words prevailed with the Ionians, and forthwith they
+
+These words prevailed with the Ionians, and forthwith they
 committed themselves to Dionysius; whereupon he proceeded every day to
 make the ships move in column, and the rowers ply their oars, and
 exercise themselves in breaking the line; while the marines were
@@ -13893,7 +14867,8 @@ saying, they forthwith ceased to obey his orders, and pitched their
 tents, as if they had been soldiers, upon the island, where they
 reposed under the shade all day, and refused to go aboard the ships
 and train themselves.
-    Now when the Samian captains perceived what was taking place, they
+
+Now when the Samian captains perceived what was taking place, they
 were more inclined than before to accept the terms which Aeaces, the
 son of Syloson, had been authorised by the Persians to offer them,
 on condition of their deserting from the confederacy. For they saw
@@ -13908,7 +14883,8 @@ overtures to the Samians, was the son of Syloson, and grandson of
 the earlier Aeaces. He had formerly been tyrant of Samos, but was
 ousted from his government by Aristagoras the Milesian, at the same
 time with the other tyrants of the Ionians.
-    The Phoenicians soon afterwards sailed to the attack; and the
+
+The Phoenicians soon afterwards sailed to the attack; and the
 Ionians likewise put themselves in line, and went out to meet them.
 When they had now neared one another, and joined battle, which of
 the Ionians fought like brave men and which like cowards, I cannot
@@ -13924,7 +14900,8 @@ inscribed upon a pillar, which still stands in the market-place. The
 Lesbians also, when they saw the Samians, who were drawn up next them,
 begin to flee, themselves did the like; and the example, once set, was
 followed by the greater number of the Ionians.
-    Of those who remained and fought, none were so rudely handled as
+
+Of those who remained and fought, none were so rudely handled as
 the Chians, who displayed prodigies of valour, and disdained to play
 the part of cowards. They furnished to the common fleet, as I
 mentioned above, one hundred ships, having each of them forty armed
@@ -13937,7 +14914,8 @@ the fight, and ofttimes cut the line of the enemy, until at last,
 after they had taken very many of their adversaries' ships, they ended
 by losing more than half of their own. Hereupon, with the remainder of
 their vessels, the Chians fled away to their own country.
-    As for such of their ships as were damaged and disabled, these,
+
+As for such of their ships as were damaged and disabled, these,
 being pursued by the enemy, made straight for Mycale, where the
 crews ran them ashore, and abandoning them began their march along the
 continent. Happening in their way upon the territory of Ephesus,
@@ -13949,7 +14927,8 @@ armed band, they made no question of the new-comers being robbers
 who purposed to carry off their women; and accordingly they marched
 out against them in full force, and slew them all. Such were the
 misfortunes which befell them of Chios.
-    Dionysius, the Phocaean, when he perceived that all was lost,
+
+Dionysius, the Phocaean, when he perceived that all was lost,
 having first captured three ships from the enemy, himself took to
 flight. He would not, however, return to Phocaea, which he well knew
 must fall again, like the rest of Ionia, under the Persian yoke; but
@@ -13958,14 +14937,16 @@ number of merchantmen, and gained a great booty; after which he
 directed his course to Sicily, where he established himself as a
 corsair, and plundered the Carthaginians and Tyrrhenians, but did no
 harm to the Greeks.
-    The Persians, when they had vanquished the Ionians in the
+
+The Persians, when they had vanquished the Ionians in the
 sea-fight, besieged Miletus both by land and sea, driving mines
 under the walls, and making use of every known device, until at length
 they took both the citadel and the town, six years from the time
 when the revolt first broke out under Aristagoras. All the inhabitants
 of the city they reduced to slavery, and thus the event tallied with
 the announcement which had been made by the oracle.
-    For once upon a time, when the Argives had sent to Delphi to
+
+For once upon a time, when the Argives had sent to Delphi to
 consult the god about the safety of their own city, a prophecy was
 given them, in which others besides themselves were interested; for
 while it bore in part upon the fortunes of Argos, it touched in a
@@ -13974,24 +14955,26 @@ which concerned the Argives when I come to that part of my History,
 mentioning at present only the passage in which the absent Milesians
 were spoken of. This passage was as follows:-
 
-    Then shalt thou, Miletus, so oft the contriver of evil,
-    Be, thyself, to many a least and an excellent booty:
-    Then shall thy matrons wash the feet of long-haired masters-
-    Others shall then possess our lov'd Didymian temple.
+> Then shalt thou, Miletus, so oft the contriver of evil,  
+> Be, thyself, to many a least and an excellent booty:  
+> Then shall thy matrons wash the feet of long-haired masters-  
+> Others shall then possess our lov'd Didymian temple.
 
 Such a fate now befell the Milesians; for the Persians, who wore their
 hair long, after killing most of the men, made the women and
 children slaves; and the sanctuary at Didyma, the oracle no less
 than the temple was plundered and burnt; of the riches whereof I
 have made frequent mention in other parts of my History.
-    Those of the Milesians whose lives were spared, being carried
+
+Those of the Milesians whose lives were spared, being carried
 prisoners to Susa, received no ill treatment at the hands of King
 Darius, but were established by him in Ampe, a city on the shores of
 the Erythraean sea, near the spot where the Tigris flows into it.
 Miletus itself, and the plain about the city, were kept by the
 Persians for themselves, while the hill-country
 was assigned to the Carians of Pedasus.
-    And now the Sybarites, who after the loss of their city occupied
+
+And now the Sybarites, who after the loss of their city occupied
 Laus and Scidrus, failed duly to return the former kindness of the
 Milesians. For these last, when Sybaris was taken by the Crotoniats,
 made a great mourning, all of them, youths as well as men, shaving
@@ -14005,7 +14988,8 @@ Miletus, the whole theatre burst into tears; and the people
 sentenced him to pay a fine of a thousand drachms, for recalling to
 them their own misfortunes. They likewise made a law that no one
 should ever again exhibit that piece.
-    Thus was Miletus bereft of its inhabitants. In Samos the people of
+
+Thus was Miletus bereft of its inhabitants. In Samos the people of
 the richer sort were much displeased with the doings of the
 captains, and the dealings they had had the Medes; they therefore held
 a council, very shortly after the sea-fight, and resolved that they
@@ -14019,7 +15003,8 @@ is in the country of the Sicilians, and is situated in the part of
 Sicily which looks towards Tyrrhenia. The offer thus made to all the
 Ionians was embraced only by the Samians, and by such of the Milesians
 as had contrived to effect their escape.
-    Hereupon this is what ensued. The Samians on their voyage
+
+Hereupon this is what ensued. The Samians on their voyage
 reached the country of the Epizephyrian Locrians, at a time when the
 Zanclaeans and their king Scythas were engaged in the siege of a
 Sicilian town which they hoped to take. Anaxilaus, tyrant of
@@ -14042,14 +15027,16 @@ in the open country. Upon this Hippocrates seized and bound the
 greater number of the Zanclaeans as slaves; delivering, however,
 into the hands of the Samians three hundred of the principal citizens,
 to be slaughtered; but the Samians spared the lives of these persons.
-    Scythas, the king of the Zanclaeans, made his escape from
+
+Scythas, the king of the Zanclaeans, made his escape from
 Inycus, and fled to Himera; whence he passed into Asia, and went up to
 the court of Darius. Darius thought him the most upright of all the
 Greeks to whom he afforded a refuge; for with the king's leave he paid
 a visit to Sicily, and thence returned back to Persia, where he
 lived in great comfort, and died by a natural death at an advanced
 age.
-    Thus did the Samians escape the yoke of the Medes, and possess
+
+Thus did the Samians escape the yoke of the Medes, and possess
 themselves without any trouble of Zancle, a most beautiful city. At
 Samos itself the Phoenicians, after the fight which had Miletus for
 its prize was over, re-established Aeaces, the son of Syloson, upon
@@ -14061,7 +15048,8 @@ burn either their city or their temples, as they did those of the
 other rebels. Immediately after the fall of Miletus the Persians
 recovered Caria, bringing some of the cities over by force, while
 others submitted of their own accord.
-    Meanwhile tidings of what had befallen Miletus reached Histiaeus
+
+Meanwhile tidings of what had befallen Miletus reached Histiaeus
 the Milesian, who was still at Byzantium, employed in intercepting the
 Ionian merchantmen as they issued from the Euxine. Histiaeus had no
 sooner heard the news than he gave the Hellespont in charge to
@@ -14072,7 +15060,8 @@ in the Chian territory, and of these he slaughtered a vast number;
 afterwards, by the help of his Lesbians, he reduced all the rest of
 the Chians, who were weakened by their losses in the sea-fight,
 Polichne, a city of Chios, serving him as head-quarters.
-    It mostly happens that there is some warning when great
+
+It mostly happens that there is some warning when great
 misfortunes are about to befall a state or nation; and so it was in
 this instance, for the Chians had previously had some strange tokens
 sent to them. A choir of a hundred of their youths had been despatched
@@ -14086,7 +15075,8 @@ It was very shortly afterwards that the sea-fight happened, which
 brought the city down upon its knees; and after the sea-fight came the
 attack of Histiaeus and his Lesbians, to whom the Chians, weakened
 as they were, furnished an easy conquest.
-    Histiaeus now led a numerous army, composed of Ionians and
+
+Histiaeus now led a numerous army, composed of Ionians and
 Aelians, against Thasos, and had laid siege to the place when news
 arrived that the Phoenicians were about to quit Miletus and attack the
 other cities of Ionia. On hearing this, Histiaeus raised the siege
@@ -14099,7 +15089,8 @@ certain Persian named Harpagus was in these regions at the head of
 an army of no little strength. He, when Histiaeus landed, marched
 out to meet him, and engaging with his forces destroyed the greater
 number of them, and took Histiaeus himself prisoner.
-    Histiaeus fell into the hands of the Persians in the following
+
+Histiaeus fell into the hands of the Persians in the following
 manner. The Greeks and Persians engaged at Malena, in the region of
 Atarneus; and the battle was for a long time stoutly contested, till
 at length the cavalry came up, and, charging the Greeks, decided the
@@ -14108,7 +15099,8 @@ would not punish his fault with death, showed how he loved his life by
 the following conduct. Overtaken in his flight by one of the Persians,
 who was about to run him through, he cried aloud in the Persian tongue
 that he was Histiaeus the Milesian.
-    Now, had he been taken straightway before King Darius, I verily
+
+Now, had he been taken straightway before King Darius, I verily
 believe that he would have received no hurt, but the king would have
 freely forgiven him. Artaphernes, however, satrap of Sardis, and his
 captor Harpagus, on this very account- because they were afraid
@@ -14121,7 +15113,8 @@ bringing Histiaeus alive into his presence, and commanded his servants
 to wash and dress the head with all care, and then bury it, as the
 head of a man who had been a great benefactor to himself and the
 Persians. Such was the sequel of the history of Histiaeus.
-    The naval armament of the Persians wintered at Miletus, and in the
+
+The naval armament of the Persians wintered at Miletus, and in the
 following year proceeded to attack the islands off the coast, Chios,
 Lesbos, and Tenedos, which were reduced without difficulty. Whenever
 they became masters of an island, the barbarians, in every single
@@ -14131,7 +15124,8 @@ form a line across from the north coast to the south, and then march
 through the island from end to end and hunt out the inhabitants. In
 like manner the Persians took also the Ionian towns upon the mainland,
 not however netting the inhabitants, as it was not possible.
-    And now their generals made good all the threats wherewith they
+
+And now their generals made good all the threats wherewith they
 had menaced the Ionians before the battle. For no sooner did they
 get possession of the towns than they choose out all the best favoured
 boys and made them eunuchs, while the most beautiful of the girls they
@@ -14139,7 +15133,8 @@ tore from their homes and sent as presents to the king, at the same
 time burning the cities themselves, with their temples. Thus were
 the Ionians for the third time reduced to slavery; once by the
 Lydians, and a second, and now a third time, by the Persians.
-    The sea force, after quitting Ionia, proceeded to the
+
+The sea force, after quitting Ionia, proceeded to the
 Hellespont, and took all the towns which lie on the left shore as
 one sails into the straits. For the cities on the right bank had
 already been reduced by the land force of the Persians. Now these
@@ -14157,7 +15152,8 @@ Upon Cyzicus they made no attack at all, as before their coming the
 inhabitants had made terms with Oebares, the son of Megabazus, and
 satrap of Dascyleium, and had submitted themselves to the king. In the
 Chersonese the Phoenicians subdued all the cities, excepting Cardia.
-    Up to this time the cities of the Chersonese had been under the
+
+Up to this time the cities of the Chersonese had been under the
 government of Miltiades, the son of Cimon, and grandson of Stesagoras,
 to whom they had descended from Miltiades, the son of Cypselus, who
 obtained possession of them in the following manner. The Dolonci, a
@@ -14170,7 +15166,8 @@ hospitality after they quitted the temple." The Dolonci, following the
 Sacred Road, passed through the regions of Phocis and Boeotia; after
 which, as still no one invited them in, they turned aside, and
 travelled to Athens.
-    Now Pisistratus was at this time sole lord of Athens; but
+
+Now Pisistratus was at this time sole lord of Athens; but
 Miltiades, the son of Cypselus, was likewise a person of much
 distinction. He belonged to a family which was wont to contend in
 the four-horse-chariot races, and traced its descent to Aeacus and
@@ -14188,7 +15185,8 @@ had done speaking; for the government of Pisistratus was irksome to
 him, and he wanted to be beyond the tyrant's reach. He therefore
 went straightway to Delphi, and inquired of the oracle whether he
 should do as the Dolonci desired.
-    As the Pythoness backed their request, Miltiades, son of
+
+As the Pythoness backed their request, Miltiades, son of
 Cypselus who had already won the four-horse chariot-race at Olympia,
 left Athens, taking with him as many of the Athenians as liked to join
 in the enterprise, and sailed away with the Dolonci. On his arrival at
@@ -14198,7 +15196,8 @@ Chersonese from the city of Cardia to Pactya, to protect the country
 from the incursions and ravages of the Apsinthians. The breadth of the
 isthmus at this part is thirty-six furlongs, the whole length of the
 peninsula within the isthmus being four hundred and twenty furlongs.
-    When he had finished carrying the wall across the isthmus, and had
+
+When he had finished carrying the wall across the isthmus, and had
 thus secured the Chersonese against the Apsinthians, Miltiades
 proceeded to engage in other wars, and first of all attacked the
 Lampsacenians; but falling into an ambush which they had laid he had
@@ -14213,7 +15212,8 @@ but at last one of their elders divined the true sense, and told
 them that the fir is the only tree which, when cut down, makes no
 fresh shoots, but forthwith dies outright. So the Lampsacenians, being
 greatly afraid of Croesus, released Miltiades, and let him go free.
-    Thus did Miltiades, by the help of Croesus, escape this danger.
+
+Thus did Miltiades, by the help of Croesus, escape this danger.
 Some time afterwards he died childless, leaving his kingdom and his
 riches to Stesagoras, who was the son of Cimon, his half-brother. Ever
 since his death the people of the Chersonese have offered him the
@@ -14224,7 +15224,8 @@ Lampsacus was ended Stesagoras too died childless: he was sitting in
 the hall of justice when he was struck upon the head with a hatchet by
 a man who pretended to be a deserter, but was in good sooth an
 enemy, and a bitter one.
-    Thus died Stesagoras; and upon his death the Pisistratidae
+
+Thus died Stesagoras; and upon his death the Pisistratidae
 fitted out a trireme, and sent Miltiades, the son of Cimon, and
 brother of the deceased, to the Chersonese, that he might undertake
 the management of affairs in that quarter. They had already shown
@@ -14239,7 +15240,8 @@ upon his misfortune. Miltiades commanded them to be seized and
 thrown into prison; after which he made himself master of the
 Chersonese, maintained a body of five hundred mercenaries, and married
 Hegesipyla, daughter of the Thracian king Olorus.
-    This Miltiades, the son of Cimon, had not been long in the country
+
+This Miltiades, the son of Cimon, had not been long in the country
 when a calamity befell him yet more grievous than those in which he
 was now involved: for three years earlier he had had to fly before
 an incursion of the Scyths. These nomads, angered by the attack of
@@ -14248,7 +15250,8 @@ Miltiades did not await their coming, but fled, and remained away
 until the Scyths retired, when the Dolonci sent and fetched him
 back. All this happened three years before the events which befell
 Miltiades at the present time.
-    He now no sooner heard that the Phoenicians were attacking Tenedos
+
+He now no sooner heard that the Phoenicians were attacking Tenedos
 than he loaded five triremes with his goods and chattels, and set sail
 for Athens. Cardia was the point from which he took his departure; and
 as he sailed down the gulf of Melas, along the shore of the
@@ -14268,7 +15271,8 @@ hurt, that he loaded him with benefits. He gave him a house and
 estate, and also a Persian wife, by whom there were children born to
 him who were accounted Persians. As for Miltiades himself, from Imbrus
 he made his way in safety to Athens.
-    At this time the Persians did no more hurt to the Ionians; but
+
+At this time the Persians did no more hurt to the Ionians; but
 on the contrary, before the year was out, they carried into effect the
 following measures, which were greatly to their advantage.
 Artaphernes, satrap of Sardis, summoned deputies from all the Ionian
@@ -14281,7 +15285,8 @@ cities were to pay, at a rate that has continued unaltered from the
 time when Artaphernes fixed it down to the present day. The rate was
 very nearly the same as that which had been paid before the revolt.
 Such were the peaceful dealings of the Persians with the Ionians.
-    The next spring Darius superseded all the other generals, and sent
+
+The next spring Darius superseded all the other generals, and sent
 down Mardonius, the son of Gobryas, to the coast, and with him a
 vast body of men, some fit for sea, others for land service. Mardonius
 was a youth at this time, and had only lately married Artazostra,
@@ -14298,7 +15303,8 @@ multitude of ships had been brought together, and likewise a
 powerful land force, he conveyed his troops across the strait by means
 of his vessels, and proceeded through Europe against Eretria and
 Athens.
-    At least these towns served as a pretext for the expedition, the
+
+At least these towns served as a pretext for the expedition, the
 real purpose of which was to subjugate as great a number as possible
 of the Grecian cities; and this became plain when the Thasians, who
 did not even lift a hand in their defence, were reduced by the sea
@@ -14315,7 +15321,8 @@ thousand. For the sea about Athos abounds in monsters beyond all
 others; and so a portion were seized and devoured by these animals,
 while others were dashed violently against the rocks; some, who did
 not know how to swim, were engulfed; and some died of the cold.
-    While thus it fared with the fleet, on land Mardonius and his army
+
+While thus it fared with the fleet, on land Mardonius and his army
 were attacked in their camp during the night by the Brygi, a tribe
 of Thracians; and here vast numbers of the Persians were slain, and
 even Mardonius himself received a wound. The Brygi, nevertheless,
@@ -14326,7 +15333,8 @@ the blow which his land force had received at their hands, and the
 great damage done to his fleet off Athos, induced him to set out
 upon his retreat; and so this armament, having failed disgracefully,
 returned to Asia.
-    The year after these events, Darius received information from
+
+The year after these events, Darius received information from
 certain neighbours of the Thasians that those islanders were making
 preparations for revolt; he therefore sent a herald, and bade them
 dismantle their walls, and bring all their ships to Abdera. The
@@ -14342,7 +15350,8 @@ prolific that, besides being entirely free from land-tax, they had a
 surplus income, derived from the two sources of their territory on the
 main and their mines, in common years of two hundred, and in the
 best years of three hundred talents.
-    I myself have seen the mines in question: by far the most
+
+I myself have seen the mines in question: by far the most
 curious of them are those which the Phoenicians discovered at the time
 when they went with Thasus and colonised the island, which
 afterwards took its name from him. These Phoenician workings are in
@@ -14352,20 +15361,23 @@ search for ores. Such then was the source of their wealth. On this
 occasion no sooner did the Great King issue his commands than
 straightway the Thasians dismantled their wall, and took their whole
 fleet to Abdera.
-    After this Darius resolved to prove the Greeks, and try the bent
+
+After this Darius resolved to prove the Greeks, and try the bent
 of their minds, whether they were inclined to resist him in arms or
 prepared to make their submission. He therefore sent out heralds in
 divers directions round about Greece, with orders to demand everywhere
 earth and water for the king. At the same time he sent other heralds
 to the various seaport towns which paid him tribute, and required them
 to provide a number of ships of war and horse-transports.
-    These towns accordingly began their preparations; and the
+
+These towns accordingly began their preparations; and the
 heralds who had been sent into Greece obtained what the king had bid
 them ask from a large number of the states upon the mainland, and
 likewise from all the islanders whom they visited. Among these last
 were included the Eginetans, who, equally with the rest, consented
 to give earth and water to the Persian king.
-    When the Athenians heard what the Eginetans had done, believing
+
+When the Athenians heard what the Eginetans had done, believing
 that it was from enmity to themselves that they had given consent, and
 that the Eginetans intended to join the Persian in his attack upon
 Athens, they straightway took the matter in hand. In good truth it
@@ -14373,7 +15385,8 @@ greatly rejoiced them to have so fair a pretext; and accordingly
 they sent frequent embassies to Sparta, and made it a charge against
 the Eginetans that their conduct in this matter proved them to be
 traitors to Greece.
-    Hereupon Cleomenes, the son of Anaxandridas, who was then king
+
+Hereupon Cleomenes, the son of Anaxandridas, who was then king
 of the Spartans, went in person to Egina, intending to seize those
 whose guilt was the greatest. As soon however as he tried to arrest
 them, a number of the Eginetins made resistance; a certain Crius,
@@ -14387,13 +15400,15 @@ Hereupon Cleomenes, finding that he must quit Egina, asked Crius his
 name; and when Crius told him, "Get thy horns tipped with brass with
 all speed, O Crius!" he said, "for thou wilt have to struggle with a
 great danger."
-    Meanwhile Demaratus, son of Ariston, was bringing charges
+
+Meanwhile Demaratus, son of Ariston, was bringing charges
 against Cleomenes at Sparta. He too, like Cleomenes, was king of the
 Spartans, but he belonged to the lower house- not indeed that his
 house was of any lower origin than the other, for both houses are of
 one blood- but the house of Eurysthenes is the more honoured of the
 two, inasmuch as it is the elder branch.
-    The Lacedaemonians declare, contradicting therein all the poets,
+
+The Lacedaemonians declare, contradicting therein all the poets,
 that it was king Aristodemus himself, son of Aristomachus, grandson of
 Cleodaeus, and great-grandson of Hyllus, who conducted them to the
 land which they now possess, and not the sons of Aristodemus. The wife
@@ -14433,7 +15448,8 @@ they gave to the elder boy was Eurysthenes, while his brother they
 called Procles. When the brothers grew up, there was always, so long
 as they lived, enmity between them; and the houses sprung from their
 loins have continued the feud to this day.
-    Thus much is related by the Lacedaemonians, but not by any of
+
+Thus much is related by the Lacedaemonians, but not by any of
 the other Greeks; in what follows I give the tradition of the Greeks
 generally. The kings of the Dorians (they say)- counting up to
 Perseus, son of Danae, and so omitting the god- are rightly given in
@@ -14446,17 +15462,20 @@ right in saying, "up to Perseus." If we follow the line of Danad,
 daughter of Acrisius, and trace her progenitors, we shall find that
 the chiefs of the Dorians are really genuine Egyptians. In the
 genealogies here given I have followed the common Greek accounts.
-    According to the Persian story, Perseus was an Assyrian who became
+
+According to the Persian story, Perseus was an Assyrian who became
 a Greek; his ancestors, therefore, according to them, were not Greeks.
 They do not admit that the forefathers of Acrisius were in any way
 related to Perseus, but say they were Egyptians, as the Greeks
 likewise testify.
-    Enough however of this subject. How it came to pass that Egyptians
+
+Enough however of this subject. How it came to pass that Egyptians
 obtained the kingdoms of the Dorians, and what they did to raise
 themselves to such a position, these are questions concerning which,
 as they have been treated by others, I shall say nothing. I proceed to
 speak of points on which no other writer has touched.
-    The prerogatives which the Spartans have allowed their kings are
+
+The prerogatives which the Spartans have allowed their kings are
 the following. In the first place, two priesthoods, those (namely)
 of Lacedaemonian and of Celestial Jupiter; also the right of making
 war on what country soever they please, without hindrance from any
@@ -14466,7 +15485,8 @@ and of having a hundred picked men for their body guard while with the
 army; likewise the liberty of sacrificing as many cattle in their
 expeditions as it seems them good, and the right of having the skins
 and the chines of the slaughtered animals for their own use.
-    Such are their privileges in war; in peace their rights are as
+
+Such are their privileges in war; in peace their rights are as
 follows. When a citizen makes a public sacrifice the kings are given
 the first seats at the banquet; they are served before any of the
 other guests, and have a double portion of everything; they take the
@@ -14494,7 +15514,8 @@ likewise have the right of sitting in council with the
 eight-and-twenty senators; and if they are not present, then the
 senators nearest of kin to them have their privileges, and give two
 votes as the royal proxies, besides a third vote, which is their own.
-    Such are the honours which the Spartan people have allowed their
+
+Such are the honours which the Spartan people have allowed their
 kings during their lifetime; after they are dead other honours await
 them. Horsemen carry the news of their death through all Laconia,
 while in the city the women go hither and thither drumming upon a
@@ -14514,19 +15535,22 @@ battle, then they make a statue of him, and placing it upon a couch
 right bravely decked, so carry it to the grave. After the burial, by
 the space of ten days there is no assembly, nor do they elect
 magistrates, but continue mourning the whole time.
-    They hold with the Persians also in another custom. When a king
+
+They hold with the Persians also in another custom. When a king
 dies, and another comes to the throne, the newly-made monarch forgives
 all the Spartans the debts which they owe either to the king or to the
 public treasury. And in like manner among the Persians each king
 when he begins to reign remits the tribute due from the provinces.
-    In one respect the Lacedaemonians resemble the Egyptians. Their
+
+In one respect the Lacedaemonians resemble the Egyptians. Their
 heralds and flute-players, and likewise their cooks, take their trades
 by succession from their fathers. A flute-player must be the son of
 a flute-player, a cook of a cook, a herald of a herald; and other
 people cannot take advantage of the loudness of their voice to come
 into the profession and shut out the heralds' sons; but each follows
 his father's business. Such are the customs of the Lacedaemonians.
-    At the time of which we are speaking, while Cleomenes in Egina was
+
+At the time of which we are speaking, while Cleomenes in Egina was
 labouring for the general good of Greece, Demaratus at Sparta
 continued to bring charges against him, moved not so much by love of
 the Eginetans as by jealousy and hatred of his colleague. Cleomenes
@@ -14557,7 +15581,8 @@ and said, "One day this child shall be the fairest dame in Sparta."
 And her looks began to change from that very day. When she was of
 marriageable age, Agetus, son of Alcides, the same whom I have
 mentioned above as the friend of Ariston, made her his wife.
-    Now it chanced that Ariston fell in love with this person; and his
+
+Now it chanced that Ariston fell in love with this person; and his
 love so preyed upon his mind that at last he devised as follows. He
 went to his friend, the lady's husband, and proposed to him that
 they should exchange gifts, each taking that which pleased him best
@@ -14571,7 +15596,8 @@ Agetus's wife. But the other demurred, and said, "except his wife,
 he might have anything else": however, as he could not resist the oath
 which he had sworn, or the trickery which had been practised on him,
 at last he suffered Ariston to carry her away to his house.
-    Ariston hereupon put away his second wife and took for his third
+
+Ariston hereupon put away his second wife and took for his third
 this woman; and she, in less than the due time- when she had not yet
 reached her full term of ten months- gave birth to a child, the
 Demaratus of whom we have spoken. Then one of his servants came and
@@ -14587,14 +15613,16 @@ whole Spartan people, looking upon Ariston as a man of mark beyond all
 the kings that had reigned at Sparta before him, had offered up a
 prayer that he might have a son. On this account, therefore, the
 name Demaratus was given.
-    In course of time Ariston died; and Demaratus received the
+
+In course of time Ariston died; and Demaratus received the
 kingdom: but it was fated, as it seems, that these words, when bruited
 abroad, should strip him of his sovereignty. This was brought about by
 means of Cleomenes, whom he had twice sorely vexed, once when he led
 the army home from Eleusis, and a second time when Cleomenes was
 gone across to Egina against such as had espoused the side of the
 Medes.
-    Cleomenes now, being resolved to have his revenge upon
+
+Cleomenes now, being resolved to have his revenge upon
 Demaratus, went to Leotychides, the son of Menares, and grandson of
 Agis, who was of the same family as Demaratus, and made agreement with
 him to this tenor following. Cleomenes was to lend his aid to make
@@ -14616,7 +15644,8 @@ was on this speech of Ariston's that Leotychides relied to prove
 that Demaratus was not his son, and therefore not rightful king of
 Sparta; and he produced as witnesses the Ephors who were sitting
 with Ariston at the time and heard what he said.
-    At last, as there came to be much strife concerning this matter,
+
+At last, as there came to be much strife concerning this matter,
 the Spartans made a decree that the Delphic oracle should be asked
 to say whether Demaratus were Ariston's son or no. Cleomenes set
 them upon this plan; and no sooner was the decree passed than he
@@ -14628,7 +15657,8 @@ the Pythoness returned for answer "that Demaratus was not Ariston's
 son." Some time afterwards all this became known; and Cobon was forced
 to fly from Delphi; while Perialla the prophetess was deprived of
 her office.
-    Such were the means whereby the deposition of Demaratus was
+
+Such were the means whereby the deposition of Demaratus was
 brought about; but his flying from Sparta to the Medes was by reason
 of an affront which was put upon him. On losing his kingdom he had
 been made a magistrate; and in that office soon afterwards, when the
@@ -14642,9 +15672,11 @@ Sparta of infinite blessings or else of infinite woes." Having thus
 spoken he wrapped his head in his robe, and, leaving the theatre, went
 home to his own house, where he prepared an ox for sacrifice, and
 offered it to Jupiter, after which he called for his mother.
-    When she appeared, he took of the entrails, and placing them in
+
+When she appeared, he took of the entrails, and placing them in
 her hand, besought her in these words following:-
-    "Dear mother, I beseech you, by all the gods, and chiefly by our
+
+"Dear mother, I beseech you, by all the gods, and chiefly by our
 own hearth-god Jupiter, tell me the very truth, who was really my
 father. For Leotychides, in the suit which we had together, declared
 that when thou becamest Ariston's wife thou didst already bear in
@@ -14654,7 +15686,8 @@ that I am his son. I entreat thee therefore by the gods to tell me the
 truth. For if thou hast gone astray, thou hast done no more than
 many a woman; and the Spartans remark it as strange, if I am Ariston's
 son, that he had no children by his other wives."
-    Thus spake Demaratus; and his mother replied as follows: "Dear
+
+Thus spake Demaratus; and his mother replied as follows: "Dear
 son, since thou entreatest so earnestly for the truth, it shall indeed
 be fully told to thee. When Ariston brought me to his house, on the
 third night after my coming, there appeared to me one like to Ariston,
@@ -14684,7 +15717,8 @@ Hearken not then to other tales concerning thy birth, my son: for be
 assured thou hast the whole truth. As for grooms, pray Heaven
 Leotychides and all who speak as he does may suffer wrong from
 them!" Such was the mother's answer.
-    Demaratus, having learnt all that he wished to know, took with him
+
+Demaratus, having learnt all that he wished to know, took with him
 provision for the journey, and went into Elis, pretending that he
 purposed to proceed to Delphi, and there consult the oracle. The
 Lacedaemonians, however, suspecting that he meant to fly his
@@ -14699,7 +15733,8 @@ which drove Demaratus to Asia, a man distinguished among the
 Lacedaemonians for many noble deeds and wise counsels, and who alone
 of all the Spartan kings brought honour to his country by winning at
 Olympia the prize in the four-horse chariot-race.
-    After Demaratus was deposed, Leotychides, the son of Menares,
+
+After Demaratus was deposed, Leotychides, the son of Menares,
 received the kingdom. He had a son, Zeuxidamus, called Cyniscus by
 many of the Spartans. This Zeuxidamus did not reign at Sparta, but
 died before his father, leaving a son, Archidamus. Leotychides, when
@@ -14707,7 +15742,8 @@ Zeuxidamus was taken from him, married a second wife, named
 Eurydame, the sister of Menius and daughter of Diactorides. By her
 he had no male offspring, but only a daughter called Lampito, whom
 he gave in marriage to Archidamus, Zeuxidamus' son.
-    Even Leotychides, however, did not spend his old age in Sparta,
+
+Even Leotychides, however, did not spend his old age in Sparta,
 but suffered a punishment whereby Demaratus was fully avenged. He
 commanded the Lacedaemonians when they made war against Thessaly,
 and might have conquered the whole of it, but was bribed by a large
@@ -14716,7 +15752,8 @@ sitting in his tent on a gauntlet, quite full of silver. Upon this
 he was brought to trial and banished from Sparta; his house was
 razed to the ground; and he himself fled to Tegea, where he ended
 his days. But these events took place long afterwards.
-    At the time of which we are speaking, Cleomenes, having carried
+
+At the time of which we are speaking, Cleomenes, having carried
 his proceedings in the matter of Demaratus to a prosperous issue,
 forthwith took Leotychides with him, and crossed over to attack the
 Eginetans; for his anger was hot against them on account of the
@@ -14728,7 +15765,8 @@ highest, among whom were Crius, son of Polycritus, and Casambus, son
 of Aristocrates, who wielded the chief power; and these men they
 carried with them to Attica, and there deposited them in the hands
 of the Athenians, the great enemies of the Eginetans.
-    Afterwards, when it came to be known what evil arts had been
+
+Afterwards, when it came to be known what evil arts had been
 used against Demaratus, Cleomenes was seized with fear of his own
 countrymen, and fled into Thessaly. From thence he passed into
 Arcadia, where he began to stir up troubles, and endeavoured to
@@ -14740,7 +15778,8 @@ waters of Styx, as the Arcadians say, are in that city, and this is
 the appearance they present: you see a little water, dripping from a
 rock into a basin, which is fenced round by a low wall. Nonacris,
 where this fountain is to be seen, is a city of Arcadia near Pheneus.
-     When the Lacedaemonians heard how Cleomenes was engaged, they
+
+ When the Lacedaemonians heard how Cleomenes was engaged, they
 were afraid, and agreed with him that he should come back to Sparta
 and be king as before. So Cleomenes came back; but had no sooner
 returned than he, who had never been altogether of sound mind, was
@@ -14764,7 +15803,8 @@ ascribe it to his having taken from their refuge and cut to pieces
 certain argives who had fled from battle into a precinct sacred to
 Argus, where Cleomenes slew them, burning likewise at the same time,
 through irreverence, the grove itself.
-    For once, when Cleomenes had sent to Delphi to consult the oracle,
+
+For once, when Cleomenes had sent to Delphi to consult the oracle,
 it was prophesied to him that he should take Argos; upon which he went
 out at the head of the Spartans, and led them to the river Erasinus.
 This stream is reported to flow from the Stymphalian lake, the
@@ -14778,7 +15818,8 @@ Argives should not escape him for all that. He then withdrew his
 troops, and led them down to Thyrea, where he sacrificed a bull to the
 sea, and conveyed his men on shipboard to Nauplia in the Tirynthian
 territory.
-    The Argives, when they heard of this, marched down to the sea to
+
+The Argives, when they heard of this, marched down to the sea to
 defend their country; and arriving in the neighbourhood of Tiryns,
 at the place which bears the name of Sepeia, they pitched their camp
 opposite to the Lacedaemonians, leaving no great space between the
@@ -14787,20 +15828,21 @@ worsted in open fight as lest some trick should be practised on
 them; for such was the danger which the oracle given to them in common
 with the Milesians seemed to intimate. The oracle ran as follows:-
 
-    Time shall be when the female shall conquer the male, and shall
-      chase him
-    Far away- gaining so great praise and honour in Argos;
-    Then full many an Argive woman her cheeks shall mangle
-    Hence, in the times to come 'twill be said by the men who are
-      unborn,
-    "Tamed by the spear expired the coiled terrible serpent."
+> Time shall be when the female shall conquer the male, and shall
+>   chase him  
+> Far away- gaining so great praise and honour in Argos;  
+> Then full many an Argive woman her cheeks shall mangle  
+> Hence, in the times to come 'twill be said by the men who are
+>  unborn,  
+> "Tamed by the spear expired the coiled terrible serpent."
 
 At the coincidence of all these things the Argives were greatly cast
 down; and so they resolved that they would follow the signals of the
 enemy's herald. Having made this resolve, they proceeded to act as
 follows: whenever the herald of the Lacedaemonians gave an order to
 the soldiers of his own army, the Argives did the like on their side.
-    Now when Cleomenes heard that the Argives were acting thus, he
+
+Now when Cleomenes heard that the Argives were acting thus, he
 commanded his troops that, so soon as the herald gave the word for the
 soldiers to go to dinner, they should instantly seize their arms and
 charge the host of the enemy. Which the Lacedaemonians did
@@ -14810,7 +15852,8 @@ numbers of the Argives were slain, while the rest, who were more
 than they which died in the fight, were driven to take refuge in the
 grove of Argus hard by, where they were surrounded, and watch kept
 upon them.
-    When things were at this pass Cleomenes acted as follows: Having
+
+When things were at this pass Cleomenes acted as follows: Having
 learnt the names of the Argives who were shut up in the sacred
 precinct from certain deserters who had come over to him, he sent a
 herald to summon them one by one, on pretence of having received their
@@ -14822,15 +15865,18 @@ was happening; for the grove was so thick that the people inside
 were unable to see what was taking place without. But at last one of
 their number climbed up into a tree and spied the treachery; after
 which none of those who were summoned would go forth.
-    Then Cleomenes ordered all the helots to bring brushwood, and heap
+
+Then Cleomenes ordered all the helots to bring brushwood, and heap
 it around the grove; which was done accordingly; and Cleomenes set the
 grove on fire. As the flames spread he asked a deserter "Who was the
 god of the grove?" whereto the other made answer, "Argus." So he, when
 he heard that, uttered a loud groan, and said:-
-    "Greatly hast thou deceived me, Apollo, god of prophecy, in saying
+
+"Greatly hast thou deceived me, Apollo, god of prophecy, in saying
 that I should take Argos. I fear me thy oracle has now got its
 accomplishment."
-    Cleomenes now sent home the greater part of his army, while with a
+
+Cleomenes now sent home the greater part of his army, while with a
 thousand of his best troops he proceeded to the temple of Juno, to
 offer sacrifice. When however he would have slain the victim on the
 altar himself, the priest forbade him, as it was not lawful (he
@@ -14838,7 +15884,8 @@ said) for a foreigner to sacrifice in that temple. At this Cleomenes
 ordered his helots to drag the priest from the altar and scourge
 him, while he performed the sacrifice himself, after which he went
 back to Sparta.
-    Thereupon his enemies brought him up before the Ephors, and made
+
+Thereupon his enemies brought him up before the Ephors, and made
 it a charge against him that he had allowed himself to be bribed,
 and on that account had not taken Argos when he might have captured it
 easily. To this he answered- whether truly or falsely I cannot say
@@ -14856,7 +15903,8 @@ would have gained the town, citadel and all; but as it shone from
 the breast, he had done so much as the god intended." And his words
 seemed to the Spartans so true and reasonable, that he came clear
 off from his adversaries.
-    Argos however was left so bare of men that the slaves managed
+
+Argos however was left so bare of men that the slaves managed
 the state, filled the offices, and administered everything until the
 sons of those who were slain by Cleomenes grew up. Then these latter
 cast out the slaves, and got the city back under their own rule; while
@@ -14867,7 +15915,8 @@ Arcadia, joined himself to the slaves, and stirred them up to make a
 fresh attack upon their lords. Then were they at war with one
 another by the space of many years; but at length the Argives with
 much trouble gained the upper hand.
-    The Argives say that Cleomenes lost his senses, and died so
+
+The Argives say that Cleomenes lost his senses, and died so
 miserably, on account of these doings. But his own countrymen
 declare that his madness proceeded not from any supernatural cause
 whatever, but only from the habit of drinking wine unmixed with water,
@@ -14885,7 +15934,8 @@ own account, have been accustomed, when they want to drink purer
 wine than common, to give the order to fill "Scythian fashion." The
 Spartans then speak thus concerning Cleomenes; but for my own part I
 think his death was a judgment on him for wronging Demaratus.
-    No sooner did the news of Cleomenes' death reach Egina than
+
+No sooner did the news of Cleomenes' death reach Egina than
 straightway the Eginetans sent ambassadors to Sparta to complain of
 the conduct of Leotychides in respect of their hostages, who were
 still kept at Athens. So they of Lacedaemon assembled a court of
@@ -14895,21 +15945,25 @@ ambassadors, to be led away in place of the men whom the Athenians had
 in their keeping. Then the ambassadors were about to lead him away;
 but Theasides, the son of Leoprepes, who was a man greatly esteemed in
 Sparta, interfered, and said to them:-
-    "What are ye minded to do, ye men of Egina? To lead away captive
+
+"What are ye minded to do, ye men of Egina? To lead away captive
 the king of the Spartans, whom his countrymen have given into your
 hands? Though now in their anger they have passed this sentence, yet
 belike the time will come when they will punish you, if you act
 thus, by bringing utter destruction upon your country."
-    The Eginetans, when they heard this, changed their plan, and,
+
+The Eginetans, when they heard this, changed their plan, and,
 instead of leading Leotychides away captive, agreed with him that he
 should come with them to Athens, and give them back their men.
-    When however he reached that city, and demanded the restoration of
+
+When however he reached that city, and demanded the restoration of
 his pledge, the Athenians, being unwilling to comply, proceeded to
 make excuses, saying "that two kings had come and left the men with
 them, and they did not think it right to give them back to the one
 without the other." So when the Athenians refused plainly to restore
 the men, Leotychides said to them:-
-    "Men of Athens, act which way you choose- give me up the hostages,
+
+"Men of Athens, act which way you choose- give me up the hostages,
 and be righteous, or keep them, and be the contrary. I wish,
 however, to tell you what happened once in Sparta about a pledge.
 The story goes among us that three generations back there lived in
@@ -14946,17 +16000,18 @@ there consulted the oracle. To his question if he should swear, and so
 make prize of the money, the Pythoness returned for answer these lines
 following:-
 
-    Best for the present it were, O Glaucus, to do as thou wishest,
-    Swearing an oath to prevail, and so to make prize of the money.
-    Swear then- death is the lot e'en of those who never swear
-falsely.
-    Yet hath the Oath-God a son who is nameless, footless, and
-      handless;
-    Mighty in strength he approaches to vengeance, and whelms in
-      destruction,
-    All who belong to the race, or the house of the man who is
-      perjured.
-    But oath- keeping men leave behind them a flourishing offspring.
+> Best for the present it were, O Glaucus, to do as thou wishest,
+> Swearing an oath to prevail, and so to make prize of the money.
+> Swear then- death is the lot e'en of those who never swear
+> falsely.
+>
+> Yet hath the Oath-God a son who is nameless, footless, and
+>   handless;  
+> Mighty in strength he approaches to vengeance, and whelms in
+>   destruction,  
+> All who belong to the race, or the house of the man who is
+>   perjured.  
+> But oath- keeping men leave behind them a flourishing offspring.
 
 Glaucus when he heard these words earnestly besought the god to pardon
 his question; but the Pythoness replied that it was as bad to have
@@ -14968,9 +16023,11 @@ present time has not a single descendant; nor is there any family
 known as his- root and branch has he been removed from Sparta. It is a
 good thing, therefore, when a pledge has been left with one, not
 even in thought to doubt about restoring it."
-    Thus spake Leotychides; but, as he found that the Athenians
+
+Thus spake Leotychides; but, as he found that the Athenians
 would not hearken to him, he left them and went his way.
-    The Eginetans had never been punished for the wrongs which, to
+
+The Eginetans had never been punished for the wrongs which, to
 pleasure the Thebans, they had committed upon Athens. Now, however,
 conceiving that they were themselves wronged, and had a fair ground of
 complaint against the Athenians, they instantly prepared to revenge
@@ -14979,7 +16036,8 @@ vessel of five banks of oars, lay at Sunium, the Eginetans contrived
 an ambush, and made themselves masters of the holy vessel, on board of
 which were a number of Athenians of the highest rank, whom they took
 and threw into prison.
-    At this outrage the Athenians no longer delayed, but set to work
+
+At this outrage the Athenians no longer delayed, but set to work
 to scheme their worst against the Eginetans; and, as there was in
 Egina at that time a man of mark, Nicodromus by name, the son of
 Cnoethus, who was on ill terms with his countrymen because on a former
@@ -14990,7 +16048,8 @@ he should be ready to betray the island into their hands, and they
 would come with a body of troops to his assistance. And Nicodromus,
 some time after, holding to the agreement, made himself master of what
 is called the old town.
-    The Athenians, however, did not come to the day; for their own
+
+The Athenians, however, did not come to the day; for their own
 fleet was not of force sufficient to engage the Eginetans, and while
 they were begging the Corinthians to lend them some ships, the failure
 of the enterprise took place. In those days the Corinthians were on
@@ -15001,13 +16060,15 @@ them to the Athenians for five drachms apiece. As soon then as the
 Athenians had obtained this aid, and, by manning also their own ships,
 had equipped a fleet of seventy sail, they crossed over to Egina,
 but arrived a day later than the time agreed upon.
-    Meanwhile Nicodromus, when he found the Athenians did not come
+
+Meanwhile Nicodromus, when he found the Athenians did not come
 to the time appointed, took ship and made his escape from the
 island. The Eginetans who accompanied him were settled by the
 Athenians at Sunium, whence they were wont to issue forth and
 plunder the Eginetans of the island. But this took place at a later
 date.
-    When the wealthier Eginetans had thus obtained the victory over
+
+When the wealthier Eginetans had thus obtained the victory over
 the common people who had revolted with Nicodromus, they laid hands on
 a certain number of them, and led them out to death. But here they
 were guilty of a sacrilege, which, notwithstanding all their
@@ -15020,7 +16081,8 @@ Lawgiver, laid hold of the doorhandles, and clung to them. The
 others sought to drag him from his refuge; but, finding themselves
 unable to tear him away, they cut off his hands, and so took him,
 leaving the hands still tightly grasping the handles.
-    Such were the doings of the Eginetans among themselves. When the
+
+Such were the doings of the Eginetans among themselves. When the
 Athenians arrived, they went out to meet them with seventy ships;
 and a battle took place, wherein the Eginetans suffered a defeat.
 Hereupon they had recourse again to their old allies, the Argives; but
@@ -15042,10 +16104,12 @@ were slain by the Athenians in Egina. Eurybates, their captain, fought
 a number of single combats, and, after killing three men in this
 way, was himself slain by the fourth, who was a Decelean, named
 Sophanes.
-    Afterwards the Eginetans fell upon the Athenian fleet when it
+
+Afterwards the Eginetans fell upon the Athenian fleet when it
 was in some disorder and beat it, capturing four ships with their
 crews.
-    Thus did war rage between the Eginetans and Athenians. Meantime
+
+Thus did war rage between the Eginetans and Athenians. Meantime
 the Persian pursued his own design, from day to day exhorted by his
 servant to "remember the Athenians," and likewise urged continually by
 the Pisistratidae, who were ever accusing their countrymen. Moreover
@@ -15058,7 +16122,8 @@ and Athens; to wit, Datis, who was by descent a Mede, and Artaphernes,
 the son of Artaphernes, his own nephew. These men received orders to
 carry Athens and Eretria away captive, and to bring the prisoners into
 his presence.
-    So the new commanders took their departure from the court and went
+
+So the new commanders took their departure from the court and went
 down to Cilicia, to the Aleian plain, having with them a numerous
 and wellappointed land army. Encamping here, they were joined by the
 sea force which had been required of the several states, and at the
@@ -15073,7 +16138,8 @@ islands; mainly, as I believe, because they feared the danger of
 doubling Mount Athos, where the year before they had suffered so
 grievously on their passage; but a constraining cause also was their
 former failure to take Naxos.
-    When the Persians, therefore, approaching from the Icarian Sea,
+
+When the Persians, therefore, approaching from the Icarian Sea,
 cast anchor at Naxos, which, recollecting what there befell them
 formerly, they had determined to attack before any other state, the
 Naxians, instead of encountering them, took to flight, and hurried off
@@ -15081,22 +16147,26 @@ to the hills. The Persians however succeeded in laying hands on
 some, and them they carried away captive, while at the same time
 they burnt all the temples together with the town. This done, they
 left Naxos, and sailed away to the other islands.
-    While the Persians were thus employed, the Delians likewise
+
+While the Persians were thus employed, the Delians likewise
 quitted Delos, and took refuge in Tenos. And now the expedition drew
 near, when Datis sailed forward in advance of the other ships;
 commanding them, instead of anchoring at Delos, to rendezvous at
 Rhenea, over against Delos, while he himself proceeded to discover
 whither the Delians had fled; after which he sent a herald to them
 with this message:
-    "Why are ye fled, O holy men? Why have ye judged me so harshly and
+
+"Why are ye fled, O holy men? Why have ye judged me so harshly and
 so wrongfully? I have surely sense enough, even had not the king so
 ordered, to spare the country which gave birth to the two gods- to
 spare, I say, both the country and its inhabitants. Come back
 therefore to your dwellings; and once more inhabit your island."
-    Such was the message which Datis sent by his herald to the
+
+Such was the message which Datis sent by his herald to the
 Delians. He likewise placed upon the altar three hundred talents'
 weight of frankincense, and offered it.
-    After this he sailed with his whole host against Eretria, taking
+
+After this he sailed with his whole host against Eretria, taking
 with him both Ionians and Aeolians. When he was departed, Delos (as
 the Delians told me) was shaken by an earthquake, the first and last
 shock that has been felt to this day. And truly this was a prodigy
@@ -15110,13 +16180,14 @@ Wherefore it is not surprising that Delos, though it had never
 before been shaken, should at that time have felt the shock of an
 earthquake. And indeed there was an oracle, which said of Delos-
 
-    Delo's self will I shake, which never yet has been
-      shaken
+> Delo's self will I shake, which never yet has been
+>   shaken
 
 Of the above names Darius may be rendered "Worker," Xerxes
 "Warrior," and Artaxerxes "Great Warrior." And so might we call
 these kings in our own language with propriety.
-    The barbarians, after loosing from Delos, proceeded to touch at
+
+The barbarians, after loosing from Delos, proceeded to touch at
 the other islands, and took troops from each, and likewise carried off
 a number of the children as hostages. Going thus from one to
 another, they came at last to Carystus; but here the hostages were
@@ -15125,7 +16196,8 @@ consent to bear arms against the cities of their neighbours, meaning
 Athens and Eretria. Hereupon the Persians laid siege to Carystus,
 and wasted the country round, until at length the inhabitants were
 brought over and agreed to do what was required of them.
-    Meanwhile the Eretrians, understanding that the Persian armament
+
+Meanwhile the Eretrians, understanding that the Persian armament
 was coming against them, besought the Athenians for assistance. Nor
 did the Athenians refuse their aid, but assigned to them as
 auxiliaries the four thousand landholders to whom they had allotted
@@ -15141,7 +16213,8 @@ affairs to the Athenians who were already arrived, and besought them
 to return home to their own land, and not perish with his
 countrymen. And the Athenians hearkened to his counsel, and,
 crossing over to Oropus, in this way escaped the danger.
-    The Persian fleet now drew near and anchored at Tamynae, Choereae,
+
+The Persian fleet now drew near and anchored at Tamynae, Choereae,
 and Aegilia, three places in the territory of Eretria. Once masters of
 these posts, they proceeded forthwith to disembark their horses, and
 made ready to attack the enemy. But the Eretrians were not minded to
@@ -15156,17 +16229,20 @@ plundered and burnt all the temples that there were in the town, in
 revenge for the burning of their own temples at Sardis; moreover, they
 did according to the orders of Darius, and carried away captive all
 the inhabitants.
-    The Persians, having thus brought Eretria into subjection after
+
+The Persians, having thus brought Eretria into subjection after
 waiting a few days, made sail for Attica, greatly straitening the
 Athenians as they approached, and thinking to deal with them as they
 had dealt with the people of Eretria. And, because there was no
 Place in all Attica so convenient for their horse as Marathon, and
 it lay moreover quite close to Eretria, therefore Hippias, the son
 of Pisistratus, conducted them thither.
-    When intelligence of this reached the Athenians, they likewise
+
+When intelligence of this reached the Athenians, they likewise
 marched their troops to Marathon, and there stood on the defensive,
 having at their head ten generals, of whom one was Miltiades.
-    Now this man's father, Cimon, the son of Stesagoras, was
+
+Now this man's father, Cimon, the son of Stesagoras, was
 banished from Athens by Pisistratus, the son of Hippocrates. In his
 banishment it was his fortune to win the four-horse chariot-race at
 Olympia, whereby he gained the very same honour which had before
@@ -15187,7 +16263,8 @@ by them. At the time of Cimon's death Stesagoras, the elder of his two
 sons, was in the Chersonese, where he lived with Miltiades his
 uncle; the younger, who was called Miltiades after the founder of
 the Chersonesite colony, was with his father in Athens.
-    It was this Miltiades who now commanded the Athenians, after
+
+It was this Miltiades who now commanded the Athenians, after
 escaping from the Chersonese, and twice nearly losing his life.
 First he was chased as far as Imbrus by the Phoenicians, who had a
 great desire to take him and carry him up to the king; and when he had
@@ -15197,7 +16274,8 @@ him, and was cited by them before a court and impeached for his
 tyranny in the Chersonese. But he came off victorious here likewise,
 and was thereupon made general of the Athenians by the free choice
 of the people.
-    And first, before they left the city, the generals sent off to
+
+And first, before they left the city, the generals sent off to
 Sparta a herald, one Pheidippides, who was by birth an Athenian, and
 by profession and practice a trained runner. This man, according to
 the account which he gave to the Athenians on his return, when he
@@ -15210,23 +16288,27 @@ of this report, as soon as their affairs were once more in good order,
 set up a temple to Pan under the Acropolis, and, in return for the
 message which I have recorded, established in his honour yearly
 sacrifices and a torch-race.
-    On the occasion of which we speak when Pheidippides was sent by
+
+On the occasion of which we speak when Pheidippides was sent by
 the Athenian generals, and, according to his own account, saw Pan on
 his journey, he reached Sparta on the very next day after quitting the
 city of Athens- Upon his arrival he went before the rulers, and said
 to them:-
-    "Men of Lacedaemon, the Athenians beseech you to hasten to their
+
+"Men of Lacedaemon, the Athenians beseech you to hasten to their
 aid, and not allow that state, which is the most ancient in all
 Greece, to be enslaved by the barbarians. Eretria, look you, is
 already carried away captive; and Greece weakened by the loss of no
 mean city."
-    Thus did Pheidippides deliver the message committed to him. And
+
+Thus did Pheidippides deliver the message committed to him. And
 the Spartans wished to help the Athenians, but were unable to give
 them any present succour, as they did not like to break their
 established law. It was then the ninth day of the first decade; and
 they could not march out of Sparta on the ninth, when the moon had not
 reached the full. So they waited for the full of the moon.
-    The barbarians were conducted to Marathon by Hippias. the son of
+
+The barbarians were conducted to Marathon by Hippias. the son of
 Pisistratus, who the night before had seen a strange vision in his
 sleep. He dreamt of lying in his mother's arms, and conjectured the
 dream to mean that he would be restored to Athens, recover the power
@@ -15244,11 +16326,14 @@ them was driven out with the force of the cough, and fell down into
 the sand. Hippias took all the pains he could to find it; but the
 tooth was nowhere to be seen: whereupon he fetched a deep sigh, and
 said to the bystanders:-
-    "After all, the land is not ours; and we shall never be able to
+
+"After all, the land is not ours; and we shall never be able to
 bring it under. All my share in it is the portion of which my tooth
 has possession."
-    So Hippias believed that in this way his dream was fulfilled.
-    The Athenians were drawn up in order of battle in a sacred close
+
+So Hippias believed that in this way his dream was fulfilled.
+
+The Athenians were drawn up in order of battle in a sacred close
 belonging to Hercules, when they were joined by the Plataeans, who
 came in full force to their aid. Some time before, the Plataeans had
 put themselves under the rule of the Athenians; and these last had
@@ -15258,12 +16343,14 @@ the hands of the men of Thebes; so, as it chanced that Cleomenes,
 the son of Anaxandridas, and the Lacedaemonians were in their
 neighbourhood, they first of all offered to surrender themselves to
 them. But the Lacedaemonians refused to receive them, and said:-
-    "We dwell too far off from you, and ours would be but chill
+
+"We dwell too far off from you, and ours would be but chill
 succour. Ye might oftentimes be carried into slavery before one of
 us heard of it. We counsel you rather to give yourselves up to the
 Athenians, who are your next neighbours, and well able to shelter
 you."
-    This they said, not so much out of good will towards the Plataeans
+
+This they said, not so much out of good will towards the Plataeans
 as because they wished to involve the Athenians in trouble by engaging
 them in wars with the Boeotians. The Plataeans, however, when the
 Lacedaemonians gave them this counsel, complied at once; and when
@@ -15288,7 +16375,8 @@ between the country of the Thebans and that of the Plataeans and
 Hysians. Under such circumstances did the Plataeans give themselves up
 to Athens; and now they were come to Marathon to bear the Athenians
 aid.
-    The Athenian generals were divided in their opinions; and some
+
+The Athenian generals were divided in their opinions; and some
 advised not to risk a battle, because they were too few to engage such
 a host as that of the Medes, while others were for fighting at once;
 and among these last was Miltiades. He therefore, seeing that opinions
@@ -15299,7 +16387,8 @@ entitled to give his vote with the ten generals, since anciently the
 Athenians allowed him an equal right of voting with them. The
 Polemarch at this juncture was Callimachus of Aphidnae; to him
 therefore Miltiades went, and said:-
-    "With thee it rests, Callimachus, either to bring Athens to
+
+"With thee it rests, Callimachus, either to bring Athens to
 slavery, or, by securing her freedom, to leave behind thee to all
 future generations a memory beyond even Harmodius and Aristogeiton.
 For never since the time that the Athenians became a people were
@@ -15321,14 +16410,16 @@ power. Thou hast only to add thy vote to my side and thy country
 will be free, and not free only, but the first state in Greece. Or, if
 thou preferrest to give thy vote to them who would decline the combat,
 then the reverse will follow."
-    Miltiades by these words gained Callimachus; and the addition of
+
+Miltiades by these words gained Callimachus; and the addition of
 the Polemarch's vote caused the decision to be in favour of
 fighting. Hereupon all those generals who had been desirous of
 hazarding a battle, when their turn came to command the army, gave
 up their right to Miltiades. He however, though he accepted their
 offers, nevertheless waited, and would not fight until his own day
 of command arrived in due course.
-    Then at length, when his own turn was come, the Athenian battle
+
+Then at length, when his own turn was come, the Athenian battle
 was set in array, and this was the order of it. Callimachus the
 Polemarch led the right wing; for it was at that time a rule with
 the Athenians to give the right wing to the Polemarch. After this
@@ -15342,7 +16433,8 @@ the field of Marathon, in order that the Athenian front might he of
 equal length with the Median, the ranks of the centre were diminished,
 and it became the weakest part of the line, while the wings were
 both made strong with a depth of many ranks.
-    So when the battle was set in array, and the victims showed
+
+So when the battle was set in array, and the victims showed
 themselves favourable, instantly the Athenians, so soon as they were
 let go, charged the barbarians at a run. Now the distance between
 the two armies was little short of eight furlongs. The Persians,
@@ -15357,7 +16449,8 @@ know, who introduced the custom of charging the enemy at a run, and
 they were likewise the first who dared to look upon the Median garb,
 and to face men clad in that fashion. Until this time the very name of
 the Medes had been a terror to the Greeks to hear.
-    The two armies fought together on the plain of Marathon for a
+
+The two armies fought together on the plain of Marathon for a
 length of time; and in the mid battle, where the Persians themselves
 and the Sacae had their place, the barbarians were victorious, and
 broke and pursued the Greeks into the inner country; but on the two
@@ -15368,14 +16461,16 @@ centre, and fought and conquered them. These likewise fled, and now
 the Athenians hung upon the runaways and cut them down, chasing them
 all the way to the shore, on reaching which they laid hold of the
 ships and called aloud for fire.
-    It was in the struggle here that Callimachus the Polemarch,
+
+It was in the struggle here that Callimachus the Polemarch,
 after greatly distinguishing himself, lost his life; Stesilaus too,
 the son of Thrasilaus, one of the generals, was slain; and Cynaegirus,
 the son of Euphorion, having seized on a vessel of the enemy's by
 the ornament at the stern, had his hand cut off by the blow of an axe,
 and so perished; as likewise did many other Athenians of note and
 name.
-    Nevertheless the Athenians secured in this way seven of the
+
+Nevertheless the Athenians secured in this way seven of the
 vessels; while with the remainder the barbarians pushed off, and
 taking aboard their Eretrian prisoners from the island where they
 had left them, doubled Cape Sunium, hoping to reach Athens before
@@ -15383,7 +16478,8 @@ the return of the Athenians. The Alcmaeonidae were accused by their
 countrymen of suggesting this course to them; they had, it was said,
 an understanding with the Persians, and made a signal to them, by
 raising a shield, after they were embarked in their ships.
-    The Persians accordingly sailed round Sunium. But the Athenians
+
+The Persians accordingly sailed round Sunium. But the Athenians
 with all possible speed marched away to the defence of their city, and
 succeeded in reaching Athens before the appearance of the
 barbarians: and as their camp at Marathon had been pitched in a
@@ -15391,7 +16487,8 @@ precinct of Hercules, so now they encamped in another precinct of
 the same god at Cynosarges. The barbarian fleet arrived, and lay to
 off Phalerum, which was at that time the haven of Athens; but after
 resting awhile upon their oars, they departed and sailed away to Asia.
-    There fell in this battle of Marathon, on the side of the
+
+There fell in this battle of Marathon, on the side of the
 barbarians, about six thousand and four hundred men; on that of the
 Athenians, one hundred and ninety-two. Such was the number of the
 slain on the one side and the other. A strange prodigy likewise
@@ -15405,7 +16502,8 @@ that a gigantic warrior, with a huge beard, which shaded all his
 shield, stood over against him; but the ghostly semblance passed him
 by, and slew the man at his side. Such, as I understand, was the
 tale which Epizelus told.
-    Datis meanwhile was on his way back to Asia, and had reached
+
+Datis meanwhile was on his way back to Asia, and had reached
 Myconus, when he saw in his sleep a vision. What it was is not
 known; but no sooner was day come than he caused strict search to be
 made throughout the whole fleet, and finding on board a Phoenician
@@ -15418,7 +16516,8 @@ coast over against Chalcis. Having left these injunctions, he sailed
 away; but the Delians failed to restore the statue; and it was not
 till twenty years afterwards that the Thebans, warned by an oracle,
 themselves brought it back to Delium.
-    As for the Eretrians, whom Datis and Artaphernes had carried
+
+As for the Eretrians, whom Datis and Artaphernes had carried
 away captive, when the fleet reached Asia, they were taken up to Susa.
 Now King Darius, before they were made his prisoners, nourished a
 fierce anger against these men for having injured him without
@@ -15437,13 +16536,15 @@ It is called by the Persians "rhadinace," is black, and has an
 unpleasant smell. Here then King Darius established the Eretrians; and
 here they continued to my time, and still spoke their old language. So
 thus it fared with the Eretrians.
-    After the full of the moon two thousand Lacedaemonians came to
+
+After the full of the moon two thousand Lacedaemonians came to
 Athens. So eager had they been to arrive in time, that they took but
 three days to reach Attica from Sparta. They came, however, too late
 for the battle; yet, as they had a longing to behold the Medes, they
 continued their march to Marathon and there viewed the slain. Then,
 after giving the Athenians all praise for their achievement, they
-departed and returned home.    But it fills me with wonderment, and
+departed and returned home.
+But it fills me with wonderment, and
 I can in no wise believe the report, that the Alcmaeonidae had an
 understanding with the Persians, and held them up a shield as a
 signal, wishing Athens to be brought under the yoke of the
@@ -15454,7 +16555,8 @@ at Athens who, when the Pisistratidae were driven out, and their goods
 were exposed for sale by the vote of the people, had the courage to
 make purchases, and likewise in many other ways to display the
 strongest hostility.
-    He was a man very worthy to be had in remembrance by all, on
+
+He was a man very worthy to be had in remembrance by all, on
 several accounts. For not only did he thus distinguish himself
 beyond others in the cause of his country's freedom; but likewise,
 by the honours which he gained at the Olympic Games, where he
@@ -15467,7 +16569,8 @@ came to be of marriageable age, he gave to each of them a most ample
 dowry, and placed it at their own disposal, allowing them to choose
 their husbands from among all the citizens of Athens, and giving
 each in marriage to the man of her own choice.
-    Now the Alcmaeonidae fell not a whit short of this person in their
+
+Now the Alcmaeonidae fell not a whit short of this person in their
 hatred of tyrants, so that I am astonished at the charge made
 against them, and cannot bring myself to believe that they held up a
 shield; for they were men who had remained in exile during the whole
@@ -15480,14 +16583,16 @@ from doing anything towards putting down the tyranny: whereas the
 Alcmaeonidae were manifestly the actual deliverers of Athens, if at
 least it be true that the Pythoness was prevailed upon by them to
 bid the Lacedaemonians set Athens free, as I have already related.
-    But perhaps they were offended with the people of Athens; and
+
+But perhaps they were offended with the people of Athens; and
 therefore betrayed their country. Nay, but on the contrary there
 were none of the Athenians who were held in such general esteem, or
 who were so laden with honours. So that it is not even reasonable to
 suppose that a shield was held up by them on this account. A shield
 was shown, no doubt; that cannot be gainsaid; but who it was that
 showed it I cannot any further determine.
-    Now the Alcmaeonidae were, even in days of yore, a family of
+
+Now the Alcmaeonidae were, even in days of yore, a family of
 note at Athens; but from the time of Alcmaeon, and again of
 Megacles, they rose to special eminence. The former of these two
 personages, to wit, Alcmaeon, the son of Megacles, when Croesus the
@@ -15513,7 +16618,8 @@ and not only let him have all that he had taken, but gave him presents
 besides of fully equal worth. Thus this house became one of great
 wealth; and Alcmaeon was able to keep horses for the chariot-race, and
 won the prize at Olympia.
-    Afterwards, in the generation which followed, Clisthenes, king
+
+Afterwards, in the generation which followed, Clisthenes, king
 of Sicyon, raised the family to still greater eminence among the
 Greeks than even that to which it had attained before. For this
 Clisthenes, who was the son of Aristonymus, the grandson of Myron, and
@@ -15529,7 +16635,8 @@ man to whom he shall contract his daughter." So all the Greeks who
 were proud of their own merit or of their country flocked to Sicyon as
 suitors; and Clisthenes had a foot-course and a wrestling-ground
 made ready, to try their powers.
-    From Italy there came Smindyrides, the son of Hippocrates, a
+
+From Italy there came Smindyrides, the son of Hippocrates, a
 native of Sybaris- which city about that time was at the very height
 of its prosperity. He was a man who in luxuriousness of living
 exceeded all other persons. Likewise there came Damasus, the son of
@@ -15556,7 +16663,8 @@ Euboean, Lysanias, who came from Eretria, then a flourishing city.
 >From Thessaly came Diactorides, a Cranonian, of the race of the
 Scopadae; and Alcon arrived from the Molossians. This was the list
 of the suitors.
-    Now when they were all come, and the day appointed had arrived,
+
+Now when they were all come, and the day appointed had arrived,
 Clisthenes first of all inquired of each concerning his country and
 his family; after which he kept them with him a year, and made trial
 of their manly bearing, their temper, their accomplishments, and their
@@ -15570,7 +16678,8 @@ from Athens pleased him the best of all; and of these Hippoclides,
 Tisander's son, was specially in favour, partly on account of his
 manly bearing, and partly also because his ancestors were of kin to
 the Corinthian Cypselids.
-    When at length the day arrived which had been fixed for the
+
+When at length the day arrived which had been fixed for the
 espousals, and Clisthenes had to speak out and declare his choice,
 he first of all made a sacrifice of a hundred oxen, and held a
 banquet, whereat he entertained all the suitors and the whole people
@@ -15592,9 +16701,11 @@ during the second dance; when, however, he saw him tossing his legs in
 the air, he could no longer contain himself, but cried out, "Son of
 Tisander, thou hast danced thy wife away!" "What does Hippoclides
 care?" was the other's answer. And hence the proverb arose.
-    Then Clisthenes commanded silence, and spake thus before the
+
+Then Clisthenes commanded silence, and spake thus before the
 assembled company:-
-    "Suitors of my daughter, well pleased am I with you all; and right
+
+"Suitors of my daughter, well pleased am I with you all; and right
 willingly, if it were possible, would I content you all, and not by
 making choice of one appear to put a slight upon the rest. But as it
 is out of my power, seeing that I have but one daughter, to grant to
@@ -15604,9 +16715,11 @@ seeking to ally yourselves with my house, and for your long absence
 from your homes. But my daughter, Agarista, I betroth to Megacles, the
 son of Alcmaeon, to be his wife, according to the usage and wont of
 Athens."
-    Then Megacles expressed his readiness; and Clisthenes had the
+
+Then Megacles expressed his readiness; and Clisthenes had the
 marriage solemnised.
-    Thus ended the affair of the suitors; and thus the Alcmaeonidae
+
+Thus ended the affair of the suitors; and thus the Alcmaeonidae
 came to be famous throughout the whole of Greece. The issue of this
 marriage was the Clisthenes named after his grandfather the Sicyonian-
 who made the tribes at Athens, and set up the popular government.
@@ -15616,7 +16729,8 @@ Agarista the daughter of Clisthenes. She married Xanthippus, the son
 of Ariphron; and when she was with child by him had a dream, wherein
 she fancied that she was delivered of a lion; after which, within a
 few days, she bore Xanthippus a son, to wit, Pericles.
-    After the blow struck at Marathon, Miltiades, who was previously
+
+After the blow struck at Marathon, Miltiades, who was previously
 held in high esteem by his countrymen, increased yet more in
 influence. Hence, when he told them that he wanted a fleet of
 seventy ships, with an armed force, and money, without informing
@@ -15625,7 +16739,8 @@ them if they would accompany him, seeing that it was a right wealthy
 land, where they might easily get as much gold as they cared to
 have- when he told them this, they were quite carried away, and gave
 him the whole armament which he required.
-    So Miltiades, having got the armament, sailed against Paros,
+
+So Miltiades, having got the armament, sailed against Paros,
 with the object, as he alleged, of punishing the Parians for having
 gone to war with Athens, inasmuch as a trireme of theirs had come with
 the Persian fleet to Marathon. This, however, was a mere pretence; the
@@ -15642,7 +16757,8 @@ means that they could devise for the defence of their city, and even
 invented new plans for the purpose, one of which was, by working at
 night, to raise such parts of the wall as were likely to be carried by
 assault to double their former height.
-    Thus far all the Greeks agree in their accounts of this
+
+Thus far all the Greeks agree in their accounts of this
 business; what follows is related upon the testimony of the Parians
 only. Miltiades had come to his wit's end, when one of the
 prisoners, a woman named Timo, who was by birth a Parian, and had held
@@ -15661,7 +16777,8 @@ just reached the door, when suddenly a feeling of horror came upon
 him, and he returned back the way he had come; but in jumping down
 from the outer wall, he strained his thigh, or, as some say, struck
 the ground with his knee.
-    So Miltiades returned home sick, without bringing the Athenians
+
+So Miltiades returned home sick, without bringing the Athenians
 any money, and without conquering Paros, having done no more than to
 besiege the town for six-and-twenty days, and ravage the remainder
 of the island. The Parians, however, when it came to their knowledge
@@ -15676,7 +16793,8 @@ the Pythoness forbade them, and said, "Timo was not in fault; 'twas
 decreed that Miltiades should come to an unhappy end; and she was sent
 to lure him to his destruction." Such was the answer given to the
 Parians by the Pythoness.
-    The Athenians, upon the return of Miltiades from Paros, had much
+
+The Athenians, upon the return of Miltiades from Paros, had much
 debate concerning him; and Xanthippus, the son of Ariphron, who
 spoke more freely against him than all the rest, impleaded him
 before the people, and brought him to trial for his life, on the
@@ -15692,7 +16810,8 @@ was in his favour so far as to spare his life; but for the wrong he
 had done them they fined him fifty talents. Soon afterwards his
 thigh completely gangrened and mortified: and so Miltiades died; and
 the fifty talents were paid by his son Cimon.
-    Now the way in which Miltiades had made himself master of Lemnos
+
+Now the way in which Miltiades had made himself master of Lemnos
 was the following. There were certain Pelasgians whom the Athenians
 once drove out of Attica; whether they did it- justly or unjustly I
 cannot say, since I only know what is reported concerning it, which is
@@ -15720,7 +16839,8 @@ in the very act of rebelling, the; spared their lives, and only
 required that they should leave the country. Hereupon the Pelasgians
 quitted Attica, and settled in Lemnos and other places." Such are
 the accounts respectively of Hecataeus and the Athenians.
-    These same Pelasgians, after they were settled in Lemnos,
+
+These same Pelasgians, after they were settled in Lemnos,
 conceived the wish to be revenged on the Athenians. So, as they were
 well acquainted with the Athenian festivals, they manned some
 penteconters, and having laid an ambush to catch the Athenian women as
@@ -15744,7 +16864,8 @@ mothers. From this deed, and that former crime of the Lemnian women,
 when they slew their husbands in the days of Thoas, it has come to
 be usual throughout Greece to call wicked actions by the name of
 "Lemnian deeds."
-    When the Pelasgians had thus slain their children and their women,
+
+When the Pelasgians had thus slain their children and their women,
 the earth refused to bring forth its fruits for them, and their
 wives bore fewer children, and their flocks and herds increased more
 slowly than before, till at last, sore pressed by famine and
@@ -15762,7 +16883,8 @@ ship comes with a north wind from your country to ours in a single
 day, then will we give it up to you." This they said because they knew
 that what they required was impossible, for Attica lies a long way
 to the south of Lemnos.
-    No more passed at that time. But very many years afterwards,
+
+No more passed at that time. But very many years afterwards,
 when the Hellespontian Chersonese had been brought under the power
 of Athens, Miltiades, the son of Cimon, sailed, during the
 prevalence of the Etesian winds, from Elaeus in the Chersonese to
@@ -15772,10 +16894,11 @@ fulfil. The people of Hephaestia obeyed the call; but they of
 Myrina, not acknowledging the Chersonese to be any part of Attica,
 refused and were besieged and brought over by force. Thus was Lemnos
 gained by the Athenians and Miltiades.
-                      The Seventh Book, Entitled
-                               POLYMNIA
 
-    Now when tidings of the battle that had been fought at Marathon
+VII POLYMNIA
+------------
+
+Now when tidings of the battle that had been fought at Marathon
 reached the ears of King Darius, the son of Hystaspes, his anger
 against the Athenians, which had been already roused by their attack
 upon Sardis, waxed still fiercer, and he became more than ever eager
@@ -15787,11 +16910,13 @@ published his commands; and now all Asia was in commotion by the space
 of three years, while everywhere, as Greece was to be attacked, the
 best and bravest were enrolled for the service, and had to make
 their preparations accordingly.
-    After this, in the fourth year, the Egyptians whom Cambyses had
+
+After this, in the fourth year, the Egyptians whom Cambyses had
 enslaved revolted from the Persians; whereupon Darius was more hot for
 war than ever, and earnestly desired to march an army against both
 adversaries.
-    Now, as he was about to lead forth his levies against Egypt and
+
+Now, as he was about to lead forth his levies against Egypt and
 Athens, a fierce contention for the sovereign power arose among his
 sons; since the law of the Persians was that a king must not go out
 with his army, until he has appointed one to succeed him upon the
@@ -15806,7 +16931,8 @@ custom all over the world for the eldest to have the pre-eminence;
 while Xerxes, on the other hand, urged that he was sprung from Atossa,
 the daughter of Cyrus, and that it was Cyrus who had won the
 Persians their freedom.
-    Before Darius had pronounced on the matter, it happened that
+
+Before Darius had pronounced on the matter, it happened that
 Demaratus, the son of Ariston, who had been deprived of his crown at
 Sparta, and had afterwards, of his own accord, gone into banishment,
 came up to Susa, and there heard of the quarrel of the princes.
@@ -15823,30 +16949,35 @@ Xerxes followed this counsel, and Darius, persuaded that he had
 justice on his side, appointed him his successor. For my own part I
 believe that, even without this, the crown would have gone to
 Xerxes; for Atossa was all-powerful.
-    Darius, when he had thus appointed Xerxes his heir, was minded
+
+Darius, when he had thus appointed Xerxes his heir, was minded
 to lead forth his armies; but he was prevented by death while his
 preparations were still proceeding. He died in the year following
 the revolt of Egypt and the matters here related, after having reigned
 in all six-and-thirty years, leaving the revolted Egyptians and the
 Athenians alike unpunished. At his death the kingdom passed to his son
 Xerxes.
-    Now Xerxes, on first mounting the throne, was coldly disposed
+
+Now Xerxes, on first mounting the throne, was coldly disposed
 towards the Grecian war, and made it his business to collect an army
 against Egypt. But Mardonius, the son of Gobryas, who was at the
 court, and had more influence with him than any of the other Persians,
 being his own cousin, the child of a sister of Darius, plied him
 with discourses like the following:-
-    "Master, it is not fitting that they of Athens escape scot-free,
+
+"Master, it is not fitting that they of Athens escape scot-free,
 after doing the Persians such great injury. Complete the work which
 thou hast now in hand, and then, when the pride of Egypt is brought
 low, lead an army against Athens. So shalt thou thyself have good
 report among men, and others shall fear hereafter to attack thy
 country."
-    Thus far it was of vengeance that he spoke; but sometimes he would
+
+Thus far it was of vengeance that he spoke; but sometimes he would
 vary the theme, and observe by the way, "that Europe was a wondrous
 beautiful region, rich in all kinds of cultivated trees, and the
 soil excellent: no one, save the king, was worthy to own such a land."
-    All this he said, because he longed for adventures, and hoped to
+
+All this he said, because he longed for adventures, and hoped to
 become satrap of Greece under the king; and after a while he had his
 way, and persuaded Xerxes to do according to his desires. Other
 things, however, occurring about the same time, helped his
@@ -15875,17 +17006,20 @@ Asia into Greece." While Onomacritus thus plied Xerxes with his
 oracles, the Pisistratidae and Aleuadae did not cease to press on
 him their advice, till at last the king yielded, and agreed to lead
 forth an expedition.
-    First, however, in the year following the death of Darius, he
+
+First, however, in the year following the death of Darius, he
 marched against those who had revolted from him; and having reduced
 them, and laid all Egypt under a far harder yoke than ever his
 father had put upon it, he gave the government to Achaeamenes, who was
 his own brother, and son to Darius. This Achaeamenes was afterwards
 slain in his government by Inaros, the son of Psammetichus, a Libyan.
-    (SS 1.) After Egypt was subdued, Xerxes, being about to take in
+
+(SS 1.) After Egypt was subdued, Xerxes, being about to take in
 hand the expedition against Athens, called together an assembly of the
 noblest Persians to learn their opinions, and to lay before them his
 own designs. So, when the men were met, the king spake thus to them:-
-    "Persians, I shall not be the first to bring in among you a new
+
+"Persians, I shall not be the first to bring in among you a new
 custom- I shall but follow one which has come down to us from our
 forefathers. Never yet, as our old men assure me, has our race reposed
 itself, since the time when Cyrus overcame Astyages, and so we
@@ -15936,8 +17070,10 @@ array I will give the gifts which our people consider the most
 honourable. This then is what ye have to do. But to show that I am not
 self-willed in this matter, I lay the business before you, and give
 you full leave to speak your minds upon it openly."
-    Xerxes, having so spoken, held his peace.
-    (SS 1.) Whereupon Mardonius took the word, and said: "Of a
+
+Xerxes, having so spoken, held his peace.
+
+(SS 1.) Whereupon Mardonius took the word, and said: "Of a
 truth, my lord, thou dost surpass, not only all living Persians, but
 likewise those yet unborn. Most true and right is each word that
 thou hast now uttered; but best of all thy resolve not to let the
@@ -15977,9 +17113,11 @@ in that case they will learn that there are no such soldiers in the
 whole world as we. Nevertheless let us spare no pains; for nothing
 comes without trouble; but all that men acquire is got by
 painstaking."
-    When Mardonius had in this way softened the harsh speech of
+
+When Mardonius had in this way softened the harsh speech of
 Xerxes, he too held his peace.
-    (SS 1.) The other Persians were silent; all feared to raise
+
+(SS 1.) The other Persians were silent; all feared to raise
 their voice against the plan proposed to them. But Artabanus, the
 son of Hystaspes, and uncle of Xerxes, trusting to his relationship,
 was bold to speak:- "O king!" he said, "it is impossible, if no more
@@ -16015,7 +17153,8 @@ with the other princes, and not set himself to oppose their views, the
 empire of the Persians would have come to nought. Surely a dreadful
 thing is this even to hear said, that the king's fortunes depended
 wholly on one man.
-    (SS 4.) "Think then no more of incurring so great a danger when no
+
+(SS 4.) "Think then no more of incurring so great a danger when no
 need presses, but follow the advice I tender. Break up this meeting,
 and when thou hast well considered the matter with thyself, and
 settled what thou wilt do, declare to us thy resolve. I know not of
@@ -16036,7 +17175,8 @@ always brings about disasters, from which huge sufferings are wont
 to arise; but in delay lie many advantages, not apparent (it may be)
 at first sight, but such as in course of time are seen of all. Such
 then is my counsel to thee, O king!
-    (SS 7.) "And thou, Mardonius, son of Gobryas, forbear to speak
+
+(SS 7.) "And thou, Mardonius, son of Gobryas, forbear to speak
 foolishly concerning the Greeks, who are men that ought not to be
 lightly esteemed by us. For while thou revilest the Greeks, thou
 dost encourage the king to lead his own troops against them; and this,
@@ -16064,8 +17204,10 @@ land of the Athenians, or else in that of the Lacedaemonians; unless
 indeed thou shalt have perished sooner by the way, experiencing in thy
 own person the might of those men on whom thou wouldest fain induce
 the king to make war."
-    Thus spake Artabanus. But Xerxes, full of wrath, replied to him:-
-    "Artabanus, thou art my father's brother- that shall save thee
+
+Thus spake Artabanus. But Xerxes, full of wrath, replied to him:-
+
+"Artabanus, thou art my father's brother- that shall save thee
 from receiving the due meed of thy silly words. One shame however I
 will lay upon thee, coward and faint-hearted as thou art- thou shalt
 not come with me to fight these Greeks, but shalt tarry here with
@@ -16087,7 +17229,8 @@ discover what that great risk is which I run in marching against these
 men- men whom Pelops the Phrygian, a vassal of my forefathers, subdued
 so utterly, that to this day both the land, and the people who dwell
 therein, alike bear the name of the conqueror!"
-    Thus far did the speaking proceed. Afterwards evening fell; and
+
+Thus far did the speaking proceed. Afterwards evening fell; and
 Xerxes began to find the advice of Artabanus greatly disquiet him.
 So he thought upon it during the night, and concluded at last that
 it was not for his advantage to lead an army into Greece. When he
@@ -16100,9 +17243,11 @@ together their levies? Be sure thou doest not well to change; nor is
 there a man here who will approve thy conduct. The course that thou
 didst determine on during the day, let that be followed." After thus
 speaking the man seemed to Xerxes to fly away.
-    Day dawned; and the king made no account of this dream, but called
+
+Day dawned; and the king made no account of this dream, but called
 together the same Persians as before, and spake to them as follows:-
-    "Men of Persia, forgive me if I alter the resolve to which I
+
+"Men of Persia, forgive me if I alter the resolve to which I
 came so lately. Consider that I have not yet reached to the full
 growth of my wisdom, and that they who urge me to engage in this war
 leave me not to myself for a moment. When I heard the advice of
@@ -16111,19 +17256,23 @@ him little befitting his years: now however I confess my fault, and am
 resolved to follow his counsel. Understand then that I have changed my
 intent with respect to carrying war into Greece, and cease to
 trouble yourselves."
-    When they heard these words, the Persians were full of joy, and,
+
+When they heard these words, the Persians were full of joy, and,
 falling down at the feet of Xerxes, made obeisance to him.
-    But when night came, again the same vision stood over Xerxes as he
+
+But when night came, again the same vision stood over Xerxes as he
 slept, and said, "Son of Darius, it seems thou hast openly before
 all the Persians renounced the expedition, making light of my words,
 as though thou hadst not heard them spoken. Know therefore and be well
 assured, that unless thou go forth to the war, this thing shall happen
 unto thee thou art grown mighty and puissant in a short space, so
 likewise shalt thou within a little time be brought low indeed."
-    Then Xerxes, greatly frightened at the vision which he had seen,
+
+Then Xerxes, greatly frightened at the vision which he had seen,
 sprang from his couch, and sent a messenger to call Artabanus, who
 came at the summons, when Xerxes spoke to him in these words:-
-    "Artabanus, at the moment I acted foolishly, when I gave thee
+
+"Artabanus, at the moment I acted foolishly, when I gave thee
 ill words in return for thy good advice. However it was not long ere I
 repented, and was convinced that thy counsel was such as I ought to
 follow. But I may not now act in this way, greatly as I desire to do
@@ -16135,12 +17284,14 @@ thou too wilt have the same dream come to thee and receive the same
 commands as myself. And this will be most sure to happen, I think,
 if thou puttest on the dress which I am wont to wear, and then,
 after taking thy seat upon my throne, liest down to sleep on my bed."
-    Such were the words of Xerxes. Artabanus would not at first
+
+Such were the words of Xerxes. Artabanus would not at first
 yield to the command of the king; for he deemed himself unworthy to
 sit upon the royal throne. At the last however he was forced to give
 way, and did as Xerxes bade him; but first he spake thus to the king
 (SS 1.):-
-    "To me, sire, it seems to matter little whether a man is wise
+
+"To me, sire, it seems to matter little whether a man is wise
 himself or willing to hearken to such as give good advice. In thee
 truly are found both but the counsels of evil men lead thee astray:
 they are like the gales of wind which vex the sea- else the most
@@ -16179,24 +17330,28 @@ not possible to turn thee from thy design, but I must needs go and
 sleep in thy bed, well and good, let it be even so; and when I have
 done as thou wishest, then let the dream appear to me. Till such time,
 however, I shall keep to my former opinion."
-    Thus spake Artabanus; and when he had so said, thinking to show
+
+Thus spake Artabanus; and when he had so said, thinking to show
 Xerxes that his words were nought, he did according to his orders.
 Having put on the garments which Xerxes was wont to wear and taken his
 seat upon the royal throne, he lay down to sleep upon the king's own
 bed. As he slept, there appeared to him the very same dream which
 had been seen by Xerxes; it came and stood over Artabanus, and said:-
-    "Thou art the man, then, who, feigning to be tender of Xerxes,
+
+"Thou art the man, then, who, feigning to be tender of Xerxes,
 seekest to dissuade him from leading his armies against the Greeks!
 But thou shalt not escape scathless, either now or in time to come,
 because thou hast sought to prevent that which is fated to happen.
 As for Xerxes, it has been plainly told to himself what will befall
 him, if he refuses to perform my bidding."
-    In such words, as Artabanus thought, the vision threatened him,
+
+In such words, as Artabanus thought, the vision threatened him,
 and then endeavoured to burn out his eyes with red-hot irons. At
 this he shrieked, and, leaping from his couch, hurried to Xerxes, and,
 sitting down at his side, gave him a full account of the vision; after
 which he went on to speak in the words which follow:-
-    "I, O King! am a man who have seen many mighty empires
+
+"I, O King! am a man who have seen many mighty empires
 overthrown by weaker ones; and therefore it was that I sought to
 hinder thee from being quite carried away by thy youth; since I knew
 how evil a thing it is to covet more than one possesses. I could
@@ -16212,12 +17367,14 @@ thou therefore make known to the Persians what the god has declared,
 and bid them follow the orders which were first given, and prepare
 their levies. Be careful to act so that the bounty of the god may
 not be hindered by slackness on thy part."
-    Thus spake these two together; and Xerxes, being in good heart
+
+Thus spake these two together; and Xerxes, being in good heart
 on account of the vision, when day broke, laid all before the
 Persians; while Artabanus, who had formerly been the only person
 openly to oppose the expedition, now showed as openly that he favoured
 it.
-    After Xerxes had thus determined to go forth to the war, there
+
+After Xerxes had thus determined to go forth to the war, there
 appeared to him in his sleep yet a third vision. The Magi were
 consulted upon it, and said that its meaning reached to the whole
 earth, and that all mankind would become his servants. Now the
@@ -16230,7 +17387,8 @@ to their several governments, where each displayed the greatest
 zeal, on the faith of the king's offers. For all hoped to obtain for
 themselves the gifts which had been promised. And so Xerxes gathered
 together his host, ransacking every corner of the continent.
-    Reckoning from the recovery of Egypt, Xerxes spent four full years
+
+Reckoning from the recovery of Egypt, Xerxes spent four full years
 in collecting his host and making ready all things that were needful
 for his soldiers. It was not till the close of the fifth year that
 he set forth on his march, accompanied by a mighty multitude. For of
@@ -16246,7 +17404,8 @@ Mysians and Teucrians, which was still earlier, wherein these
 nations crossed the Bosphorus into Europe, and, after conquering all
 Thrace, pressed forward till they came to the Ionian Sea, while
 southward they reached as far as the river Peneus.
-    All these expeditions, and others, if such there were, are as
+
+All these expeditions, and others, if such there were, are as
 nothing compared with this. For was there a nation in all Asia which
 Xerxes did not bring with him against Greece? Or was there a river,
 except those of unusual size, which sufficed for his troops to
@@ -16254,7 +17413,8 @@ drink? One nation furnished ships; another was arrayed among the
 foot-soldiers; a third had to supply horses; a fourth, transports
 for the horse and men likewise for the transport service; a fifth,
 ships of war towards the bridges; a sixth, ships and provisions.
-    And in the first place, because the former fleet had met with so
+
+And in the first place, because the former fleet had met with so
 great a disaster about Athos, preparations were made, by the space
 of about three years, in that quarter. A fleet of triremes lay at
 Elaeus in the Chersonese; and from this station detachments were
@@ -16264,7 +17424,8 @@ the lash of taskmasters; while the people dwelling about Athos bore
 likewise a part in the labour. Two Persians, Bubares, the son of
 Megabazus, and Artachaees, the son of Artaeus, superintended the
 undertaking.
-    Athos is a great and famous mountain, inhabited by men, and
+
+Athos is a great and famous mountain, inhabited by men, and
 stretching far out into the sea. Where the mountain ends towards the
 mainland it forms a peninsula; and in this place there is a neck of
 land about twelve furlongs across, the whole extent whereof, from
@@ -16274,7 +17435,8 @@ Athos ends, is Sand, a Greek city. Inside of Sand, and upon Athos
 itself, are a number of towns, which Xerxes was now employed in
 disjoining from the continent: these are Dium, Olophyxus, Acrothoum,
 Thyssus, and Cleonae. Among these cities Athos was divided.
-    Now the manner in which they dug was the following: a line was
+
+Now the manner in which they dug was the following: a line was
 drawn across by the city of Sand; and along this the various nations
 parcelled out among themselves the work to be done. When the trench
 grew deep, the workmen at the bottom continued to dig, while others
@@ -16293,7 +17455,8 @@ sides nearer and nearer together, so that when they reached the bottom
 their part of the work was of the same width as the rest. In a
 meadow near, there was a place of assembly and a market; and hither
 great quantities of corn, ready ground, were brought from Asia.
-    It seems to me, when I consider this work, that Xerxes, in
+
+It seems to me, when I consider this work, that Xerxes, in
 making it, was actuated by a feeling of pride, wishing to display
 the extent of his power, and to leave a memorial behind him to
 posterity. For notwithstanding that it was open to him, with no
@@ -16303,7 +17466,8 @@ might flow, and that it should be of such a width as would allow of
 two triremes passing through it abreast with the oars in action. He
 likewise gave to the same persons who were set over the digging of the
 trench, the task of making a bridge across the river Strymon.
-    While these things were in progress, he was having cables prepared
+
+While these things were in progress, he was having cables prepared
 for his bridges, some of papyrus and some of white flax, a business
 which he entrusted to the Phoenicians and the Egyptians. He likewise
 laid up stores of provisions in divers places, to save the army and
@@ -16315,7 +17479,8 @@ transports and others in merchantmen. The greater portion was
 carried to Leuce-Acte, upon the Thracian coast; some part, however,
 was conveyed to Tyrodiza, in the country of the Perinthians, some to
 Doriscus, some to Eion upon the Strymon, and some to Macedonia.
-    During the time that all these labours were in progress, the
+
+During the time that all these labours were in progress, the
 land army which had been collected was marching with Xerxes towards
 Sardis, having started from Critalla in Cappadocia. At this spot all
 the host which was about to accompany the king in his passage across
@@ -16332,7 +17497,8 @@ river has its rise in the market-place of Celaenae, and empties itself
 into the Maeander. Here, too, in this market-place, is hung up to view
 the skin of the Silenus Marsyas, which Apollo, as the Phrygian story
 goes, stripped off and placed there.
-    Now there lived in this city a certain Pythius, the son of Atys, a
+
+Now there lived in this city a certain Pythius, the son of Atys, a
 Lydian. This man entertained Xerxes and his whole army in a most
 magnificent fashion, offering at the same time to give him a sum of
 money for the war. Xerxes, upon the mention of money, turned to the
@@ -16342,10 +17508,12 @@ this?" They answered him, "This is the man, O king! who gave thy
 father Darius the golden plane-tree, and likewise the golden vine; and
 he is still the wealthiest man we know of in all the world,
 excepting thee."
-    Xerxes marvelled at these last words; and now, addressing
+
+Xerxes marvelled at these last words; and now, addressing
 Pythius with his own lips, he asked him what the amount of his
 wealth really was. Pythius answered as follows:-
-    "O king! I will not hide this matter from thee, nor make
+
+"O king! I will not hide this matter from thee, nor make
 pretence that I do not know how rich I am; but as I know perfectly,
 I will declare all fully before thee. For when thy journey was
 noised abroad, and I heard thou wert coming down to the Grecian coast,
@@ -16355,7 +17523,8 @@ of silver, and of gold four millions of Daric staters, wanting seven
 thousand. All this I willingly make over to thee as a gift; and when
 it is gone, my slaves and my estates in land will be wealth enough for
 my wants."
-    This speech charmed Xerxes, and he replied, "Dear Lydian, since
+
+This speech charmed Xerxes, and he replied, "Dear Lydian, since
 I left Persia there is no man but thou who has either desired to
 entertain my army, or come forward of his own free will to offer me
 a sum of money for the war. Thou hast done both the one and the other,
@@ -16368,7 +17537,8 @@ completion of the round sum to me. Continue to enjoy all that thou
 hast acquired hitherto; and be sure to remain ever such as thou now
 art. If thou dost, thou wilt not repent of it so long as thy life
 endures."
-    When Xerxes had so spoken and had made good his promises to
+
+When Xerxes had so spoken and had made good his promises to
 Pythius, he pressed forward upon his march; and passing Anaua, a
 Phrygian city, and a lake from which salt is gathered, he came to
 Colossae, a Phrygian city of great size, situated at a spot where
@@ -16379,7 +17549,8 @@ Maeander. Leaving Colossae, the army approached the borders of Phrygia
 where it abuts on Lydia; and here they came to a city called
 Cydrara, where was a pillar set up by Croesus, having an inscription
 on it, showing the boundaries of the two countries.
-    Where it quits Phrygia and enters Lydia the road separates; the
+
+Where it quits Phrygia and enters Lydia the road separates; the
 way on the left leads into Caria, while that on the right conducts
 to Sardis. If you follow this route, you must cross the Maeander,
 and then pass by the city Callatebus, where the men live who make
@@ -16387,7 +17558,8 @@ honey out of wheat and the fruit of the tamarisk. Xerxes, who chose
 this way, found here a plane-tree so beautiful, that he presented it
 with golden ornaments, and put it under the care of one of his
 Immortals. The day after, he entered the Lydian capital.
-    Here his first care was to send off heralds into Greece, who
+
+Here his first care was to send off heralds into Greece, who
 were to prefer a demand for earth and water, and to require that
 preparations should be made everywhere to feast the king. To Athens
 indeed and to Sparta he sent no such demand; but these cities
@@ -16396,7 +17568,8 @@ for earth and water to states which had already refused was this: he
 thought that although they had refused when Darius made the demand,
 they would now be too frightened to venture to say him nay. So he sent
 his heralds, wishing to know for certain how it would be.
-    Xerxes, after this, made preparations to advance to Abydos,
+
+Xerxes, after this, made preparations to advance to Abydos,
 where the bridge across the Hellespont from Asia to Europe was
 lately finished. Midway between Sestos and Madytus in the
 Hellespontine Chersonese, and right over against Abydos, there is a
@@ -16406,7 +17579,8 @@ Xanthippus, the son of Ariphron, took Artayctes the Persian, who was
 at that time governor of Sestos, and nailed him living to a plank.
 He was the Artayctes who brought women into the temple of
 Protesilaus at Elaeus, and there was guilty of most unholy deeds.
-    Towards this tongue of land then, the men to whom the business was
+
+Towards this tongue of land then, the men to whom the business was
 assigned carried out a double bridge from Abydos; and while the
 Phoenicians constructed one line with cables of white flax, the
 Egyptians in the other used ropes made of papyrus. Now it is seven
@@ -16414,7 +17588,8 @@ furlongs across from Abydos to the opposite coast. When, therefore,
 the channel had been bridged successfully, it happened that a great
 storm arising broke the whole work to pieces, and destroyed all that
 had been done.
-    So when Xerxes heard of it he was full of wrath, and straightway
+
+So when Xerxes heard of it he was full of wrath, and straightway
 gave orders that the Hellespont should receive three hundred lashes,
 and that a pair of fetters should be cast into it. Nay, I have even
 heard it said that he bade the branders take their irons and therewith
@@ -16428,10 +17603,12 @@ honour thee with sacrifice; for thou art of a truth a treacherous
 and unsavoury river." While the sea was thus punished by his orders,
 he likewise commanded that the overseers of the work should lose their
 heads.
-    Then they, whose business it was, executed the unpleasing task
+
+Then they, whose business it was, executed the unpleasing task
 laid upon them; and other master-builders were set over the work,
 who accomplished it in the way which I will now describe.
-    They joined together triremes and penteconters, 360 to support the
+
+They joined together triremes and penteconters, 360 to support the
 bridge on the side of the Euxine Sea, and 314 to sustain the other;
 and these they placed at right angles to the sea, and in the direction
 of the current of the Hellespont, relieving by these means the tension
@@ -16457,7 +17634,8 @@ heaped upon the brushwood, and the whole trodden down into a solid
 mass. Lastly a bulwark was set up on either side of this causeway,
 of such a height as to prevent the sumpter-beasts and the horses
 from seeing over it and taking fright at the water.
-    And now when all was prepared- the bridges, and the works at
+
+And now when all was prepared- the bridges, and the works at
 Athos, the breakwaters about the mouths of the cutting, which were
 made to hinder the surf from blocking up the entrances, and the
 cutting itself; and when the news came to Xerxes that this last was
@@ -16472,7 +17650,8 @@ them the meaning of the portent. They replied- "God is foreshowing
 to the Greeks the destruction of their cities; for the sun foretells
 for them, and the moon for us." So Xerxes, thus instructed,
 proceeded on his way with great gladness of heart.
-    The army had begun its march, when Pythius the Lydian,
+
+The army had begun its march, when Pythius the Lydian,
 affrighted at the heavenly portent, and emboldened by his gifts,
 came to Xerxes and said- "Grant me, O my lord! a favour which is to
 thee a light matter, but to me of vast account." Then Xerxes' who
@@ -16480,13 +17659,15 @@ looked for nothing less than such a prayer as Pythius in fact
 preferred, engaged to grant him whatever he wished, and commanded
 him to tell his wish freely. So Pythius, full of boldness, went on
 to say:-
-    "O my lord! thy servant has five sons; and it chances that all are
+
+"O my lord! thy servant has five sons; and it chances that all are
 called upon to join thee in this march against Greece. I beseech thee,
 have compassion upon my years; and let one of my sons, the eldest,
 remain behind, to be my prop and stay, and the guardian of my
 wealth. Take with thee the other four; and when thou hast done all
 that is in thy heart, mayest thou come back in safety."
-    But Xerxes was greatly angered, and replied to him: "Thou
+
+But Xerxes was greatly angered, and replied to him: "Thou
 wretch! darest thou speak to me of thy son, when I am myself on the
 march against Greece, with sons, and brothers, and kinsfolk, and
 friends? Thou, who art my bond-slave, and art in duty bound to
@@ -16505,7 +17686,8 @@ those to whom such tasks were assigned to seek out the eldest of the
 sons of Pythius, and having cut his body asunder, to place the two
 halves. one on the right, the other on the left, of the great road, so
 that the army might march out between them.
-    Then the king's orders were obeyed; and the army marched out
+
+Then the king's orders were obeyed; and the army marched out
 between the two halves of the carcase. First of all went the
 baggage-bearers, and the sumpter-beasts, and then a vast crowd of many
 nations mingled together without any intervals, amounting to more than
@@ -16523,7 +17705,8 @@ ever allowed to mount into the car. Next to this came Xerxes
 himself, riding in a chariot drawn by Nisaean horses, with his
 charioteer, Patiramphes, the son of Otanes, a Persian, standing by his
 side.
-    Thus rode forth Xerxes from Sardis- but he was accustomed every
+
+Thus rode forth Xerxes from Sardis- but he was accustomed every
 now and then, when the fancy took him, to alight from his chariot
 and travel in a litter. Immediately behind the king there followed a
 body of a thousand spearmen, the noblest and bravest of the
@@ -16539,7 +17722,8 @@ Behind the ten thousand footmen came a body of Persian cavalry,
 likewise ten thousand; after which there was again a void space for as
 much as two furlongs; and then the rest of the army followed in a
 confused crowd.
-    The march of the army, after leaving Lydia, was directed upon
+
+The march of the army, after leaving Lydia, was directed upon
 the river Caicus and the land of Mysia. Beyond the Caius the road,
 leaving Mount Cana upon the left, passed through the Atarnean plain,
 to the city of Carina. Quitting this, the troops advanced across the
@@ -16548,7 +17732,8 @@ then, holding Mount Ida upon the left hand, it entered the Trojan
 territory. On this march the Persians suffered some loss; for as
 they bivouacked during the night at the foot of Ida, a storm of
 thunder and lightning burst upon them, and killed no small number.
-    On reaching the Scamander, which was the first stream, of all that
+
+On reaching the Scamander, which was the first stream, of all that
 they had crossed since they left Sardis, whose water failed them and
 did not suffice to satisfy the thirst of men and cattle, Xerxes
 ascended into the Pergamus of Priam, since he had a longing to
@@ -16559,7 +17744,8 @@ slain at Troy. The night after, a panic fell upon the camp: but in the
 morning they set off with daylight, and skirting on the left hand
 the towns Rhoeteum, Ophryneum, and Dardanus (which borders on Abydos),
 on the right the Teucrians of Gergis, so reached Abydos.
-    Arrived here, Xerxes wished to look upon all his host; so as there
+
+Arrived here, Xerxes wished to look upon all his host; so as there
 was a throne of white marble upon a hill near the city, which they
 of Abydos had prepared beforehand, by the king's bidding, for his
 especial use, Xerxes took his seat on it, and, gazing thence upon
@@ -16568,22 +17754,27 @@ ships. While thus employed, he felt a desire to behold a sailing-match
 among his ships, which accordingly took place, and was won by the
 Phoenicians of Sidon, much to the joy of Xerxes, who was delighted
 alike with the race and with his army.
-    And now, as he looked and saw the whole Hellespont covered with
+
+And now, as he looked and saw the whole Hellespont covered with
 the vessels of his fleet, and all the shore and every plain about
 Abydos as full as possible of men, Xerxes congratulated himself on his
 good fortune; but after a little while he wept.
-    Then Artabanus, the king's uncle (the same who at the first so
+
+Then Artabanus, the king's uncle (the same who at the first so
 freely spake his mind to the king, and advised him not to lead his
 army against Greece), when he heard that Xerxes was in tears, went
 to him, and said:-
-    "How different, sire, is what thou art now doing, from what thou
+
+"How different, sire, is what thou art now doing, from what thou
 didst a little while ago! Then thou didst congratulate thyself; and
 now, behold! thou weepest."
-    "There came upon me," replied he, "a sudden pity, when I thought
+
+"There came upon me," replied he, "a sudden pity, when I thought
 of the shortness of man's life, and considered that of all this
 host, so numerous as it is, not one will be alive when a hundred years
 are gone by."
-    "And yet there are sadder things in life than that," returned
+
+"And yet there are sadder things in life than that," returned
 the other. "Short as our time is, there is no man, whether it be
 here among this multitude or elsewhere, who is so happy, as not to
 have felt the wish- I will not say once, but full many a time- that he
@@ -16592,7 +17783,8 @@ and harass us, and make life, short though it be, to appear long. So
 death, through the wretchedness of our life, is a most sweet refuge to
 our race: and God, who gives us the tastes that we enjoy of pleasant
 times, is seen, in his very gift, to be envious."
-    "True," said Xerxes; "human life is even such as thou hast painted
+
+"True," said Xerxes; "human life is even such as thou hast painted
 it, O Artabanus! But for this very reason let us turn our thoughts
 from it, and not dwell on what is so sad, when pleasant things are
 in hand. Tell me rather, if the vision which we saw had not appeared
@@ -16600,19 +17792,22 @@ so plainly to thyself, wouldst thou have been still of the same mind
 as formerly, and have continued to dissuade me from warring against
 Greece, or wouldst thou at this time think differently? Come now, tell
 me this honestly."
-    "O king!" replied the other, "may the dream which hath appeared to
+
+"O king!" replied the other, "may the dream which hath appeared to
 us have such issue as we both desire! For my own part, I am still full
 of fear, and have scarcely power to control myself, when I consider
 all our dangers, and especially when I see that the two things which
 are of most consequence are alike opposed to thee."
-    "Thou strange man!" said Xerxes in reply- "what, I pray thee,
+
+"Thou strange man!" said Xerxes in reply- "what, I pray thee,
 are the two things thou speakest of? Does my land army seem to thee
 too small in number, and will the Greeks, thinkest thou, bring into
 the field a more numerous host? Or is it our fleet which thou
 deemest weaker than theirs? Or art thou fearful on both accounts? If
 in thy judgment we fall short in either respect, it were easy to bring
 together with all speed another armament."
-    "O king!" said Artabanus, "it is not possible that a man of
+
+"O king!" said Artabanus, "it is not possible that a man of
 understanding should find fault with the size of thy army or the
 number of thy ships. The more thou addest to these, the more hostile
 will those two things, whereof I spake, become. Those two things are
@@ -16632,7 +17827,8 @@ greater as time goes on, will at last produce a famine. Methinks it is
 best for men, when they take counsel, to be timorous, and imagine
 all possible calamities, but when the time for action comes, then to
 deal boldly."
-    Whereto Xerxes answered- "There is reason, O Artabanus! in
+
+Whereto Xerxes answered- "There is reason, O Artabanus! in
 everything which thou hast said; but I pray thee, fear not all
 things alike, nor count up every risk. For if in each matter that
 comes before us thou wilt look to all possible chances, never wilt
@@ -16659,7 +17855,8 @@ vast stores of provisions with us, on the other we shall have the
 grain of all the countries and nations that we attack; since our march
 is not directed against a pastoral people, but against men who are
 tillers of the ground."
-    Then said Artabanus- "If, sire, thou art determined that we
+
+Then said Artabanus- "If, sire, thou art determined that we
 shall not fear anything, at least hearken to a counsel which I wish to
 offer; for when the matters in hand are so many, one cannot but have
 much to say. Thou knowest that Cyrus the son of Cambyses reduced and
@@ -16674,7 +17871,8 @@ side of injustice, they will do us but scant good; while if they
 determine to act justly, they may greatly injure our host. Lay thou to
 heart the old proverb, which says truly, 'The beginning and end of a
 matter are not always seen at once.'
-    "Artabanus," answered Xerxes, "there is nothing in all that thou
+
+"Artabanus," answered Xerxes, "there is nothing in all that thou
 hast said, wherein thou art so wholly wrong as in this, that thou
 suspectest the faith of the Ionians. Have they not given us the surest
 proof of their attachment- a proof which thou didst thyself witness,
@@ -16686,10 +17884,12 @@ their wives, their children, and their properties- can it then be
 conceived that they will attempt rebellion? Have no fear, therefore,
 on this score; but keep a brave heart and uphold my house and
 empire. To thee, and thee only, do I intrust my sovereignty."
-    After Xerxes had thus spoken, and had sent Artabanus away to
+
+After Xerxes had thus spoken, and had sent Artabanus away to
 return to Susa, he summoned before him all the Persians of most
 repute, and when they appeared, addressed them in these words:-
-    "Persians, I have brought you together because I wished to
+
+"Persians, I have brought you together because I wished to
 exhort you to behave bravely, and not to sully with disgrace the
 former achievements of the Persian people, which are very great and
 famous. Rather let us one and all, singly and jointly, exert ourselves
@@ -16700,7 +17900,8 @@ and such that, if we conquer them, there is not a people in all the
 world which will venture thereafter to with. stand our arms. And now
 let us offer prayers to the gods who watch over the welfare of Persia,
 and then cross the channel."
-    All that day the preparations for the passage continued; and on
+
+All that day the preparations for the passage continued; and on
 the morrow they burnt all kinds of spices upon the bridges, and
 strewed the way with myrtle boughs, while they waited anxiously for
 the sun, which they hoped to see as he rose. And now the sun appeared;
@@ -16721,23 +17922,27 @@ sumpter-beasts and the camp-followers passed by the other, which
 looked on the Egean. Foremost went the Ten Thousand Persians, all
 wearing garlands upon their heads; and after them a mixed multitude of
 many nations. These crossed upon the first day.
-    On the next day the horsemen began the passage; and with them went
+
+On the next day the horsemen began the passage; and with them went
 the soldiers who carried their spears with the point downwards,
 garlanded, like the Ten Thousand;- then came the sacred horses and the
 sacred chariot; next Xerxes with his lancers and the thousand horse;
 then the rest of the army. At the same time the ships sailed over to
 the opposite shore. According, however, to another account which I
 have heard, the king crossed the last.
-    As soon as Xerxes had reached the European side, he stood to
+
+As soon as Xerxes had reached the European side, he stood to
 contemplate his army as they crossed under the lash. And the
 crossing continued during seven days and seven nights, without rest or
 pause. 'Tis said that here, after Xerxes had made the passage, a
 Hellespontian exclaimed-
-    "Why, O Jove, dost thou, in the likeness of a Persian man, and
+
+"Why, O Jove, dost thou, in the likeness of a Persian man, and
 with the name of Xerxes instead of thine own, lead the whole race of
 mankind to the destruction of Greece? It would have been as easy for
 thee to destroy it without their aid!"
-    When the whole army had crossed, and the troops were now upon
+
+When the whole army had crossed, and the troops were now upon
 their march, a strange prodigy appeared to them, whereof the king made
 no account, though its meaning was not difficult to conjecture. Now
 the prodigy was this:- a mare brought forth a hare. Hereby it was
@@ -16747,7 +17952,8 @@ the spot from which he set out, would have to run for his life.
 There had also been another portent, while Xerxes was still at Sardis-
 a mule dropped a foal, neither male nor female; but this likewise
 was disregarded.
-    So Xerxes, despising the omens, marched forwards; and his land
+
+So Xerxes, despising the omens, marched forwards; and his land
 army accompanied him. But the fleet held an opposite course, and,
 sailing to the mouth of the Hellespont, made its way along the
 shore. Thus the fleet proceeded westward, making for Cape Sarpedon,
@@ -16760,7 +17966,8 @@ then crossed the river Melas, whence the gulf takes its name, the
 waters of which they found too scanty to supply the host. From this
 point their march was to the west; and after passing Aenos, an Aeolian
 settlement, and likewise Lake Stentoris, they came to Doriscus.
-    The name Doriscus is given to a beach and a vast plain upon the
+
+The name Doriscus is given to a beach and a vast plain upon the
 coast of Thrace, through the middle of which flows the strong stream
 of the Hebrus. Here was the royal fort which is likewise called
 Doriscus, where Darius had maintained a Persian garrison ever since
@@ -16774,7 +17981,8 @@ promontory; the whole district in former times was inhabited by the
 Ciconians. Here then the captains were to bring their ships, and to
 haul them ashore for refitting, while Xerxes at Doriscus was
 employed in numbering the soldiers.
-    What the exact number of the troops of each nation was I cannot
+
+What the exact number of the troops of each nation was I cannot
 say with certainty- for it is not mentioned by any one- but the
 whole land army together was found to amount to one million seven
 hundred thousand men. The manner in which the numbering took place was
@@ -16786,7 +17994,8 @@ of a man's middle; and the enclosure was filled continually with fresh
 troops, till the whole army had in this way been numbered. When the
 numbering was over, the troops were drawn up according to their
 several nations.
-    Now these were the nations that took part in this expedition.
+
+Now these were the nations that took part in this expedition.
 The Persians, who wore on their heads the soft hat called the tiara,
 and about their bodies, tunics with sleeves of divers colours,
 having iron scales upon them like the scales of a fish. Their legs
@@ -16802,64 +18011,79 @@ visited Cepheus the son of Belus, and, marrying his daughter
 Andromeda, had by her a son called Perses (whom he left behind him
 in the country because Cepheus had no male offspring), that the nation
 took from this Perses the name of Persians.
-    The Medes had exactly the same equipment as the Persians; and
+
+The Medes had exactly the same equipment as the Persians; and
 indeed the dress common to both is not so much Persian as Median. They
 had for commander Tigranes, of the race of the Achaemenids. These
 Medes were called anciently by all people Arians; but when Media,
 the Colchian, came to them from Athens, they changed their name.
 Such is the account which they themselves give.
-    The Cissians were equipped in the Persian fashion, except in one
+
+The Cissians were equipped in the Persian fashion, except in one
 respect:- they wore on their heads, instead of hats, fillets. Anaphes,
 the son of Otanes, commanded them.
-    The Hyrcanians were likewise armed in the same way as the
+
+The Hyrcanians were likewise armed in the same way as the
 Persians. Their leader was Megapanus, the same who was afterwards
 satrap of Babylon.
-    The Assyrians went to the war with helmets upon their heads made
+
+The Assyrians went to the war with helmets upon their heads made
 of brass, and plaited in a strange fashion which it is not easy to
 describe. They carried shields, lances, and daggers very like the
 Egyptian; but in addition, they had wooden clubs knotted with iron,
 and linen corselets. This people, whom the Greeks call Syrians, are
 called Assyrians by the barbarians. The Chaldaeans served in their
 ranks, and they had for commander Otaspes, the son of Artachaeus.
-    The Bactrians went to the war wearing a head-dress very like the
+
+The Bactrians went to the war wearing a head-dress very like the
 Median, but armed with bows of cane, after the custom of their
 country, and with short spears.
-    The Sacae, or Scyths, were clad in trousers, and had on their
+
+The Sacae, or Scyths, were clad in trousers, and had on their
 heads tall stiff caps rising to a point. They bore the bow of their
 country and the dagger; besides which they carried the battle-axe,
 or sagaris. They were in truth Amyrgian Scythians, but the Persians
 called them Sacae, since that is the name which they give to all
 Scythians. The Bactrians and the Sacae had for leader Hystaspes, the
 son of Darius and of Atossa, the daughter of Cyrus.
-    The Indians wore cotton dresses, and carried bows of cane, and
+
+The Indians wore cotton dresses, and carried bows of cane, and
 arrows also of cane with iron at the point. Such was the equipment
 of the Indians, and they marched under the command of Pharnazathres
 the son of Artabates.
-    The Arians carried Median bows, but in other respects were
+
+The Arians carried Median bows, but in other respects were
 equipped like the Bactrians. Their commander was Sisamnes the son of
 Hydarnes.
-    The Parthians and Chorasmians, with the Sogdians, the
+
+The Parthians and Chorasmians, with the Sogdians, the
 Gandarians, and the Dadicae, had the Bactrian equipment in all
 respects. The Parthians and Chorasmians were commanded by Artabazus
 the son of Pharnaces, the Sogdians by Azanes the son of Artaeus, and
 the Gandarians and Dadicae by Artyphius the son of Artabanus.
-    The Caspians were clad in cloaks of skin, and carried the cane bow
+
+The Caspians were clad in cloaks of skin, and carried the cane bow
 of their country and the scymitar. So equipped they went to the war;
 and they had for commander Ariomardus the brother of Artyphius.
-    The Sarangians had dyed garments which showed brightly, and
+
+The Sarangians had dyed garments which showed brightly, and
 buskins which reached to the knee: they bore Median bows, and
 lances. Their leader was Pherendates, the son of Megabazus.
-    The Pactyans wore cloaks of skin, and carried the bow of their
+
+The Pactyans wore cloaks of skin, and carried the bow of their
 country and the dagger. Their commander was Artyntes, the son of
 Ithamatres.
-    The Utians, the Mycians, and the Paricanians were all equipped
+
+The Utians, the Mycians, and the Paricanians were all equipped
 like the Pactyans. They had for leaders, Arsamenes, the son of Darius,
 who commanded the Utians and Mycians; and Siromitres, the son of
 Oeobazus, who commanded the Paricanians.
-    The Arabians wore the zeira, or long cloak, fastened about them
+
+The Arabians wore the zeira, or long cloak, fastened about them
 with a girdle; and carried at their right side long bows, which when
 unstrung bent backwards.
-    The Ethiopians were clothed in the skins of leopards and lions,
+
+The Ethiopians were clothed in the skins of leopards and lions,
 and had long bows made of the stem of the palm-leaf, not less than
 four cubits in length. On these they laid short arrows made of reed,
 and armed at the tip, not with iron, but with a piece of stone,
@@ -16873,7 +18097,8 @@ of Artystone daughter of Cyrus. This Artystone was the best-beloved of
 all the wives of Darius; and it was she whose statue he caused to be
 made of gold wrought with the hammer. Her son Arsames commanded
 these two nations.
-    The eastern Ethiopians- for two nations of this name served in the
+
+The eastern Ethiopians- for two nations of this name served in the
 army- were marshalled with the Indians. They differed in nothing
 from the other Ethiopians, save in their language, and the character
 of their hair. For the eastern Ethiopians have straight hair, while
@@ -16883,9 +18108,11 @@ but they wore upon their heads the scalps of horses, with the ears and
 mane attached; the ears were made to stand upright, and the mane
 served as a crest. For shields this people made use of the skins of
 cranes.
-    The Libyans wore a dress of leather, and carried javelins made
+
+The Libyans wore a dress of leather, and carried javelins made
 hard in the fire. They had for commander Massages, the son of Oarizus.
-    The Paphlagonians went to the war with plaited helmets upon
+
+The Paphlagonians went to the war with plaited helmets upon
 their heads, and carrying small shields and spears of no great size.
 They had also javelins and daggers, and wore on their feet the
 buskin of their country, which reached half way up the shank. In the
@@ -16895,26 +18122,31 @@ the Persians). The Paphlagonians and Matienians were under the command
 of Dotus the son of Megasidrus; while the Mariandynians, the
 Ligyans, and the Syrians had for leader Gobryas, the son of Darius and
 Artystone.
-    The dress of the Phrygians closely resembled the Paphlagonian,
+
+The dress of the Phrygians closely resembled the Paphlagonian,
 only in a very few points differing from it. According to the
 Macedonian account, the Phrygians, during the time that they had their
 abode in Europe and dwelt with them in Macedonia, bore the name of
 Brigians; but on their removal to Asia they changed their
 designation at the same time with their dwelling-place.
-    The Armenians, who are Phrygian colonists, were armed in the
+
+The Armenians, who are Phrygian colonists, were armed in the
 Phrygian fashion. Both nations were under the command of Artochmes,
 who was married to one of the daughters of Darius.
-    The Lydians were armed very nearly in the Grecian manner. These
+
+The Lydians were armed very nearly in the Grecian manner. These
 Lydians in ancient times were called Maeonians, but changed their
 name, and took their present title from Lydus the son of Atys.
-    The Mysians wore upon their heads a helmet made after the
+
+The Mysians wore upon their heads a helmet made after the
 fashion of their country, and carried a small buckler; they used as
 javelins staves with one end hardened in the fire. The Mysians are
 Lydian colonists, and from the mountain-chain of Olympus, are called
 Olympieni. Both the Lydians and the Mysians were under the command
 of Artaphernes, the son of that Artaphernes who, with Datis, made
 the landing at Marathon.
-    The Thracians went to the war wearing the skins of foxes upon
+
+The Thracians went to the war wearing the skins of foxes upon
 their heads, and about their bodies tunics, over which was thrown a
 long cloak of many colours. Their legs and feet were clad in buskins
 made from the skins of fawns; and they had for arms javelins, with
@@ -16924,24 +18156,27 @@ Strymonians, while they dwelt upon the Strymon; whence, according to
 their own account, they had been driven out by the Mysians and
 Teucrians. The commander of these Asiatic Thracians was Bassaces the
 son of Artabanus.
-    *... had made small shields made of the hide of the ox, and
+
+\*... had made small shields made of the hide of the ox, and
 carried each of them two spears such as are used in wolf-hunting.
 Brazen helmets protected their heads; and above these they wore the
 ears and horns of an ox fashioned in brass. They had also crests on
 their helms; and their legs were bound round with purple bands. There
 is an oracle of Mars in the country of this people.
 
-    * There is a defect here in the text of Herodotus; the name of
-the nation has been lost and cannot be satisfactorily supplied.
+> \* There is a defect here in the text of Herodotus; the name of
+> the nation has been lost and cannot be satisfactorily supplied.
 
-    The Cabalians, who are Maeonians, but are called Lasonians, had
+The Cabalians, who are Maeonians, but are called Lasonians, had
 the same equipment as the Cilicians- an equipment which I shall
 describe when I come in due course to the Cilician contingent.
-    The Milyans bore short spears, and had their garments fastened
+
+The Milyans bore short spears, and had their garments fastened
 with buckles. Some of their number carried Lycian bows. They wore
 about their heads skull-caps made of leather. Badres the son of
 Hystanes led both nations to battle.
-    The Moschians wore helmets made of wood, and carried shields and
+
+The Moschians wore helmets made of wood, and carried shields and
 spears of a small size: their spear-heads, however, were long. The
 Moschian equipment was that likewise of the Tibarenians, the
 Macronians, and the Mosynoecians. The leaders of these nations were
@@ -16950,20 +18185,25 @@ Ariomardus, who was the son of Darius and of Parmys, daughter of
 Smerdis son of Cyrus; while the Macronians and Mosynoecians. had for
 leader Artayctes, the son of Cherasmis, the governor of Sestos upon
 the Hellespont.
-    The Mares wore on their heads the plaited helmet peculiar to their
+
+The Mares wore on their heads the plaited helmet peculiar to their
 country, and used small leathern bucklers, and javelins.
-    The Colchians wore wooden helmets, and carried small shields of
+
+The Colchians wore wooden helmets, and carried small shields of
 raw hide, and short spears; besides which they had swords. Both
 Mares and Colchians were under the command of Pharandates, the son
 of Teaspes.
-    The Alarodians and Saspirians were armed like the Colchians; their
+
+The Alarodians and Saspirians were armed like the Colchians; their
 leader was Masistes, the son of Siromitras.
-    The Islanders who came from the Erythraean Sea, where they
+
+The Islanders who came from the Erythraean Sea, where they
 inhabited the islands to which the king sends those whom he
 banishes, wore a dress and arms almost exactly like the Median.
 Their leader was Mardontes the son of Bagaeus, who the year after
 perished in the battle of Mycale, where he was one of the captains.
-    Such were the nations who fought upon the dry land, and made up
+
+Such were the nations who fought upon the dry land, and made up
 the infantry of the Persians. And they were commanded by the
 captains whose names have been above recorded. The marshalling and
 numbering of the troops had been committed to them; and by them were
@@ -16972,21 +18212,24 @@ thousand; but the leaders of ten men, or a hundred, were named by
 the captains over ten thousand. There were other officers also, who
 gave the orders to the various ranks and nations; but those whom I
 have mentioned above were the commanders.
-    Over these commanders themselves, and over the whole of the
+
+Over these commanders themselves, and over the whole of the
 infantry, there were set six generals- namely Mardonius, son of
 Gobryas; Tritantaechmes, son of the Artabanus who gave his advice
 against the war with Greece; Smerdomenes, son of Otanes- these two
 were the sons of Darius' brothers, and thus were cousins of Xerxes-
 Masistes, son of Darius and Atossa; Gergis, son of Arizus; and
 Megabyzus, son of Zopyrus.
-    The whole of the infantry was under the command of these generals,
+
+The whole of the infantry was under the command of these generals,
 excepting the Ten Thousand. The Ten Thousand, who were all Persians
 and all picked men, were led by Hydarnes, the son of Hydarnes. They
 were called "the Immortals," for the following reason. If one of their
 body failed either by the stroke of death or of disease, forthwith his
 place was filled up by another man, so that their number was at no
 time either greater or less than 10,000.
-    Of all the troops the Persians were adorned with the greatest
+
+Of all the troops the Persians were adorned with the greatest
 magnificence, and they were likewise the most valiant. Besides their
 arms, which have been already described, they glittered all over
 with gold, vast quantities of which they wore about their persons.
@@ -16994,12 +18237,15 @@ They were followed by litters, wherein rode their concubines, and by a
 numerous train of attendants handsomely dressed. Camels and
 sumpter-beasts carried their provision, apart from that of the other
 soldiers.
-    All these various nations fight on horseback; they did not,
+
+All these various nations fight on horseback; they did not,
 however, at this time all furnish horsemen, but only the following:-
-    (i.) The Persians, who were armed in the same way as their own
+
+(i.) The Persians, who were armed in the same way as their own
 footmen, excepting that some of them wore upon their heads devices
 fashioned with the hammer in brass or steel.
-    (ii.) The wandering tribe known by the name of Sagartians- a
+
+(ii.) The wandering tribe known by the name of Sagartians- a
 people Persian in language, and in dress half Persian, half Pactyan,
 who furnished to the army as many as eight thousand horse. It is not
 the wont of this people to carry arms, either of bronze or steel,
@@ -17011,24 +18257,32 @@ then, whatever the noose encircles, be it man or be it horse, they
 drag towards them; and the foe, entangled in the toils, is forthwith
 slain. Such is the manner in which this people fight; and now their
 horsemen were drawn up with the Persians.
-    (iii.) The Medes, and Cissians, who had the same equipment as
+
+(iii.) The Medes, and Cissians, who had the same equipment as
 their foot-soldiers.
-    (iv.) The Indians, equipped as their foot. men, but some on
+
+(iv.) The Indians, equipped as their foot. men, but some on
 horseback and some in chariots- the chariots drawn either by horses,
 or by wild asses.
-    (v.) The Bactrians and Caspians, arrayed as their foot-soldiers.
-    (vi.) The Libyans, equipped as their foot-soldiers, like the rest;
+
+(v.) The Bactrians and Caspians, arrayed as their foot-soldiers.
+
+(vi.) The Libyans, equipped as their foot-soldiers, like the rest;
 but all riding in chariots.
-    (vii.) The Caspeirians and Paricanians, equipped as their
+
+(vii.) The Caspeirians and Paricanians, equipped as their
 foot-soldiers.
-    (viii.) The Arabians, in the same array as their footmen, but
+
+(viii.) The Arabians, in the same array as their footmen, but
 all riding on camels, not inferior in fleetness to horses.
-    These nations, and these only, furnished horse to the army: and
+
+These nations, and these only, furnished horse to the army: and
 the number of the horse was eighty thousand, without counting camels
 or chariots. All were marshalled in squadrons, excepting the Arabians;
 who were placed last, to avoid frightening the horses, which cannot
 endure the sight of the camel.
-    The horse was commanded by Armamithras and Tithaeus, sons of
+
+The horse was commanded by Armamithras and Tithaeus, sons of
 Datis. The other commander, Pharnuches, who was to have been their
 colleague, had been left sick at Sardis; since at the moment that he
 was leaving the city, a sad mischance befell him:- a dog ran under the
@@ -17039,9 +18293,11 @@ for the horse, he was treated at once as Pharnuches ordered: the
 attendants took him to the spot where he had thrown his master, and
 there cut off his four legs at the hough. Thus Pharnuches lost his
 command.
-    The triremes amounted in all to twelve hundred and seven; and were
+
+The triremes amounted in all to twelve hundred and seven; and were
 furnished by the following nations:-
-    (i.) The Phoenicians, with the Syrians of Palestine, furnished
+
+(i.) The Phoenicians, with the Syrians of Palestine, furnished
 three hundred vessels, the crews of which were thus accoutred: upon
 their heads they wore helmets made nearly in the Grecian manner; about
 their bodies they had breastplates of linen; they carried shields
@@ -17050,30 +18306,35 @@ to their own account, dwelt anciently upon the Erythraean Sea, but
 crossing thence, fixed themselves on the seacoast of Syria, where they
 still inhabit. This part of Syria, and all the region extending from
 hence to Egypt, is known by the name of Palestine.
-    (ii.) The Egyptians furnished two hundred ships. Their crews had
+
+(ii.) The Egyptians furnished two hundred ships. Their crews had
 plaited helmets upon their heads, and bore concave shields with rims
 of unusual size. They were armed with spears suited for a sea-fight,
 and with huge pole-axes. The greater part of them wore breastplates;
 and all had long cutlasses.
-    (iii.) The Cyprians furnished a hundred and fifty ships, and
+
+(iii.) The Cyprians furnished a hundred and fifty ships, and
 were equipped in the following fashion. Their kings had turbans
 bound about their heads, while the people wore tunics; in other
 respects they were clad like the Greeks. They are of various races;
 some are sprung from Athens and Salamis, some from Arcadia, some
 from Cythnus, some from Phoenicia, and a portion, according to their
 own account, from Ethiopia.
-    (iv.) The Cilicians furnished a hundred ships. The crews wore upon
+
+(iv.) The Cilicians furnished a hundred ships. The crews wore upon
 their heads the helmet of their country, and carried instead of
 shields light targes made of raw hide; they were clad in woollen
 tunics, and were each armed with two javelins, and a sword closely
 resembling the cutlass of the Egyptians. This people bore anciently
 the name of Hypachaeans, but took their present title from Cilix,
 the son of Agenor, a Phoenician.
-    (v.) The Pamphylians furnished thirty ships, the crews of which
+
+(v.) The Pamphylians furnished thirty ships, the crews of which
 were armed exactly as the Greeks. This nation is descended from
 those who on the return from Troy were dispersed with Amphilochus
 and Calchas.
-    (vi.) The Lycians furnished fifty ships. Their crews wore
+
+(vi.) The Lycians furnished fifty ships. Their crews wore
 greaves and breastplates, while for arms they had bows of cornel wood,
 reed arrows without feathers, and javelins. Their outer garment was
 the skin of a goat, which hung from their shoulders; their headdress a
@@ -17081,33 +18342,40 @@ hat encircled with plumes; and besides their other weapons they
 carried daggers and falchions. This people came from Crete, and were
 once called Termilae; they got the name which they now bear from
 Lycus, the son of Pandion, an Athenian.
-    (vii.) The Dorians of Asia furnished thirty ships. They were armed
+
+(vii.) The Dorians of Asia furnished thirty ships. They were armed
 in the Grecian fashion, inasmuch as their forefathers came from the
 Peloponnese.
-    (viii.) The Carians furnished seventy ships, and were equipped
+
+(viii.) The Carians furnished seventy ships, and were equipped
 like the Greeks, but carried, in addition, falchions and daggers. What
 name the Carians bore anciently was declared in the first part of this
 History.
-    (ix.) The Ionians furnished a hundred ships, and were armed like
+
+(ix.) The Ionians furnished a hundred ships, and were armed like
 the Greeks. Now these Ionians, during the time that they dwelt in
 the Peloponnese and inhabited the land now called Achaea (which was
 before the arrival of Danaus and Xuthus in the Peloponnese), were
 called, according to the Greek account, Aegialean Pelasgi, or "Pelasgi
 of the Sea-shore"; but afterwards, from Ion the son of Xuthus, they
 were called Ionians.
-    The Islanders furnished seventeen ships, and wore arms like the
+
+The Islanders furnished seventeen ships, and wore arms like the
 Greeks. They too were a Pelasgian race, who in later times took the,
 name of Ionians for the same reason me reason as those who inhabited
 the twelve cities founded from Athens.
-    The Aeolians furnished sixty ships, and were equipped in the
+
+The Aeolians furnished sixty ships, and were equipped in the
 Grecian fashion. They too were anciently called Pelasgians, as the
 Greeks declare.
-    The Hellespontians from the Pontus, who are colonists of the
+
+The Hellespontians from the Pontus, who are colonists of the
 Ionians and Dorians, furnished a hundred ships, the crews of which
 wore the Grecian armour. This did not include the Abydenians, who
 stayed in their own country, because the king had assigned them the
 special duty of guarding the bridges.
-    On board of every ship was a band of soldiers, Persians, Medes, or
+
+On board of every ship was a band of soldiers, Persians, Medes, or
 Sacans. The Phoenician ships were the best sailers in the fleet, and
 the Sidonian the best among the Phoenicians. The contingent of each
 nation, whether to the fleet or to the land army, had at its head a
@@ -17119,7 +18387,8 @@ cities. And it was not really as commanders that they accompanied
 the army, but as mere slaves, like the rest of the host. For I have
 already mentioned the Persian generals who had the actual command, and
 were at the head of the several nations which composed the army.
-    The fleet was commanded by the following- Ariabignes, the son of
+
+The fleet was commanded by the following- Ariabignes, the son of
 Darius, Prexaspes, the son of Aspathines, Megabazus, the son of
 Megabates, and Achaemenes, the son of Darius. Ariabignes, who was
 the child of Darius by a daughter of Gobryas, was leader of the Ionian
@@ -17128,7 +18397,8 @@ Egyptian; the rest of the fleet was commanded by the other two.
 Besides the triremes, there was an assemblage of thirty-oared and
 fifty-oared galleys, of cercuri, and transports for conveying
 horses, amounting in all to three thousand.
-    Next to the commanders, the following were the most renowned of
+
+Next to the commanders, the following were the most renowned of
 those who sailed aboard the fleet:- Tetramnestus, the son of Anysus,
 the Sidonian; Mapen, the son of Sirom, the Tyrian; Merbal, the son
 of Agbal, the Aradian; Syennesis, the son of Oromedon, the Cilician;
@@ -17136,7 +18406,8 @@ Cyberniscus, the son of Sicas, the Lycian; Gorgus, the son of Chersis,
 and Timonax, the son of Timagoras, the Cyprians; and Histiaeus, the
 son of Timnes, Pigres, the son of Seldomus, and Damasithymus, the
 son of Candaules, the Carians.
-    Of the other lower officers I shall make no mention, since no
+
+Of the other lower officers I shall make no mention, since no
 necessity is laid on me; but I must speak of a certain leader named
 Artemisia, whose participation in the attack upon Greece,
 notwithstanding that she was a woman, moves my special wonder. She had
@@ -17153,7 +18424,8 @@ than any of his other allies. Now the cities over which I have
 mentioned that she bore sway were one and all Dorian; for the
 Halicarnassians were colonists from Troezen, while the remainder
 were from Epidaurus. Thus much concerning the sea-force.
-    Now when the numbering and marshalling of the host was ended,
+
+Now when the numbering and marshalling of the host was ended,
 Xerxes conceived a wish to go himself throughout the forces, and
 with his own eyes behold everything. Accordingly he traversed the
 ranks seated in his chariot, and, going from nation to nation, made
@@ -17170,10 +18442,12 @@ to, with their vessels in a single row, the prows facing the land, and
 with the fighting-men upon the decks accoutred as if for war, while
 the king sailed along in the open space between the ships and the
 shore, and so reviewed the fleet.
-    Now after Xerxes had sailed down the whole line and was gone
+
+Now after Xerxes had sailed down the whole line and was gone
 ashore, he sent for Demaratus the son of Ariston, who had
 accompanied him in his march upon Greece, and bespake him thus:-
-    "Demaratus, it is my pleasure at this time to ask thee certain
+
+"Demaratus, it is my pleasure at this time to ask thee certain
 things which I wish to know. Thou art a Greek, and, as I hear from the
 other Greeks with whom I converse, no less than from thine own lips,
 thou art a native of a city which is not the meanest or the weakest in
@@ -17182,13 +18456,17 @@ lift a hand against us? Mine own judgment is, that even if all the
 Greeks and all the barbarians of the West were gathered together in
 one place, they would not be able to abide my onset, not being
 really of one mind. But I would fain know what thou thinkest hereon."
-    Thus Xerxes questioned; and the other replied in his turn,- "O
+
+Thus Xerxes questioned; and the other replied in his turn,- "O
 king! is it thy will that I give thee a true answer, or dost thou wish
 for a pleasant one?"
-    Then the king bade him speak the plain truth, and promised that he
+
+Then the king bade him speak the plain truth, and promised that he
 would not on that account hold him in less favour than heretofore.
-    So Demaratus, when he heard the promise, spake as follows:-
-    "O king! since thou biddest me at all risks speak the truth, and
+
+So Demaratus, when he heard the promise, spake as follows:-
+
+"O king! since thou biddest me at all risks speak the truth, and
 not say what will one day prove me to have lied to thee, thus I
 answer. Want has at all times been a fellow-dweller with us in our
 land, while Valour is an ally whom we have gained by dint of wisdom
@@ -17202,9 +18480,11 @@ should submit to thy will. As for their numbers, do not ask how many
 they are, that their resistance should be a possible thing; for if a
 thousand of them should take the field, they will meet thee in battle,
 and so will any number, be it less than this, or be it more."
-    When Xerxes heard this answer of Demaratus, he laughed and
+
+When Xerxes heard this answer of Demaratus, he laughed and
 answered:-
-    "What wild words, Demaratus! A thousand men join battle with
+
+"What wild words, Demaratus! A thousand men join battle with
 such an army as this! Come then, wilt thou- who wert once, as thou
 sayest, their king- engage to fight this very day with ten men? I trow
 not. And yet, if all thy fellow-citizens be indeed such as thou sayest
@@ -17233,7 +18513,8 @@ thou spakest- not many indeed, but still we possess a few. For
 instance, some of my bodyguard would be willing to engage singly
 with three Greeks. But this thou didst not know; and therefore it
 was thou talkedst so foolishly."
-    Demaratus answered him- "I knew, O king! at the outset, that if
+
+Demaratus answered him- "I knew, O king! at the outset, that if
 I told thee the truth, my speech would displease thine ears. But as
 thou didst require me to answer thee with all possible truthfulness, I
 informed thee what the Spartans will do. And in this I spake not
@@ -17259,14 +18540,17 @@ and either to conquer or die. If in these words, O king! I seem to
 thee to speak foolishly, I am content from this time forward
 evermore to hold my peace. I had not now spoken unless compelled by
 thee. Certes, I pray that all may turn out according to thy wishes."
-    Such was the answer of Demaratus; and Xerxes was not angry with
+
+Such was the answer of Demaratus; and Xerxes was not angry with
 him at all, but only laughed, and sent him away with words of
 kindness.
-    After this interview, and after he had made Mascames the son of
+
+After this interview, and after he had made Mascames the son of
 Megadostes governor of Doriscus, setting aside the governor
 appointed by Darius, Xerxes started with his army, and marched upon
 Greece through Thrace.
-    This man, Mascames, whom he left behind him, was a person of
+
+This man, Mascames, whom he left behind him, was a person of
 such merit that gifts were sent him yearly by the king as a special
 favour, because he excelled all the other governors that had been
 appointed either by Xerxes or by Darius. In like manner, Artaxerxes,
@@ -17278,7 +18562,8 @@ Greeks, except the governor of Doriscus: no one succeeded in driving
 out Mascames, though many made the attempt. For this reason the
 gifts are sent him every year by the king who reigns over the
 Persians.
-    Of the other governors whom the Greeks drove out, there was not
+
+Of the other governors whom the Greeks drove out, there was not
 one who, in the judgment of Xerxes, showed himself a brave man,
 excepting Boges, the governor of Eion. Him Xerxes never could praise
 enough; and such of his sons as were left in Persia, and survived
@@ -17295,7 +18580,8 @@ flames. Then, collecting whatever gold and silver there was in the
 place, he flung it from the walls into the Strymon; and, when that was
 done, to crown all, he himself leaped into the fire. For this action
 Boges is with reason praised by the Persians even at the present day.
-    Xerxes, as I have said, pursued his march from Doriscus against
+
+Xerxes, as I have said, pursued his march from Doriscus against
 Greece; and on his way he forced all the nations through which he
 passed to take part in the expedition. For the whole country as far as
 the frontiers of Thessaly had been (as I have already shown)
@@ -17308,7 +18594,8 @@ river Lissus, which did not suffice to furnish water for the army, but
 was drunk up and failed. This region was formerly called Gallaica; now
 it bears the name of Briantica; but in strict truth it likewise is
 really Ciconian.
-    After crossing the dry channel of the Lissus, Xerxes passed the
+
+After crossing the dry channel of the Lissus, Xerxes passed the
 Grecian cities of Maroneia, Dicaea, and Abdera, and likewise the
 famous lakes which are in their neighbourhood, Lake Ismaris between
 Maroneia and Stryme, and Lake Bistonis near Dicaea, which receives the
@@ -17321,13 +18608,15 @@ of which the sumpter-beasts only drank, and which they drained dry.
 The name of this city was Pistyrus. All these towns, which were
 Grecian, and lay upon the coast, Xerxes kept upon his left hand as
 he passed along.
-    The following are the Thracian tribes through whose country he
+
+The following are the Thracian tribes through whose country he
 marched: the Paeti, the Ciconians, the Bistonians, the Sapaeans, the
 Dersaeans, the Edonians, and the Satrae. Some of these dwelt by the
 sea, and furnished ships to the king's fleet; while others lived in
 the more inland parts, and of these all the tribes which I have
 mentioned, except the Satrae, were forced to serve on foot.
-    The Satrae, so far as our knowledge goes, have never yet been
+
+The Satrae, so far as our knowledge goes, have never yet been
 brought under by any one, but continue to this day a free and
 unconquered people, unlike the other Thracians. They dwell amid
 lofty mountains clothed with forests of different trees and capped
@@ -17336,13 +18625,15 @@ have an oracle of Bacchus in their country, which is situated upon
 their highest mountain-range. The Bessi, a Satrian race, deliver the
 oracles; but the prophet, as at Delphi, is a woman; and her answers
 are not harder to read.
-    When Xerxes had passed through the region mentioned above, he came
+
+When Xerxes had passed through the region mentioned above, he came
 next to the Pierian fortresses, one of which is called Phagres, and
 another Pergamus. Here his line of march lay close by the walls,
 with the long high range of Pangaeum upon his right, a tract in
 which there are mines both of gold and silver, some worked by the
 Pierians and Odomantians, but the greater part by the Satrae.
-    Xerxes then marched through the country of the Paeonian tribes-
+
+Xerxes then marched through the country of the Paeonian tribes-
 the Doberians and the Paeoplae- which lay to the north of Pangaeum,
 and, advancing westward, reached the river Strymon and the city
 Eion, whereof Boges, of whom I spoke a short time ago, and who was
@@ -17351,7 +18642,8 @@ Pangaeum is called Phyllis; on the west it reaches to the river
 Angites, which flows into the Strymon, and on the south to the Strymon
 itself, where at this time the Magi were sacrificing white horses to
 make the stream favourable.
-    After propitiating the stream by these and many other magical
+
+After propitiating the stream by these and many other magical
 ceremonies, the Persians crossed the Strymon, by bridges made before
 their arrival, at a place called "The Nine Ways," which was in the
 territory of the Edonians. And when they learnt that the name of the
@@ -17361,7 +18653,8 @@ Burying alive is a Persian custom. I have heard that Amestris, the
 wife of Xerxes, in her old age buried alive seven pairs of Persian
 youths, sons of illustrious men, as a thank-offering to the god who is
 supposed to dwell underneath the earth.
-    From the Strymon the army, proceeding westward, came to a strip of
+
+From the Strymon the army, proceeding westward, came to a strip of
 shore, on which there stands the Grecian town of Argilus. This
 shore, and the whole tract above it, is called Bisaltia. Passing this,
 and keeping on the left hand the Gulf of Posideium, Xerxes crossed the
@@ -17373,11 +18666,13 @@ the coast being made to serve in the fleet, while those who lived more
 inland had to follow with the land forces. The road which the army
 of Xerxes took remains to this day untouched: the Thracians neither
 plough nor sow it, but hold it in great honour.
-    On reaching Acanthus, the Persian king, seeing the great zeal of
+
+On reaching Acanthus, the Persian king, seeing the great zeal of
 the Acanthians for his service, and hearing what had been done about
 the cutting, took them into the number of his sworn friends, sent them
 as a present a Median dress, and besides commended them highly.
-    It was while he remained here that Artachaees, who presided over
+
+It was while he remained here that Artachaees, who presided over
 the canal, a man in high repute with Xerxes, and by birth an
 Achaemenid, who was moreover the tallest of all the Persians, being
 only four fingers short of five cubits, royal measure, and who had a
@@ -17388,7 +18683,8 @@ the whole army helped to raise a mound over his grave. The Acanthians,
 in obedience to an oracle, offer sacrifice to this Artachaees as a
 hero, invoking him in their prayers by name. But King Xerxes
 sorrowed greatly over his death.
-    Now the Greeks who had to feed the army, and to entertain
+
+Now the Greeks who had to feed the army, and to entertain
 Xerxes, were brought thereby to the very extremity of distress,
 insomuch that some of them were forced even to forsake house and home.
 When the Thasians received and feasted the host, on account of their
@@ -17396,7 +18692,8 @@ possessions upon the mainland, Antipater, the son of Orges, one of the
 citizens of best repute, and the man to whom the business was
 assigned, proved that the cost of the meal was four hundred talents of
 silver.
-    And estimates almost to the same amount were made by the
+
+And estimates almost to the same amount were made by the
 superintendents in other cities. For the entertainment, which had been
 ordered long beforehand and was reckoned to be of much consequence,
 was, in the manner of it, such as I will now describe. No sooner did
@@ -17417,7 +18714,8 @@ dinner hour came, great was the toil of those who entertained the
 army; while the guests ate their fill, and then, after passing the
 night at the place, tore down the royal tent next morning, and seizing
 its contents, carried them all off, leaving nothing behind.
-    On one of these occasions Megacreon of Abdera wittily
+
+On one of these occasions Megacreon of Abdera wittily
 recommended his countrymen "to go to the temples in a body, men and
 women alike, and there take their station as suppliants, and beseech
 the gods that they would in future always spare them one-half of the
@@ -17429,7 +18727,8 @@ must either have fled before Xerxes came, or, if they awaited his
 coming, have been brought to absolute ruin. As it was, the nations,
 though suffering heavy pressure, complied nevertheless with the
 directions that had been given.
-    At Acanthus, Xerxes separated from his fleet, bidding the captains
+
+At Acanthus, Xerxes separated from his fleet, bidding the captains
 sail on ahead and await his coming at Therma, on the Thermaic Gulf,
 the place from which the bay takes its name. Through this town lay, he
 understood, his shortest road. Previously, his order of march had been
@@ -17439,7 +18738,8 @@ company with the fleet, and was commanded by Mardonius and Masistes,
 while another pursued an inland track under Tritantaechmes and Gergis;
 the third, with which was Xerxes himself marching midway between the
 other two, and having for its leaders Smerdomenes and Megabyzus.
-    The fleet, therefore, after leaving the king, sailed through the
+
+The fleet, therefore, after leaving the king, sailed through the
 channel which had been cut for it by Mount Athos, and came into the
 bay whereon lie the cities of Assa, Pilorus, Singus, and Sarta; from
 all which it received contingents. Thence it stood on for the Thermaic
@@ -17447,7 +18747,8 @@ Gulf, and rounding Cape Ampelus, the promontory of the Toronaeans,
 passed the Grecian cities Torone, Galepsus, Sermyla, Mecyberna, and
 Olynthus, receiving from each a number of ships and men. This region
 is called Sithonia.
-    From Cape Ampelus the fleet stretched across by a short course
+
+From Cape Ampelus the fleet stretched across by a short course
 to Cape Canastraeum, which is the point of the peninsula of Palline
 that runs out farthest into the sea, and gathered fresh supplies of
 ships and men from Potidaea, Aphytis, Neapolis, Aega, Therambus,
@@ -17464,35 +18765,40 @@ Therma, the appointed place, and came likewise to Sindus and Chalestra
 upon the river Axius, which separates Bottiaea from Mygdonia. Bottiaea
 has a scanty sea-board, which is occupied by the two cities Ichnae and
 Pella.
-    So the fleet anchored off the Axius, and off Therma, and the towns
+
+So the fleet anchored off the Axius, and off Therma, and the towns
 that lay between, waiting the king's coming. Xerxes meanwhile with his
 land force left Acanthus, and started for Therma, taking his way
 across the land. This road led him through Paeonia and Crestonia to
 the river Echeidorus, which rising in the country of the
 Crestonians, flows through Mygdonia, and reaches the sea near the
 marsh upon the Axius.
-    Upon this march the camels that carried the provisions of the army
+
+Upon this march the camels that carried the provisions of the army
 were set upon by lions, which left their lairs and came down by night,
 but spared the men and the sumpter-beasts, while they made the
 camels their prey. I marvel what may have been the cause which
 compelled the lions to leave the other animals untouched and attack
 the camels, when they had never seen that beast before, nor had any
 experience of it.
-    That whole region is full of lions and wild bulls, with gigantic
+
+That whole region is full of lions and wild bulls, with gigantic
 horns, which are brought into Greece. The lions are confined within
 the tract lying between the river Nestus (which flows through
 Abdera) on the one side, and the Achelous (which waters Acarnania)
 on the other. No one ever sees a lion in the fore part of Europe
 east of the Nestus, nor through the entire continent west of the
 Achelous; but in the space between these bounds lions are found.
-    On reaching Therma Xerxes halted his army, which encamped along
+
+On reaching Therma Xerxes halted his army, which encamped along
 the coast, beginning at the city of Therma in Mygdonia, and stretching
 out as far as the rivers Lydias and Haliacmon, two streams which,
 mingling their waters in one, form the boundary between Bottiaea and
 Macedonia. Such was the extent of country through which the barbarians
 encamped. The rivers here mentioned were all of them sufficient to
 supply the troops, except the Echeidorus, which was drunk dry.
-    From Therma Xerxes beheld the Thessalian mountains, Olympus and
+
+From Therma Xerxes beheld the Thessalian mountains, Olympus and
 Ossa, which are of a wonderful height. Here, learning that there lay
 between these mountains a narrow gorge through which the river
 Peneus ran, and where there was a road that gave an entrance into
@@ -17508,7 +18814,8 @@ set sail and proceeded to the Peneus. Here the view of the mouth
 caused him to wonder greatly; and sending for his guides, he asked
 them whether it were possible to turn the course of the stream, and
 make it reach the sea at any other point.
-    Now there is a tradition that Thessaly was in ancient times a
+
+Now there is a tradition that Thessaly was in ancient times a
 lake, shut in on every side by huge hills. Ossa and Pelion- ranges
 which join at the foot- do in fact inclose it upon the east, while
 Olympus forms a barrier upon the north, Pindus upon the west, and
@@ -17530,14 +18837,18 @@ at least any man who believes that Neptune causes earthquakes, and
 that chasms so produced are his handiwork, would say, upon seeing this
 rent, that Neptune did it. For it plainly appeared to me that the
 hills had been torn asunder by an earthquake.
-    When Xerxes therefore asked the guides if there were any other
+
+When Xerxes therefore asked the guides if there were any other
 outlet by which the waters could reach the sea, they, being men well
 acquainted with the nature of their country, made answer:-
-    "O king! there is no other passage by which this stream can
+
+"O king! there is no other passage by which this stream can
 empty itself into the sea save that which thine eye beholds. For
 Thessaly is girt about with a circlet of hills."
-    Xerxes is said to have observed upon this-
-    "Wise men truly are they of Thessaly, and good reason had they
+
+Xerxes is said to have observed upon this-
+
+"Wise men truly are they of Thessaly, and good reason had they
 to change their minds in time and consult for their own safety. For,
 to pass by others matters, they must have felt that they lived in a
 country which may easily be brought under and subdued. Nothing more is
@@ -17545,18 +18856,21 @@ needed than to turn the river upon their lands by an
 embankment.which should fill up the gorge and force the stream from
 its present channel, and lo! all Thessaly, except the mountains, would
 at once be laid under water."
-    The king aimed in this speech at the sons of Aleuas, who were
+
+The king aimed in this speech at the sons of Aleuas, who were
 Thessalians, and had been the first of all the Greeks to make
 submission to him. He thought that they had made their friendly offers
 in the name of the whole people. So Xerxes, when he had viewed the
 place, and made the above speech, went back to Therma.
-    The stay of Xerxes in Pieria lasted for several days, during which
+
+The stay of Xerxes in Pieria lasted for several days, during which
 a third part of his army was employed in cutting down the woods on the
 Macedonian mountain-range to give his forces free passage into
 Perrhaebia. At this time the heralds who had been sent into Greece
 to require earth for the king returned to the camp, some of them
 empty-handed, others with earth and water.
-    Among the number of those from whom earth and water were brought
+
+Among the number of those from whom earth and water were brought
 were the Thessalians, Dolopians, Enianians, Perrhaebians, Locrians,
 Magnetians, Malians, Achaeans of Phthiotis, Thebans, and Boeotians
 generally, except those of Plataea and Thespiae. These are the nations
@@ -17566,7 +18880,8 @@ blood who delivered themselves up to the Persians without necessity,
 when their affairs were in good condition, we will take a tithe of
 their goods, and give it to the god at Delphi." So ran the words of
 the Greek oath.
-    King Xerxes had sent no heralds either to Athens or Sparta to
+
+King Xerxes had sent no heralds either to Athens or Sparta to
 ask earth and water, for a reason which I will now relate. When Darius
 some time before sent messengers for the same purpose, they were
 thrown, at Athens, into the pit of punishment, at Sparta into a
@@ -17576,7 +18891,8 @@ them. What calamity came upon the Athenians to punish them for their
 treatment of the heralds I cannot say, unless it were the laying waste
 of their city and territory; but that I believe was not on account
 of this crime.
-    On the Lacedaemonians, however, the wrath of Talthybius,
+
+On the Lacedaemonians, however, the wrath of Talthybius,
 Agamemnon's herald, fell with violence. Talthybius has a temple at
 Sparta; and his descendants, who are called Talthybiadae, still live
 there, and have the privilege of being the only persons who
@@ -17592,26 +18908,31 @@ birth, and among the wealthiest in the place, came forward and
 freely offered themselves as an atonement to Xerxes for the heralds of
 Darius slain at Sparta. So the Spartans sent them away to the Medes to
 undergo death.
-    Nor is the courage which these men hereby displayed alone worthy
+
+Nor is the courage which these men hereby displayed alone worthy
 of wonder; but so likewise are the following speeches which were
 made by them. On their road to Susa they presented themselves before
 Hydarnes. This Hydarnes was a Persian by birth, and had the command of
 all the nations that dwelt along the sea-coast of Asia. He accordingly
 showed them hospitality, and invited them to a banquet, where, as they
 feasted, he said to them:-
-    "Men of Lacedaemon, why will ye not consent to be friends with the
+
+"Men of Lacedaemon, why will ye not consent to be friends with the
 king? Ye have but to look at me and my fortune to see that the king
 knows well how to honour merit. In like manner ye yourselves, were
 ye to make your submission to him, would receive at his hands,
 seeing that he deems you men of merit, some government in Greece."
-    "Hydarnes," they answered, "thou art a one-sided counsellor.
+
+"Hydarnes," they answered, "thou art a one-sided counsellor.
 Thou hast experience of half the matter; but the other half is
 beyond thy knowledge. A slave's life thou understandest; but, never
 having tasted liberty, thou canst not tell whether it be sweet or
 no. Ah! hadst thou known what freedom is, thou wouldst have bidden
 us fight for it, not with the spear only, but with the battle-axe."
-    So they answered Hydarnes.
-    And afterwards, when they were come to Susa into the king's
+
+So they answered Hydarnes.
+
+And afterwards, when they were come to Susa into the king's
 presence, and the guards ordered them to fall down and do obeisance,
 and went so far as to use force to compel them, they refused, and said
 they would never do any such thing, even were their heads thrust
@@ -17619,21 +18940,25 @@ down to the ground; for it was not their custom to worship men, and
 they had not come to Persia for that purpose. So they fought off the
 ceremony; and having done so, addressed the king in words much like
 the following:-
-    "O king of the Medes! the Lacedaemonians have sent us hither, in
+
+"O king of the Medes! the Lacedaemonians have sent us hither, in
 the place of those heralds of thine who were slain in Sparta, to
 make atonement to thee on their account."
-    Then Xerxes answered with true greatness of soul "that he would
+
+Then Xerxes answered with true greatness of soul "that he would
 not act like the Lacedaemonians, who, by killing the heralds, had
 broken the laws which all men hold in common. As he had blamed such
 conduct in them, he would never be guilty of it himself. And
 besides, he did not wish, by putting the two men to death, to free the
 Lacedaemonians from the stain of their former outrage."
-    This conduct on the part of the Spartans caused the anger of
+
+This conduct on the part of the Spartans caused the anger of
 Talthybius to cease for a while, notwithstanding that Sperthias and
 Bulis returned home alive. But many years afterwards it awoke once
 more, as the Lacedaemonians themselves declare, during the war between
 the Peloponnesians and the Athenians.
-    In my judgment this was a case wherein the hand of Heaven was most
+
+In my judgment this was a case wherein the hand of Heaven was most
 plainly manifest. That the wrath of Talthybius should have fallen upon
 ambassadors and not slacked till it had full vent, so much justice
 required; but that it should have come upon the sons of the very men
@@ -17649,7 +18974,8 @@ upon the Hellespont, were conveyed to Attica, and there put to death
 by the Athenians, at the same time as Aristeas, the son of Adeimantus,
 the Corinthian. All this happened, however, very many years after
 the expedition of Xerxes.
-    To return, however, to my main subject- the expedition of the
+
+To return, however, to my main subject- the expedition of the
 Persian king, though it was in name directed against Athens,
 threatened really the whole of Greece. And of this the Greeks were
 aware some time before; but they did not all view the matter in the
@@ -17660,7 +18986,8 @@ had refused compliance, were thrown into extreme alarm. For whereas
 they considered all the ships in Greece too few to engage the enemy,
 it was plain that the greater number of states would take no part in
 the war, but warmly favoured the Medes.
-    And here I feel constrained to deliver an opinion, which most men,
+
+And here I feel constrained to deliver an opinion, which most men,
 I know, will mis-like, but which, as it seems to me to be true, I am
 determined not to withhold. Had the Athenians, from fear of the
 approaching danger, quitted their country, or had they without
@@ -17689,29 +19016,30 @@ oracles which reached them from Delphi, and struck fear into their
 hearts, failed to persuade them to fly from Greece. They had the
 courage to remain faithful to their land, and await the coming of
 the foe.
-    When the Athenians, anxious to consult the oracle, sent their
+
+When the Athenians, anxious to consult the oracle, sent their
 messengers to Delphi, hardly had the envoys completed the customary
 rites about the sacred precinct, and taken their seats inside the
 sanctuary of the god, when the Pythoness, Aristonice by name, thus
 prophesied-
 
-    Wretches, why sit ye here? Fly, fly to the ends of creation,
-    Quitting your homes, and the crags which your city crowns with
-      her circlet.
-    Neither the head, nor the body is firm in its place, nor at
-      bottom
-    Firm the feet, nor the hands; nor resteth the middle uninjur'd.
-    All- all ruined and lost. Since fire, and impetuous Ares,
-    Speeding along in a Syrian chariot, hastes to destroy her.
-    Not alone shalt thou suffer; full many the towers he will level,
-    Many the shrines of the gods he will give to a fiery destruction.
-    Even now they stand with dark sweat horribly dripping,
-    Trembling and quaking for fear; and lo! from the high roofs
-      trickleth
-    Black blood, sign prophetic of hard distresses impending.
-    Get ye away from the temple; and brood on the ills that await ye!
+> Wretches, why sit ye here? Fly, fly to the ends of creation,  
+> Quitting your homes, and the crags which your city crowns with
+>   her circlet.  
+> Neither the head, nor the body is firm in its place, nor at
+>   bottom  
+> Firm the feet, nor the hands; nor resteth the middle uninjur'd.  
+> All- all ruined and lost. Since fire, and impetuous Ares,  
+> Speeding along in a Syrian chariot, hastes to destroy her.  
+> Not alone shalt thou suffer; full many the towers he will level,  
+> Many the shrines of the gods he will give to a fiery destruction.  
+> Even now they stand with dark sweat horribly dripping,  
+> Trembling and quaking for fear; and lo! from the high roofs
+>   trickleth  
+> Black blood, sign prophetic of hard distresses impending.  
+> Get ye away from the temple; and brood on the ills that await ye!
 
-    When the Athenian messengers heard this reply, they were filled
+When the Athenian messengers heard this reply, they were filled
 with the deepest affliction: whereupon Timon, the son of Androbulus,
 one of the men of most mark among the Delphians, seeing how utterly
 cast down they were at the gloomy prophecy, advised them to take an
@@ -17723,21 +19051,21 @@ more comforting concerning our country. Else we will not leave thy
 sanctuary, but will stay here till we die." Upon this the priestess
 gave them a second answer, which was the following:-
 
-    Pallas has not been able to soften the lord of Olympus,
-    Though she has often prayed him, and urged him with excellent
-      counsel.
-    Yet once more I address thee in words than adamant firmer.
-    When the foe shall have taken whatever the limit of Cecrops
-    Holds within it, and all which divine Cithaeron, shelters,
-    Then far-seeing Jove grants this to the prayers of Athene;
-    Safe shall the wooden wall continue for thee and thy children.
-    Wait not the tramp of the horse, nor the footmen mightily moving
-    Over the land, but turn your hack to the foe, and retire ye.
-    Yet shall a day arrive when ye shall meet him in battle.
-    Holy Salamis, thou shalt destroy the offspring of women,
-    When men scatter the seed, or when they gather the harvest.
+> Pallas has not been able to soften the lord of Olympus,  
+> Though she has often prayed him, and urged him with excellent
+>   counsel.  
+> Yet once more I address thee in words than adamant firmer.  
+> When the foe shall have taken whatever the limit of Cecrops  
+> Holds within it, and all which divine Cithaeron, shelters,  
+> Then far-seeing Jove grants this to the prayers of Athene;  
+> Safe shall the wooden wall continue for thee and thy children.  
+> Wait not the tramp of the horse, nor the footmen mightily moving  
+> Over the land, but turn your hack to the foe, and retire ye.  
+> Yet shall a day arrive when ye shall meet him in battle.  
+> Holy Salamis, thou shalt destroy the offspring of women,  
+> When men scatter the seed, or when they gather the harvest.
 
-    This answer seemed, as indeed it was, gentler than the former one;
+This answer seemed, as indeed it was, gentler than the former one;
 so the envoys wrote it down, and went back with it to Athens. When,
 however, upon their arrival, they produced it before the people, and
 inquiry began to be made into its true meaning, many and various
@@ -17751,14 +19079,15 @@ advice was that nothing should be thought of except the ships, which
 had best be at once got ready. Still such as said the "wooden wall"
 meant the fleet, were perplexed by the last two lines of the oracle-
 
-    Holy Salamis, thou shall destroy the offspring of women,
-    When men scatter the seed, or when they gather the harvest.
+> Holy Salamis, thou shall destroy the offspring of women,  
+> When men scatter the seed, or when they gather the harvest.
 
 These words caused great disturbance among those who took the wooden
 wall to be the ships; since the interpreters understood them to mean
 that, if they made preparations for a sea-fight, they would suffer a
 defeat off Salamis.
-    Now there was at Athens a man who had lately made his way into the
+
+Now there was at Athens a man who had lately made his way into the
 first rank of citizens: his true name was Themistocles; but he was
 known more generally as the son of Neocles. This man came forward
 and said that the interpreters had not explained the oracle altogether
@@ -17776,7 +19105,8 @@ advice of these last had been against engaging in a sea-fight; "all
 the Athenians could do," they said, "was, without lifting a hand in
 their defence, to quit Attica, and make a settlement in some other
 country."
-    Themistocles had before this given a counsel which prevailed
+
+Themistocles had before this given a counsel which prevailed
 very seasonably. The Athenians, having a large sum of money in their
 treasury, the produce of the mines at Laureium, were about to share it
 among the full-grown citizens, who would have received ten drachmas
@@ -17794,7 +19124,8 @@ god, they would embark their whole force aboard their ships, and, with
 such Greeks as chose to join them, give battle to the barbarian
 invader. Such, then, were the oracles which had been received by the
 Athenians.
-    The Greeks who were well affected to the Grecian cause, having
+
+The Greeks who were well affected to the Grecian cause, having
 assembled in one place, and there consulted together, and interchanged
 pledges with each other, agreed that, before any other step was taken,
 the feuds and enmities which existed between the different nations
@@ -17812,7 +19143,8 @@ if possible, the entire Greek name in one, and so to bring all to join
 in the same plan of defence, inasmuch as the approaching dangers
 threatened all alike. Now the power of Gelo was said to be very great,
 far greater than that of any single Grecian people.
-    So when these resolutions had been agreed upon, and the quarrels
+
+So when these resolutions had been agreed upon, and the quarrels
 between the states made up, first of all they sent into Asia three men
 as spies. These men reached Sardis, and took note of the king's
 forces, but, being discovered, were examined by order of the
@@ -17827,7 +19159,8 @@ them round the camp, and show them all the footmen and all the
 horse, letting them gaze at everything to their hearts' content; then,
 when they were satisfied, to send them away unharmed to whatever
 country they desired.
-    For these orders Xerxes gave afterwards the following reasons.
+
+For these orders Xerxes gave afterwards the following reasons.
 "Had the spies been put to death," he said, "the Greeks would have
 continued ignorant of the vastness of his army, which surpassed the
 common report of it; while he would have done them a very small injury
@@ -17845,9 +19178,11 @@ to see when Xerxes would give the signal. He, however, merely asked
 master, with corn on board, "We too are bound thither," he rejoined,
 "laden, among other things, with corn. What harm is it, if they
 carry our provisions for us?"
-    So the spies, when they had seen everything, were dismissed, and
+
+So the spies, when they had seen everything, were dismissed, and
 came back to Europe.
-    The Greeks who had banded themselves together against the
+
+The Greeks who had banded themselves together against the
 Persian king, after despatching the spies into Asia, sent next
 ambassadors to Argos. The account which the Argives give of their
 own proceedings is the following. They say that they had information
@@ -17860,9 +19195,9 @@ slain by the Lacedaemonians under Cleomenes the son of Anaxandridas;
 which was the reason why they now sent to Delphi. When the Pythoness
 heard their question, she replied-
 
-    Hated of all thy neighbors, beloved of the blessed Immortals,
-    Sit thou still, with thy lance drawn inward, patiently watching;
-    Warily guard thine head, and the head will take care of the body.
+> Hated of all thy neighbors, beloved of the blessed Immortals,
+> Sit thou still, with thy lance drawn inward, patiently watching;
+> Warily guard thine head, and the head will take care of the body.
 
 This prophecy had been given them some time before the envoys came;
 but still, when they afterwards arrived, it was permitted them to
@@ -17872,7 +19207,8 @@ require, if the Lacedaemonians will first make a truce for thirty
 years, and will further divide with Argos the leadership of the allied
 army. Although in strict right the whole command should be hers, she
 will be content to have the leadership divided equally."
-    Such, they say, was the reply made by the council, in spite of the
+
+Such, they say, was the reply made by the council, in spite of the
 oracle which forbade them to enter into a league with the Greeks. For,
 while not without fear of disobeying the oracle, they were greatly
 desirous of obtaining a thirty years' truce, to give time for their
@@ -17891,7 +19227,8 @@ Sparta, and rather than yield one jot to it, they preferred to be
 under the rule of the barbarians. So they told the envoys to be
 gone, before sunset, from their territory, or they should be treated
 as enemies.
-    Such is the account which is given of these matters by the Argives
+
+Such is the account which is given of these matters by the Argives
 themselves. There is another story, which is told generally through
 Greece, of a different tenor. Xerxes, it is said, before he set
 forth on his expedition against Greece, sent a herald to Argos, who on
@@ -17904,14 +19241,16 @@ we spring; nor can it be right for you to fight, on behalf of
 others, against us. Your place is to keep quiet and hold yourself
 aloof. Only let matters proceed as I wish, and there is no people whom
 I shall have in higher esteem than you."
-    This address, says the story, was highly valued by the Argives,
+
+This address, says the story, was highly valued by the Argives,
 who therefore at the first neither gave a promise to the Greeks nor
 yet put forward a demand. Afterwards, however, when the Greeks
 called upon them to give their aid, they made the claim which has been
 mentioned, because they knew well that the Lacedaemonians would
 never yield it, and so they would have a pretext for taking no part in
 the war.
-    Some of the Greeks say that this account agrees remarkably with
+
+Some of the Greeks say that this account agrees remarkably with
 what happened many years afterwards. Callias, the son of Hipponicus,
 and certain others with him, had gone up to Susa, the city of
 Memnon, as ambassadors of the Athenians, upon a business quite
@@ -17921,7 +19260,8 @@ son of Xerxes, "if the friendship which they had formed with his
 father still continued, or if he looked upon them as his enemies?"- to
 which King Artaxerxes replied, "Most certainly it continues; and there
 is no city which I reckon more my friend than Argos."
-    For my own part I cannot positively say whether Xerxes did send
+
+For my own part I cannot positively say whether Xerxes did send
 the herald to Argos or not; nor whether Argive ambassadors at Susa did
 really put this question to Artaxerxes about the friendship between
 them and him; neither do I deliver any opinion hereupon other than
@@ -17937,9 +19277,11 @@ my whole History. Some even go so far as to say that the Argives first
 invited the Persians to invade Greece, because of their ill success in
 the war with Lacedaemon, since they preferred anything to the smart of
 their actual sufferings. Thus much concerning the Argives.
-    Other ambassadors, among whom was Syagrus from Lacedaemon, were
+
+Other ambassadors, among whom was Syagrus from Lacedaemon, were
 sent by the allies into Sicily, with instructions to confer with Gelo.
-    The ancestor of this Gelo, who first settled at Gela, was a native
+
+The ancestor of this Gelo, who first settled at Gela, was a native
 of the isle of Telos, which lies off Triopium. When Gela was colonised
 by Antiphemus and the Lindians of Rhodes, he likewise took part in the
 expedition. In course of time his descendants became the
@@ -17959,7 +19301,8 @@ the abilities of common men, and only to be achieved by such as are of
 a bold and manly spirit; whereas Telines is said by those who dwell
 about Sicily to have been a soft-hearted and womanish person. He
 however obtained this office in the manner above described.
-    Afterwards, on the death of Cleander the son of Pantares, who
+
+Afterwards, on the death of Cleander the son of Pantares, who
 was slain by Sabyllus, a citizen of Gela, after he had held the
 tyranny for seven years, Hippocrates, Cleander's brother, mounted
 the throne. During his reign, Gelo, a descendant of the high-priest
@@ -17975,7 +19318,8 @@ saved from this fate, after they had suffered defeat on the river
 Elorus, by the Corinthians and Corcyraeans, who made peace between
 them and Hippocrates, on condition of their ceding Camarina to him;
 for that city anciently belonged to Syracuse.
-    When, however, Hippocrates, after a reign of the same length as
+
+When, however, Hippocrates, after a reign of the same length as
 that of Cleander his brother, perished near the city Hybla, as he
 was warring with the native Sicilians, then Gelo, pretending to
 espouse the cause of the two sons of Hippocrates, Eucleides and
@@ -17988,7 +19332,8 @@ the common people assisted by their own slaves, the Cyllyrians, and
 had fled to Casmenae. Gelo brought them back to Syracuse, and so got
 possession of the town; for the people surrendered themselves, and
 gave up their city on his approach.
-    Being now master of Syracuse, Gelo cared less to govern Gela,
+
+Being now master of Syracuse, Gelo cared less to govern Gela,
 which he therefore entrusted to his brother Hiero, while he
 strengthened the defences of his new city, which indeed was now all in
 all to him. And Syracuse sprang up rapidly to power and became a
@@ -18006,9 +19351,11 @@ where he sold them all as slaves to be conveyed abroad. He did the
 like also by the Euboeans of Sicily, making the same difference. His
 conduct towards both nations arose from his belief that a "people" was
 a most unpleasant companion. In this way Gelo became a great king.
-    When the Greek envoys reached Syracuse, and were admitted to an
+
+When the Greek envoys reached Syracuse, and were admitted to an
 audience, they spoke as follows-
-    "We have been sent hither by the Lacedaemonians and Athenians,
+
+"We have been sent hither by the Lacedaemonians and Athenians,
 with their respective allies, to ask thee to join us against the
 barbarian. Doubtless thou hast heard of his invasion, and art aware
 that a Persian is about to throw a bridge over the Hellespont, and,
@@ -18028,8 +19375,10 @@ content and not advance against thee. Rather take thy measures
 beforehand, and consider that thou defendest thyself when thou
 givest aid to us. Wise counsels, be sure, for the most part have
 prosperous issues."
-    Thus spake the envoys; and Gelo replied with vehemence:-
-    "Greeks, ye have had the face to come here with selfish words, and
+
+Thus spake the envoys; and Gelo replied with vehemence:-
+
+"Greeks, ye have had the face to come here with selfish words, and
 exhort me to join in league with you against the barbarian. Yet when I
 erewhile asked you to join with me in fighting barbarians, what time
 the quarrel broke out between me and Carthage; and when I earnestly
@@ -18051,16 +19400,19 @@ however, I promise on one condition- that ye appoint me chief
 captain and commander of the Grecian forces during the war with the
 barbarian. Unless ye agree to this, I will neither send succours,
 nor come myself."
-    Syagrus, when he heard these words, was unable to contain himself,
+
+Syagrus, when he heard these words, was unable to contain himself,
 and exclaimed:-
-    "Surely a groan would burst from Pelops' son, Agamemnon, did he
+
+"Surely a groan would burst from Pelops' son, Agamemnon, did he
 hear that her leadership was snatched from Sparta by Gelo and the
 men of Syracuse. Speak then no more of any such condition, as that
 we should yield thee the chief command; but if thou art minded to come
 to the aid of Greece, prepare to serve under Lacedaemonian generals.
 Wilt thou not serve under a leader?- then, prithee, withhold thy
 succours."
-    Hereupon Gelo, seeing the indignation which showed itself in the
+
+Hereupon Gelo, seeing the indignation which showed itself in the
 wolds of Syagrus, delivered to the envoys his final offer:- "Spartan
 stranger," he said, "reproaches cast forth against a man are wont to
 provoke him to anger; but the insults which thou hast uttered in thy
@@ -18075,9 +19427,11 @@ or assume, if you prefer it, the command by sea, and I will be
 leader upon the land. Unless you are satisfied with these terms, you
 must return home by yourselves, and lose this great alliance." Such
 was the offer which Gelo made.
-    Hereat broke in the Athenian envoy, before the Spartan could
+
+Hereat broke in the Athenian envoy, before the Spartan could
 answer, and thus addressed Gelo-
-    "King of the Syracusans! Greece sent us here to thee to ask for an
+
+"King of the Syracusans! Greece sent us here to thee to ask for an
 army, and not to ask for a general. Thou, however, dost not promise to
 send us any army at all, if thou art not made leader of the Greeks;
 and this command is what alone thou sticklest for. Now when thy
@@ -18097,7 +19451,8 @@ most ancient nation in Greece, the only Greeks who have never
 changed their abode- the people who are said by the poet Homer to have
 sent to Troy the man best able of all the Greeks to array and
 marshal an army- so that we may be allowed to boast somewhat."
-    Gelo replied- "Athenian stranger, ye have, it seems, no lack of
+
+Gelo replied- "Athenian stranger, ye have, it seems, no lack of
 commanders; but ye are likely to lack men to receive their orders.
 As ye are resolved to yield nothing and claim everything, ye had
 best make haste back to Greece, and say that the spring of her year is
@@ -18106,7 +19461,8 @@ spring is manifestly the finest season of the year, so (he meant to
 say) were his troops the finest of the Greek army- Greece,
 therefore, deprived of his alliance, would be like a year with the
 spring taken from it.
-    Then the Greek envoys, without having any further dealings with
+
+Then the Greek envoys, without having any further dealings with
 Gelo, sailed away home. And Gelo, who feared that the Greeks would
 be too weak to withstand the barbarians, and yet could not any how
 bring himself to go to the Peloponnese, and there, though king of
@@ -18120,7 +19476,8 @@ stock of friendly words: there he was to watch the war, and see what
 turn it would take: if the barbarians prevailed, he was to give Xerxes
 the treasure, and with it earth and water for the lands which Gelo
 ruled- if the Greeks won the day, he was to convey the treasure back.
-    This Cadmus had at an earlier time received from his father the
+
+This Cadmus had at an earlier time received from his father the
 kingly power at Cos in a right good condition, and had of his own free
 will and without the approach of any danger, from pure love of
 justice, given up his power into the hands of the people at large, and
@@ -18134,7 +19491,8 @@ in his power, so that he might have kept it for his own use if he
 had liked, he did not touch it; but when the Greeks gained the
 sea-fight and Xerxes fled away with his army, he brought the whole
 treasure back with him to Sicily.
-    They, however, who dwell in Sicily, say that Gelo, though he
+
+They, however, who dwell in Sicily, say that Gelo, though he
 knew that he must serve under the Lacedaemonians, would nevertheless
 have come to the aid of the Greeks, had not it been for Terillus,
 the son of Crinippus, king of Himera; who, driven from his city by
@@ -18149,7 +19507,8 @@ as hostages, induced him to make the expedition. Anaxilaus herein
 served his own father-in-law; for he was married to a daughter of
 Terillus, by name Cydippe. So, as Gelo could not give the Greeks any
 aid, he sent (they say) the sum of money to Delphi.
-    They say too, that the victory of Gelo and Thero in Sicily over
+
+They say too, that the victory of Gelo and Thero in Sicily over
 Hamilcar the Carthaginian fell out upon the very day that the Greeks
 defeated the Persians at Salamis. Hamilcar, who was a Carthaginian
 on his father's side only, but on his mother's a Syracusan, and who
@@ -18157,7 +19516,8 @@ had been raised by his merit to the throne of Carthage, after the
 battle and the defeat, as I am informed, disappeared from sight:
 Gelo made the strictest search for him, but he could not be found
 anywhere, either dead or alive.
-    The Carthaginians, who take probability for their guide, give
+
+The Carthaginians, who take probability for their guide, give
 the following account of this matter:- Hamilcar, they say, during
 all the time that the battle raged between the Greeks and the
 barbarians, which was from early dawn till evening, remained in the
@@ -18171,7 +19531,8 @@ Syracusans maintain, in some other, certain it is that the
 Carthaginians offer him sacrifice, and in all their colonies have
 monuments erected to his honour, as well as one, which is the grandest
 of all, at Carthage. Thus much concerning the affairs of Sicily.
-    As for the Corcyraeans, whom the envoys that visited Sicily took
+
+As for the Corcyraeans, whom the envoys that visited Sicily took
 in their way, and to whom they delivered the same message as to
 Gelo- their answers and actions were the following. With great
 readiness they promised to come and give their help to the Greeks;
@@ -18203,7 +19564,8 @@ triremes, but that the Etesian winds did not allow them to double Cape
 Malea, and this hindered them from reaching Salamis- it was not from
 any bad motive that they had missed the sea-fight." In this way the
 Corcyraeans eluded the reproaches of the Greeks.
-    The Cretans, when the envoys sent to ask aid from them came and
+
+The Cretans, when the envoys sent to ask aid from them came and
 made their request, acted as follows. They despatched messengers in
 the name of their state to Delphi, and asked the god, whether it would
 make for their welfare if they should lend succour to Greece. "Fools!"
@@ -18214,7 +19576,8 @@ avenging his death at Camicus, you helped them to avenge the
 carrying off by a barbarian of a woman from Sparta!" When this
 answer was brought from Delphi to the Cretans, they thought no more of
 assisting the Greeks.
-    Minos, according to tradition, went to Sicania, or Sicily, as it
+
+Minos, according to tradition, went to Sicania, or Sicily, as it
 is now called, in search of Daedalus, and there perished by a
 violent death. After a while the Cretans, warned by some god or other,
 made a great expedition into Sicania, all except the Polichnites and
@@ -18241,7 +19604,8 @@ left in charge of Rhegium: he is the same man who was afterwards
 forced to leave Rhegium, when he settled at Tegea in Arcadia, from
 which place he made his many offerings of statues to the shrine at
 Olympia.
-    This account of the Rhegians and the Tarentines is a digression
+
+This account of the Rhegians and the Tarentines is a digression
 from the story which I was relating. To return- the Praesians say that
 men of various nations now flocked to Crete, which was stript of its
 inhabitants; but none came in such numbers as the Grecians. Three
@@ -18255,7 +19619,8 @@ only being left; who form, together with fresh settlers, the third
 the events of which the Pythoness now reminded the men of Crete; and
 thereby she prevented them from giving the Greeks aid, though they
 wished to have gone to their assistance.
-    The Thessalians did not embrace the cause of the Medes until
+
+The Thessalians did not embrace the cause of the Medes until
 they were forced to do so; for they gave plain proof that the
 intrigues of the Aleuadae were not at all to their liking. No sooner
 did they hear that the Persian was about to cross over into Europe
@@ -18263,7 +19628,8 @@ than they despatched envoys to the Greeks who were met to consult
 together at the Isthmus, whither all the states which were well
 inclined to the Grecian cause had sent their delegates. These envoys
 on their arrival thus addressed their countrymen:-
-    "Men of Greece, it behoves you to guard the pass of Olympus; for
+
+"Men of Greece, it behoves you to guard the pass of Olympus; for
 thus will Thessaly be placed in safety, as well as the rest of Greece.
 We for our parts are quite ready to take our share in this work; but
 you must likewise send us a strong force: otherwise we give you fair
@@ -18273,8 +19639,10 @@ die in your defence alone and unassisted. If however you do not choose
 to send us aid, you cannot force us to resist the enemy; for there
 is no force so strong as inability. We shall therefore do our best
 to secure our own safety."
-    Such was the declaration of the Thessalians.
-    Hereupon the Greeks determined to send a body of foot to
+
+Such was the declaration of the Thessalians.
+
+Hereupon the Greeks determined to send a body of foot to
 Thessaly by sea, which should defend the pass of Olympus.
 Accordingly a force was collected, which passed up the Euripus, and
 disembarking at Alus, on the coast of Achaea, left the ships there,
@@ -18301,13 +19669,15 @@ into Thessaly through the territory of the Perrhaebi, and by the
 town of Gonnus- the pass by which soon afterwards the army of Xerxes
 actually made its entrance. The Greeks therefore went back to their
 ships and sailed away to the Isthmus.
-    Such were the circumstances of the expedition into Thessaly;
+
+Such were the circumstances of the expedition into Thessaly;
 they took place when the king was at Abydos, preparing to pass from
 Asia into Europe. The Thessalians, when their allies forsook them,
 no longer wavered, but warmly espoused the side of the Medes; and
 afterwards, in the course of the war, they were of the very greatest
 service to Xerxes.
-    The Greeks, on their return to the Isthmus, took counsel
+
+The Greeks, on their return to the Isthmus, took counsel
 together concerning the words of Alexander, and considered where
 they should fix the war, and what places they should occupy. The
 opinion which prevailed was that they should guard the pass of
@@ -18321,7 +19691,8 @@ through it; and at the same time it was resolved that the fleet should
 proceed to Artemisium, in the region of Histiaeotis, for, as those
 places are near to one another, it would be easy for the fleet and
 army to hold communication. The two places may be thus described.
-    Artemisium is where the sea of Thrace contracts into a narrow
+
+Artemisium is where the sea of Thrace contracts into a narrow
 channel, running between the isle of Sciathus and the mainland of
 Magnesia. When this narrow strait is passed you come to the line of
 coast called Artemisium; which is a portion of Euboea, and contains
@@ -18350,14 +19721,16 @@ through age. Now however the Greeks resolved to repair its breaches,
 and here make their stand against the barbarian. At this point there
 is a village very nigh the road, Alpeni by name, from which the Greeks
 reckoned on getting corn for their troops.
-    These places, therefore, seemed to the Greeks fit for their
+
+These places, therefore, seemed to the Greeks fit for their
 purpose. Weighing well all that was likely to happen, and
 considering that in this region the barbarians could make no use of
 their vast numbers, nor of their cavalry, they resolved to await
 here the invader of Greece. And when news reached them of the Persians
 being in Pieria, straightway they broke up from the Isthmus, and
 proceeded, some on foot to Thermopylae, others by sea to Artemisium.
-    The Greeks now made all speed to reach the two stations; and about
+
+The Greeks now made all speed to reach the two stations; and about
 the same time- the Delphians, alarmed both for themselves and for
 their country, consulted the god, and received for answer a command to
 "pray to the winds, for the winds would do Greece good service." So
@@ -18370,13 +19743,15 @@ daughter of Cephissus, from whom the region takes its name, has a
 precinct), and worshipped them with sacrifices. And even to the
 present day the Delphians sacrifice to the winds, because of this
 oracle.
-    The fleet of Xerxes now departed from Therma; and ten of the
+
+The fleet of Xerxes now departed from Therma; and ten of the
 swiftest sailing ships ventured to stretch across direct for Sciathus,
 at which place there were upon the look-out three vessels belonging to
 the Greeks, one a ship of Troezen, another of Egina, and the third
 from Athens. These vessels no sooner saw from a distance the
 barbarians approaching than they all hurriedly took to flight.
-    The barbarians at once pursued, and the Troezenian ship, which was
+
+The barbarians at once pursued, and the Troezenian ship, which was
 commanded by Prexinus, fell into their hands. Hereupon the Persians
 took the handsomest of the men-at-arms, and drew him to the prow of
 the vessel, where they sacrificed him; for they thought the man a good
@@ -18384,7 +19759,8 @@ omen to their cause, seeing that he was at once so beautiful, and
 likewise the first captive they had made. The man who was slain in
 this way was called Leo; and it may be that the name he bore helped
 him to his fate in some measure.
-    The Eginetan trireme, under its captain, Asonides, gave the
+
+The Eginetan trireme, under its captain, Asonides, gave the
 Persians no little trouble, one of the men-at-arms, Pythes, the son of
 Ischenous, distinguishing himself beyond all the others who fought
 that day. After the ship was taken this man continued to resist, and
@@ -18397,18 +19773,21 @@ returned to their own station, they displayed their prisoner
 admiringly to the whole host, and behaved towards him with much
 kindness; but all the rest of the ship's crew were treated merely as
 slaves.
-    Thus did the Persians succeed in taking two of the vessels. The
+
+Thus did the Persians succeed in taking two of the vessels. The
 third, a trireme commanded by Phormus of Athens, took to flight and
 ran aground at the mouth of the river Peneus. The barbarians got
 possession of the bark but not of the men. For the Athenians had no
 sooner run their vessel aground than they leapt out, and made their
 way through Thessaly back to Athens.
-    When the Greeks stationed at Artemisium learnt what had happened
+
+When the Greeks stationed at Artemisium learnt what had happened
 by fire-signals from Sciathus, so terrified were they, that,
 quitting their anchorage-ground at Artemisium, and leaving scouts to
 watch the foe on the highlands of Euboea, they removed to Chalcis,
 intending to guard the Euripus.
-    Meantime three of the ten vessels sent forward by the barbarians
+
+Meantime three of the ten vessels sent forward by the barbarians
 advanced as far as the sunken rock between Sciathus and Magnesia,
 which is called "The Ant," and there set up a stone pillar which
 they had brought with them for that purpose. After this, their
@@ -18418,7 +19797,8 @@ The rock, which lay directly in their course, had been made known to
 them by Pammon of Scyros. A day's voyage without a stop brought them
 to Sepias in Magnesia, and to the strip of coast which lies between
 the town of Casthanaea and the promontory of Sepias.
-    As far as this point then, and on land, as far as Thermopylae, the
+
+As far as this point then, and on land, as far as Thermopylae, the
 armament of Xerxes had been free from mischance; and the numbers
 were still, according to my reckoning, of the following amount.
 First there was the ancient complement of the twelve hundred and seven
@@ -18439,7 +19819,8 @@ number, therefore, of the land and sea forces added together amounts
 to 2,317,610 men. Such was the force brought from Asia, without
 including the camp followers, or taking any account of the
 provision- ships and the men whom they had on board.
-    To the amount thus reached we have still to add the forces
+
+To the amount thus reached we have still to add the forces
 gathered in Europe, concerning which I can only speak from conjecture.
 The Greeks dwelling in Thrace, and in the islands off the coast of
 Thrace, furnished to the fleet one hundred and twenty ships; the crews
@@ -18451,7 +19832,8 @@ Magnesians, the Achaeans and by all the dwellers upon the Thracian
 sea-board; and the forces of these nations amounted, I believe, to
 three hundred thousand men. These numbers, added to those of the force
 which came out of Asia, make the sum of the fighting men 2,641,610.
-    Such then being the number of the fighting men, it is my belief
+
+Such then being the number of the fighting men, it is my belief
 that the attendants who followed the camp, together with the crews
 of the corn-barks, and of the other craft accompanying the army,
 made up an amount rather above than below that of the fighting men.
@@ -18460,7 +19842,8 @@ them at an equal number. We have therefore to add to the sum already
 reached an exactly equal amount. This will give 5,283,220 as the whole
 number of men brought by Xerxes, the son of Darius, as far as Sepias
 and Thermopylae.
-    Such then was the amount of the entire host of Xerxes. As for
+
+Such then was the amount of the entire host of Xerxes. As for
 the number of the women who ground the corn, of the concubines, and
 the eunuchs, no one can give any sure account of it; nor can the
 baggage-horses and other sumpter-beasts, nor the Indian hounds which
@@ -18474,7 +19857,8 @@ choenix of corn a day, there must have been used daily by the army
 women, the eunuchs, the sumpter-beasts, and the hounds. Among all this
 multitude of men there was not one who, for beauty and stature,
 deserved more than Xerxes himself to wield so vast a power.
-    The fleet then, as I said, on leaving Therma, sailed to the
+
+The fleet then, as I said, on leaving Therma, sailed to the
 Magnesian territory, and there occupied the strip of coast between the
 city of Casthanaea and Cape Sepias. The ships of the first row were
 moored to the land, while the remainder swung at anchor further off.
@@ -18491,7 +19875,8 @@ ashore, some of them near the place called Ipni, or "The Ovens," at
 the foot of Pelion; others on the strand itself; others again about
 Cape Sepias; while a portion were dashed to pieces near the cities
 of Meliboea and Casthanaea. There was no resisting the tempest.
-    It is said that the Athenians had called upon Boreas to aid the
+
+It is said that the Athenians had called upon Boreas to aid the
 Greeks, on account of a fresh oracle which had reached them,
 commanding them to "seek help from their son-in-law." For Boreas,
 according to the tradition of the Greeks, took to wife a woman of
@@ -18507,7 +19892,8 @@ on the barbarians at their anchorage I cannot say; but the Athenians
 declare that they had received aid from Boreas before, and that it was
 he who now caused all these disasters. They therefore, on their return
 home, built a temple to this god on the banks of the Ilissus.
-    Such as put the loss of the Persian fleet in this storm at the
+
+Such as put the loss of the Persian fleet in this storm at the
 lowest say that four hundred of their ships were destroyed, that a
 countless multitude of men were slain, and a vast treasure engulfed.
 Ameinocles, the son of Cretines, a Magnesian, who farmed land near
@@ -18519,7 +19905,8 @@ and beyond count, came into his possession. Ameinocles grew to be a
 man of great wealth in this way; but in other respects things did
 not go over well with him: he too, like other men, had his own
 grief- the calamity of losing his offspring.
-    As for the number of the provision craft and other merchant
+
+As for the number of the provision craft and other merchant
 ships which perished, it was beyond count. Indeed, such was the
 loss, that the commanders of the sea force, fearing lest in their
 shattered condition the Thessalians should venture on an attack,
@@ -18533,7 +19920,8 @@ their offering sacrifice to Thetis was this: they were told by the
 Ionians that here was the place whence Peleus carried her off, and
 that the whole promontory was sacred to her and to her sister Nereids.
 So the storm lulled upon the fourth day.
-    The scouts left by the Greeks about the highlands of Euboea
+
+The scouts left by the Greeks about the highlands of Euboea
 hastened down from their stations on the day following that whereon
 the storm began, and acquainted their countrymen with all that had
 befallen the Persian fleet. These no sooner heard what had happened
@@ -18544,7 +19932,8 @@ oppose them, and arriving there for the second time, took up their
 station on that strip of coast: nor from that day to the present
 have they ceased to address Neptune by the name then given him, of
 "Saviour."
-    The barbarians, when the wind lulled and the sea grew smooth, drew
+
+The barbarians, when the wind lulled and the sea grew smooth, drew
 their ships down to the water, and proceeded to coast along the
 mainland. Having then rounded the extreme point of Magnesia, they
 sailed straight into the bay that runs up to Pagasae. There is a place
@@ -18555,7 +19944,8 @@ ship Argo, in quest of the golden fleece. From the circumstance that
 they intended, after watering their vessel at this place, to quit
 the shore and launch forth into the deep, it received the name of
 Aphetae. Here then it was that the fleet of Xerxes came to an anchor.
-    Fifteen ships, which had lagged greatly behind the rest, happening
+
+Fifteen ships, which had lagged greatly behind the rest, happening
 to catch sight of the Greek fleet at Artemisium, mistook it for
 their own, and sailing down into the midst of it, fell into the
 hands of the enemy. The commander of this squadron was Sandoces, the
@@ -18571,7 +19961,8 @@ at this time; but he was not fated to come off so cheaply from his
 second peril; for as soon as the Greeks saw the ships making towards
 them, they guessed their mistake, and putting to sea, took them
 without difficulty.
-    Aridolis, tyrant of Alabanda in Caria, was on board one of the
+
+Aridolis, tyrant of Alabanda in Caria, was on board one of the
 ships, and was made prisoner; as also was the Paphian general,
 Penthylus, the son of Domonous, who was on board another. This
 person had brought with him twelve ships from Paphos, and, after
@@ -18579,7 +19970,8 @@ losing eleven in the storm off Sepias, was taken in the remaining
 one as he sailed towards Artemisium. The Greeks, after questioning
 their prisoners as much as they wished concerning the forces of
 Xerxes, sent them away in chains to the Isthmus of Corinth.
-    The sea force of the barbarians, with the exception of the fifteen
+
+The sea force of the barbarians, with the exception of the fifteen
 ships commanded (as I said) by Sandoces, came safe to Aphetae.
 Xerxes meanwhile, with the land army, had proceeded through Thessaly
 and Achaea, and three days earlier, had entered the territory of the
@@ -18589,7 +19981,8 @@ coursers were left far behind in the race. All the rivers in this
 region had water enough to supply his army, except only the Onochonus;
 but in Achaea, the largest of the streams, the Apidanus, barely held
 out.
-    On his arrival at Alus in Achaea, his guides, wishing to inform
+
+On his arrival at Alus in Achaea, his guides, wishing to inform
 him of everything, told him the tale known to the dwellers in those
 parts concerning the temple of the Laphystian Jupiter- how that
 Athamas the son of Aeolus took counsel with Ino and plotted the
@@ -18612,7 +20005,8 @@ of the god upon his own posterity. Xerxes, therefore, having heard
 this story, when he reached the grove of the god, avoided it, and
 commanded his army to do the like. He also paid the same respect to
 the house and precinct of the descendants of Athamas.
-    Such were the doing of Xerxes in Thessaly and in Achaea, From
+
+Such were the doing of Xerxes in Thessaly and in Achaea, From
 hence he passed on into Malis, along the shores of a bay, in which
 there is an ebb and flow of the tide daily. By the side of this bay
 lies a piece of flat land, in one part broad, but in another very
@@ -18626,12 +20020,14 @@ which is said to have appeared first to help Hercules when he was
 burning. Again, at the distance of twenty furlongs, there is a
 stream called the Melas, near which, within about five furlongs,
 stands the city of Trachis.
-    At the point where this city is built, the plain between the hills
+
+At the point where this city is built, the plain between the hills
 and the sea is broader than at any other, for it there measures 22,000
 plethra. South of Trachis there is a cleft in the mountain-range which
 shuts in the territory of Trachinia; and the river Asopus issuing from
 this cleft flows for a while along the foot of the hills.
-    Further to the south, another river, called the Phoenix, which has
+
+Further to the south, another river, called the Phoenix, which has
 no great body of water, flows from the same hills, and falls into
 the Asopus. Here is the narrowest place of all; for in this part there
 is only a causeway wide enough for a single carriage. From the river
@@ -18641,7 +20037,8 @@ Asopus passes ere it reaches the sea. The space about Anthela is of
 some width, and contains a temple of Amphictyonian Ceres, as well as
 the seats of the Amphictyonic deputies, and a temple of Amphictyon
 himself.
-    King Xerxes pitched his camp in the region of Malis called
+
+King Xerxes pitched his camp in the region of Malis called
 Trachinia, while on their side the Greeks occupied the straits.
 These straits the Greeks in general call Thermopylae (the Hot
 Gates); but the natives, and those who dwell in the neighbourhood,
@@ -18649,7 +20046,8 @@ call them Pylae (the Gates). Here then the two armies took their
 stand; the one master of all the region lying north of Trachis, the
 other of the country extending southward of that place to the verge of
 the continent.
-    The Greeks who at this spot awaited the coming of Xerxes were
+
+The Greeks who at this spot awaited the coming of Xerxes were
 the following:- From Sparta, three hundred men-at-arms; from
 Arcadia, a thousand Tegeans and Mantineans, five hundred of each
 people; a hundred and twenty Orchomenians, from the Arcadian
@@ -18657,7 +20055,8 @@ Orchomenus; and a thousand from other cities: from Corinth, four
 hundred men; from Phlius, two hundred; and from Mycenae eighty. Such
 was the number from the Peloponnese. There were also present, from
 Boeotia, seven hundred Thespians and four hundred Thebans.
-    Besides these troops, the Locrians of Opus and the Phocians had
+
+Besides these troops, the Locrians of Opus and the Phocians had
 obeyed the call of their countrymen, and sent, the former all the
 force they had, the latter a thousand men. For envoys had gone from
 the Greeks at Thermopylae among the Locrians and Phocians, to call
@@ -18672,7 +20071,8 @@ those misfortunes greater in proportion to his own greatness. The
 assailant therefore, being only a mortal, must needs fall from his
 glory." Thus urged, the Locrians and the Phocians had come with
 their troops to Trachis.
-    The various nations had each captains of their own under whom they
+
+The various nations had each captains of their own under whom they
 served; but the one to whom all especially looked up, and who had
 the command of the entire force, was the Lacedaemonian, Leonidas.
 Now Leonidas was the son of Anaxandridas, who was the son of Leo,
@@ -18685,8 +20085,10 @@ Echestratus, who was the son of Agis, who was the son of
 Eurysthenes, who was the son of Aristodemus, who was the son of
 Aristomachus, who was the son of Cleodaeus, who was the son of Hyllus,
 who was the son of Hercules.
-    Leonidas had come to be king of Sparta quite unexpectedly.
-    Having two elder brothers, Cleomenes and Dorieus, he had no
+
+Leonidas had come to be king of Sparta quite unexpectedly.
+
+Having two elder brothers, Cleomenes and Dorieus, he had no
 thought of ever mounting the throne. However, when Cleomenes died
 without male offspring, as Dorieus was likewise deceased, having
 perished in Sicily, the crown fell to Leonidas, who was older than
@@ -18704,7 +20106,8 @@ come with him to the war, wishing to see whether they would comply
 with his demand, or openly refuse, and disclaim the Greek alliance.
 They, however, though their wishes leant the other way, nevertheless
 sent the men.
-    The force with Leonidas was sent forward by the Spartans in
+
+The force with Leonidas was sent forward by the Spartans in
 advance of their main body, that the sight of them might encourage the
 allies to fight, and hinder them from going over to the Medes, as it
 was likely they might have done had they seen that Sparta was
@@ -18716,7 +20119,8 @@ that the Olympic festival fell exactly at this same period. None of
 them looked to see the contest at Thermopylae decided so speedily;
 wherefore they were content to send forward a mere advanced guard.
 Such accordingly were the intentions of the allies.
-    The Greek forces at Thermopylae, when the Persian army drew near
+
+The Greek forces at Thermopylae, when the Persian army drew near
 to the entrance of the pass, were seized with fear; and a council
 was held to consider about a retreat. It was the wish of the
 Peloponnesians generally that the army should fall back upon the
@@ -18725,7 +20129,8 @@ what indignation the Phocians and Locrians heard of this plan, gave
 his voice for remaining where they were, while they sent envoys to the
 several cities to ask for help, since they were too few to make a
 stand against an army like that of the Medes.
-    While this debate was going on, Xerxes sent a mounted spy to
+
+While this debate was going on, Xerxes sent a mounted spy to
 observe the Greeks, and note how many they were, and see what they
 were doing. He had heard, before he came out of Thessaly, that a few
 men were assembled at this place, and that at their head were
@@ -18741,7 +20146,8 @@ long hair. At this the spy greatly marvelled, but he counted their
 number, and when he had taken accurate note of everything, he rode
 back quietly; for no one pursued after him, nor paid any heed to his
 visit. So he returned, and told Xerxes all that he had seen.
-    Upon this, Xerxes, who had no means of surmising the truth-
+
+Upon this, Xerxes, who had no means of surmising the truth-
 namely, that the Spartans were preparing to do or die manfully- but
 thought it laughable that they should be engaged in such
 employments, sent and called to his presence Demaratus the son of
@@ -18749,7 +20155,8 @@ Ariston, who still remained with the army. When he appeared, Xerxes
 told him all that he had heard, and questioned him concerning the
 news, since he was anxious to understand the meaning of such behaviour
 on the part of the Spartans. Then Demaratus said-
-    "I spake to thee, O king! concerning these men long since, when we
+
+"I spake to thee, O king! concerning these men long since, when we
 had but just begun our march upon Greece; thou, however, didst only
 laugh at my words, when I told thee of all this, which I saw would
 come to pass. Earnestly do I struggle at all times to speak truth to
@@ -18761,12 +20168,15 @@ thou canst subdue the men who are here and the Lacedaemonians who
 remain in Sparta, there is no other nation in all the world which will
 venture to lift a hand in their defence. Thou hast now to deal with
 the first kingdom and town in Greece, and with the bravest men."
-    Then Xerxes, to whom what Demaratus said seemed altogether to
+
+Then Xerxes, to whom what Demaratus said seemed altogether to
 surpass belief, asked further "how it was possible for so small an
 army to contend with his?"
-    "O king!" Demaratus answered, "let me be treated as a liar, if
+
+"O king!" Demaratus answered, "let me be treated as a liar, if
 matters fall not out as I say."
-    But Xerxes was not persuaded any the more. Four whole days he
+
+But Xerxes was not persuaded any the more. Four whole days he
 suffered to go by, expecting that the Greeks would run away. When,
 however, he found on the fifth that they were not gone, thinking
 that their firm stand was mere impudence and recklessness, he grew
@@ -18778,7 +20188,8 @@ off, though they suffered terrible losses. In this way it became clear
 to all, and especially to the king, that though he had plenty of
 combatants, he had but very few warriors. The struggle, however,
 continued during the whole day.
-    Then the Medes, having met so rough a reception, withdrew from the
+
+Then the Medes, having met so rough a reception, withdrew from the
 fight; and their place was taken by the band of Persians under
 Hydarnes, whom the king called his "Immortals": they, it was
 thought, would soon finish the business. But when they joined battle
@@ -18796,10 +20207,12 @@ fell in these encounters, but only a very few. At last the Persians,
 finding that all their efforts to gain the pass availed nothing, and
 that, whether they attacked by divisions or in any other way, it was
 to no purpose, withdrew to their own quarters.
-    During these assaults, it is said that Xerxes, who was watching
+
+During these assaults, it is said that Xerxes, who was watching
 the battle, thrice leaped from the throne on which he sate, in
 terror for his army.
-    Next day the combat was renewed, but with no better success on the
+
+Next day the combat was renewed, but with no better success on the
 part of the barbarians. The Greeks were so few that the barbarians
 hoped to find them disabled, by reason of their wounds, from
 offering any further resistance; and so they once more attacked
@@ -18808,7 +20221,8 @@ cities, and bore the brunt of the battle in turns- all except the
 Phocians, who had been stationed on the mountain to guard the pathway.
 So, when the Persians found no difference between that day and the
 preceding, they again retired to their quarters.
-    Now, as the king was in great strait, and knew not how he should
+
+Now, as the king was in great strait, and knew not how he should
 deal with the emergency, Ephialtes, the son of Eurydemus, a man of
 Malis, came to him and was admitted to a conference. Stirred by the
 hope of receiving a rich reward at the king's hands, he had come to
@@ -18824,7 +20238,8 @@ for his treachery, but for another reason, which I shall mention in
 a later part of my history: yet still the Lacedaemonians honoured
 him none the less. Thus then did Ephialtes perish a long time
 afterwards.
-    Besides this there is another story told, which I do not at all
+
+Besides this there is another story told, which I do not at all
 believe- to wit, that Onetas the son of Phanagoras, a native of
 Carystus, and Corydallus, a man of Anticyra, were the persons who
 spoke on this matter to the king, and took the Persians across the
@@ -18838,7 +20253,8 @@ might have been acquainted with the path, if he had lived much in that
 part of the country; but as Ephialtes was the person who actually
 led the Persians round the mountain by the pathway, I leave his name
 on record as that of the man who did the deed.
-    Great was the joy of Xerxes on this occasion; and as he approved
+
+Great was the joy of Xerxes on this occasion; and as he approved
 highly of the enterprise which Ephialtes undertook to accomplish, he
 forthwith sent upon the errand Hydarnes, and the Persians under him.
 The troops left the camp about the time of the lighting of the
@@ -18848,14 +20264,16 @@ it to attack the Phocians, at the time when the Phocians fortified the
 pass with a wall, and so put themselves under covert from danger.
 And ever since, the path has always been put to an ill use by the
 Malians.
-    The course which it takes is the following:- Beginning at the
+
+The course which it takes is the following:- Beginning at the
 Asopus, where that stream flows through the cleft in the hills, it
 runs along the ridge of the mountain (which is called, like the
 pathway over it, Anopaea), and ends at the city of Alpenus- the
 first Locrian town as you come from Malis- by the stone called
 Melampygus and the seats of the Cercopians. Here it is as narrow as at
 any other point.
-    The Persians took this path, and, crossing the Asopus, continued
+
+The Persians took this path, and, crossing the Asopus, continued
 their march through the whole of the night, having the mountains of
 Oeta on their right hand, and on their left those of Trachis. At
 dawn of day they found themselves close to the summit. Now the hill
@@ -18865,7 +20283,8 @@ same time to secure their own country. They had been given the guard
 of the mountain path, while the other Greeks defended the pass
 below, because they had volunteered for the service, and had pledged
 themselves to Leonidas to maintain the post.
-    The ascent of the Persians became known to the Phocians in the
+
+The ascent of the Persians became known to the Phocians in the
 following manner:- During all the time that they were making their way
 up, the Greeks remained unconscious of it, inasmuch as the whole
 mountain was covered with groves of oak; but it happened that the
@@ -18885,7 +20304,8 @@ ready to meet death; but while their mistake continued, the
 Persians, with Ephialtes and Hydarnes, not thinking it worth their
 while to delay on account of Phocians, passed on and descended the
 mountain with all possible speed.
-    The Greeks at Thermopylae received the first warning of the
+
+The Greeks at Thermopylae received the first warning of the
 destruction which the dawn would bring on them from the seer
 Megistias, who read their fate in the victims as he was sacrificing.
 After this deserters came in, and brought the news that the Persians
@@ -18898,7 +20318,8 @@ their post, while others contended to the contrary. So when the
 council had broken up, part of the troops departed and went their ways
 homeward to their several states; part however resolved to remain, and
 to stand by Leonidas to the last.
-    It is said that Leonidas himself sent away the troops who
+
+It is said that Leonidas himself sent away the troops who
 departed, because he tendered their safety, but thought it unseemly
 that either he or his Spartans should quit the post which they had
 been especially sent to guard. For my own part, I incline to think
@@ -18913,21 +20334,22 @@ received from the Pythoness was "that either Sparta must be overthrown
 by the barbarians, or one of her kings must perish." The prophecy
 was delivered in hexameter verse, and ran thus:-
 
-    O ye men who dwell in the streets of broad Lacedaemon!
-    Either your glorious town shall be sacked by the children of
-      Perseus,
-    Or, in exchange, must all through the whole Laconian country
-    Mourn for the loss of a king, descendant of great Heracles.
-    He cannot be withstood by the courage of bulls nor of lions,
-    Strive as they may; he is mighty as Jove; there is nought that
-      shall stay him,
-    Till he have got for his prey your king, or your glorious city.
+> O ye men who dwell in the streets of broad Lacedaemon!  
+> Either your glorious town shall be sacked by the children of
+>   Perseus,  
+> Or, in exchange, must all through the whole Laconian country  
+> Mourn for the loss of a king, descendant of great Heracles.  
+> He cannot be withstood by the courage of bulls nor of lions,  
+> Strive as they may; he is mighty as Jove; there is nought that
+>   shall stay him,  
+> Till he have got for his prey your king, or your glorious city.  
 
 The remembrance of this answer, I think, and the wish to secure the
 whole glory for the Spartans, caused Leonidas to send the allies away.
 This is more likely than that they quarrelled with him, and took their
 departure in such unruly fashion.
-    To me it seems no small argument in favour of this view, that
+
+To me it seems no small argument in favour of this view, that
 the seer also who accompanied the army, Megistias, the Acarnanian-
 said to have been of the blood of Melampus, and the same who was led
 by the appearance of the victims to warn the Greeks of the danger
@@ -18936,7 +20358,8 @@ he did) from Leonidas, that he might escape the coming destruction.
 Megistias, however, though bidden to depart, refused, and stayed
 with the army; but he had an only son present with the expedition,
 whom he now sent away.
-    So the allies, when Leonidas ordered them to retire, obeyed him
+
+So the allies, when Leonidas ordered them to retire, obeyed him
 and forthwith departed. Only the Thespians and the Thebans remained
 with the Spartans; and of these the Thebans were kept back by Leonidas
 as hostages, very much against their will. The Thespians, on the
@@ -18944,7 +20367,8 @@ contrary, stayed entirely of their own accord, refusing to retreat,
 and declaring that they would not forsake Leonidas and his
 followers. So they abode with the Spartans, and died with them.
 Their leader was Demophilus, the son of Diadromes.
-    At sunrise Xerxes made libations, after which he waited until
+
+At sunrise Xerxes made libations, after which he waited until
 the time when the forum is wont to fill, and then began his advance.
 Ephialtes had instructed him thus, as the descent of the mountain is
 much quicker, and the distance much shorter, than the way round the
@@ -18963,7 +20387,8 @@ heeded the dying. For the Greeks, reckless of their own safety and
 desperate, since they knew that, as the mountain had been crossed,
 their destruction was nigh at hand, exerted themselves with the most
 furious valour against the barbarians.
-    By this time the spears of the greater number were all shivered,
+
+By this time the spears of the greater number were all shivered,
 and with their swords they hewed down the ranks of the Persians; and
 here, as they strove, Leonidas fell fighting bravely, together with
 many other famous Spartans, whose names I have taken care to learn
@@ -18974,7 +20399,8 @@ his children by Phratagune, the daughter of Artanes. Artanes was
 brother of King Darius, being a son of Hystaspes, the son of
 Arsames; and when he gave his daughter to the king, he made him heir
 likewise of all his substance; for she was his only child.
-    Thus two brothers of Xerxes here fought and fell. And now there
+
+Thus two brothers of Xerxes here fought and fell. And now there
 arose a fierce struggle between the Persians and the Lacedaemonians
 over the body of Leonidas, in which the Greeks four times drove back
 the enemy, and at last by their great bravery succeeded in bearing off
@@ -18992,7 +20418,8 @@ who in part had pulled down the wall and attacked them in front, in
 part had gone round and now encircled them upon every side,
 overwhelmed and buried the remnant which was left beneath showers of
 missile weapons.
-    Thus nobly did the whole body of Lacedaemonians and Thespians
+
+Thus nobly did the whole body of Lacedaemonians and Thespians
 behave; but nevertheless one man is said to have distinguished himself
 above all the rest, to wit, Dieneces the Spartan. A speech which he
 made before the Greeks engaged the Medes, remains on record. One of
@@ -19003,35 +20430,39 @@ light of the Median numbers, answered "Our Trachinian friend brings us
 excellent tidings. If the Medes darken the sun, we shall have our
 fight in the shade." Other sayings too of a like nature are reported
 to have been left on record by this same person.
-    Next to him two brothers, Lacedaemonians, are reputed to have made
+
+Next to him two brothers, Lacedaemonians, are reputed to have made
 themselves conspicuous: they were named Alpheus and Maro, and were the
 sons of Orsiphantus. There was also a Thespian who gained greater
 glory than any of his countrymen: he was a man called Dithyrambus, the
 son of Harmatidas.
-    The slain were buried where they fell; and in their honour, nor
+
+The slain were buried where they fell; and in their honour, nor
 less in honour of those who died before Leonidas sent the allies away,
 an inscription was set up, which said:-
 
-    Here did four thousand men from Pelops' land
-    Against three hundred myriads bravely stand.
+> Here did four thousand men from Pelops' land  
+> Against three hundred myriads bravely stand.
 
 This was in honour of all. Another was for the Spartans alone:-
 
-    Go, stranger, and to Lacedaemon tell
-    That here, obeying her behests, we fell.
+> Go, stranger, and to Lacedaemon tell  
+> That here, obeying her behests, we fell.
 
 This was for the Lacedaemonians. The seer had the following:-
 
-    The great Megistias' tomb you here may view,
-      Whom slew the Medes, fresh from Spercheius' fords.
-    Well the wise seer the coming death foreknew,
-    Yet scorned he to forsake his Spartan lords.
+> The great Megistias' tomb you here may view,  
+> Whom slew the Medes, fresh from Spercheius' fords.
+>
+> Well the wise seer the coming death foreknew,  
+> Yet scorned he to forsake his Spartan lords.
 
 These inscriptions, and the pillars likewise, were all set up by the
 Amphictyons, except that in honour of Megistias, which was inscribed
 to him (on account of their sworn friendship) by Simonides, the son of
 Leoprepes.
-    Two of the three hundred, it is said, Aristodemus and Eurytus,
+
+Two of the three hundred, it is said, Aristodemus and Eurytus,
 having been attacked by a disease of the eyes, had received orders
 from Leonidas to quit the camp; and both lay at Alpeni in the worst
 stage of the malady. These two men might, had they been so minded,
@@ -19050,22 +20481,26 @@ had come back together, the Spartans would have been content and
 felt no anger; but when there were two men with the very same
 excuse, and one of them was chary of his life, while the other
 freely gave it, they could not but be very wroth with the former.
-    This is the account which some give of the escape of
+
+This is the account which some give of the escape of
 Aristodemus. Others say that he, with another, had been sent on a
 message from the army, and, having it in his power to return in time
 for the battle, purposely loitered on the road, and so survived his
 comrades; while his fellow-messenger came back in time, and fell in
 the battle.
-    When Aristodemus returned to Lacedaemon, reproach and disgrace
+
+When Aristodemus returned to Lacedaemon, reproach and disgrace
 awaited him; disgrace, inasmuch as no Spartan would give him a light
 to kindle his fire, or so much as address a word to him; and reproach,
 since all spoke of him as "the craven." However he wiped away all
 his shame afterwards at the battle of Plataea.
-    Another of the three hundred is likewise said to have survived the
+
+Another of the three hundred is likewise said to have survived the
 battle, a man named Pantites, whom Leonidas had sent on an embassy
 into Thessaly. He, they say, on his return to Sparta, found himself in
 such disesteem that he hanged himself.
-    The Thebans under the command of Leontiades remained with the
+
+The Thebans under the command of Leontiades remained with the
 Greeks, and fought against the barbarians, only so long as necessity
 compelled them. No sooner did they see victory inclining to the
 Persians, and the Greeks under Leonidas hurrying with all speed
@@ -19084,23 +20519,28 @@ their bodies by the command of Xerxes- Leontiades, their captain,
 being the first to suffer. (This man's son, Eurymachus, was afterwards
 slain by the Plataeans, when he came with a band Of 400 Thebans, and
 seized their city.)
-    Thus fought the Greeks at Thermopylae. And Xerxes, after the fight
+
+Thus fought the Greeks at Thermopylae. And Xerxes, after the fight
 was over, called for Demaratus to question him; and began as follows:-
-    "Demaratus, thou art a worthy man; thy true-speaking proves it.
+
+"Demaratus, thou art a worthy man; thy true-speaking proves it.
 All has happened as thou didst forewarn. Now then, tell me, how many
 Lacedaemonians are there left, and of those left how many are such
 brave warriors as these? Or are they all alike?"
-    "O king!" replied the other, "the whole number of the
+
+"O king!" replied the other, "the whole number of the
 Lacedaemonians is very great; and many are the cities which they
 inhabit. But I will tell thee what thou really wishest to learn. There
 is a town of Lacedaemon called Sparta, which contains within it
 about eight thousand full-grown men. They are, one and all, equal to
 those who have fought here. The other Lacedaemonians are brave men,
 but not such warriors as these."
-    "Tell me now, Demaratus," rejoined Xerxes, "how we may with
+
+"Tell me now, Demaratus," rejoined Xerxes, "how we may with
 least trouble subdue these men. Thou must know all the paths of
 their counsels, as thou wert once their king."
-    Then Demaratus answered- "O king! since thou askest my advice so
+
+Then Demaratus answered- "O king! since thou askest my advice so
 earnestly, it is fitting that I should inform thee what I consider
 to be the best course. Detach three hundred vessels from the body of
 thy fleet, and send them to attack the shores of Laconia. There is
@@ -19122,7 +20562,8 @@ are leagued against thee will be gathered together; and there thou
 wilt have to fight bloodier battles than any which thou hast yet
 witnessed. If, however, thou wilt follow my plan, the Isthmus and
 the cities of Peloponnese will yield to thee without a battle."
-    Achaeamenes, who was present, now took the word, and spoke- he was
+
+Achaeamenes, who was present, now took the word, and spoke- he was
 brother to Xerxes, and, having the command of the fleet, feared lest
 Xerxes might be prevailed upon to do as Demaratus advised "I perceive,
 O king" (he said), "that thou art listening to the words of a man
@@ -19143,7 +20584,8 @@ do, or how many they are. Surely they can manage their own concerns
 without us, as we can ours without them. If the Lacedaemonians come
 out against the Persians to battle, they will scarce repair the
 disaster which has befallen them now."
-    Xerxes replied- "Achaeamenes, thy counsel pleases me well, and I
+
+Xerxes replied- "Achaeamenes, thy counsel pleases me well, and I
 will do as thou sayest. But Demaratus advised what he thought best-
 only his judgment was not so good as thine. Never will I believe
 that he does not wish well to my cause; for that is disproved both
@@ -19156,7 +20598,8 @@ friend of another country delights in the good fortune of his
 foreign bond-friend, and will give him, when asked, the best advice in
 his power. Therefore I warn all men to abstain henceforth from
 speaking ill of Demaratus, who is my bond-friend."
-    When Xerxes had thus spoken, he proceeded to pass through the
+
+When Xerxes had thus spoken, he proceeded to pass through the
 slain; and finding the body of Leonidas, whom he knew to have been the
 Lacedaemonian king and captain, he ordered that the head should be
 struck off, and the trunk fastened to a cross. This proves to me
@@ -19167,7 +20610,8 @@ body so shamefully. For the Persians are wont to honour those who show
 themselves valiant in fight more highly than any nation that I know.
 They, however, to whom the orders were given, did according to the
 commands of the king.
-    I return now to a point in my History, which at the time I left
+
+I return now to a point in my History, which at the time I left
 incomplete. The Lacedaemonians were the first of the Greeks to hear of
 the king's design against their country; and it was at this time
 that they sent to consult the Delphic oracle, and received the
@@ -19195,10 +20639,11 @@ be sure to find the writing upon the wood." The Lacedaemonians took
 her advice, found the writing, and read it; after which they sent it
 round to the other Greeks. Such then is the account which is given
 of this matter.
-                       The Eighth Book, Entitled
-                                URANIA
 
-    THE Greeks engaged in the sea-service were the following. The
+VIII URANIA
+----------
+
+THE Greeks engaged in the sea-service were the following. The
 Athenians furnished a hundred and twenty-seven vessels to the fleet,
 which were manned in part by the Plataeans, who, though unskilled in
 such matters, were led by their active and daring spirit to
@@ -19210,7 +20655,8 @@ Lacedaemonians with ten; the Epidaurians with eight; the Eretrians
 with seven; the Troezenians with five; the Styreans with two; and
 the Ceans with two triremes and two penteconters. Last of all, the
 Locrians of Opus came in aid with a squadron of seven penteconters.
-    Such were the nations which furnished vessels to the fleet now
+
+Such were the nations which furnished vessels to the fleet now
 at Artemisium; and in mentioning them I have given the number of ships
 furnished by each. The total number of the ships thus brought
 together, without counting the penteconters, was two hundred and
@@ -19219,7 +20665,8 @@ fleet, was Eurybiades the son of Eurycleides. He was furnished by
 Sparta, since the allies had said that "if a Lacedaemonian did not
 take the command, they would break up the fleet, for never would
 they serve under the Athenians."
-    From the first, even earlier than the time when the embassy went
+
+From the first, even earlier than the time when the embassy went
 to Sicily to solicit alliance, there had been a talk of intrusting the
 Athenians with the command at sea; but the allies were averse to the
 plan, wherefore the Athenians did not press it; for there was
@@ -19235,7 +20682,8 @@ when the Persians had been driven from Greece, and were now threatened
 by the Greeks in their own country, they took occasion of the
 insolence of Pausanias to deprive the Lacedaemonians of their
 leadership. This, however, happened afterwards.
-    At the present time the Greeks, on their arrival at Artemisium,
+
+At the present time the Greeks, on their arrival at Artemisium,
 when they saw the number of the ships which lay at anchor near
 Aphetae, and the abundance of troops everywhere, feeling
 disappointed that matters had gone with the barbarians so far
@@ -19248,7 +20696,8 @@ safety. But, as they found that they prevailed nothing, they left
 him and went to Themistocles, the Athenian commander, to whom they
 gave a bribe of thirty talents, on his promise that the fleet should
 remain and risk a battle in defence of Euboea.
-    And Themistocles succeeded in detaining the fleet in the way which
+
+And Themistocles succeeded in detaining the fleet in the way which
 I will now relate. He made over to Eurybiades five talents out of
 the thirty paid him, which he gave as if they came from himself; and
 having in this way gained over the admiral, he addressed himself to
@@ -19265,9 +20714,11 @@ made his own gain on the occasion; for he kept the rest of the
 money, and no one knew of it. The commanders who took the gifts
 thought that the sums were furnished by Athens, and had been sent to
 be used in this way.
-    Thus it came to pass that the Greeks stayed at Euboea and there
+
+Thus it came to pass that the Greeks stayed at Euboea and there
 gave battle to the enemy.
-    Now the battle was on this wise. The barbarians reached Aphetae
+
+Now the battle was on this wise. The barbarians reached Aphetae
 early in the afternoon, and then saw (as they had previously heard
 reported) that a fleet of Greek ships, weak in number, lay at
 Artemisium. At once they were eager to engage, fearing that the Greeks
@@ -19278,7 +20729,8 @@ betake themselves to flight immediately; in which case night might
 close in before they came up with the fugitives, and so they might get
 clean off and make their escape from them; whereas the Persians were
 minded not to let a single soul slip through their hands.
-    They therefore contrived a plan, which was the following:- They
+
+They therefore contrived a plan, which was the following:- They
 detached two hundred of their ships from the rest, and- to prevent the
 enemy from seeing them start- sent them round outside the island of
 Sciathos, to make the circuit of Euboea by Caphareus and Geraestus,
@@ -19291,7 +20743,8 @@ mean to attack the Greeks upon that day, or until they knew, by
 signal, of the arrival of the detachment which had been ordered to
 sail round Euboea. Meanwhile they made a muster of the other ships
 at Aphetae.
-    Now the Persians had with them a man named Scyllias, a native of
+
+Now the Persians had with them a man named Scyllias, a native of
 Scione, who was the most expert diver of his day. At the time of the
 shipwreck off Mount Pelion he had recovered for the Persians a great
 part of what they lost; and at the same time he had taken care to
@@ -19306,11 +20759,13 @@ nearly eighty furlongs. Now many things are related of this man
 which are plainly false; but some of the stories seem to be true. My
 own opinion is that on this occasion he made the passage to Artemisium
 in a boat.
-    However this might be, Scyllias no sooner reached Artemisium
+
+However this might be, Scyllias no sooner reached Artemisium
 than he gave the Greek captains a full account of the damage done by
 the storm, and likewise told them of the ships sent to make the
 circuit of Euboea.
-    So the Greeks on receiving these tidings held a council,
+
+So the Greeks on receiving these tidings held a council,
 whereat, after much debate, it was resolved that they should stay
 quiet for the present where they were, and remain at their moorings,
 but that after midnight they should put out to sea, and encounter
@@ -19319,7 +20774,8 @@ day, when they found that no one meddled with them, they formed a
 new plan, which was to wait till near evening, and then sail out
 against the main body of the barbarians, for the purpose of trying
 their mode of fight and skill in manoeuvring.
-    When the Persian commanders and crews saw the Greeks thus boldly
+
+When the Persian commanders and crews saw the Greeks thus boldly
 sailing towards them with their few ships, they thought them possessed
 with madness, and went out to meet them, expecting (as indeed seemed
 likely enough) that they would take all their vessels with the
@@ -19335,7 +20791,8 @@ the attack on Greece, now vied eagerly with each other which should be
 the first to make prize of an Athenian ship, and thereby to secure
 himself a rich reward from the king. For through both the hosts none
 were so much accounted of as the Athenians.
-    The Greeks, at a signal, brought the sterns of their ships
+
+The Greeks, at a signal, brought the sterns of their ships
 together into a small compass, and turned their prows on every side
 towards the barbarians; after which, at a second signal, although
 inclosed within a narrow space, and closely pressed upon by the foe,
@@ -19352,7 +20809,8 @@ battle only one of the Greeks who fought on the side of the king
 deserted and joined his countrymen. This was Antidorus of Lemnos, whom
 the Athenians rewarded for his desertion by the present of a piece
 of land in Salamis.
-    Evening had barely closed in when a heavy rain- it was about
+
+Evening had barely closed in when a heavy rain- it was about
 midsummer- began to fall, which continued the whole night, with
 terrible thunderings and lightnings from Mount Pelion: the bodies of
 the slain and the broken pieces of the damaged ships were drifted in
@@ -19365,7 +20823,8 @@ vessels off Mount Pelion, they had been surprised by a sea-fight which
 had taxed all their strength, and now the sea-fight was scarcely
 over when they were exposed to floods of rain, and the rush of swollen
 streams into the sea, and violent thunderings.
-    If, however, they who lay at Aphetae passed a comfortless night,
+
+If, however, they who lay at Aphetae passed a comfortless night,
 far worse were the sufferings of those who had been sent to make the
 circuit of Euboea; inasmuch as the storm fell on them out at sea,
 whereby the issue was indeed calamitous. They were sailing along
@@ -19375,7 +20834,8 @@ not whither, at the last they fell upon rocks- Heaven so contriving,
 in order that the Persian fleet might not greatly exceed the Greek,
 but be brought nearly to its level. This squadron, therefore, was
 entirely lost about the Hollows of Euboea.
-    The barbarians at Aphetae were glad when day dawned, and
+
+The barbarians at Aphetae were glad when day dawned, and
 remained in quiet at their station, content if they might enjoy a
 little peace after so many sufferings. Meanwhile there came to the aid
 of the Greeks a reinforcement of fifty-three ships from Attica.
@@ -19386,7 +20846,8 @@ So they waited again till the same hour as the day before, and, once
 more putting out to sea, attacked the enemy. This time they fell in
 with some Cilician vessels, which they sank; when night came on,
 they withdrew to Artemisium.
-    The third day was now come, and the captains of the barbarians,
+
+The third day was now come, and the captains of the barbarians,
 ashamed that so small a number of ships should harass their fleet, and
 afraid of the anger of Xerxes, instead of waiting for the others to
 begin the battle, weighed anchor themselves, and advanced against
@@ -19398,7 +20859,8 @@ it was to defend the Euripus. While the Greeks, therefore, exhorted
 one another not to let the barbarians burst in upon Greece, these
 latter shouted to their fellows to destroy the Grecian fleet, and
 get possession of the channel.
-    And now the fleet of Xerxes advanced in good order to the
+
+And now the fleet of Xerxes advanced in good order to the
 attack, while the Greeks on their side remained quite motionless at
 Artemisium. The Persians therefore spread themselves, and came forward
 in a half-moon, seeking to encircle the Greeks on all sides, and
@@ -19413,21 +20875,24 @@ and fly from a fleet so inferior in number. The Greeks therefore
 suffered much, both in ships and men; but the barbarians experienced a
 far larger loss of each. So the fleets separated after such a combat
 as I have described.
-    On the side of Xerxes the Egyptians distinguished themselves above
+
+On the side of Xerxes the Egyptians distinguished themselves above
 all the combatants; for besides performing many other noble deeds,
 they took five vessels from the Greeks with their crews on board. On
 the side of the Greeks the Athenians bore off the meed of valour;
 and among them the most distinguished was Clinias, the son of
 Alcibiades, who served at his own charge with two hundred men, on
 board a vessel which he had himself furnished.
-    The two fleets, on separating, hastened very gladly to their
+
+The two fleets, on separating, hastened very gladly to their
 anchorage-grounds. The Greeks, indeed, when the battle was over,
 became masters of the bodies of the slain and the wrecks of the
 vessels; but they had been so roughly handled, especially the
 Athenians, one-half of whose vessels had suffered damage, that they
 determined to break up from their station, and withdraw to the inner
 parts of their country.
-    Then Themistocles, who thought that if the Ionian and Carian ships
+
+Then Themistocles, who thought that if the Ionian and Carian ships
 could be detached from the barbarian fleet, the Greeks might be well
 able to defeat the rest, called the captains together. They met upon
 the seashore, where the Euboeans were now assembling their flocks
@@ -19443,7 +20908,8 @@ said that he would take upon himself to watch the proper moment, and
 would manage matters so that they should return to Greece without
 loss. These words pleased the captains; so they had the fires lighted,
 and began the slaughter of the cattle.
-    The Euboeans, until now, had made light of the oracle of Bacis, as
+
+The Euboeans, until now, had made light of the oracle of Bacis, as
 though it had been void of all significancy, and had neither removed
 their goods from the island, nor yet taken them into their strong
 places; as they would most certainly have done if they had believed
@@ -19451,13 +20917,14 @@ that war was approaching. By this neglect they had brought their
 affairs into the very greatest danger. Now the oracle of which I speak
 ran as follows:-
 
-    When o'er the main shall be thrown a byblus yoke by a stranger,
-    Be thou ware, and drive from Euboea the goats' loud-bleating.
+> When o'er the main shall be thrown a byblus yoke by a stranger,  
+> Be thou ware, and drive from Euboea the goats' loud-bleating.
 
 So, as the Euboeans had paid no regard to this oracle when the evils
 approached and impended, now that they had arrived, the worst was
 likely to befall them.
-    While the Greeks were employed in the way described above, the
+
+While the Greeks were employed in the way described above, the
 scout who had been on the watch at Trachis arrived at Artemisium.
 For the Greeks had employed two watchers:- Polyas, a native of
 Anticyra, had been stationed off Artemisium, with a row-boat at his
@@ -19471,7 +20938,8 @@ arrived with news of what had befallen Leonidas and those who were
 with him. When the Greeks heard the tidings they no longer delayed
 to retreat, but withdrew in the order wherein they had been stationed,
 the Corinthians leading, and the Athenians sailing last of all.
-    And now Themistocles chose out the swiftest sailers from among the
+
+And now Themistocles chose out the swiftest sailers from among the
 Athenian vessels, and, proceeding to the various watering-places along
 the coast, cut inscriptions on the rocks, which were read by the
 Ionians the day following, on their arrival at Artemisium. The
@@ -19490,7 +20958,8 @@ which case they might bring over the Ionians to the side of the
 Greeks; or they would be reported to him and made a ground of
 accusation against the Ionians, who would thereupon be distrusted, and
 would not be allowed to take part in the sea-fights.
-    Shortly after the cutting of the inscriptions, a man of Histiaea
+
+Shortly after the cutting of the inscriptions, a man of Histiaea
 went in a merchantship to Aphetae, and told the Persians that the
 Greeks had fled from Artemisium. Disbelieving his report, the Persians
 kept the man a prisoner, while they sent some of their fastest vessels
@@ -19501,7 +20970,8 @@ which they went on to Histiaea. That city fell into their hands
 immediately; and they shortly overran the various villages upon the
 coast in the district of Hellopia, which was part of the Histiaean
 territory.
-    It was while they were at this station that a herald reached
+
+It was while they were at this station that a herald reached
 them from Xerxes, whom he had sent after making the following
 dispositions with respect to the bodies of those who fell at
 Thermopylae. Of the twenty thousand who had been slain on the
@@ -19510,10 +20980,12 @@ the rest in trenches; and these he carefully filled up with earth, and
 hid with foliage, that the sailors might not see any signs of them.
 The herald, on reaching Histiaea, caused the whole force to be
 collected together, and spake thus to them:
-    "Comrades, King Xerxes gives permission to all who please, to quit
+
+"Comrades, King Xerxes gives permission to all who please, to quit
 their posts, and see how he fights with the senseless men who think to
 overthrow his armies."
-    No sooner had these words been uttered, than it became difficult
+
+No sooner had these words been uttered, than it became difficult
 to get a boat, so great was the number of those who desired to see the
 sight. Such as went crossed the strait, and passing among the heaps of
 dead, in this way viewed the spectacle. Many helots were included in
@@ -19525,7 +20997,8 @@ the field, on the other four thousand crowded together into one
 spot. This day then was given up to sight-seeing; on the next the
 seamen embarked on board their ships and sailed back to Histiaea,
 while Xerxes and his army proceeded upon their march.
-    There came now a few deserters from Arcadia to join the
+
+There came now a few deserters from Arcadia to join the
 Persians- poor men who had nothing to live on, and were in want of
 employment. The Persians brought them into the king's presence, and
 there inquired of them, by a man who acted as their spokesman, "what
@@ -19541,7 +21014,8 @@ not forbear from exclaiming before them all: "Good heavens! Mardonius,
 what manner of men are these against whom thou hast brought us to
 fight?- men who contend with one another, not for money, but for
 honour!"
-    A little before this, and just after the blow had been struck at
+
+A little before this, and just after the blow had been struck at
 Thermopylae, a herald was sent into Phocis by the Thessalians, who had
 always been on bad terms with the Phocians, and especially since their
 last overthrow. For it was not many years previous to this invasion of
@@ -19565,7 +21039,8 @@ Delphi; while from the tenth part of the booty gained in the battle,
 were made the gigantic figures which stand round the tripod in front
 of the Delphic shrine, and likewise the figures of the same size and
 character at Abae.
-    Besides this slaughter of the Thessalian foot when it was
+
+Besides this slaughter of the Thessalian foot when it was
 blockading them, the Phocians had dealt a blow to their horse upon its
 invading their territory, from which they had never recovered. There
 is a pass near the city of Hyampolis, where the Phocians, having dug a
@@ -19575,10 +21050,12 @@ alike, and then awaited the coming of the Thessalians. These, thinking
 to destroy the Phocians at one sweep, rushed rapidly forward, and
 became entangled in the wine-jars, which broke the legs of their
 horses.
-    The Thessalians had therefore a double cause of quarrel with the
+
+The Thessalians had therefore a double cause of quarrel with the
 Phocians, when they dispatched the herald above mentioned, who thus
 delivered his message:-
-    "At length acknowledge, ye men of Phocis, that ye may not think to
+
+"At length acknowledge, ye men of Phocis, that ye may not think to
 match with us. In times past, when it pleased us to hold with the
 Greeks, we had always the vantage over you; and now our influence is
 such with the barbarian, that, if we choose it, you will lose your
@@ -19587,7 +21064,8 @@ though we can now do with you exactly as we like, we are willing to
 forget our wrongs. Quit them with a payment of fifty talents of
 silver, and we undertake to ward off the evils which threaten your
 country."
-    Such was the message which the Thessalians sent. The Phocians were
+
+Such was the message which the Thessalians sent. The Phocians were
 the only people in these parts who had not espoused the cause of the
 Medes; and it is my deliberate opinion that the motive which swayed
 them was none other- neither more nor less- than their hatred of the
@@ -19598,7 +21076,8 @@ would not pay anything- it was open to them, equally with the
 Thessalians, to make common cause with the Medes, if they only chose
 so to do- but they would never of their own free will become
 traitors to Greece."
-    On the return of this answer, the Thessalians, full of wrath
+
+On the return of this answer, the Thessalians, full of wrath
 against the Phocians, offered themselves as guides to the barbarian
 army, and led them forth from Trachinia into Doris. In this place
 there is a narrow tongue of Dorian territory, not more than thirty
@@ -19608,7 +21087,8 @@ a part, is the mother-country of the Dorians in the Peloponnese.
 This territory the barbarians did not plunder, for the inhabitants had
 espoused their side; and besides, the Thessalians wished that they
 should be spared.
-    From Doris they marched forward into Phocis; but here the
+
+From Doris they marched forward into Phocis; but here the
 inhabitants did not fall into their power: for some of them had
 taken refuge in the high grounds of Parnassus- one summit of which,
 called Tithorea, standing quite by itself, not far from the city of
@@ -19621,7 +21101,8 @@ for the Thessalians led the Persian army through the whole of it;
 and wherever they went, the country was wasted with fire and sword,
 the cities and even the temples being wilfully set alight by the
 troops.
-    The march of the army lay along the valley of the Cephissus; and
+
+The march of the army lay along the valley of the Cephissus; and
 here they ravaged far and wide, burning the towns of Drymus, Charadra,
 Erochus, Tethronium, Amphicaea, Neon, Pedieis, Triteis, Elateia,
 Hyampolis, Parapotamii, and Abae. At the last-named place there was
@@ -19631,7 +21112,8 @@ days, as indeed there is at the present time. This temple the Persians
 plundered and burnt; and here they captured a number of the Phocians
 before they could reach the hills, and caused the death of some of
 their women by ill-usage.
-    After passing Parapotamii, the barbarians marched to Panopeis; and
+
+After passing Parapotamii, the barbarians marched to Panopeis; and
 now the army separated into two bodies, whereof one, which was the
 more numerous and the stronger of the two, marched, under Xerxes
 himself, towards Athens, entering Boeotia by the country of the
@@ -19640,7 +21122,8 @@ the Medes; and their towns were in the possession of Macedonian
 garrisons, whom Alexander had sent there, to make it manifest to
 Xerxes that the Boeotians were on the Median side. Such then was the
 road followed by one division of the barbarians.
-    The other division took guides, and proceeded towards the temple
+
+The other division took guides, and proceeded towards the temple
 of Delphi, keeping Mount Parnassus on their right hand. They too
 laid waste such parts of Phocis as they passed through, burning the
 city of the Panopeans, together with those of the Daulians and of
@@ -19652,7 +21135,8 @@ with what there was worthy of note at Delphi, than even with what he
 had left in his own house; so many of those about him were continually
 describing the treasures- more especially the offerings made by
 Croesus the son of Alyattes.
-    Now when the Delphians heard what danger they were in, great
+
+Now when the Delphians heard what danger they were in, great
 fear fell on them. In their terror they consulted the oracle
 concerning the holy treasures, and inquired if they should bury them
 in the ground, or carry them away to some other country. The god, in
@@ -19665,7 +21149,8 @@ tops of Parnassus, and placed their goods for safety in the Corycian
 cave; while some effected their escape to Amphissa in Locris. In
 this way all the Delphians quitted the city, except sixty men, and the
 Prophet.
-    When the barbarian assailants drew near and were in sight of the
+
+When the barbarian assailants drew near and were in sight of the
 place, the Prophet, who was named Aceratus, beheld, in front of the
 temple, a portion of the sacred armour, which it was not lawful for
 any mortal hand to touch, lying upon the ground, removed from the
@@ -19682,7 +21167,8 @@ of thunder burst suddenly over their heads- at the same time two crags
 split off from Mount Parnassus, and rolled down upon them with a
 loud noise, crushing vast numbers beneath their weight- while from the
 temple of Minerva there went up the war-cry and the shout of victory.
-    All these things together struck terror into the barbarians, who
+
+All these things together struck terror into the barbarians, who
 forthwith turned and fled. The Delphians, seeing this, came down
 from their hiding-places, and smote them with a great slaughter,
 from which such as escaped fled straight into Boeotia. These men, on
@@ -19690,7 +21176,8 @@ their return, declared (as I am told) that besides the marvels
 mentioned above, they witnessed also other supernatural sights. Two
 armed warriors, they said, of a stature more than human, pursued after
 their flying ranks, pressing them close and slaying them.
-    These men, the Delphians maintain, were two Heroes belonging to
+
+These men, the Delphians maintain, were two Heroes belonging to
 the place- by name Phylacus and Autonous- each of whom has a sacred
 precinct near the temple; one, that of Phylacus, hard by the road
 which runs above the temple of Pronaia; the other, that of Autonous,
@@ -19699,7 +21186,8 @@ The blocks of stone which fell from Parnassus might still be seen in
 my day; they lay in the precinct of Pronaia, where they stopped, after
 rolling through the host of the barbarians. Thus was this body of
 men forced to retire from the temple.
-    Meanwhile, the Grecian fleet, which had left Artemisium, proceeded
+
+Meanwhile, the Grecian fleet, which had left Artemisium, proceeded
 to Salamis, at the request of the Athenians, and there cast anchor.
 The Athenians had begged them to take up this position, in order
 that they might convey their women and children out of Attica, and
@@ -19714,7 +21202,8 @@ own safety, were building a wall across the Isthmus, and intended to
 guard the Peloponnese, and let the rest of Greece take its chance.
 These tidings caused them to make the request whereof I spoke, that
 the combined fleet should anchor at Salamis.
-    So while the rest of the fleet lay to off this island, the
+
+So while the rest of the fleet lay to off this island, the
 Athenians cast anchor along their own coast. Immediately upon their
 arrival, proclamation was made that every Athenian should save his
 children and household as he best could; whereupon some sent their
@@ -19730,7 +21219,8 @@ remained untouched. So the priestess told the people what had
 happened; whereupon they left Athens the more readily, since they
 believed that the goddess had already abandoned the citadel. As soon
 as all was removed, the Athenians sailed back to their station.
-    And now, the remainder of the Grecian sea-force, hearing that
+
+And now, the remainder of the Grecian sea-force, hearing that
 the fleet which had been at Artemisium, was come to Salamis, joined it
 at that island from Troezen- orders having been issued previously that
 the ships should muster at Pogon, the port of the Troezenians. The
@@ -19740,7 +21230,8 @@ the same who had commanded before, to wit, Eurybiades, the son of
 Eurycleides, who was a Spartan, but not of the family of the kings:
 the city, however, which sent by far the greatest number of ships, and
 the best sailers, was Athens.
-    Now these were the nations who composed the Grecian fleet. From
+
+Now these were the nations who composed the Grecian fleet. From
 the Peloponnese, the following- the Lacedaemonians with six, teen
 ships; the Corinthians with the same number as at Artemisium; the
 Sicyonians with fifteen; the Epidaurians with ten; the Troezenians
@@ -19749,7 +21240,8 @@ Macedonians all of them (except those from Hermione), and had
 emigrated last from Erineus, Pindus, and Dryopis. The Hermionians were
 Dryopians, of the race which Hercules and the Malians drove out of the
 land now called Doris. Such were the Peloponnesian nations.
-    From the mainland of Greece beyond the Peloponnese, came the
+
+From the mainland of Greece beyond the Peloponnese, came the
 Athenians with a hundred and eighty ships, a greater number than
 that furnished by any other people; and these were now manned wholly
 by themselves; for the Plataeans did not serve aboard the Athenian
@@ -19763,10 +21255,12 @@ but under their king Cecrops, they were called Cecropidae; when
 Erechtheus got the sovereignty, they changed their name to
 Athenians; and when Ion, the son of Xuthus, became their general, they
 were named after him Ionians.)
-    The Megarians served with the same number of ships as at
+
+The Megarians served with the same number of ships as at
 Artemisium; the Ambraciots came with seven; the Leucadians (who were
 Dorians from Corinth) with three.
-    Of the islanders, the Eginetans furnished thirty ships- they had a
+
+Of the islanders, the Eginetans furnished thirty ships- they had a
 larger number equipped; but some were kept back to guard their own
 coasts, and only thirty, which however were their best sailers, took
 part in the fight at Salamis. (The Eginetans are Dorians from
@@ -19784,7 +21278,8 @@ ships as before; the Cythnians contributed one, and likewise a
 penteconter- these two nations are Dryopians: the Seriphians,
 Siphnians, and Melians, also served; they were the only islanders
 who had not given earth and water to the barbarian.
-    All these nations dwelt inside the river Acheron and the country
+
+All these nations dwelt inside the river Acheron and the country
 inhabited by the Thesprotians; for that people borders on the
 Ambraciots and Leucadians, who are the most remote of all those by
 whom the fleet was furnished. From the countries beyond, there was
@@ -19792,13 +21287,15 @@ only one people which gave help to the Greeks in their danger. This
 was the people of Crotona, who contributed a single ship, under the
 command of Phayllus, a man who had thrice carried off the prize at the
 Pythian Games. The Crotoniats are, by descent, Achaeans.
-    Most of the allies came with triremes; but the Melians, Siphnians,
+
+Most of the allies came with triremes; but the Melians, Siphnians,
 and Seriphians, brought penteconters. The Melians, who draw their race
 from Lacedaemon, furnished two; the Siphnians and Seriphians, who
 are Ionians of the Athenian stock, one each. The whole number of the
 ships, without counting the penteconters, was three hundred and
 seventy-eight.
-    When the captains from these various nations were come together at
+
+When the captains from these various nations were come together at
 Salamis, a council of war was summoned; and Eurybiades proposed that
 any one who liked to advise, should say which place seemed to him
 the fittest, among those still in the possession of the Greeks, to
@@ -19810,7 +21307,8 @@ reason for this, that if they were worsted in a sea-fight at
 Salamis, they would be shut up in an island where they could get no
 help; but if they were beaten near the Isthmus, they could escape to
 their homes.
-    As the captains from the Peloponnese were thus advising, there
+
+As the captains from the Peloponnese were thus advising, there
 came an Athenian to the camp, who brought word that the barbarians had
 entered Attica, and were ravaging and burning everything. For the
 division of the army under Xerxes was just arrived at Athens from
@@ -19820,7 +21318,8 @@ to the Peloponnese- and now it was laying waste all the possessions of
 the Athenians. Thespiae and Plataea had been burnt by the Persians,
 because they knew from the Thebans that neither of those cities had
 espoused their side.
-    Since the passage of the Hellespont and the commencement of the
+
+Since the passage of the Hellespont and the commencement of the
 march upon Greece, a space of four months had gone by; one, while
 the army made the crossing, and delayed about the region of the
 Hellespont; and three while they proceeded thence to Attica, which
@@ -19835,7 +21334,8 @@ discovered the true meaning of the oracle uttered by the Pythoness,
 which promised that "the wooden wall" should never be taken- the
 wooden wall, they thought, did not mean the ships, but the place where
 they had taken refuge.
-    The Persians encamped upon the hill over against the citadel,
+
+The Persians encamped upon the hill over against the citadel,
 which is called Mars' hill by the Athenians, and began the siege of
 the place, attacking the Greeks with arrows whereto pieces of
 lighted tow were attached, which they shot at the barricade. And now
@@ -19847,7 +21347,8 @@ parley, and among their other modes of defence, rolled down huge
 masses of stone upon the barbarians as they were mounting up to the
 gates: so that Xerxes was for a long time very greatly perplexed,
 and could not contrive any way to take them.
-    At last, however, in the midst of these many difficulties, the
+
+At last, however, in the midst of these many difficulties, the
 barbarians made discovery of an access. For verily the oracle had
 spoken truth; and it was fated that the whole mainland of Attica
 should fall beneath the sway of the Persians. Right in front of the
@@ -19861,7 +21362,8 @@ fled for refuge to the inner part of the temple. The Persians rushed
 to the gates and opened them, after which they massacred the
 suppliants, When all were slain, they plundered the temple, and
 fired every part of the citadel.
-    Xerxes, thus completely master of Athens, despatched a horseman to
+
+Xerxes, thus completely master of Athens, despatched a horseman to
 Susa, with a message to Artabanus, informing him of his success
 hitherto. The day after, he collected together all the Athenian exiles
 who had come into Greece in his train, and bade them go up into the
@@ -19870,7 +21372,8 @@ whether he had had a dream which made him give this order, or
 whether he felt some remorse on account of having set the temple on
 fire. However this may have been, the exiles were not slow to obey the
 command given them.
-    I will now explain why I have made mention of this circumstance:
+
+I will now explain why I have made mention of this circumstance:
 there is a temple of Erechtheus the Earth-born, as he is called, in
 this citadel, containing within it an olive-tree and a sea. The tale
 goes among the Athenians, that they were placed there as witnesses
@@ -19881,7 +21384,8 @@ whom the king had commanded to offer sacrifice, went up into the
 temple for the purpose, they found a fresh shoot, as much as a cubit
 in length, thrown out from the old trunk. Such at least was the
 account which these persons gave.
-    Meanwhile, at Salamis, the Greeks no sooner heard what had
+
+Meanwhile, at Salamis, the Greeks no sooner heard what had
 befallen the Athenian citadel, than they fell into such alarm that
 some of the captains did not even wait for the council to come to a
 vote, but embarked hastily on board their vessels, and hoisted sail as
@@ -19889,12 +21393,14 @@ though they would take to flight immediately. The rest, who stayed
 at the council board, came to a vote that the fleet should give battle
 at the Isthmus. Night now drew on; and the captains, dispersing from
 the meeting, proceeded on board their respective ships.
-    Themistocles, as he entered his own vessel, was met by
+
+Themistocles, as he entered his own vessel, was met by
 Mnesiphilus, an Athenian, who asked him what the council had
 resolved to do. On learning that the resolve was to stand away for the
 Isthmus, and there give battle on behalf of the Peloponnese,
 Mnesiphilus exclaimed:-
-    "If these men sail away from Salamis, thou wilt have no fight at
+
+"If these men sail away from Salamis, thou wilt have no fight at
 all for the one fatherland; for they will all scatter themselves to
 their own homes; and neither Eurybiades nor any one else will be
 able to hinder them, nor to stop the breaking up of the armament. Thus
@@ -19902,7 +21408,8 @@ will Greece be brought to ruin through evil counsels. But haste thee
 now; and, if there be any possible way, seek to unsettle these
 resolves- mayhap thou mightest persuade Eurybiades to change his mind,
 and continue here."
-    The suggestion greatly pleased Themistocles; and without answering
+
+The suggestion greatly pleased Themistocles; and without answering
 a word, he went straight to the vessel of Eurybiades. Arrived there,
 he let him know that he wanted to speak with him on a matter
 touching the public service. So Eurybiades bade him come on board, and
@@ -19911,21 +21418,24 @@ side, went over all the arguments which he had heard from Mnesiphilus,
 pretending as if they were his own, and added to them many new ones
 besides; until at last he persuaded Eurybiades, by his importunity, to
 quit his ship and again collect the captains to council.
-    As soon as they were come, and before Eurybiades had opened to
+
+As soon as they were come, and before Eurybiades had opened to
 them his purpose in assembling them together, Themistocles, as men are
 wont to do when they are very anxious, spoke much to divers of them;
 whereupon the Corinthian captain, Adeimantus, the son of Ocytus,
 observed- "Themistocles, at the Games they who start too soon are
 scourged." "True," rejoined the other in his excuse, "but they who
 wait too late are not crowned."
-    Thus he gave the Corinthian at this time a mild answer; and
+
+Thus he gave the Corinthian at this time a mild answer; and
 towards Eurybiades himself he did not now use any of those arguments
 which he had urged before, or say aught of the allies betaking
 themselves to flight if once they broke up from Salamis; it would have
 been ungraceful for him, when the confederates were present, to make
 accusation against any: but he had recourse to quite a new sort of
 reasoning, and addressed him as follows:-
-    "With thee it rests, O Eurybiades! to save Greece, if thou wilt
+
+"With thee it rests, O Eurybiades! to save Greece, if thou wilt
 only hearken unto me, and give the enemy battle here, rather than
 yield to the advice of those among us, who would have the fleet
 withdrawn to the Isthmus. Hear now, I beseech thee, and judge
@@ -19954,7 +21464,8 @@ Salamis itself, where an oracle has said that we are to overcome our
 enemies. When men counsel reasonably, reasonable success ensues; but
 when in their counsels they reject reason, God does not choose to
 follow the wanderings of human fancies."
-    When Themistocles had thus spoken, Adeimantus the Corinthian again
+
+When Themistocles had thus spoken, Adeimantus the Corinthian again
 attacked him, and bade him be silent, since he was a man without a
 city; at the same time he called on Eurybiades not to put the question
 at the instance of one who had no country, and urged that Themistocles
@@ -19967,7 +21478,8 @@ the captains, that with two hundred ships at his command, all fully
 manned for battle, he had both city and territory as good as theirs;
 since there was no Grecian state which could resist his men if they
 were to make a descent.
-    After this declaration, he turned to Eurybiades, and addressing
+
+After this declaration, he turned to Eurybiades, and addressing
 him with still greater warmth and earnestness- "If thou wilt stay
 here," he said, "and behave like a brave man, all will be well- if
 not, thou wilt bring Greece to ruin. For the whole fortune of the
@@ -19977,13 +21489,15 @@ in Italy, which is ours from of old, and which the prophecies
 declare we are to colonise some day or other. You then, when you
 have lost allies like us, will hereafter call to mind what I have
 now said."
-    At these words of Themistocles, Eurybiades changed his
+
+At these words of Themistocles, Eurybiades changed his
 determination; principally, as I believe, because he feared that if he
 withdrew the fleet to the Isthmus, the Athenians would sail away,
 and knew that without the Athenians, the rest of their ships could
 be no match for the fleet of the enemy. He therefore decided to
 remain, and give battle at Salamis.
-    And now, the different chiefs, notwithstanding their skirmish of
+
+And now, the different chiefs, notwithstanding their skirmish of
 words, on learning the decision of Eurybiades, at once made ready
 for the fight. Morning broke; and, just as the sun rose, the shock
 of an earthquake was felt both on shore and at sea: whereupon the
@@ -19993,7 +21507,8 @@ speed as they had resolved on it. Prayers were offered to all the
 gods; and Telamon and Ajax were invoked at once from Salamis, while
 a ship was sent to Egina to fetch Aeacus himself, and the other
 Aeacids.
-    The following is a tale which was told by Dicaeus, the son of
+
+The following is a tale which was told by Dicaeus, the son of
 Theocydes, an Athenian, who was at this time an exile, and had
 gained a good report among the Medes. He declared that after the
 army of Xerxes had, in the absence of the Athenians, wasted Attica, he
@@ -20027,7 +21542,8 @@ the Grecian fleet. Then they knew that it was the fleet of Xerxes
 which would suffer destruction. Such was the tale told by Dicaeus
 the son of Theocydes; and he appealed for its truth to Demaratus and
 other eye-witnesses.
-    The men belonging to the fleet of Xerxes, after they had seen
+
+The men belonging to the fleet of Xerxes, after they had seen
 the Spartan dead at Thermopylae, and crossed the channel from
 Trachis to Histiaea, waited there by the space of three days, and then
 sailing down through the Euripus, in three more came to Phalerum. In
@@ -20043,7 +21559,8 @@ these, the Carystians, the Andrians, the Tenians, and the other people
 of the islands, who all fought on this side except the five states
 already mentioned. For as the Persians penetrated further into Greece,
 they were joined continually by fresh nations.
-    Reinforced by the contingents of all these various states,
+
+Reinforced by the contingents of all these various states,
 except Paros, the barbarians reached Athens. As for the Parians,
 they tarried at Cythnus, waiting to see how the war would go. The rest
 of the sea forces came safe to Phalerum; where they were visited by
@@ -20057,11 +21574,13 @@ in their order. When the whole had taken their places, one after
 another, and were set down in orderly array, Xerxes, to try them, sent
 Mardonius and questioned each, whether a sea-fight should be risked or
 no.
-    Mardonius accordingly went round the entire assemblage,
+
+Mardonius accordingly went round the entire assemblage,
 beginning with the Sidonian monarch, and asked this question; to which
 all gave the same answer, advising to engage the Greeks, except only
 Artemisia, who spake as follows (SS 1.):-
-    "Say to the king, Mardonius, that these are my words to him: I was
+
+"Say to the king, Mardonius, that these are my words to him: I was
 not the least brave of those who fought at Euboea, nor were my
 achievements there among the meanest; it is my right, therefore, O
 my lord, to tell thee plainly what I think to be most for thy
@@ -20090,7 +21609,8 @@ masters good ones. Now, as thou art the best of men, thy servants must
 needs be a sorry set. These Egyptians, Cyprians, Cilicians, and
 Pamphylians, who are counted in the number of thy subject-allies, of
 how little service are they to thee!"
-    As Artemisia spake, they who wished her well were greatly troubled
+
+As Artemisia spake, they who wished her well were greatly troubled
 concerning her words, thinking that she would suffer some hurt at
 the king's hands, because she exhorted him not to risk a battle; they,
 on the other hand, who disliked and envied her, favoured as she was by
@@ -20104,7 +21624,8 @@ the greater number should be followed; for he thought that at Euboea
 the fleet had not done its best, because he himself was not there to
 see- whereas this time he resolved that he would be an eye-witness
 of the combat.
-    Orders were now given to stand out to sea; and the ships proceeded
+
+Orders were now given to stand out to sea; and the ships proceeded
 towards Salamis, and took up the stations to which they were directed,
 without let or hindrance from the enemy. The day, however, was too far
 spent for them to begin the battle, since night already approached: so
@@ -20114,7 +21635,8 @@ who were troubled that they had been kept at Salamis to fight on
 behalf of the Athenian territory, and feared that, if they should
 suffer defeat, they would be pent up and besieged in an island,
 while their own country was left unprotected.
-    The same night the land army of the barbarians began its march
+
+The same night the land army of the barbarians began its march
 towards the Peloponnese, where, however, all that was possible had
 been done to prevent the enemy from forcing an entrance by land. As
 soon as ever news reached the Peloponnese of the death of Leonidas and
@@ -20128,7 +21650,8 @@ one who did not give himself to the work, it was soon finished.
 Stones, bricks, timber, baskets filled full of sand, were used in
 the building; and not a moment was lost by those who gave their aid;
 for they laboured without ceasing either by night or day.
-    Now the nations who gave their aid, and who had flocked in full
+
+Now the nations who gave their aid, and who had flocked in full
 force to the Isthmus, were the following: the Lacedaemonians, all
 the tribes of the Arcadians, the Eleans, the Corinthians, the
 Sicyonians, the Epidaurians, the Phliasians, the Troezenians, and
@@ -20136,7 +21659,8 @@ the Hermionians. These all gave their aid, being greatly alarmed at
 the danger which threatened Greece. But the other inhabitants of the
 Peloponnese took no part in the matter; though the Olympic and
 Carneian festivals were now over.
-    Seven nations inhabit the Peloponnese. Two of them are aboriginal,
+
+Seven nations inhabit the Peloponnese. Two of them are aboriginal,
 and still continue in the regions where they dwelt at the first- to
 wit, the Arcadians and the Cynurians. A third, that of the Achaeans,
 has never left the Peloponnese, but has been dislodged from its own
@@ -20152,7 +21676,8 @@ under the government of the Argives, whose Orneats and vassals they
 were. All the cities of these seven nations, except those mentioned
 above, stood aloof from the war; and by so doing, if I may speak
 freely, they in fact took part with the Medes.
-    So the Greeks at the Isthmus toiled unceasingly, as though in
+
+So the Greeks at the Isthmus toiled unceasingly, as though in
 the greatest peril; since they never imagined that any great success
 would be gained by the fleet. The Greeks at Salamis, on the other
 hand, when they heard what the rest were about, felt greatly
@@ -20166,7 +21691,8 @@ Peloponnese and risk battle for that, instead of abiding at Salamis
 and fighting for a land already taken by the enemy; while the other,
 which consisted of the Athenians, Eginetans, and Megarians, was urgent
 to remain and have the battle fought where they were.
-    Then Themistocles, when he saw that the Peloponnesians would carry
+
+Then Themistocles, when he saw that the Peloponnesians would carry
 the vote against him, went out secretly from the council, and,
 instructing a certain man what he should say, sent him on board a
 merchant ship to the fleet of the Medes. The man's name was
@@ -20175,7 +21701,8 @@ tutor to his sons; in after times, when the Thespians were admitting
 persons to citizenship, Themistocles made him a Thespian, and a rich
 man to boot. The ship brought Sicinnus to the Persian fleet, and there
 he delivered his message to the leaders in these words:-
-    "The Athenian commander has sent me to you privily, without the
+
+"The Athenian commander has sent me to you privily, without the
 knowledge of the other Greeks. He is a well-wisher to the king's
 cause, and would rather success should attend on you than on his
 countrymen; wherefore he bids me tell you that fear has seized the
@@ -20186,7 +21713,8 @@ so that they will not now make any resistance- nay, 'tis likely ye may
 see a fight already begun between such as favour and such as oppose
 your cause." The messenger, when he had thus expressed himself,
 departed and was seen no more.
-    Then the captains, believing all that the messenger had said,
+
+Then the captains, believing all that the messenger had said,
 proceeded to land a large body of Persian troops on the islet of
 Psyttaleia, which lies between Salamis and the mainland; after
 which, about the hour of midnight, they advanced their western wing
@@ -20203,29 +21731,35 @@ be able to save their own men and destroy those of the enemy. All
 these movements were made in silence, that the Greeks might have no
 knowledge of them; and they occupied the whole night, so that the
 men had no time to get their sleep.
-    I cannot say that there is no truth in prophecies, or feel
+
+I cannot say that there is no truth in prophecies, or feel
 inclined to call in question those which speak with clearness, when
 I think of the following:-
 
-    When they shall bridge with their ships to the sacred strand of
-      Diana
-    Girt with the golden falchion, and eke to marine Cynosura,
-    Mad hope swelling their hearts at the downfall of beautiful
-      Athens
-    Then shall godlike Right extinguish haughty Presumption,
-    Insult's furious offspring, who thinketh to overthrow all things.
-    Brass with brass shall mingle, and Mars with blood shall empurple
-    Ocean's waves. Then- then shall the day of Grecia's freedom
-    Come from Victory fair, and Saturn's son all-seeing.
+> When they shall bridge with their ships to the sacred strand of
+>   Diana
+>
+> Girt with the golden falchion, and eke to marine Cynosura,
+>
+> Mad hope swelling their hearts at the downfall of beautiful
+>   Athens
+>
+> Then shall godlike Right extinguish haughty Presumption,  
+> Insult's furious offspring, who thinketh to overthrow all things.  
+> Brass with brass shall mingle, and Mars with blood shall empurple  
+> Ocean's waves. Then- then shall the day of Grecia's freedom  
+> Come from Victory fair, and Saturn's son all-seeing.
 
 When I look to this, and perceive how clearly Bacis spoke, neither
 venture myself to say anything against prophecies, nor do approve of
 others impugning them.
-    Meanwhile, among the captains at Salamis, the strife of words grew
+
+Meanwhile, among the captains at Salamis, the strife of words grew
 fierce. As yet they did not know that they were encompassed, but
 imagined that the barbarians remained in the same places where they
 had seen them the day before.
-    In the midst of their contention, Aristides, the son of
+
+In the midst of their contention, Aristides, the son of
 Lysimachus, who had crossed from Egina, arrived in Salamis. He was
 an Athenian, and had been ostracised by the commonalty; yet I believe,
 from what I have heard concerning his character, that there was not in
@@ -20238,7 +21772,8 @@ council, since he wished to confer with him. He had heard before his
 arrival of the impatience of the Peloponnesians to withdraw the
 fleet to the Isthmus. As soon therefore as Themistocles came forth,
 Aristides addressed him in these words:-
-    "Our rivalry at all times, and especially at the present season,
+
+"Our rivalry at all times, and especially at the present season,
 ought to be a struggle, which of us shall most advantage our
 country. Let me then say to thee, that so far as regards the departure
 of the Peloponnesians from this place, much talk and little will be
@@ -20246,7 +21781,8 @@ found precisely alike. I have seen with my own eyes that which I now
 report: that, however much the Corinthians or Eurybiades himself may
 wish it, they cannot now retreat; for we are enclosed on every side by
 the enemy. Go in to them, and make this known."
-    "Thy advice is excellent," answered the other; "and thy tidings
+
+"Thy advice is excellent," answered the other; "and thy tidings
 are also good. That which I earnestly desired to happen, thine eyes
 have beheld accomplished. Know that what the Medes have now done was
 at my instance; for it was necessary, as our men would not fight
@@ -20258,14 +21794,16 @@ Therefore do thou go to them, and inform them how matters stand. If
 they believe thee, 'twill be for the best; but if otherwise, it will
 not harm. For it is impossible that they should now flee away, if we
 are indeed shut in on all sides, as thou sayest."
-    Then Aristides entered the assembly, and spoke to the captains: he
+
+Then Aristides entered the assembly, and spoke to the captains: he
 had come, he told them, from Egina, and had but barely escaped the
 blockading vessels- the Greek fleet was entirely inclosed by the ships
 of Xerxes- and he advised them to get themselves in readiness to
 resist the foe. Having said so much, he withdrew. And now another
 contest arose; for the greater part of the captains would not
 believe the tidings.
-    But while they still doubted, a Tenian trireme, commanded by
+
+But while they still doubted, a Tenian trireme, commanded by
 Panaetius the son of Sosimenes, deserted from the Persians and
 joined the Greeks, bringing full intelligence. For this reason the
 Tenians were inscribed upon the tripod at Delphi among those who
@@ -20273,7 +21811,8 @@ overthrew the barbarians. With this ship, which deserted to their side
 at Salamis, and the Lemnian vessel which came over before at
 Artemisium, the Greek fleet was brought to the full number of 380
 ships; otherwise it fell short by two of that amount.
-    The Greeks now, not doubting what the Tenians told them, made
+
+The Greeks now, not doubting what the Tenians told them, made
 ready for the coming fight. At the dawn of day, all the men-at-arms
 were assembled together, and speeches were made to them, of which
 the best was that of Themistocles; who throughout contrasted what
@@ -20283,7 +21822,8 @@ the nobler part. Having thus wound up his discourse, he told them to
 go at once on board their ships, which they accordingly did; and about
 his time the trireme, that had been sent to Egina for the Aeacidae,
 returned; whereupon the Greeks put to sea with all their fleet.
-    The fleet had scarce left the land when they were attacked by
+
+The fleet had scarce left the land when they were attacked by
 the barbarians. At once most of the Greeks began to back water, and
 were about touching the shore, when Ameinias of Palline, one of the
 Athenian captains, darted forth in front of the line, and charged a
@@ -20297,7 +21837,8 @@ in the form of a woman appeared to the Greeks, and, in a voice that
 was heard from end to end of the fleet, cheered them on to the
 fight; first, however, rebuking them, and saying- "Strange men, how
 long are ye going to back water?"
-    Against the Athenians, who held the western extremity of the
+
+Against the Athenians, who held the western extremity of the
 line towards Eleusis, were placed the Phoenicians; against the
 Lacedaemonians, whose station was eastward towards the Piraeus, the
 Ionians. Of these last a few only followed the advice of Themistocles,
@@ -20310,7 +21851,8 @@ made tyrant of Samos by the Persians, which Phylacus was enrolled
 among the king's benefactors, and presented with a large estate in
 land. In the Persian tongue the king's benefactors are called
 Orosangs.
-    Far the greater number of the Persian ships engaged in this battle
+
+Far the greater number of the Persian ships engaged in this battle
 were disabled, either by the Athenians or by the Eginetans. For as the
 Greeks fought in order and kept their line, while the barbarians
 were in confusion and had no plan in anything that they did, the issue
@@ -20318,7 +21860,8 @@ of the battle could scarce be other than it was. Yet the Persians
 fought far more bravely here than at Euboea, and indeed surpassed
 themselves; each did his utmost through fear of Xerxes, for each
 thought that the king's eye was upon himself.
-    What part the several nations, whether Greek or barbarian, took in
+
+What part the several nations, whether Greek or barbarian, took in
 the combat, I am not able to say for certain; Artemisia, however, I
 know, distinguished herself in such a way as raised her even higher
 than she stood before in the esteem of the king. For after confusion
@@ -20340,7 +21883,8 @@ the enemy's fleet, thought immediately that her vessel was a Greek, or
 else had deserted from the Persians, and was now fighting on the Greek
 side; he therefore gave up the chase, and turned away to attack
 others.
-    Thus in the first place she saved her life by the action, and
+
+Thus in the first place she saved her life by the action, and
 was enabled to get clear off from the battle; while further, it fell
 out that in the very act of doing the king an injury she raised
 herself to a greater height than ever in his esteem. For as Xerxes
@@ -20355,7 +21899,8 @@ fortunate for her that not one of those on board the Calyndian ship
 survived to become her accuser. Xerxes, they say, in reply to the
 remarks made to him, observed- "My men have behaved like women, my
 women like men!"
-    There fell in this combat Ariabignes, one of the chief
+
+There fell in this combat Ariabignes, one of the chief
 commanders of the fleet, who was son of Darius and brother of
 Xerxes; and with him perished a vast number of men of high repute,
 Persians, Medes, and allies. Of the Greeks there died only a few; for,
@@ -20368,7 +21913,8 @@ began to fly; for they who were stationed in the rear, anxious to
 display their valour before the eyes of the king, made every effort to
 force their way to the front, and thus became entangled with such of
 their own vessels as were retreating.
-    In this confusion the following event occurred: certain
+
+In this confusion the following event occurred: certain
 Phoenicians belonging to the ships which had thus perished made
 their appearance before the king, and laid the blame of their loss
 on the Ionians, declaring that they were traitors, and had wilfully
@@ -20392,7 +21938,8 @@ was taken down by his scribes, together with the names of his father
 and his city. Ariaramnes too, a Persian, who was a friend of the
 Ionians, and present at the time whereof I speak, had a share in
 bringing about the punishment of the Phoenicians.
-    When the rout of the barbarians began, and they sought to make
+
+When the rout of the barbarians began, and they sought to make
 their escape to Phalerum, the Eginetans, awaiting them in the channel,
 performed exploits worthy to be recorded. Through the whole of the
 confused struggle the Athenians employed themselves in destroying such
@@ -20401,7 +21948,8 @@ Eginetans dealt with those which endeavoured to escape down the
 strait; so that the Persian vessels were no sooner clear of the
 Athenians than forthwith they fell into the hands of the Eginetan
 squadron.
-    It chanced here that there was a meeting between the ship of
+
+It chanced here that there was a meeting between the ship of
 Themistocles, which was hasting in pursuit of the enemy, and that of
 Polycritus, son of Crius the Eginetan, which had just charged a
 Sidonian trireme. The Sidonian vessel was the same that captured the
@@ -20419,7 +21967,8 @@ Medes. At the same time, while he thus reproached Themistocles,
 Polycritus bore straight down on the Sidonian. Such of the barbarian
 vessels as escaped from the battle fled to Phalerum, and there
 sheltered themselves under the protection of the land army.
-    The Greeks who gained the greatest glory of all in the sea-fight
+
+The Greeks who gained the greatest glory of all in the sea-fight
 off Salamis were the Eginetans, and after them the Athenians. The
 individuals of most distinction were Polycritus the Eginetan, and
 two Athenians, Eumenes of Anagyrus, and Ameinias of Palline; the
@@ -20433,7 +21982,8 @@ make her prisoner; since there was great indignation felt that a woman
 should appear in arms against Athens. However, as I said before, she
 escaped; and so did some others whose ships survived the engagement;
 and these were all now assembled at the port of Phalerum.
-    The Athenians say that Adeimantus, the Corinthian commander, at
+
+The Athenians say that Adeimantus, the Corinthian commander, at
 the moment when the two fleets joined battle, was seized with fear,
 and being beyond measure alarmed, spread his sails, and hasted to
 fly away; on which the other Corinthians, seeing their leader's ship
@@ -20457,13 +22007,15 @@ tell concerning them of Corinth; these latter however do not allow its
 truth. On the contrary, they declare that they were among those who
 distinguished themselves most in the fight. And the rest of Greece
 bears witness in their favour.
-    In the midst of the confusion Aristides, the son of Lysimachus,
+
+In the midst of the confusion Aristides, the son of Lysimachus,
 the Athenian, of whom I lately spoke as a man of the greatest
 excellence, performed the following service. He took a number of the
 Athenian heavy-armed troops, who had previously been stationed along
 the shore of Salamis, and, landing with them on the islet of
 Psyttaleia, slew all the Persians by whom it was occupied.
-    As soon as the sea-fight was ended, the Greeks drew together to
+
+As soon as the sea-fight was ended, the Greeks drew together to
 Salamis all the wrecks that were to be found in that quarter, and
 prepared themselves for another engagement, supposing that the king
 would renew the fight with the vessels which still remained to him.
@@ -20476,11 +22028,12 @@ an Athenian soothsayer, uttered many years before these events, and
 quite forgotten at the time by all the Greeks, was fully accomplished.
 The words were-
 
-    Then shall the sight of the oars fill Colian dames with
-      amazement.
+> Then shall the sight of the oars fill Colian dames with
+>   amazement.
 
 Now this must have happened as soon as the king was departed.
-    Xerxes, when he saw the extent of his loss, began to be afraid
+
+Xerxes, when he saw the extent of his loss, began to be afraid
 lest the Greeks might be counselled by the Ionians, or without their
 advice might determine to sail straight to the Hellespont and break
 down the bridges there; in which case he would be blocked up in
@@ -20497,7 +22050,8 @@ however, was in no respect deceived; for long acquaintance enabled him
 to read all the king's thoughts. Meanwhile, Xerxes, though engaged
 in this way, sent off a messenger to carry intelligence of his
 misfortune to Persia.
-    Nothing mortal travels so fast as these Persian messengers. The
+
+Nothing mortal travels so fast as these Persian messengers. The
 entire plan is a Persian invention; and this is the method of it.
 Along the whole line of road there are men (they say) stationed with
 horses, in number equal to the number of days which the journey takes,
@@ -20509,7 +22063,8 @@ and the second passes it to the third; and so it is borne from hand to
 hand along the whole line, like the light in the torch-race, which the
 Greeks celebrate to Vulcan. The Persians give the riding post in
 this manner, the name of "Angarum."
-    At Susa, on the arrival of the first message, which said that
+
+At Susa, on the arrival of the first message, which said that
 Xerxes was master of Athens, such was the delight of the Persians
 who had remained behind, that they forthwith strewed all the streets
 with myrtle boughs, and burnt incense, and fell to feasting and
@@ -20521,7 +22076,8 @@ occasion was less on account of the damage done to their ships, than
 owing to the alarm which they felt about the safety of the king. Hence
 their trouble did not cease till Xerxes himself, by his arrival, put
 an end to their fears.
-    And now Mardonius, perceiving that Xerxes took the defeat of his
+
+And now Mardonius, perceiving that Xerxes took the defeat of his
 fleet greatly to heart, and suspecting that he had made up his mind to
 leave Athens and fly away, began to think of the likelihood of his
 being visited with punishment for having persuaded the king to
@@ -20530,7 +22086,8 @@ thing for him to adventure further, and either become the conqueror of
 Greece- which was the result he rather expected- or else die
 gloriously after aspiring to a noble achievement. So with these
 thoughts in his mind, he said one day to the king:-
-    "Do not grieve, master, or take so greatly to heart thy late loss.
+
+"Do not grieve, master, or take so greatly to heart thy late loss.
 Our hopes hang not altogether on the fate of a few planks, but on
 our brave steeds and horsemen. These fellows, whom thou imaginest to
 have quite conquered us, will not venture- no, not one of them- to
@@ -20553,7 +22110,8 @@ Persians are without fault, be advised by me. Depart home, if thou art
 so minded, and take with thee the bulk of thy army; but first let me
 choose out 300,000 troops, and let it be my task to bring Greece
 beneath thy sway."
-    Xerxes, when he heard these words, felt a sense of joy and
+
+Xerxes, when he heard these words, felt a sense of joy and
 delight, like a man who is relieved from care. Answering Mardonius,
 therefore, "that he would consider his counsel, and let him know which
 course he might prefer," Xerxes proceeded to consult with the chief
@@ -20562,7 +22120,8 @@ had shown herself the only person who knew what was best to be done,
 he was pleased to summon her to advise him now. As soon as she
 arrived, he put forth all the rest, both councillors and bodyguards,
 and said to her:-
-    "Mardonius wishes me to stay and attack the Peloponnese. My
+
+"Mardonius wishes me to stay and attack the Peloponnese. My
 Persians, he says, and my other land forces, are not to blame for
 the disasters which have befallen our arms; and of this he declares
 they would very gladly give me the proof. He therefore exhorts me,
@@ -20573,9 +22132,11 @@ withdraw into my own country. Do thou, therefore, as thou didst
 counsel me so wisely to decline the sea-fight, now also advise me in
 this matter, and say, which course of the twain I ought to take for my
 own good."
-    Thus did the king ask Artemisia's counsel; and the following are
+
+Thus did the king ask Artemisia's counsel; and the following are
 the words wherewith she answered him:-
-    "'Tis a hard thing, O king! to give the best possible advice to
+
+"'Tis a hard thing, O king! to give the best possible advice to
 one who asks our counsel. Nevertheless, as thy affairs now stand, it
 seemeth to me that thou wilt do right to return home. As for
 Mardonius, if he prefers to remain, and undertakes to do as he has
@@ -20590,14 +22151,16 @@ freedom; whereas if Mardonius fall, it matters nothing- they will have
 gained but a poor triumph- a victory over one of thy slaves!
 Remember also, thou goest home having gained the purpose of thy
 expedition; for thou hast burnt Athens!"
-    The advice of Artemisia pleased Xerxes well; for she had exactly
+
+The advice of Artemisia pleased Xerxes well; for she had exactly
 uttered his own thoughts. I, for my part, do not believe that he would
 have remained had all his counsellors, both men and women, united to
 urge his stay, so great was the alarm that he felt. As it was, he gave
 praise to Artemisia, and entrusted certain of his children to her
 care, ordering her to convey them to Ephesus; for he had been
 accompanied on the expedition by some of his natural sons.
-    He likewise sent away at this time one of the principal of his
+
+He likewise sent away at this time one of the principal of his
 eunuchs, a man named Hermotimus, a Pedasian, who was bidden to take
 charge of these sons. Now the Pedasians inhabit the region above
 Halicarnassus; and it is related of them, that in their country the
@@ -20605,7 +22168,8 @@ following circumstance happens: when a mischance is about to befall
 any of their neighbours within a certain time, the priestess of
 Minerva in their city grows a long beard. This has already taken place
 on two occasions.
-    The Hermotimus of whom I spoke above was, as I said, a Pedasian;
+
+The Hermotimus of whom I spoke above was, as I said, a Pedasian;
 and he, of all men whom we know, took the most cruel vengeance on
 the person who had done him an injury. He had been made a prisoner
 of war, and when his captors sold him, he was bought by a certain
@@ -20620,7 +22184,8 @@ mention. However, he was not without his share of good fortune; for
 after a while he was sent from Sardis, together with other gifts, as a
 present to the king. Nor was it long before he came to be esteemed
 by Xerxes more highly than all his eunuchs.
-    When the king was on his way to Athens with the Persian army,
+
+When the king was on his way to Athens with the Persian army,
 and abode for a time at Sardis, Hermotimus happened to make a
 journey upon business into Mysia; and there, in a district which is
 called Atarneus, but belongs to Chios, he chanced to fall in with
@@ -20632,19 +22197,22 @@ Panionius was overjoyed, and, accepting the offer made him, came
 presently, and brought with him his wife and children. Then
 Hermotimus, when he had got Panionius and all his family into his
 power, addressed him in these words:-
-    "Thou man, who gettest a living by viler deeds than any one else
+
+"Thou man, who gettest a living by viler deeds than any one else
 in the whole world, what wrong to thee or thine had I or any of mine
 done, that thou shouldst have made me the nothing that I now am? Ah!
 surely thou thoughtest that the gods took no note of thy crimes. But
 they in their justice have delivered thee, the doer of
 unrighteousness, into my hands; and now thou canst not complain of the
 vengeance which I am resolved to take on thee."
-    After these reproaches, Hermotimus commanded the four sons of
+
+After these reproaches, Hermotimus commanded the four sons of
 Panionius to be brought, and forced the father to make them eunuchs
 with his own hand. Unable to resist, he did as Hermotimus required;
 and then his sons were made to treat him in the self-same way. So in
 this way there came to Panionius requital at the hands of Hermotimus.
-    Xerxes, after charging Artemisia to convey his sons safe to
+
+Xerxes, after charging Artemisia to convey his sons safe to
 Ephesus, sent for Mardonius, and bade him choose from all his army
 such men as he wished, and see that he made his achievements answer to
 his promises. During this day he did no more; but no sooner was
@@ -20656,7 +22224,8 @@ narrow points of land project into the sea, they took the cliffs for
 vessels, and fled far away in alarm. Discovering their mistake,
 however, after a time, they joined company once more, and proceeded
 upon their voyage.
-    Next day the Greeks, seeing the land force of the barbarians
+
+Next day the Greeks, seeing the land force of the barbarians
 encamped in the same place, thought that their ships must still be
 lying at Phalerum; and, expecting another attack from that quarter,
 made preparations to defend themselves. Soon however news came that
@@ -20684,15 +22253,18 @@ longer in Europe. The Greeks ought to let him depart; and when he
 was gone from among them, and had returned into his own country,
 then would be the time for them to contend with him for the possession
 of that."
-    The other captains of the Peloponnesians declared themselves of
+
+The other captains of the Peloponnesians declared themselves of
 the same mind.
-    Whereupon Themistocles, finding that the majority was against him,
+
+Whereupon Themistocles, finding that the majority was against him,
 and that he could not persuade them to push on to the Hellespont,
 changed round, and addressing himself to the Athenians, who of all the
 allies were the most nettled at the enemy's escape, and who eagerly
 desired, if the other Greeks would not stir, to sail on by
 themselves to the Hellespont and break the bridges, spake as follows:-
-    "I have often myself witnessed occasions, and I have heard of many
+
+"I have often myself witnessed occasions, and I have heard of many
 more from others, where men who had been conquered by an enemy, having
 been driven quite to desperation, have renewed the fight, and
 retrieved their former disasters. We have now had the great good
@@ -20713,7 +22285,8 @@ and to Ionia!" All this Themistocles said in the hope of
 establishing a claim upon the king; for he wanted to have a safe
 retreat in case any mischance should befall him at Athens- which
 indeed came to pass afterwards.
-    At present, however, he dissembled; and the Athenians were
+
+At present, however, he dissembled; and the Athenians were
 persuaded by his words. For they were ready now to do whatever he
 advised; since they had always esteemed him a wise man, and he had
 lately proved himself most truly wise and well-judging. Accordingly,
@@ -20725,15 +22298,18 @@ them was the house-slave Sicinnus, the same whom he had made use of
 previously. When the men reached Attica, all the others stayed with
 the boat; but Sicinnus went up to the king, and spake to him as
 follows:-
-    "I am sent to thee by Themistocles, the son of Neocles, who is the
+
+"I am sent to thee by Themistocles, the son of Neocles, who is the
 leader of the Athenians, and the wisest and bravest man of all the
 allies, to bear thee this message: 'Themistocles the Athenian, anxious
 to render thee a service, has restrained the Greeks, who were
 impatient to pursue thy ships, and to break up the bridges at the
 Hellespont. Now, therefore, return home at thy leisure.'"
-    The messengers, when they had performed their errand, sailed
+
+The messengers, when they had performed their errand, sailed
 back to the fleet.
-    And the Greeks, having resolved that they would neither proceed
+
+And the Greeks, having resolved that they would neither proceed
 further in pursuit of the barbarians, nor push forward to the
 Hellespont and destroy the passage, laid siege to Andros, intending to
 take the town by storm. For Themistocles had required the Andrians
@@ -20749,7 +22325,8 @@ were the gods of the Andrians, and therefore they would not pay the
 money. For the power of Athens could not possibly be stronger than
 their inability." This reply, coupled with the refusal to pay the
 sum required, caused their city to be besieged by the Greeks.
-    Meanwhile Themistocles, who never ceased his pursuit of gain, sent
+
+Meanwhile Themistocles, who never ceased his pursuit of gain, sent
 threatening messages to the other islanders with demands for different
 sums, employing the same messengers and the same words as he had
 used towards the Andrians. "If," he said, "they did not send him the
@@ -20765,7 +22342,8 @@ Themistocles was softened by the Parians' gift, and therefore they
 received no visit from the army. In this way it was that Themistocles,
 during his stay at Andros, obtained money from the islanders,
 unbeknown to the other captains.
-    King Xerxes and his army waited but a few days after the
+
+King Xerxes and his army waited but a few days after the
 sea-fight, and then withdrew into Boeotia by the road which they had
 followed on their advance. It was the wish of Mardonius to escort
 the king a part of the way; and as the time of year was no longer
@@ -20785,22 +22363,26 @@ greatest number of troops, men who were adorned with chains and
 armlets. Next to them were the Medes, who in number equalled the
 Persians, but in valour fell short of them. The whole army,
 reckoning the horsemen with the rest, amounted to 300,000 men.
-    At the time when Mardonius was making choice of his troops, and
+
+At the time when Mardonius was making choice of his troops, and
 Xerxes still continued in Thessaly, the Lacedaemonians received a
 message from the Delphic oracle, bidding them seek satisfaction at the
 hands of Xerxes for the death of Leonidas, and take whatever he
 chose to give them. So the Spartans sent a herald with all speed
 into Thessaly, who arrived while the entire Persian army was still
 there. This man, being brought before the king, spake as follows:-
-    "King of the Medes, the Lacedaemonians and the Heracleids of
+
+"King of the Medes, the Lacedaemonians and the Heracleids of
 Sparta require of thee the satisfaction due for bloodshed, because
 thou slewest their king, who fell fighting for Greece."
-    Xerxes laughed, and for a long time spake not a word. At last,
+
+Xerxes laughed, and for a long time spake not a word. At last,
 however, he pointed to Mardonius, who was standing by him, and
 said:- "Mardonius here shall give them the satisfaction they deserve
 to get." And the herald accepted the answer, and forthwith went his
 way.
-    Xerxes, after this, left Mardonius in Thessaly, and marched away
+
+Xerxes, after this, left Mardonius in Thessaly, and marched away
 himself, at his best speed, toward the Hellespont. In five-and-forty
 days he reached the place of passage, where he arrived with scarce a
 fraction, so to speak, of his former army. All along their line of
@@ -20821,7 +22403,8 @@ which upon his return he was unable to recover; for the Paeonians
 had disposed of them to the Thracians, and, when Xerxes demanded
 them back, they said that the Thracian tribes who dwelt about the
 sources of the Strymon had stolen the mares as they pastured.
-    Here too a Thracian chieftain, king of the Bisaltians and of
+
+Here too a Thracian chieftain, king of the Bisaltians and of
 Crestonia, did a deed which went beyond nature. He had refused to
 become the willing slave of Xerxes, and had fled before him into the
 heights of Rhodope, at the same time forbidding his sons to take
@@ -20832,7 +22415,8 @@ home to him- the number of the men was six- quite safe and sound.
 But their father took them, and punished their offence by plucking out
 their eyes from the sockets. Such was the treatment which these men
 received.
-    The Persians, having journeyed through Thrace and reached the
+
+The Persians, having journeyed through Thrace and reached the
 passage, entered their ships hastily and crossed the Hellespont to
 Abydos. The bridges were not found stretched across the strait;
 since a storm had broken and dispersed them. At Abydos the troops
@@ -20841,7 +22425,8 @@ upon their march, they fed without stint; from which cause, added to
 the change in their water, great numbers of those who had hitherto
 escaped perished. The remainder, together with Xerxes himself, came
 safe to Sardis.
-    There is likewise another account given of the return of the king.
+
+There is likewise another account given of the return of the king.
 It is said that when Xerxes on his way from Athens arrived at Eion
 upon the Strymon, he gave up travelling by land, and, intrusting
 Hydarnes with the conduct of his forces to the Hellespont, embarked
@@ -20863,7 +22448,8 @@ safe to Asia. As soon as he had reached the shore, he sent for the
 helmsman, and gave him a golden crown because he had preserved the
 life of the kings- but because he had caused the death of a number
 of Persians, he ordered his head to be struck from his shoulders.
-    Such is the other account which is given of the return of
+
+Such is the other account which is given of the return of
 Xerxes; but to me it seems quite unworthy of belief, alike in other
 respects, and in what relates to the Persians. For had the helmsman
 made any such speech to Xerxes, I suppose there is not one man in
@@ -20874,7 +22460,8 @@ quit their place and go down below; and would have cast into the sea
 an equal number of the rowers, who were Phoenicians. But the truth is,
 that the king, as I have already said, returned into Asia by the
 same road as the rest of the army.
-    I will add a strong proof of this. It is certain that Xerxes on
+
+I will add a strong proof of this. It is certain that Xerxes on
 his way back from Greece passed through Abdera, where he made a
 contract of friendship with the inhabitants, and presented them with a
 golden scymitar, and a tiara broidered with gold. The Abderites
@@ -20883,7 +22470,8 @@ time of the king's leaving Athens, he never once loosed his girdle
 till he came to their city, since it was not till then that he felt
 himself in safety. Now Abdera is nearer to the Hellespont than Eion
 and the Strymon, where Xerxes, according to the other tale, took ship.
-    Meanwhile the Greeks, finding that they could not capture
+
+Meanwhile the Greeks, finding that they could not capture
 Andros, sailed away to Carystus, and wasted the lands of the
 Carystians, after which they returned to Salamis. Arrived here, they
 proceeded, before entering on any other matter, to make choice of
@@ -20896,7 +22484,8 @@ of the booty, and sent away the first-fruits to Delphi. Thereof was
 made the statue, holding in its hand the beak of a ship, which is
 twelve cubits high, and which stands in the same place with the golden
 one of Alexander the Macedonian.
-    After the first-fruits had been sent to Delphi, the Greeks made
+
+After the first-fruits had been sent to Delphi, the Greeks made
 inquiry of the god, in the name of their whole body, if he had
 received his full share of the spoils and was satisfied therewith. The
 god made answer that all the other Greeks had paid him his full due,
@@ -20905,7 +22494,8 @@ prize of valour which they had gained at Salamis. So the Eginetans,
 when they heard this, dedicated the three golden stars which stand
 on the top of a bronze mast in the corner near the bowl offered by
 Croesus.
-    When the spoils had been divided, the Greeks sailed to the
+
+When the spoils had been divided, the Greeks sailed to the
 Isthmus, where a prize of valour was to be awarded to the man who,
 of all the Greeks, had shown the most merit during the war. When the
 chiefs were all come, they met at the altar of Neptune, and took the
@@ -20915,7 +22505,8 @@ since each considered that he was himself the worthiest; but the
 second votes were given chiefly to Themistocies. In this way, while
 the others received but one vote apiece, Themistocles had for the
 second prize a large majority of the suffrages.
-    Envy, however, hindered the chiefs from coming to a decision,
+
+Envy, however, hindered the chiefs from coming to a decision,
 and they all sailed away to their homes without making any award.
 Nevertheless Themistocles was regarded everywhere as by far the wisest
 man of all the Greeks; and the whole country rang with his fame. As
@@ -20931,17 +22522,20 @@ after receiving abundant praises, was, upon his departure, escorted as
 far as the borders of Tegea, by the three hundred picked Spartans, who
 are called the Knights. Never was it known, either before or since,
 that the Spartans escorted a man out of their city.
-    On the return of Themistocles to Athens, Timodemus of Aphidnae,
+
+On the return of Themistocles to Athens, Timodemus of Aphidnae,
 who was one of his enemies, but otherwise a man of no repute, became
 so maddened with envy that he openly railed against him, and,
 reproaching him with his journey to Sparta, said- "'Twas not his own
 merit that had won him honour from the men of Lacedaemon, but the fame
 of Athens, his country." Then Themistocles, seeing that Timodemus
 repeated this phrase unceasingly, replied-
-    "Thus stands the case, friend. I had never got this honour from
+
+"Thus stands the case, friend. I had never got this honour from
 the Spartans, had I been a Belbinite- nor thou, hadst thou been an
 Athenian!"
-    Artabazus, the son of Pharnaces, a man whom the Persians had
+
+Artabazus, the son of Pharnaces, a man whom the Persians had
 always held in much esteem, but who, after the affair of Plataea, rose
 still higher in their opinion, escorted King Xerxes as far as the
 strait, with sixty thousand of the chosen troops of Mardonius. When
@@ -20954,7 +22548,8 @@ For as soon as the king had passed beyond their territory, and the
 Persian fleet had made its hasty flight from Salamis, the Potidaeans
 revolted from the barbarians openly; as likewise did all the other
 inhabitants of that peninsula.
-    Artabazus, therefore, laid siege to Potidaea; and having a
+
+Artabazus, therefore, laid siege to Potidaea; and having a
 suspicion that the Olynthians were likely to revolt shortly, he
 besieged their city also. Now Olynthus was at that time held by the
 Bottiaeans, who had been driven from the parts about the Thermaic Gulf
@@ -20964,7 +22559,8 @@ slew them. After this he delivered the place into the hands of the
 people called Chalcideans, having first appointed Critobulus of Torone
 to be governor. Such was the way in which the Chalcideans got
 Olynthus.
-    When this town had fallen, Artabazus pressed the siege of Potidaea
+
+When this town had fallen, Artabazus pressed the siege of Potidaea
 all the more unremittingly; and was pushing his operations with
 vigour, when Timoxenus, captain of the Scionaeans, entered into a plot
 to betray the town to him. How the matter was managed at first, I
@@ -20987,7 +22583,8 @@ Scione, that as they did not wish the Scionaeans to be thenceforth
 branded with the name of traitors, they would not bring against him
 any charge of treachery. Such accordingly was the mode in which this
 plot was discovered.
-    After Artabazus had continued the siege by the space of three
+
+After Artabazus had continued the siege by the space of three
 months, it happened that there was an unusual ebb of the tide, which
 lasted a long while. So when the barbarians saw that what had been sea
 was now no more than a swamp, they determined to push across it into
@@ -21005,7 +22602,8 @@ and image of Neptune, situated in their suburb. And in this they
 seem to me to say well. Artabazus afterwards led away the remainder of
 his army, and joined Mardonius in Thessaly. Thus fared it with the
 Persians who escorted the king to the strait.
-    As for that part of the fleet of Xerxes which had survived the
+
+As for that part of the fleet of Xerxes which had survived the
 battle, when it had made good its escape from Salamis to the coast
 of Asia, and conveyed the king with his army across the strait from
 the Chersonese to Abydos, it passed the winter at Cyme. On the first
@@ -21031,7 +22629,8 @@ by land they thought that Mardonius was quite sure of victory. So they
 remained at Samos, and took counsel together, if by any means they
 might harass the enemy, at the same time that they waited eagerly to
 hear how matters would proceed with Mardonius.
-    The approach of spring, and the knowledge that Mardonius was in
+
+The approach of spring, and the knowledge that Mardonius was in
 Thessaly, roused the Greeks from inaction. Their land force indeed was
 not yet come together; but the fleet, consisting of one hundred and
 ten ships, proceeded to Egina, under the command of Leotychides.
@@ -21046,7 +22645,8 @@ Hyllus, the son of Hercules. He belonged to the younger branch of
 the royal house. All his ancestors, except the two next in the above
 list to himself, had been kings of Sparta. The Athenian vessels were
 commanded by Xanthippus, the son of Ariphron.
-    When the whole fleet was collected together at Egina,
+
+When the whole fleet was collected together at Egina,
 ambassadors from Ionia arrived at the Greek station; they had but just
 come from paying a visit to Sparta, where they had been intreating the
 Lacedaemonians to undertake the deliverance of their native land.
@@ -21066,7 +22666,8 @@ came to pass, that at the very same time the barbarians were
 hindered by their fears from venturing any further west than Samos,
 and the prayers of the Chians failed to induce the Greeks to advance
 any further east than Delos. Terror guarded the mid region.
-    The Greek fleet was now on its way to Delos; but Mardonius still
+
+The Greek fleet was now on its way to Delos; but Mardonius still
 abode in his winter-quarters in Thessaly. When he was about to leave
 them, he despatched a man named Mys, a European by birth, to go and
 consult the different oracles, giving him orders to put questions
@@ -21076,7 +22677,8 @@ orders, I am not able to say, for no account has reached me of the
 matter; but for my own part, I suppose that he sent to inquire
 concerning the business which he had in hand, and not for any other
 purpose.
-    Mys, it is certain, went to Lebadeia, and, by the payment of a sum
+
+Mys, it is certain, went to Lebadeia, and, by the payment of a sum
 of money, induced one of the inhabitants to go down to Trophonius;
 he likewise visited Abae of the Phocians, and there consulted the god;
 while at Thebes, to which place he went first of all, he not only
@@ -21090,7 +22692,8 @@ prophet or for their helper in war; he bade them elect between the
 two, and forego either one or the other; so they chose rather to
 have him for their helper. On this account it is unlawful for a Theban
 to sleep in his temple.
-    One thing which the Thebans declare to have happened at this
+
+One thing which the Thebans declare to have happened at this
 time is to me very surprising. Mys, the European, they say, after he
 had gone about to all the oracles, came at last to the sacred precinct
 of Apollo Ptous. The place itself bears the name of Ptoum; it is in
@@ -21106,7 +22709,8 @@ the European, snatched from their hands the tablet which they had
 brought with them, and wrote down what the prophet uttered. The reply,
 he told them, was in the Carian dialect. After this, Mys departed
 and returned to Thessaly.
-    Mardonius, when he had read the answers given by the oracles, sent
+
+Mardonius, when he had read the answers given by the oracles, sent
 next an envoy to Athens. This was Alexander, the son of Amyntas, a
 Macedonian, of whom he made choice for two reasons. Alexander was
 connected with the Persians by family ties; for Gygaea, who was the
@@ -21128,7 +22732,8 @@ superior; and so he thought by this alliance to make sure of
 overcoming the Greeks. Perhaps, too, the oracles leant this way, and
 counselled him to make Athens his friend: so that it may have been
 in obedience to them that he sent the embassy.
-    This Alexander was descended in the seventh degree from Perdiccas,
+
+This Alexander was descended in the seventh degree from Perdiccas,
 who obtained the sovereignty over the Macedonians in the way which I
 will now relate. Three brothers, descendants of Temenus, fled from
 Argos to the Illyrians; their names were Gauanes, Aeropus, and
@@ -21157,7 +22762,8 @@ round the sunshine on the floor of the room, and said, "O king! we
 accept your payment." Then he received the light of the sun three
 times into his bosom, and so went away; and his brothers went with
 him.
-    When they were gone, one of those who sat by told the king what
+
+When they were gone, one of those who sat by told the king what
 the youngest of the three had done, and hinted that he must have had
 some meaning in accepting the wages given. Then the king, when he
 heard what had happened, was angry, and sent horsemen after the youths
@@ -21174,14 +22780,17 @@ that Silenus was made a prisoner. Above the gardens stands a
 mountain called Bermius, which is so cold that none can reach the top.
 Here the brothers made their abode; and from this place by, degrees
 they conquered all Macedonia.
-    From the Perdiccas of whom we have here spoken, Alexander was
+
+From the Perdiccas of whom we have here spoken, Alexander was
 descended in the following way:- Alexander was the son of Amyntas,
 Amyntas of Alcetas; the father of Alcetas was Aeropus; of Aeropus,
 Philip; of Philip, Argaeus; of Argaeus, Perdiccas, the first
 sovereign. Such was the descent of Alexander.
-    (SS 1.) When Alexander reached Athens as the ambassador of
+
+(SS 1.) When Alexander reached Athens as the ambassador of
 Mardonius, he spoke as follows:-
-    "O men of Athens, these be the words of Mardonius. 'The king has
+
+"O men of Athens, these be the words of Mardonius. 'The king has
 sent a message to me, saying, "All the trespasses which the
 Athenians have committed against me I freely forgive. Now then,
 Mardonius, thus shalt thou act towards them. Restore to them their
@@ -21203,7 +22812,8 @@ danger of your lives. Rather agree to make peace; which ye can now
 do without any tarnish to your honour, since the king invites you to
 it. Continue free, and make an alliance with us, without fraud or
 deceit.'
-    (SS 2.) "These are the words, O Athenians! which Mardonius had bid
+
+(SS 2.) "These are the words, O Athenians! which Mardonius had bid
 me speak to you. For my own part, I will say nothing of the good
 will I bear your nation, since ye have not now for the first time to
 become acquainted with it. But I will add my intreaties also, and
@@ -21221,7 +22831,8 @@ Mardonius! Surely it is no small matter that the Great King chooses
 you out from all the rest of the Greeks, to offer you forgiveness of
 the wrongs you have done him, and to propose himself as your friend
 and ally!"
-    Such were the words of Alexander. Now the Lacedaemonians, when
+
+Such were the words of Alexander. Now the Lacedaemonians, when
 tidings reached them that Alexander was gone to Athens to bring
 about a league between the Athenians and the barbarians, and when at
 the same time they called to mind the prophecies which declared that
@@ -21236,9 +22847,11 @@ the Persians, and as soon as they heard it would with all speed send
 an embassy. They contrived matters therefore of set purpose, so that
 the Lacedaemonians might hear them deliver their sentiments on the
 occasion.
-    As soon as Alexander had finished speaking, the ambassadors from
+
+As soon as Alexander had finished speaking, the ambassadors from
 Sparta took the word and said,-
-    "We are sent here by the Lacedaemonians to entreat of you that
+
+"We are sent here by the Lacedaemonians to entreat of you that
 ye will not do a new thing in Greece, nor agree to the terms which are
 offered you by the barbarian. Such conduct on the part of any of the
 Greeks were alike unjust and dishonourable; but in you 'twould be
@@ -21259,9 +22872,11 @@ words of Mardonius. He does as is natural for him to do- a tyrant
 himself, he helps forward a tyrant's cause. But ye, Athenians,
 should do differently, at least if ye be truly wise; for ye should
 know that with barbarians there is neither faith nor truth."
-    Thus spake the envoys. After which the Athenians returned this
+
+Thus spake the envoys. After which the Athenians returned this
 answer to Alexander:-
-    "We know, as well as thou dost, that the power of the Mede is many
+
+"We know, as well as thou dost, that the power of the Mede is many
 times greater than our own: we did not need to have that cast in our
 teeth. Nevertheless we cling so to freedom that we shall offer what
 resistance we may. Seek not to persuade us into making terms with
@@ -21275,9 +22890,11 @@ come not thou again to us with words like these; nor, thinking to do
 us a service, persuade us to unholy actions. Thou art the guest and
 friend of our nation- we would not that thou shouldst receive hurt
 at our hands."
-    Such was the answer which the Athenians gave to Alexander. To
+
+Such was the answer which the Athenians gave to Alexander. To
 the Spartan envoys they said:-
-    "'Twas natural no doubt that the Lacedaemonians should be afraid
+
+"'Twas natural no doubt that the Lacedaemonians should be afraid
 we might make terms with the barbarian; but nevertheless It was a base
 fear in men who knew so well of what temper and spirit we are. Not all
 the gold that the whole earth contains- not the fairest and most
@@ -21303,12 +22920,14 @@ invade our territory, but will set out so soon as he learns our answer
 to be, that we will do none of those things which he requires of us.
 Now then is the time for us, before he enters Attica, to go forth
 ourselves into Boeotia, and give him battle."
-    When the Athenians had thus spoken, the ambassadors from Sparta
-departed, and returned back to their own country.
-                       The Ninth Book, Entitled
-                               CALLIOPE
 
-    Mardonius, when Alexander upon his return made known to him the
+When the Athenians had thus spoken, the ambassadors from Sparta
+departed, and returned back to their own country.
+
+IX CALLIOPE
+-----------
+
+Mardonius, when Alexander upon his return made known to him the
 answer of the Athenians, forthwith broke up from Thessaly, and led his
 army with all speed against Athens; forcing the several nations
 through whose land he passed to furnish him with additional troops.
@@ -21317,7 +22936,8 @@ had taken in the war hitherto, urged on the Persians to the attack
 more earnestly than ever. Thorax of Larissa in particular, who had
 helped to escort Xerxes on his flight to Asia, now openly encouraged
 Mardonius in his march upon Greece.
-    When the army reached Boeotia, the Thebans sought to induce
+
+When the army reached Boeotia, the Thebans sought to induce
 Mardonius to make a halt: "He would not," they told him, "find
 anywhere a more convenient place in which to pitch his camp; and their
 advice to him was, that he should go no further, but fix himself
@@ -21330,7 +22950,8 @@ direction of all their counsels. Send presents to the men of most
 weight in the several states, and by so doing thou wilt sow division
 among them. After that, it will be a light task, with the help of such
 as side with thee, to bring under all thy adversaries."
-    Such was the advice of the Thebans: but Mardonius did not follow
+
+Such was the advice of the Thebans: but Mardonius did not follow
 it. A strong desire of taking Athens a second time possessed him, in
 part arising from his inborn stubbornness, in part from a wish to
 inform the king at Sardis, by fire-signals along the islands, that
@@ -21340,7 +22961,8 @@ withdrawn, some to their ships, but the greater part to Salamis- and
 he only gained possession of a deserted town. It was ten months
 after the taking of the city by the king that Mardonius came against
 it for the second time.
-    Mardonius, being now in Athens, sent an envoy to Salamis, one
+
+Mardonius, being now in Athens, sent an envoy to Salamis, one
 Murychides, a Hellespontine Greek, to offer the Athenians once more
 the same terms which had been conveyed to them by Alexander. The
 reason for his sending a second time, though he knew beforehand
@@ -21348,7 +22970,8 @@ their unfriendly feelings towards him, was,- that he hoped, when
 they saw the whole land of Attica conquered and in his power, their
 stubbornness would begin to give way. On this account, therefore, he
 dispatched Murychides to Salamis.
-    Now, when Murychides came before the council, and delivered his
+
+Now, when Murychides came before the council, and delivered his
 message, one of the councillors, named Lycidas, gave it as his
 opinion- "that the best course would be, to admit the proposals
 brought by Murychides, and lay them before the assembly of the
@@ -21363,7 +22986,8 @@ Lycidas, and the Athenian women learnt what had happened. Then each
 exhorted her fellow, and one brought another to take part in the deed;
 and they all flocked of their own accord to the house of Lycidas,
 and stoned to death his wife and his children.
-    The circumstances under which the Athenians had sought refuge in
+
+The circumstances under which the Athenians had sought refuge in
 Salamis were the following. So long as any hope remained that a
 Peloponnesian army would come to give them aid, they abode still in
 Attica; but when it appeared that the allies were slack and slow to
@@ -21377,15 +23001,18 @@ going out to meet him in Boeotia. They were likewise to remind the
 Lacedaemonians of the offers by which the Persian had sought to win
 Athens over to his side, and to warn them, that no aid came from
 Sparta, the Athenians must consult for their own safety.
-    The truth was, the Lacedaemonians were keeping holiday at that
+
+The truth was, the Lacedaemonians were keeping holiday at that
 time; for it was the feast of the Hyacinthia, and they thought nothing
 of so much moment as to perform the service of the god. They were also
 engaged in building their wall across the Isthmus, which was now so
 far advanced that the battlements had begun to be placed upon it.
-    When the envoys of the Athenians, accompanied by ambassadors
+
+When the envoys of the Athenians, accompanied by ambassadors
 from Megara and Plataea, reached Lacedaemon, they came before the
 Ephors, and spoke as follows:-
-    "The Athenians have sent us to you to say,- the king of the
+
+"The Athenians have sent us to you to say,- the king of the
 Medes offers to give us back our country, and wishes to conclude an
 alliance with us on fair and equal terms, without fraud or deceit.
 He is willing likewise to bestow on us another country besides our
@@ -21410,7 +23037,8 @@ have not done what was right. They bid you, however, make haste to
 send forth your army, that we may even yet meet Mardonius in Attica.
 Now that Boeotia is lost to us, the best place for the fight within
 our country, will be the plain of Thria."
-    The Ephors, when they had heard this speech, delayed their
+
+The Ephors, when they had heard this speech, delayed their
 answer till the morrow; and when the morrow came, till the day
 following. And thus they acted for ten days, continually putting off
 the ambassadors from one day to the next. Meanwhile the Peloponnesians
@@ -21423,7 +23051,8 @@ former time the wall across the Isthmus was not complete, and they
 worked at it in great fear of the Persians, whereas now the bulwark
 had been raised, and so they imagined that they had no further need of
 the Athenians.
-    At last the ambassadors got an answer, and the troops marched
+
+At last the ambassadors got an answer, and the troops marched
 forth from Sparta, under the following circumstances. The last
 audience had been fixed for the ambassadors, when, the very day before
 it was to be given, a certain Tegean, named Chileus, a man who had
@@ -21435,7 +23064,8 @@ wall across the Isthmus may be, there will be doors enough, and wide
 enough open too, by which the Persian may gain entrance to the
 Peloponnese. Grant their request then, before they make any fresh
 resolve, which may bring Greece to ruin."
-    Such was the counsel which Chileus gave: and the Ephors, taking
+
+Such was the counsel which Chileus gave: and the Ephors, taking
 the advice into consideration, determined forthwith, without
 speaking a word to the ambassadors from the three cities, to
 despatch to the Isthmus a body of five thousand Spartans; and
@@ -21452,7 +23082,8 @@ was offering sacrifice to know if he should march out against the
 Persian, the sun was suddenly darkened in mid sky. Pausanias took with
 him, as joint-leader of the army, Euryanax, the son of Dorieus, a
 member of his own family.
-    The army accordingly had marched out from Sparta with Pausanias:
+
+The army accordingly had marched out from Sparta with Pausanias:
 while the ambassadors, when day came, appeared before the Ephors,
 knowing nothing of the march of the troops, and purposing themselves
 to leave Sparta forthwith, and return each man to his own country.
@@ -21475,7 +23106,8 @@ forthwith set off, at their best speed, to overtake the Spartan
 army. At the same time a body of five thousand Lacedaemonian Perioeci,
 all picked men and fully armed, set forth from Sparta, in the
 company of the ambassadors.
-    So these troops marched in haste towards the Isthmus. Meanwhile
+
+So these troops marched in haste towards the Isthmus. Meanwhile
 the Argives, who had promised Mardonius that they would stop the
 Spartans from crossing their borders, as soon as they learnt that
 Pausanias with his army had started from Sparta, took the swiftest
@@ -21486,7 +23118,8 @@ the Lacedaemonian youth are gone forth from their city, and that the
 Argives are too weak to hinder them. Take good heed therefore to
 thyself at this time." After thus speaking, without a word more, he
 returned home.
-    When Mardonius learnt that the Spartans were on their march, he no
+
+When Mardonius learnt that the Spartans were on their march, he no
 longer cared to remain in Attica. Hitherto he had kept quiet,
 wishing to see what the Athenians would do, and had neither ravaged
 their territory, nor done it any the least harm; for till now he had
@@ -21503,7 +23136,8 @@ except through defiles, where a handful of troops might stop all his
 army. So he determined to withdraw to Thebes, and give the Greeks
 battle in the neighbourhood of a friendly city, and on ground well
 suited for cavalry.
-    After he had quitted Attica and was already upon his march, news
+
+After he had quitted Attica and was already upon his march, news
 reached him that a body of a thousand Lacedaemonians, distinct from
 the army of Pausanias, and sent on in advance, had arrived in the
 Megarid. When he heard it, wishing, if possible, to destroy this
@@ -21512,7 +23146,8 @@ compass their ruin. With a sudden change of march he made for
 Megara, while the horse, pushing on in advance, entered and ravaged
 the Megarid. (Here was the furthest point in Europe towards the
 setting sun to which this Persian army ever penetrated.)
-    After this, Mardonius received another message, whereby he
+
+After this, Mardonius received another message, whereby he
 learnt that the forces of the Greeks were collected together at the
 Isthmus; which tidings caused him to draw back, and leave Attica by
 the way of Deceleia. The Boeotarchs had sent for some of the
@@ -21530,12 +23165,14 @@ wishes. His army at this time lay on the Asopus, and stretched from
 Erythrae, along by Hysiae, to the territory of the Plataeans. The
 wall, however, was not made to extend so far, but formed a square of
 about ten furlongs each way.
-    While the barbarians were employed in this work, a certain citizen
+
+While the barbarians were employed in this work, a certain citizen
 of Thebes, Attaginus by name, the son of Phrynon, having made great
 preparations, gave a banquet, and invited Mardonius thereto,
 together with fifty of the noblest Persians. Now the banquet was
 held at Thebes; and all the guests who were invited came to it.
-    What follows was recounted to me by Thersander, a native of
+
+What follows was recounted to me by Thersander, a native of
 Orchomenus, a man of the first rank in that city. Thersander told me
 that he was himself among those invited to the feast, and that besides
 the Persians fifty Thebans were asked; and the two nations were not
@@ -21544,14 +23181,16 @@ side upon each couch. After the feast was ended, and the drinking
 had begun, the Persian who shared Thersander's couch addressed him
 in the Greek tongue, and inquired of him from what city he came. He
 answered, that he was of Orchomenus; whereupon the other said-
-    "Since thou hast eaten with me at one table, and poured libation
+
+"Since thou hast eaten with me at one table, and poured libation
 from one cup, I would fain leave with thee a memorial of the belief
 I hold- the rather that thou mayest have timely warning thyself, and
 so be able to provide for thy own safety. Seest thou these Persians
 here feasting, and the army which we left encamped yonder by the
 river-side? Yet a little while, and of all this number thou wilt
 behold but a few surviving!"
-    As he spake, the Persian let fall a flood of tears: whereon
+
+As he spake, the Persian let fall a flood of tears: whereon
 Thersander, who was astonished at his words, replied- "Surely thou
 shouldest say all this to Mardonius, and the Persians who are next him
 in honour"- but the other rejoined- "Dear friend, it is not possible
@@ -21563,7 +23202,8 @@ and yet have no power over action." All this I heard myself from
 Thersander the Orchomenian; who told me further, that he mentioned
 what had happened to divers persons, before the battle was fought at
 Plataea.
-    When Mardonius formerly held his camp in Boeotia, all the Greeks
+
+When Mardonius formerly held his camp in Boeotia, all the Greeks
 of those parts who were friendly to the Medes sent troops to join
 his army, and these troops accompanied him in his attack upon
 Athens. The Phocians alone abstained, and took no part in the
@@ -21587,7 +23227,8 @@ for you all to show yourselves brave men. 'Tis better to die
 fighting and defending our lives, than tamely to allow them to slay us
 in this shameful fashion. Let them learn that they are barbarians, and
 that the men whose death they have plotted are Greeks!"
-    Thus spake Harmocydes; and the Persian horse, having encircled the
+
+Thus spake Harmocydes; and the Persian horse, having encircled the
 Phocians, charged towards them, as if about to deal out death, with
 bows bent, and arrows ready to be let fly; nay, here and there some
 did even discharge their weapons. But the Phocians stood firm, keeping
@@ -21605,7 +23246,8 @@ valiant men- much unlike the report I had heard of you. Now
 therefore be forward in the coming war. Ye will not readily outdo
 either the king or myself in services." Thus ended the affair of the
 Phocians.
-    The Lacedaemonians, when they reached the Isthmus, pitched their
+
+The Lacedaemonians, when they reached the Isthmus, pitched their
 camp there; and the other Peloponnesians who had embraced the good
 side, hearing or else seeing that they were upon the march, thought it
 not right to remain behind when the Spartans were going forth to the
@@ -21618,7 +23260,8 @@ accompanied the main army. On reaching Erythrae in Boeotia, they
 learnt that the barbarians were encamped upon the Asopus; wherefore
 they themselves, after considering how they should act, disposed their
 forces opposite to the enemy upon the slopes of Mount Cithaeron.
-    Mardonius, when he saw that the Greeks would not come down into
+
+Mardonius, when he saw that the Greeks would not come down into
 the plain, sent all his cavalry, under Masistius (or Macistius, as the
 Greeks call him), to attack them where they were. Now Masistius was
 a man of much repute among the Persians, and rode a Nisaean charger
@@ -21626,7 +23269,8 @@ with a golden bit, and otherwise magnificently caparisoned. So the
 horse advanced against the Greeks, and made attacks upon them in
 divisions, doing them great damage at each charge, and insulting
 them by calling them women.
-    It chanced that the Megarians were drawn up in the position most
+
+It chanced that the Megarians were drawn up in the position most
 open to attack, and where the ground offered the best approach to
 the cavalry. Finding themselves therefore hard pressed by the assaults
 upon their ranks, they sent a herald to the Greek leaders, who came
@@ -21642,7 +23286,8 @@ take the post, and so relieve the Megarians. Of the rest none were
 willing to go, whereupon the Athenians offered themselves; and a
 body of picked men, three hundred in number, commanded by
 Olympiodorus, the son of Lampo, undertook the service.
-    Selecting, to accompany them, the whole body of archers, these men
+
+Selecting, to accompany them, the whole body of archers, these men
 relieved the Megarians, and occupied a post which all the other Greeks
 collected at Erythrae had shrunk from holding. After the struggle
 had continued for a while, it came to an end on this wise. As the
@@ -21664,7 +23309,8 @@ however, they halted, and found that there was no one to marshal their
 line, Masistius was missed; and instantly his soldiers,
 understanding what must have befallen him, with loud cheers charged
 the enemy in one mass, hoping to recover the dead body.
-    So when the Athenians saw that, instead of coming up in squadrons,
+
+So when the Athenians saw that, instead of coming up in squadrons,
 the whole mass of the horse was about to charge them at once, they
 called out to the other troops to make haste to their aid. While the
 rest of the infantry, however, was moving to their assistance, the
@@ -21677,7 +23323,8 @@ body, having incurred in the attempt a further loss of several of
 their number. They therefore retired about two furlongs, and consulted
 with each other what was best to be done. Being without a leader, it
 seemed to them the fittest course to return to Mardonius.
-    When the horse reached the camp, Mardonius and all the Persian
+
+When the horse reached the camp, Mardonius and all the Persian
 army made great lamentation for Masistius. They shaved off all the
 hair from their own heads, and cut the manes from their war-horses and
 their sumpter-beasts, while they vented their grief in such loud cries
@@ -21685,7 +23332,8 @@ that all Boeotia resounded with the clamour, because they had lost the
 man who, next to Mardonius, was held in the greatest esteem, both by
 the king and by the Persians generally. So the barbarians, after their
 own fashion, paid honours to the dead Masistius.
-    The Greeks, on the other hand, were greatly emboldened by what had
+
+The Greeks, on the other hand, were greatly emboldened by what had
 happened, seeing that they had not only stood their ground against the
 attacks of the horse, but had even compelled them to beat a retreat.
 They therefore placed the dead body of Masistius upon a cart, and
@@ -21705,12 +23353,14 @@ territory of the Plataeans; and here they drew themselves up, nation
 by nation, close by the fountain Gargaphia, and the sacred precinct of
 the Hero Androcrates, partly along some hillocks of no great height,
 and partly upon the level of the plain.
-    Here, in the marshalling of the nations, a fierce battle of
+
+Here, in the marshalling of the nations, a fierce battle of
 words arose between the Athenians and the Tegeans, both of whom
 claimed to have one of the wings assigned to them. On each side were
 brought forward the deeds which they had done, whether in earlier or
 in later times; and first the Tegeans urged their claim as follows:-
-    "This post has been always considered our right, and not the right
+
+"This post has been always considered our right, and not the right
 of any of the other allies, in all the expeditions which have been
 entered into conjointly by the Peloponnesians, both anciently and in
 later times. Ever since the Heraclidae made their attempt, after the
@@ -21747,7 +23397,8 @@ engaged against yourselves, O Spartans! as well as those which we have
 maintained with others. We have therefore more right to this place
 than they; for they have performed no exploits to be compared to ours,
 whether we look to earlier or to later times."
-    Thus spake the Tegeans; and the Athenians made reply as
+
+Thus spake the Tegeans; and the Athenians made reply as
 follows:- "We are not ignorant that our forces were gathered here, not
 for the purpose of speech-making, but for battle against the
 barbarian. Yet as the Tegeans have been pleased to bring into debate
@@ -21784,11 +23435,13 @@ to take our station at whatever part of the line, and face whatever
 nation ye think most expedient. Wheresoever ye place us, 'twill be our
 endeavour to behave as brave men. Only declare your will, and we shall
 at once obey you."
-    Such was the reply of the Athenians; and forthwith all the
+
+Such was the reply of the Athenians; and forthwith all the
 Lacedaemonian troops cried out with one voice, that the Athenians were
 worthier to have the left wing than the Arcadians. In this way were
 the Tegeans overcome; and the post was assigned to the Athenians.
-    When this matter had been arranged, the Greek army, which was in
+
+When this matter had been arranged, the Greek army, which was in
 part composed of those who came at the first, in part of such as had
 flocked in from day to day, drew up in the following order:- Ten
 thousand Lacedaemonian troops held the right wing, five thousand of
@@ -21813,7 +23466,8 @@ thousand; and the Plataeans, six hundred. Last of all, but first at
 their extremity of the line, were the Athenians, who, to the number of
 eight thousand, occupied the left wing, under the command of
 Aristides, the son of Lysimachus.
-    All these, except the Helots- seven of whom, as I said, attended
+
+All these, except the Helots- seven of whom, as I said, attended
 each Spartan- were heavy-armed troops; and they amounted to
 thirty-eight thousand seven hundred men. This was the number of
 Hoplites, or heavy-armed soldiers, which was together against the
@@ -21823,14 +23477,16 @@ who were all well equipped for war; and of thirty-four thousand five
 hundred others, belonging to the Lacedaemonians and the rest of the
 Greeks, at the rate (nearly) of one light to one heavy armed. Thus the
 entire number of the light-armed was sixty-nine thousand five hundred.
-    The Greek army, therefore, which mustered at Plataea, counting
+
+The Greek army, therefore, which mustered at Plataea, counting
 light-armed as well as heavy-armed, was but eighteen hundred men short
 of one hundred and ten thousand; and this amount was exactly made up
 by the Thespians who were present in the camp; for eighteen hundred
 Thespians, being the whole number left, were likewise with the army;
 but these men were without arms. Such was the array of the Greek
 troops when they took post on the Asopus.
-    The barbarians under Mardonius, when the mourning for Masistius
+
+The barbarians under Mardonius, when the mourning for Masistius
 was at an end, and they learnt that the Greeks were in the Plataean
 territory, moved likewise towards the river Asopus, which flows in
 those parts. On their arrival Mardonius marshalled them against the
@@ -21857,7 +23513,8 @@ the Greeks who sided with him, and so did good service to the
 Grecian cause. Besides those mentioned above, Mardonius likewise
 arrayed against the Athenians the Macedonians and the tribes
 dwelling about Thessaly.
-    I have named here the greatest of the nations which were
+
+I have named here the greatest of the nations which were
 marshalled by Mardonius on this occasion, to wit, all those of most
 renown and account. Mixed with these, however, were men of divers
 other peoples, as Phrygians, Thracians, Mysians, Paeonians, and the
@@ -21872,7 +23529,8 @@ who had made alliance with Mardonius is known to none, for they were
 never counted: I should guess that they mustered near fifty thousand
 strong. The troops thus marshalled were all foot soldiers. As for
 the horse, it was drawn up by itself.
-    When the marshalling of Mardonius' troops by nations and by
+
+When the marshalling of Mardonius' troops by nations and by
 maniples was ended, the two armies proceeded on the next day to
 offer sacrifice. The Grecian sacrifice was offered by Tisamenus, the
 son of Antiochus, who accompanied the army as soothsayer: he was an
@@ -21903,7 +23561,8 @@ terms; but Tisamenus now, perceiving them so changed, declared, "He
 could no longer be content with what he had asked before: they must
 likewise make his brother Hagias a Spartan, with the same rights as
 himself."
-    In acting thus he did but follow the example once set by Melampus,
+
+In acting thus he did but follow the example once set by Melampus,
 at least if kingship may be compared with citizenship. For when the
 women of Argos were seized with madness, and the Argives would have
 hired Melampus to come from Pylos and heal them of their disease, he
@@ -21916,7 +23575,8 @@ Hereon Melampus, seeing them so changed, raised his demand, and told
 them, "Except they would give his brother Bias one-third of the
 kingdom likewise, he would not do as they wished." So, as the
 Argives were in a strait, they consented even to this.
-    In like manner the Spartans, as they were in great need of
+
+In like manner the Spartans, as they were in great need of
 Tisamenus, yielded everything: and Tisamenus the Elean, having in this
 way become a Spartan citizen, afterwards, in the capacity of
 soothsayer, helped the Spartans to gain five very glorious combats. He
@@ -21928,11 +23588,13 @@ Arcadians excepting those of Mantinea; the fourth, that at the
 Isthmus, against the Messenians; and the fifth, that at Tanagra,
 against the Athenians and the Argives. The battle here fought was
 the last of all the five.
-    The Spartans had now brought Tisamenus with them to the Plataean
+
+The Spartans had now brought Tisamenus with them to the Plataean
 territory, where he acted as soothsayer for the Greeks. He found the
 victims favourable, if the Greeks stood on the defensive, but not if
 they began the battle or crossed the river Asopus.
-    With Mardonius also, who was very eager to begin the battle, the
+
+With Mardonius also, who was very eager to begin the battle, the
 victims were not favourable for so doing; but he likewise found them
 bode him well, if he was content to stand on his defence. He too had
 made use of the Grecian rites; for Hegesistratus, an Elean, and the
@@ -21967,7 +23629,8 @@ the fight at Plataea. At present he was serving Mardonius on the
 Asopus, having been hired at no inconsiderable price; and here he
 offered sacrifice with a right good will, in part from his hatred of
 the Lacedaemonians, in part for lucre's sake.
-    So when the victims did not allow either the Persians or their
+
+So when the victims did not allow either the Persians or their
 Greek allies to begin the battle- these Greeks had their own
 soothsayer in the person of Hippomachus, a Leucadian- and when
 soldiers continued to pour into the opposite camp and the numbers on
@@ -21975,7 +23638,8 @@ the Greek side to increase continually, Timagenidas, the son of
 Herpys, a Theban, advised Mardonius to keep a watch on the passes of
 Cithaeron, telling him how supplies of men kept flocking in day
 after day, and assuring him that he might cut off large numbers.
-    It was eight days after the two armies first encamped opposite
+
+It was eight days after the two armies first encamped opposite
 to one another when this advice was given by Timagenidas. Mardonius,
 seeing it to be good, as soon as evening came, sent his cavalry to
 that pass of Mount Cithaeron which opens out upon Plataea, a pass
@@ -21988,7 +23652,8 @@ prey in their power, the Persians set upon them and slaughtered
 them, sparing none, neither man nor beast; till at last, when they had
 had enough of slaying, they secured such as were left, and bore them
 off to the camp to Mardonius.
-    After this they waited again for two days more, neither army
+
+After this they waited again for two days more, neither army
 wishing to begin the fight. The barbarians indeed advanced as far as
 the Asopus, and endeavoured to tempt the Greeks to cross; but
 neither side actually passed the stream. Still the cavalry of
@@ -21997,7 +23662,8 @@ Thebans, who were zealous in the cause of the Medes, pressed the war
 forward with all eagerness, and often led the charge till the lines
 met, when the Medes and Persians took their place, and displayed, many
 of them, uncommon valour.
-    For ten days nothing was done more than this; but on the
+
+For ten days nothing was done more than this; but on the
 eleventh day from the time when the two hosts first took station,
 one over against the other, near Plataea- the number of the Greeks
 being now much greater than it was at the first, and Mardonius being
@@ -22024,11 +23690,13 @@ and not wait till greater numbers were gathered against them. As for
 Hegesistratus and his victims, they should let them pass unheeded, not
 seeking to force them to be favourable, but, according to the old
 Persian custom, hasting to join battle."
-    When Mardonius had thus declared his sentiments, no one ventured
+
+When Mardonius had thus declared his sentiments, no one ventured
 to say him nay; and accordingly his opinion prevailed, for it was to
 him, and not to Artabazus, that the king had given the command of
 the army.
-    Mardonius now sent for the captains of the squadrons, and the
+
+Mardonius now sent for the captains of the squadrons, and the
 leaders of the Greeks in his service, and questioned them:- "Did
 they know of any prophecy which said that the Persians were to be
 destroyed in Greece?" All were silent; some because they did not
@@ -22045,21 +23713,23 @@ who are well-wishers to the Persians, and doubt not we shall get the
 better of the Greeks." When he had so spoken, he further ordered
 them to prepare themselves, and to put all in readiness for a battle
 upon the morrow.
-    As for the oracle of which Mardonius spoke, and which he
+
+As for the oracle of which Mardonius spoke, and which he
 referred to the Persians, it did not, I am well assured, mean them,
 but the Illyrians and the Enchelean host. There are, however, some
 verses of Bacis which did speak of this battle:-
 
-    By Thermodon's stream, and the grass-clad hanks of Asopus,
-    See where gather the Grecians, and hark to the foreigners'
-      war-shout-
-    There in death shall lie, ere fate or Lachesis doomed him,
-    Many a bow-bearing Mede, when the day of calamity cometh.
+> By Thermodon's stream, and the grass-clad hanks of Asopus,  
+> See where gather the Grecians, and hark to the foreigners'
+>   war-shout-  
+> There in death shall lie, ere fate or Lachesis doomed him,  
+> Many a bow-bearing Mede, when the day of calamity cometh.
 
 These verses, and some others like them which Musaeus wrote, referred,
 I well know, to the Persians. The river Thermodon flows between
 Tanagra and Glisas.
-    After Mardonius had put his question about the prophecies, and
+
+After Mardonius had put his question about the prophecies, and
 spoken the above words of encouragement, night drew on apace, and on
 both sides the watches were set. As soon then as there was silence
 throughout the camp,- the night being now well advanced, and the men
@@ -22070,9 +23740,11 @@ Hereupon, while the greater part continued on guard, some of the watch
 ran to the chiefs, and told them, "There had come a horseman from
 the Median camp who would not say a word, except that he wished to
 speak with the generals, of whom he mentioned the names."
-    They at once, hearing this, made haste to the outpost, where
+
+They at once, hearing this, made haste to the outpost, where
 they found Alexander, who addressed them as follows:-
-    "Men of Athens, that which I am about to say I trust to your
+
+"Men of Athens, that which I am about to say I trust to your
 honour; and I charge you to keep it secret from all excepting
 Pausanias, if you would not bring me to destruction. Had I not greatly
 at heart the common welfare of Greece, I should not have come to
@@ -22089,13 +23761,16 @@ ye prosper in this war, forget not to do something for my freedom;
 consider the risk I have run, out of zeal for the Greek cause, to
 acquaint you with what Mardonius intends, and to save you from being
 surprised by the barbarians. I am Alexander of Macedon."
-    As soon as he had said this, Alexander rode back to the camp,
+
+As soon as he had said this, Alexander rode back to the camp,
 and returned to the station assigned him.
-    Meanwhile the Athenian generals hastened to the right wing, and
+
+Meanwhile the Athenian generals hastened to the right wing, and
 told Pausanias all that they had learnt from Alexander. Hereupon
 Pausanias, who no sooner heard the intention of the Persians than he
 was struck with fear, addressed the generals, and said,-
-    "Since the battle is to come with to-morrow's dawn, it were well
+
+"Since the battle is to come with to-morrow's dawn, it were well
 that you Athenians should stand opposed to the Persians, and we
 Spartans to the Boeotians and the other Greeks; for ye know the
 Medes and their manner of fight, since ye have already fought with
@@ -22105,14 +23780,16 @@ here present who has ever fought against a Mede, of the Boeotians
 and Thessalians we have had experience. Take then your arms, and march
 over to our post upon the right, while we supply your place in the
 left wing."
-    Hereto the Athenians replied- "We, too, long ago, when we saw that
+
+Hereto the Athenians replied- "We, too, long ago, when we saw that
 the Persians were drawn up to face you, were minded to suggest to
 you the very course which you have now been the first to bring
 forward. We feared, however, that perhaps our words might not be
 pleasing to you. But, as you have now spoken of these things
 yourselves, we gladly give our consent, and are ready to do as ye have
 said."
-    Both sides agreeing hereto, at the dawn of day the Spartans and
+
+Both sides agreeing hereto, at the dawn of day the Spartans and
 Athenians changed places. But the movement was perceived by the
 Boeotians, and they gave notice of it to Mardonius; who at once, on
 hearing what had been done, made a change in the disposition of his
@@ -22120,9 +23797,11 @@ own forces, and brought the Persians to face the Lacedaemonians.
 Then Pausanias, finding that his design was discovered, led back his
 Spartans to the right wing; and Mardonius, seeing this, replaced his
 Persians upon the left of his army.
-    When the troops again occupied their former posts, Mardonius
+
+When the troops again occupied their former posts, Mardonius
 sent a herald to the Spartans, who spoke as follows:-
-    "Lacedaemonians, in these parts the men say that you are the
+
+"Lacedaemonians, in these parts the men say that you are the
 bravest of mankind, and admire you because you never turn your backs
 in flight nor quit your ranks, but always stand firm, and either die
 at your posts or else destroy your adversaries. But in all this
@@ -22144,7 +23823,8 @@ with equal numbers on both sides? Then, if it seems good to the others
 to fight likewise, let them engage afterwards- but if not,- if they
 are content that we should fight on behalf of all, let us so do- and
 whichever side wins the battle, let them win it for their whole army."
-    When the herald had thus spoken, he waited a while, but, as no one
+
+When the herald had thus spoken, he waited a while, but, as no one
 made him any answer, he went back, and told Mardonius what had
 happened. Mardonius was full of joy thereat, and so puffed up by the
 empty victory, that he at once gave orders to his horse to charge
@@ -22160,7 +23840,8 @@ as the Persian horse with their missile weapons did not allow them
 to approach, and so they could not get their water from the river,
 these Greeks, no less than the Lacedaemonians, resorted at this time
 to the fountain.
-    When the fountain was choked, the Grecian captains, seeing that
+
+When the fountain was choked, the Grecian captains, seeing that
 the army had no longer a water-place, and observing moreover that
 the cavalry greatly harassed them, held a meeting on these and other
 matters at the headquarters of Pausanias upon the right. For besides
@@ -22170,7 +23851,8 @@ had brought with them were gone; and the attendants who had been
 sent to fetch supplies from the Peloponnese, were prevented from
 returning to camp by the Persian horse, which had now closed the
 passage.
-    The captains therefore held a council, whereat it was agreed, that
+
+The captains therefore held a council, whereat it was agreed, that
 if the Persians did not give battle that day, the Greeks should move
 to the Island- a tract of ground which lies in front of Plataea, at
 the distance of ten furlongs from the Asopus and fount Gargaphia,
@@ -22192,7 +23874,8 @@ Cithaeron, they should despatch, the very same night, one half of
 their army towards that mountain-range, to relieve those whom they had
 sent to procure provisions, and who were now blocked up in that
 region.
-    Having made these resolves, they continued during that whole day
+
+Having made these resolves, they continued during that whole day
 to suffer beyond measure from the attacks of the enemy's horse. At
 length when towards dusk the attacks of the horse ceased, and, night
 having closed in, the hour arrived at which the army was to commence
@@ -22203,7 +23886,8 @@ sooner had they begun to move than they fled straight to Plataea;
 where they took post at the temple of Juno, which lies outside the
 city, at the distance of about twenty furlongs from Gargaphia; and
 here they pitched their camp in front of the sacred building.
-    As soon as Pausanias saw a portion of the troops in motion, he
+
+As soon as Pausanias saw a portion of the troops in motion, he
 issued orders to the Lacedaemonians to strike their tents and follow
 those who had been the first to depart, supposing that they were on
 their march to the place agreed upon. All the captains but one were
@@ -22220,7 +23904,8 @@ them to keep their agreement with the other Greeks, Amompharetus and
 those with him might perish. On this account, therefore, they kept the
 Lacedaemonian force in its place, and made every endeavour to persuade
 Amompharetus that he was wrong to act as he was doing.
-    While the Spartans were engaged in these efforts to turn
+
+While the Spartans were engaged in these efforts to turn
 Amompharetus- the only man unwilling to retreat either in their own
 army or in that of the Tegeans- the Athenians on their side did as
 follows. Knowing that it was the Spartan temper to say one thing and
@@ -22229,7 +23914,8 @@ began to retreat, when they despatched a horseman to see whether the
 Spartans really meant to set forth, or whether after all they had no
 intention of moving. The horseman was also to ask Pausanias what he
 wished the Athenians to do.
-    The herald on his arrival found the Lacedaemonians drawn up in
+
+The herald on his arrival found the Lacedaemonians drawn up in
 their old position, and their leaders quarrelling with one another.
 Pausanias and Euryanax had gone on urging Amompharetus not to endanger
 the lives of his men by staying behind while the others drew off,
@@ -22244,7 +23930,8 @@ the Athenian herald, who had made the inquiries with which he was
 charged, bade him tell his countrymen how he was occupied, and ask
 them to approach nearer, and retreat or not according to the movements
 of the Spartans.
-    So the herald went back to the Athenians; and the Spartans
+
+So the herald went back to the Athenians; and the Spartans
 continued to dispute till morning began to dawn upon them. Then
 Pausanias, who as yet had not moved, gave the signal for retreat-
 expecting (and rightly, as the event proved) that Amompharetus, when
@@ -22257,7 +23944,8 @@ Lacedaemonians. For while the latter clung to the hilly ground and the
 skirts of Mount Cithaeron, on account of the fear which they
 entertained of the enemy's horse, the former betook themselves to
 the low country and marched through the plain.
-    As for Amompharetus, at first he did not believe that Pausanias
+
+As for Amompharetus, at first he did not believe that Pausanias
 would really dare to leave him behind; he therefore remained firm in
 his resolve to keep his men at their post; when, however, Pausanias
 and his troops were now some way off, Amompharetus, thinking himself
@@ -22276,11 +23964,13 @@ up to the Greek camp, when they discovered that the place where the
 Greeks had been posted hitherto was deserted. Hereupon they pushed
 forward without stopping, and, as soon as they overtook the enemy,
 pressed heavily on them.
-    Mardonius, when he heard that the Greeks had retired under cover
+
+Mardonius, when he heard that the Greeks had retired under cover
 of the night, and beheld the place, where they had been stationed,
 empty, called to him Thorax of Larissa, and his brethren, Eurypylus
 and Thrasideius, and said:-
-    "O sons of Aleuas! what will ye say now, when ye see yonder
+
+"O sons of Aleuas! what will ye say now, when ye see yonder
 place empty? Why, you, who dwell in their neighbourhood, told me the
 Lacedaemonians never fled from battle, but were brave beyond all the
 rest of mankind. Lately, however, you yourselves beheld them change
@@ -22300,7 +23990,8 @@ But of this hereafter. Now we must not allow them to escape us, but
 must pursue after them till we overtake them; and then we must exact
 vengeance for all the wrongs which have been suffered at their hands
 by the Persians."
-    When he had so spoken, he crossed the Asopus, and led the Persians
+
+When he had so spoken, he crossed the Asopus, and led the Persians
 forward at a run directly upon the track of the Greeks, whom he
 believed to be in actual flight. He could not see the Athenians;
 for, as they had taken the way of the plain, they were hidden from his
@@ -22311,9 +24002,11 @@ so hastily, they all forthwith seized their standards, and hurried
 after at their best speed in great disorder and disarray. On they went
 with loud shouts and in a wild rout, thinking to swallow up the
 runaways.
-    Meanwhile Pausanias had sent a horseman to the Athenians, at the
+
+Meanwhile Pausanias had sent a horseman to the Athenians, at the
 time when the cavalry first fell upon him, with this message:-
-    "Men of Athens! now that the great struggle has come, which is
+
+"Men of Athens! now that the great struggle has come, which is
 to decide the freedom or the slavery of Greece, we twain,
 Lacedaemonians and Athenians, are deserted by all the other allies,
 who have fled away from us during the past night. Nevertheless, we are
@@ -22328,7 +24021,8 @@ least send us your archers, and be sure you will earn our gratitude.
 We acknowledge that throughout this whole war there has been no zeal
 to be compared to yours- we therefore doubt not that you will do us
 this service."
-    The Athenians, as soon as they received this message, were anxious
+
+The Athenians, as soon as they received this message, were anxious
 to go to the aid of the Spartans, and to help them to the uttermost of
 their power; but, as they were upon the march, the Greeks on the
 king's side, whose place in the line had been opposite theirs, fell
@@ -22347,7 +24041,8 @@ arrows, that the Spartans were sorely distressed. The victims
 continued unpropitious; till at last Pausanias raised his eyes to
 the Heraeum of the Plataeans, and calling the goddess to his aid,
 besought her not to disappoint the hopes of the Greeks.
-    As he offered his prayer, the Tegeans, advancing before the
+
+As he offered his prayer, the Tegeans, advancing before the
 rest, rushed forward against the enemy; and the Lacedaemonians, who
 had obtained favourable omens the moment that Pausanias prayed, at
 length, after their long delay, advanced to the attack; while the
@@ -22361,7 +24056,8 @@ whit inferior to the Greeks; but they were without bucklers,
 untrained, and far below the enemy in respect of skill in arms.
 Sometimes singly, sometimes in bodies of ten, now fewer and now more
 in number, they dashed upon the Spartan ranks, and so perished.
-    The fight went most against the Greeks, where Mardonius, mounted
+
+The fight went most against the Greeks, where Mardonius, mounted
 upon a white horse, and surrounded by the bravest of all the Persians,
 the thousand picked men, fought in person. So long as Mardonius was
 alive, this body resisted all attacks, and, while they defended
@@ -22372,7 +24068,8 @@ Lacedaemonians, and took to flight. Their light clothing, and want
 of bucklers, were of the greatest hurt to them: for they had to
 contend against men heavily armed, while they themselves were
 without any such defence.
-    Then was the warning of the oracle fulfilled; and the vengeance
+
+Then was the warning of the oracle fulfilled; and the vengeance
 which was due to the Spartans for the slaughter of Leonidas was paid
 them by Mardonius- then too did Pausanias, the son of Cleombrotus, and
 grandson of Anaxandridas (I omit to recount his other ancestors, since
@@ -22383,7 +24080,8 @@ war, which came after the struggle against the Medes, fought a
 battle near Stenyclerus with but three hundred men against the whole
 force of the Messenians, and himself perished, and the three hundred
 with him.
-    The Persians, as soon as they were put to flight by the
+
+The Persians, as soon as they were put to flight by the
 Lacedaemonians, ran hastily away, without preserving any order, and
 took refuge in their own camp, within the wooden defence which they
 had raised in the Theban territory. It is a marvel to me how it came
@@ -22395,7 +24093,8 @@ imagine- if it is lawful, in matters which concern the gods, to
 imagine anything- that the goddess herself kept them out, because they
 had burnt her dwelling at Eleusis. Such, then, was the issue of this
 battle.
-    Artabazus, the son of Pharnaces, who had disapproved from the
+
+Artabazus, the son of Pharnaces, who had disapproved from the
 first of the king's leaving Mardonius behind him, and had made great
 endeavours, but all in vain, to dissuade Mardonius from risking a
 battle, when he found that the latter was bent on acting otherwise
@@ -22413,7 +24112,8 @@ seek shelter within the palisade or behind the walls of Thebes, but
 hurried on into Phocis, wishing to make his way to the Hellespont with
 all possible speed. Such accordingly was the course which these
 Persians took.
-    As for the Greeks upon the king's side, while most of them
+
+As for the Greeks upon the king's side, while most of them
 played the coward purposely, the Boeotians, on the contrary, had a
 long struggle with the Athenians. Those of the Thebans who were
 attached to the Medes, displayed especially no little zeal; far from
@@ -22423,7 +24123,8 @@ passage of arms. But at last they too were routed, and fled away- not,
 however, in the same direction as the Persians and the crowd of
 allies, who, having taken no part in the battle, ran off without
 striking a blow- but to the city of Thebes.
-    To me it shows very clearly how completely the rest of the
+
+To me it shows very clearly how completely the rest of the
 barbarians were dependent upon the Persian troops, that here they
 all fled at once, without ever coming to blows with the enemy,
 merely because they saw the Persians running away. And so it came to
@@ -22431,9 +24132,11 @@ pass that the whole army took to flight, except only the horse, both
 Persian and Boeotian. These did good service to the flying foot-men,
 by advancing close to the enemy, and separating between the Greeks and
 their own fugitives.
-    The victors however pressed on, pursuing and slaying the remnant
+
+The victors however pressed on, pursuing and slaying the remnant
 of the king's army.
-    Meantime, while the flight continued, tidings reached the Greeks
+
+Meantime, while the flight continued, tidings reached the Greeks
 who were drawn up round the Heraeum, and so were absent from the
 battle, that the fight was begun, and that Pausanias was gaining the
 victory. Hearing this, they rushed forward without any order, the
@@ -22447,7 +24150,8 @@ Asopodorus charged them with such effect that the left six hundred
 of their number dead upon the plain, and, pursuing the rest, compelled
 them to seek shelter in Cithaeron. So these men perished without
 honour.
-    The Persians, and the multitude with them, who fled to the
+
+The Persians, and the multitude with them, who fled to the
 wooden fortress, were able to ascend into the towers before the
 Lacedaemonians came up. Thus placed, they proceeded to strengthen
 the defences as well as they could; and when the Lacedaemonians
@@ -22474,7 +24178,8 @@ army- omitting the 40,000 by whom Artabazus was accompanied in his
 flight- no more than 3000 outlived the battle. Of the Lacedaemonians
 from Sparta there perished in this combat ninety-one; of the
 Tegeans, sixteen; of the Athenians, fifty-two.
-    On the side of the barbarians, the greatest courage was
+
+On the side of the barbarians, the greatest courage was
 manifested, among the foot-soldiers, by the Persians; among the horse,
 by the Sacae; while Mardonius himself, as a man, bore off the palm
 from the rest. Among the Greeks, the Athenians and the Tegeans
@@ -22498,7 +24203,8 @@ it was envy that made them speak after this sort. Of those whom I have
 named above as slain in this battle, all, save and except Aristodemus,
 received public honours: Aristodemus alone had no honours, because
 he courted death for the reason which I have mentioned.
-    These then were the most distinguished of those who fought at
+
+These then were the most distinguished of those who fought at
 Plataea. As for Callicrates,- the most beautiful man, not among the
 Spartans only, but in the whole Greek camp,- he was not killed in
 the battle; for it was while Pausanias was still consulting the
@@ -22509,7 +24215,8 @@ words which he addressed to Arimnestus, one of the Plataeans;- "I
 grieve," said he, "not because I have to die for my country, but
 because I have not lifted my arm against the enemy, nor done any
 deed worthy of me, much as I have desired to achieve something."
-    The Athenian who is said to have distinguished himself the most
+
+The Athenian who is said to have distinguished himself the most
 was Sophanes, the son of Eutychides, of the Deceleian canton. The
 men of this canton, once upon a time, did a deed, which (as the
 Athenians themselves confess) has ever since been serviceable to them.
@@ -22526,7 +24233,8 @@ dues, and to have seats of honour at their festivals; and hence too,
 in the war which took place many years after these events between
 the Peloponnesians and the Athenians, the Lacedaemonians, while they
 laid waste all the rest of Attica, spared the lands of the Deceleians.
-    Of this canton was Sophanes, the Athenian, who most
+
+Of this canton was Sophanes, the Athenian, who most
 distinguished himself in the battle. Two stories are told concerning
 him: according to the one, he wore an iron anchor, fastened to the
 belt which secured his breastplate by a brazen chain; and this, when
@@ -22538,7 +24246,8 @@ stories. The other, which is contradictory to the first, relates
 that Sophanes, instead of having an iron anchor fastened to his
 breastplate, bore the device of an anchor upon his shield, which he
 never allowed to rest, but made to run round continually.
-    Another glorious deed was likewise performed by this same Sophanes
+
+Another glorious deed was likewise performed by this same Sophanes
 At the time when the Athenians were laying siege to Egina, he took
 up the challenge of Eurybates the Argive, a winner of the
 Pentathlum, and slew him. The fate of Sophanes in after times was
@@ -22546,7 +24255,8 @@ the following: he was leader of an Athenian army in conjunction with
 Leagrus, the son of Glaucon, and in a battle with the Edonians near
 Datum, about the gold-mines there, he was slain, after displaying
 uncommon bravery.
-    As soon as the Greeks at Plataea had overthrown the barbarians,
+
+As soon as the Greeks at Plataea had overthrown the barbarians,
 a woman came over to them from the enemy. She was one of the
 concubines of Pharandates, the son of Teaspes, a Persian; and when she
 heard that the Persians were all slain and that the Greeks had carried
@@ -22558,20 +24268,24 @@ she saw that all the orders were given by Pausanias, with whose name
 and country she was well acquainted, as she had oftentimes heard
 tell of them, she knew who he must be; wherefore she embraced his
 knees, and said-
-    "O king of Sparta! save thy suppliant from the slavery that awaits
+
+"O king of Sparta! save thy suppliant from the slavery that awaits
 the captive. Already I am beholden to thee for one service- the
 slaughter of these men, wretches who had no regard either for gods
 or angels. I am by birth a Coan, the daughter of Hegetoridas, son of
 Antagoras. The Persian seized me by force in Cos, and kept me
 against my will."
-    "Lady," answered Pausanias, "fear nothing: as a suppliant thou art
+
+"Lady," answered Pausanias, "fear nothing: as a suppliant thou art
 safe- and still more, if thou hast spoken truth, and Hegetoridas of
 Cos is thy father- for he is bound to me by closer ties of
 friendship than any other man in those regions."
-    When he had thus spoken, Pausanias placed the woman in the
+
+When he had thus spoken, Pausanias placed the woman in the
 charge of some of the Ephors who were present, and afterwards sent her
 to Egina, whither she had a desire to go.
-    About the time of this woman's coming, the Mantineans arrived upon
+
+About the time of this woman's coming, the Mantineans arrived upon
 the field, and found that all was over, and that it was too late to
 take any part in the battle. Greatly distressed hereat, they
 declared themselves to deserve a fine, as laggarts; after which,
@@ -22582,7 +24296,8 @@ returned again to their own land, and sent the leaders of their army
 into banishment. Soon after the Mantineans, the Eleans likewise
 arrived, and showed the same sorrow; after which they too returned
 home, and banished their leaders. But enough concerning these nations.
-    There was a man at Plataea among the troops of the Eginetans,
+
+There was a man at Plataea among the troops of the Eginetans,
 whose name was Lampon; he was the son of Pythias, and a person of
 the first rank among his countrymen. Now this Lampon went about this
 same time to Pausanias, and counselled him to do a deed of exceeding
@@ -22597,7 +24312,8 @@ he should be beheaded and crucified. Do thou the like at this time
 by Mardonius, and thou wilt have glory in Sparta, and likewise through
 the whole of Greece. For, by hanging him upon a cross, thou wilt
 avenge Leonidas, who was thy father's brother."
-    Thus spake Lampon, thinking to please Pausanias; but Pausanias
+
+Thus spake Lampon, thinking to please Pausanias; but Pausanias
 answered him- "My Eginetan friend, for thy foresight and thy
 friendliness I am much beholden to thee: but the counsel which thou
 hast offered is not good. First hast thou lifted me up to the skies,
@@ -22615,7 +24331,8 @@ at Thermopylae. Come not thou before me again with such a speech,
 nor with such counsel; and thank my forbearance that thou art not
 now punished." Then Lampon, having received this answer, departed, and
 went his way.
-    After this Pausanias caused proclamation to be made, that no one
+
+After this Pausanias caused proclamation to be made, that no one
 should lay hands on the booty, but that the Helots should collect it
 and bring it all to one place. So the Helots went and spread
 themselves through the camp, wherein were found many tents richly
@@ -22630,7 +24347,8 @@ times to the Eginetans; however, they brought in likewise no small
 quantity, chiefly such things as it was not possible for them to hide.
 And this was the beginning of the great wealth of the Eginetans, who
 bought the gold of the Helots as if it had been mere brass.
-    When all the booty had been brought together, a tenth of the whole
+
+When all the booty had been brought together, a tenth of the whole
 was set apart for the Delphian god; and hence was made the golden
 tripod which stands on the bronze serpent with the three heads,
 quite close to the altar. Portions were also set apart for the gods of
@@ -22647,7 +24365,8 @@ some gifts beyond the others. As for Pausanias, the portion which
 was set apart for him consisted of ten specimens of each kind of
 thing- women, horses, talents, camels, or whatever else there was in
 the spoil.
-    It is said that the following circumstance happened likewise at
+
+It is said that the following circumstance happened likewise at
 this time. Xerxes, when he fled away out of Greece, left his
 war-tent with Mardonius: when Pausanias, therefore, saw the tent
 with its adornments of gold and silver, and its hangings of divers
@@ -22663,12 +24382,15 @@ supper. When the suppers were both served, and it was apparent how
 vast a difference lay between the two, Pausanias laughed, and sent his
 servants to call to him the Greek generals. On their coming, he
 pointed to the two boards, and said:-
-    "I sent for you, O Greeks, to show you the folly of this Median
+
+"I sent for you, O Greeks, to show you the folly of this Median
 captain, who, when he enjoyed such fare as this, must needs come
 here to rob us of our penury."
-    Such, it is said, were the words of Pausanias to the Grecian
+
+Such, it is said, were the words of Pausanias to the Grecian
 generals.
-    During many years afterwards, the Plataeans used often to find
+
+During many years afterwards, the Plataeans used often to find
 upon the field of battle concealed treasures of gold, and silver,
 and other valuables. More recently they likewise made discovery of the
 following: the flesh having all fallen away from the bodies of the
@@ -22678,7 +24400,8 @@ single bone; likewise a jaw, both the upper bone and the under,
 wherein all the teeth, front and back, were joined together and made
 of one bone; also, the skeleton of a man not less than five cubits
 in height.
-    The body of Mardonius disappeared the day after the battle; but
+
+The body of Mardonius disappeared the day after the battle; but
 who it was that stole it away I cannot say with certainty. I have
 heard tell of a number of persons, and those too of many different
 nations, who are said to have given him burial; and I know that many
@@ -22687,7 +24410,8 @@ Mardonius: but I cannot discover with any certainty which of them it
 was who really took the body away, and buried it. Among others,
 Dionysophanes, an Ephesian, is rumoured to have been the actual
 person.
-    The Greeks, after sharing the booty upon the field of Plataea,
+
+The Greeks, after sharing the booty upon the field of Plataea,
 proceeded to bury their own dead, each nation apart from the rest. The
 Lacedaemonians made three graves; in one they buried their youths,
 among whom were Posidonius, Amompharetus, Philocyon, and Callicrates;-
@@ -22703,7 +24427,8 @@ credit with those who should come after them. Among others, the
 Eginetans have a grave there, which goes by their name; but which,
 as I learn, was made ten years later by Cleades, the son of Autodicus,
 a Plataean, at the request of the Eginetans, whose. agent he was.
-    After the Greeks had buried their dead at Plataea,' they presently
+
+After the Greeks had buried their dead at Plataea,' they presently
 held a council, whereat it was resolved to make war upon Thebes, and
 to require that those who had joined the Medes should be delivered
 into their hands. Two men, who had been the chief leaders on the
@@ -22714,9 +24439,11 @@ should surrender. After this resolve, the army marched upon Thebes;
 and having demanded the men, and been refused, began the siege, laying
 waste the country all around, and making assaults upon the wall in
 divers places.
-    When twenty days were gone by, and the violence of the Greeks
+
+When twenty days were gone by, and the violence of the Greeks
 did not slacken, Timagenidas thus bespake his countrymen-
-    "Ye men of Thebes, since the Greeks have so decreed, that they
+
+"Ye men of Thebes, since the Greeks have so decreed, that they
 will never desist from the siege till either they take Thebes or we
 are delivered to them, we would not that the land of Boeotia should
 suffer any longer on our behalf. If it be money that they in truth
@@ -22725,10 +24452,12 @@ from the treasury of the state be given them; for the state, and not
 we alone, embraced the cause of the Medes. If, however, they really
 want our persons, and on that account press this siege, we are ready
 to be delivered to them and to stand our trial."
-    The Thebans thought this offer very right and seasonable;
+
+The Thebans thought this offer very right and seasonable;
 wherefore, they despatched a herald without any delay to Pausanias,
 and told him they were willing to deliver up the men.
-    As soon as an agreement had been concluded upon these terms,
+
+As soon as an agreement had been concluded upon these terms,
 Attaginus made his escape from the city; his sons, however, were
 surrendered in his place; but Pausanias refused to hold them guilty,
 since children (he said) could have had part in such an offence. The
@@ -22737,7 +24466,8 @@ and in that case their trust was to escape by means of bribery; but
 Pausanias, afraid of this, dismissed at once the whole army of allies,
 and took the men with him to Corinth, where he slew them all. Such
 were the events which happened at Plataea and at Thebes.
-    Artabazus, the son of Pharnaces, who fled away from Plataea, was
+
+Artabazus, the son of Pharnaces, who fled away from Plataea, was
 soon far sped on his journey. When he reached Thessaly, the
 inhabitants received him hospitably, and made inquiries of him
 concerning the rest of the army, since they were still altogether
@@ -22748,13 +24478,15 @@ facts were once blazoned abroad, all who learnt them would be sure
 to fall upon him- the Persian, I say, considering this, as he had
 before kept all secret from the Phocians, so now answered the
 Thessalians after the following fashion:-
-    "I myself, Thessalians, am hastening, as ye see, into Thrace;
+
+"I myself, Thessalians, am hastening, as ye see, into Thrace;
 and I am fain to use all possible despatch, as I am sent with this
 force on special business from the main army. Mardonius and his host
 are close behind me, and may be looked for shortly. When he comes,
 receive him as ye have received me, and show him every kindness. Be
 sure ye will never hereafter regret it, if ye so do."
-    With these words he took his departure, and marched his troops
+
+With these words he took his departure, and marched his troops
 at their best speed through Thessaly and Macedon straight upon Thrace,
 following the inland route, which was the shortest, and, in good
 truth, using all possible dispatch. He himself succeeded in reaching
@@ -22763,7 +24495,8 @@ being cut to pieces by the Thracians, and others dying from hunger and
 excess of toil. From Byzantium Artabazus set sail, and crossed the
 strait; returning into Asia in the manner which has been here
 described.
-    On the same day that the blow was struck at Plataea, another
+
+On the same day that the blow was struck at Plataea, another
 defeat befell the Persians at Mycale in Ionia. While the Greek fleet
 under Leotychides the Lacedaemonian was still lying inactive at Delos,
 there arrived at that place an embassy from Samos, consisting of three
@@ -22785,7 +24518,8 @@ were bad sailers, and far from a match for theirs;" adding,
 moreover, "that if there was any suspicion lest the Samians intended
 to deal treacherously, they were themselves ready to become
 hostages, and to return on board the ships of their allies to Asia."
-    When the Samian stranger continued importunately beseeching him,
+
+When the Samian stranger continued importunately beseeching him,
 Leotychides, either because he wanted an omen, or by a mere chance, as
 God guided him, asked the man- "Samian stranger! prithee, tell me
 thy name?" "Hegesistratus (army-leader)," answered the other, and
@@ -22793,7 +24527,8 @@ might have said more, but Leotychides stopped him by exclaiming- "I
 accept, O Samian! the omen which thy name affords. Only, before thou
 goest back, swear to us, thyself and thy brother-envoys, that the
 Samians will indeed be our warm, friends and allies."
-    No sooner had he thus spoken than he proceeded to hurry forward
+
+No sooner had he thus spoken than he proceeded to hurry forward
 the business. The Samians pledged their faith upon the spot; and oaths
 of alliance were exchanged between them and the Greeks. This done, two
 of the ambassadors forthwith sailed away; as for Hegesistratus,
@@ -22802,7 +24537,8 @@ name to be a good omen. The Greeks abode where they were that day, and
 on the morrow sacrificed, and found the victims favourable. Their
 soothsayer was Deiphonus, the son of Evenius, a man of Apollonia- I
 mean the Apollonia which lies upon the Ionian Gulf.
-    A strange thing happened to this man's father, Evenius. The
+
+A strange thing happened to this man's father, Evenius. The
 Apolloniats have a flock of sheep sacred to the sun. During the
 daytime these sheep graze along the banks of the river which flows
 from Mount Lacmon through their territory and empties itself into
@@ -22830,7 +24566,8 @@ sheep, whom the Apolloniats had wrongfully deprived of sight. They
 to exact vengeance for Evenius, till the Apolloniats made him whatever
 atonement he liked to ask. When this was paid, they would likewise
 give him a gift, which would make many men call him blessed."
-    Such was the tenor of the prophecies. The Apolloniats kept them
+
+Such was the tenor of the prophecies. The Apolloniats kept them
 close, but charged some of their citizens to go and make terms with
 Evenius; and these men managed the business for them in the way
 which I will now describe. They found Evenius upon a bench, and,
@@ -22853,12 +24590,14 @@ that they had deceived him so; but the Apolloniats bought the farms
 from their owners, and gave Evenius what he had chosen. After this was
 done, straightway Evenius had the gift of prophecy, insomuch that he
 became a famous man in Greece.
-    Deiphonus, the son of this Evenius, had accompanied the
+
+Deiphonus, the son of this Evenius, had accompanied the
 Corinthians, and was soothsayer, as I said before, to the Greek
 armament. One account, however, which I have heard, declares that he
 was not really the son of this man, but only took the name, and then
 went about Greece and let out his services for hire.
-    The Greeks, as soon as the victims were favourable, put to sea,
+
+The Greeks, as soon as the victims were favourable, put to sea,
 and sailed across from Delos to Samos. Arriving off Calami, a place
 upon the Samian coast, they brought the fleet to an anchor near the
 temple of Juno which stands there, and prepared to engage the Persians
@@ -22875,7 +24614,8 @@ The captains resolved therefore to betake themselves to these troops
 for defence, to drag their ships ashore, and to build a rampart around
 them, which might at once protect the fleet, and serve likewise as a
 place of refuge for themselves.
-    Having so resolved, the commanders put out to sea; and passing the
+
+Having so resolved, the commanders put out to sea; and passing the
 temple of the Eumenides, arrived at Gaeson and Scolopoeis, which are
 in the territory of Mycale. Here is a temple of Eleusinian Ceres,
 built by Philistus the son of Pasicles who came to Asia with Neileus
@@ -22886,7 +24626,8 @@ all the fruit-trees which grew near, and defending the barrier by
 means of stakes firmly planted in the ground. Here they were
 prepared either to win a battle, or undergo a siege- their thoughts
 embracing both chances.
-    The Greeks, when they understood that the barbarians had fled to
+
+The Greeks, when they understood that the barbarians had fled to
 the mainland, were sorely vexed at their escape: nor could they
 determine at first what they should do, whether they should return
 home, or proceed to the Hellespont. In the end, however, they resolved
@@ -22900,17 +24641,20 @@ drawn up in battle array upon the beach; Leotychides therefore
 sailed along the shore in his ship, keeping as close hauled to the
 land as possible, and by the voice of a herald thus addressed the
 Ionians:-
-    "Men of Ionia- ye who can hear me speak- do ye take heed to what I
+
+"Men of Ionia- ye who can hear me speak- do ye take heed to what I
 say; for the Persians will not understand a word that I utter. When we
 join battle with them, before aught else, remember Freedom- and
 next, recollect our watchword, which is Hebe. If there be any who hear
 me not, let those who hear report my words to the others."
-    In all this Leotychides had the very same design which
+
+In all this Leotychides had the very same design which
 Themistocles entertained at Artemisium. Either the barbarians would
 not know what he had said, and the Ionians would be persuaded to
 revolt from them; or if his words were reported to the former, they
 would mistrust their Greek soldiers.
-    After Leotychides had made this address, the Greeks brought
+
+After Leotychides had made this address, the Greeks brought
 their ships to the land, and, having disembarked, arrayed themselves
 for the battle. When the Persians saw them marshalling their array,
 and bethought themselves of the advice which had been offered to the
@@ -22931,7 +24675,8 @@ secure themselves against such of the Ionians as they thought
 likely, if occasion offered, to make rebellion. They then joined
 shield to shield, and so made themselves a breastwork against the
 enemy.
-    The Greeks now, having finished their preparations, began to
+
+The Greeks now, having finished their preparations, began to
 move towards the barbarians; when, lo! as they advanced, a rumour flew
 through the host from one end to the other- that the Greeks had fought
 and conquered the army of Mardonius in Boeotia. At the same time a
@@ -22941,7 +24686,8 @@ the battles of Mycale and Plataea were about to happen on the self
 same day, should such a rumour have reached the Greeks in that region,
 greatly cheering the whole army, and making them more eager than
 before to risk their lives.
-    A strange coincidence too it was, that both the battles should
+
+A strange coincidence too it was, that both the battles should
 have been fought near a precinct of Eleusinian Ceres. The fight at
 Plataea took place, as I said before, quite close to one of Ceres'
 temples; and now the battle at Mycale was to be fought hard by
@@ -22958,7 +24704,8 @@ more vigorously and at a quicker pace. So the Greeks and the
 barbarians rushed with like eagerness to the fray; for the
 Hellespont and the Islands formed the prize for which they were
 about to fight.
-    The Athenians, and the force drawn up with them, who formed one
+
+The Athenians, and the force drawn up with them, who formed one
 half of the army, marched along the shore, where the country was low
 and level; but the way for the Lacedaemonians and the troops with
 them, lay across hills and a torrent-course. Hence, while the
@@ -22985,17 +24732,20 @@ And here, while two of the Persian commanders fled, two fell upon
 the field: Artayntes and Ithamitres, who were leaders of the fleet,
 escaped; Mardontes, and the commander of the land force, Tigranes,
 died fighting.
-    The Persians still held out, when the Lacedaemonians, and their
+
+The Persians still held out, when the Lacedaemonians, and their
 part of the army, reached the camp, and joined in the remainder of the
 battle. The number of Greeks who fell in the struggle here was not
 small; the Sicyonians especially lost many, and, among the rest,
 Perilaus their general.
-    The Samians, who served with the Medes, and who, although
+
+The Samians, who served with the Medes, and who, although
 disarmed, still remained in the camp, seeing from the very beginning
 of the fight that the victory was doubtful, did all that lay in
 their power to render help to the Greeks. And the other Ionians
 likewise, beholding their example, revolted and attacked the Persians.
-    As for the Milesians, who had been ordered, for the better
+
+As for the Milesians, who had been ordered, for the better
 security of the Persians, to guard the mountain-paths,- that in case
 any accident befell them such as had now happened, they might not lack
 guides to conduct them into the high tracts of Mycale,- and who had
@@ -23006,7 +24756,8 @@ which brought them into the presence of the enemy; and at last they
 set upon them with their own hands, and showed themselves the
 hottest of their adversaries. Ionia, therefore, on this day revolted a
 second time from the Persians.
-    In this battle the Greeks who behaved with the greatest bravery
+
+In this battle the Greeks who behaved with the greatest bravery
 were the Athenians; and among them the palm was borne off by
 Hermolycus, the son of Euthynus, a man accomplished in the Pancratium.
 This Hermolycus was afterwards slain in the war between the
@@ -23014,7 +24765,8 @@ Athenians and Carystians. He fell in the fight near Cyrnus in the
 Carystian territory, and was buried in the neighbourhood of Geraestus.
 After the Athenians, the most distinguished on the Greek side were the
 Corinthians, the Troezenians, and the Sicyonians.
-    The Greeks, when they had slaughtered the greater portion of the
+
+The Greeks, when they had slaughtered the greater portion of the
 barbarians, either in the battle or in the rout, set fire to their
 ships and burnt them, together with the bulwark which had been
 raised for their defence, first however removing therefrom all the
@@ -23041,7 +24793,8 @@ themselves to be faithful, and not desert the common cause. Then the
 Greeks sailed away to the Hellespont, where they meant to break down
 the bridges, which they supposed to be still extended across the
 strait.
-    The barbarians who escaped from the battle- a scanty remnant- took
+
+The barbarians who escaped from the battle- a scanty remnant- took
 refuge in the heights of Mycale, whence they made good their retreat
 to Sardis. During the march, Masistes, the son of Darius, who had been
 present at the disaster, had words with Artayntes, the general, on
@@ -23064,7 +24817,8 @@ setting him over the whole land of Cilicia. Except this, nothing
 happened upon the road; and the men continued their march and came all
 safe to Sardis. At Sardis they found the king, who had been there ever
 since he lost the sea-fight and fled from Athens to Asia.
-    During the time that Xerxes abode at this place, he fell in love
+
+During the time that Xerxes abode at this place, he fell in love
 with the wife of Masistes, who was likewise staying in the city. He
 therefore sent her messages, but failed to win her consent; and he
 could not dare to use violence, out of regard to Masistes, his
@@ -23079,7 +24833,8 @@ had received the woman into his palace as his son's bride, a change
 came over him, and losing all love for the wife of Masistes, he
 conceived a passion for his son's bride, Masistes' daughter. And
 Artaynta- for so was she called- very soon returned his love.
-    After a while the thing was discovered in the way which I will now
+
+After a while the thing was discovered in the way which I will now
 relate. Amestris, the wife of Xerxes, had woven with her own hands a
 long robe, of many colours, and very curious, which she presented to
 her husband as a gift. Xerxes, who was greatly pleased with it,
@@ -23101,7 +24856,8 @@ change her mind, at the last he gave her the robe. Then Artaynta was
 very greatly rejoiced, and she often wore the garment and was proud of
 it. And so it came to the ears of Amestris that the robe had been
 given to her.
-    Now when Amestris learnt the whole matter, she felt no anger
+
+Now when Amestris learnt the whole matter, she felt no anger
 against Artaynta; but, looking upon her mother, the wife of
 Masistes, as the cause of all the mischief, she determined to
 compass her death. She waited, therefore, till her husband gave the
@@ -23116,19 +24872,23 @@ seemed to him shocking and monstrous to give into the power of another
 a woman who was not only his brother's wife, but was likewise wholly
 guiltless of what had happened- the more especially as he knew well
 enough with what intent Amestris had preferred her request.
-    At length, however, wearied by her importunity, and constrained
+
+At length, however, wearied by her importunity, and constrained
 moreover by the law of the feast, which required that no one who asked
 a boon that day at the king's board should be denied his request, he
 yielded, but with a very ill will, and gave the woman into her
 power. Having so done, and told Amestris she might deal with her as
 she chose, the king called his brother into his presence, and said-
-    "Masistes, thou art my brother, the son of my father Darius;
+
+"Masistes, thou art my brother, the son of my father Darius;
 and, what is more, thou art a good man. I pray thee, live no longer
 with the wife whom thou now hast. Behold, I will give thee instead
 my own daughter in marriage; take her to live with thee. But part
 first with the wife thou now hast- I like not that thou keep to her."
-    To this Masistes, greatly astonished, answered-
-    "My lord and master, how strange a speech hast thou uttered!
+
+To this Masistes, greatly astonished, answered-
+
+"My lord and master, how strange a speech hast thou uttered!
 Thou biddest me put away my wife, who has borne me three goodly
 youths, and daughters besides, whereof thou hast taken one and
 espoused her to a son of thine own- thou biddest me put away this
@@ -23139,19 +24899,22 @@ thou sayest am I in no wise willing. I pray thee, use not force to
 compel me to yield to thy prayer. Be sure thy daughter will find a
 husband to the full as worthy as myself. Suffer me then to live on
 with my own wife."
-    Thus did Masistes answer; and Xerxes, in wrath, replied- "I will
+
+Thus did Masistes answer; and Xerxes, in wrath, replied- "I will
 tell thee, Masistes, what thou hast gained by these words. I will
 not give thee my daughter; nor shalt thou live any longer with thy own
 wife. So mayest thou learn, in time to come, to take what is offered
 thee." Masistes, when he heard this, withdrew, only saying- "Master
 thou hast not yet taken my life."
-    While these things were passing between Xerxes and his brother
+
+While these things were passing between Xerxes and his brother
 Masistes, Amestris sent for the spearmen of the royal bodyguard, and
 caused the wife of Masistes to be mutilated in a horrible fashion. Her
 two breasts, her nose, ears, and lips were cut off and thrown to the
 dogs; her tongue was torn out by the roots, and thus disfigured she
 was sent back to her home.
-    Masistes, who knew nothing of what had happened, but was fearful
+
+Masistes, who knew nothing of what had happened, but was fearful
 that some calamity had befallen him, ran hastily to his house.
 There, finding his wife so savagely used, he forthwith took counsel
 with his sons, and, accompanied by them and certain others also, set
@@ -23163,7 +24926,8 @@ moreover satrap of Bactria. But Xerxes, hearing of his designs, sent
 an armed force upon his track, and slew him while he was still upon
 the road, with his sons and his whole army. Such is the tale of King
 Xerxes' love and of the death of his brother Masistes.
-    Meanwhile the Greeks, who had left Mycale, and sailed for the
+
+Meanwhile the Greeks, who had left Mycale, and sailed for the
 Hellespont, were forced by contrary winds to anchor near Lectum;
 from which place they afterwards sailed on to Abydos. On arriving
 here, they discovered that the bridges, which they had thought to find
@@ -23175,7 +24939,8 @@ captain, thought good to remain, and resolved to make an attempt
 upon the Chersonese. So, while the Peloponnesians sailed away to their
 homes, the Athenians crossed over from Abydos to the Chersonese, and
 there laid siege to Sestos.
-    Now, as Sestos was the strongest fortress in all that region,
+
+Now, as Sestos was the strongest fortress in all that region,
 the rumour had no sooner gone forth that the Greeks were arrived at
 the Hellespont, than great numbers flocked thither from all the
 towns in the neighbourhood. Among the rest there came a certain
@@ -23183,7 +24948,8 @@ Oeobazus, a Persian, from the city of Cardia, where he had laid up the
 shore-cables which had been used in the construction of the bridges.
 The town was guarded by its own Aeolian inhabitants, but contained
 also some Persians, and a great multitude of their allies.
-    The whole district was under the rule of Artayctes, one of the
+
+The whole district was under the rule of Artayctes, one of the
 king's satraps; who was a Persian, but a wicked and cruel man. At
 the time when Xerxes was marching against Athens, he had craftily
 possessed himself of the treasures belonging to Protesilaus the son of
@@ -23193,11 +24959,13 @@ here there was great store of wealth, vases of gold and silver,
 works in brass, garments, and other offerings, all which Artayctes
 made his prey, having got the king's consent by thus cunningly
 addressing him-
-    "Master, there is in this region the house of a Greek, who, when
+
+"Master, there is in this region the house of a Greek, who, when
 he attacked thy territory, met his due reward, and perished. Give me
 his house, I pray thee, that hereafter men may fear to carry arms
 against thy land."
-    By these words he easily persuaded Xerxes to give him the man's
+
+By these words he easily persuaded Xerxes to give him the man's
 house; for there was no suspicion of his design in the king's mind.
 And he could say in a certain sense that Protesilaus had borne arms
 against the land of the king; because the Persians consider all Asia
@@ -23209,14 +24977,16 @@ polluted the shrine itself by vile uses. It was this Artayctes who was
 now besieged by the Athenians- and he was but ill prepared for
 defence; since the Greeks had fallen upon him quite unawares, nor
 had he in the least expected their coming.
-    When it was now late in the autumn, and the siege still continued,
+
+When it was now late in the autumn, and the siege still continued,
 the Athenians began to murmur that they were kept abroad so long; and,
 seeing that they were not able to take the place, besought their
 captains to lead them back to their own country. But the captains
 refused to move, till either the city had fallen, or the Athenian
 people ordered them to return home. So the soldiers patiently bore
 up against their sufferings.
-    Meanwhile those within the walls were reduced to the last straits,
+
+Meanwhile those within the walls were reduced to the last straits,
 and forced even to boil the very thongs of their beds for food. At
 last, when these too failed them, Artayctes and Oeobazus, with the
 native Persians, fled away from the place by night, having let
@@ -23227,7 +24997,8 @@ know what had happened, at the same time throwing open the gates of
 their city. Hereupon, while some of the Greeks entered the town,
 others, and those the more numerous body, set out in pursuit of the
 enemy.
-    Oeobazus fled into Thrace; but there the Apsinthian Thracians
+
+Oeobazus fled into Thrace; but there the Apsinthian Thracians
 seized him, and offered him, after their wonted fashion, to
 Pleistorus, one of the gods of their country. His companions they
 likewise put to death, but in a different manner. As for Artayctes,
@@ -23237,14 +25008,16 @@ themselves stoutly for a time, but were at last either killed or taken
 prisoners. Those whom they made prisoners the Greeks bound with
 chains, and brought with them to Sestos. Artayctes and his son were
 among the number.
-    Now the Chersonesites relate that the following prodigy befell one
+
+Now the Chersonesites relate that the following prodigy befell one
 of the Greeks who guarded the captives. He was broiling upon a fire
 some salted fish, when of a sudden they began to leap and quiver, as
 if they had been only just caught. Hereat, the rest of the guards
 hurried round to look, and were greatly amazed at the sight.
 Artayctes, however, beholding the prodigy, called the man to him,
 and said-
-    "Fear not, Athenian stranger, because of this marvel. It has not
+
+"Fear not, Athenian stranger, because of this marvel. It has not
 appeared on thy account, but on mine. Protesilaus of Elaeus has sent
 it to show me, that albeit he is dead and embalmed with salt, he has
 power from the gods to chastise his injurer. Now then I would fain
@@ -23252,7 +25025,8 @@ acquit my debt to him thus. For the riches which I took from his
 temple, I will fix my fine at one hundred talents- while for myself
 and this boy of mine, I will give the Athenians two hundred talents,
 on condition that they will spare our lives."
-    Such were the promises of Artayctes; but they failed to persuade
+
+Such were the promises of Artayctes; but they failed to persuade
 Xanthippus. For the men of Elaeus, who wished to avenge Protesilaus,
 entreated that he might be put to death; and Xanthippus himself was of
 the same mind. So they led Artayctes to the tongue of land where the
@@ -23260,11 +25034,13 @@ bridges of Xerxes had been fixed- or, according to others, to the
 knoll above the town of Madytus; and, having nailed him to a board,
 they left him hanging thereupon. As for the son of Artayctes, him they
 stoned to death before his eyes.
-    This done, they sailed back to Greece, carrying with them, besides
+
+This done, they sailed back to Greece, carrying with them, besides
 other treasures, the shore cables from the bridges of Xerxes, which
 they wished to dedicate in their temples. And this was all that took
 place that year.
-    It was the grandfather of the Artayctes, one Artembares by name,
+
+It was the grandfather of the Artayctes, one Artembares by name,
 who suggested to the Persians a proposal which they readily
 embraced, and thus urged upon Cyrus:- "Since Jove," they said, "has
 overthrown Astyages, and given the rule to the Persians, and to thee
@@ -23284,7 +25060,4 @@ with altered minds, confessing that Cyrus was wiser than they; and
 chose rather to dwell in a churlish land, and exercise lordship,
 than to cultivate plains, and be the slaves of others.
 
-
-                              THE END
-.
-
+***THE END***
