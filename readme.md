@@ -6,35 +6,18 @@ HERODOTUS – FATHER OF HISTORY
 
 Welcome to the source code for a website which presents the [George Rawlinson](https://en.wikipedia.org/wiki/George_Rawlinson) translation of Herotodus' histories.
 
-PROJECT
--------
+  - *"The Histories" by Herodotus* in full, and in markdown, right here (1.4 MB): [herodotus-histories.md](./source/herodotus-histories.md)
 
-  - [Herodotus full histories in markdown](./source/histories/herodotus-histories-full.md).
-  - Statically generated with [crochet](https://github.com/ChaseMoskal/crochet).
+  - Statically generated with [crochet](https://github.com/ChaseMoskal/crochet)
 
-| Numeral | Book |
-|:-:|:-:|
-| I | CLIO |
-| II | EUTERPE |
-| III | THALIA |
-| IV | MELPOMENE |
-| V | TERPSICHORE |
-| VI | ERATO |
-| VII | POLYMNIA |
-| VIII | URANIA |
-| IX | CALLIOPE |
+Sources and resources:
 
-RESOURCES
----------
+  - [**Wikimedia commons**](https://commons.wikimedia.org/wiki/Category:Herodotus) – media related to Herotodus and The Histories (images, statues, artwork)
 
-  - [**Wikimedia commons**](https://commons.wikimedia.org/wiki/Category:Herodotus) – media related to Herotodus and The Histories (images, statues, artwork).
+  - [**Fordham university**](http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece) – source for the Rawlinson text
 
-  - [**Fordham university**](http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece) — they've got the full Rawlinson translation in a single raw text file, with different formatting (no section tags).
+Ideas for future projects:
 
-RESOURCES FOR FUTURE PROJECTS
------------------------------
-
-Julius Caesar
-
-  - [Caesar's war commentaries](http://mcadams.posc.mu.edu/txt/ah/Caesar/index.html)
-  - [MIT's Caesar collection](http://classics.mit.edu/Browse/browse-Caesar.html)
+  - Julius Caesar
+    - [Caesar's war commentaries](http://mcadams.posc.mu.edu/txt/ah/Caesar/index.html)
+    - [MIT's Caesar collection](http://classics.mit.edu/Browse/browse-Caesar.html)
