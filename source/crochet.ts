@@ -20,19 +20,13 @@ interface HistoryBook {
   content: string
 }
 
-(async function renderHistories() {
+/**
+ * Parse herodotus history books out of the markdown file.
+ */
+function parseBooksFromMarkdown(markdown: string): HistoryBook[] {
+    markdown = markdown.split(/[=]{3,}/m)[1].trim()
 
-  // Read the HTML template file.
-  const template = (await read("source/histories.crochet.html")).content
-
-  // Read the entire histories in one go.
-  const sourceTextFile = await read("source/herodotus-histories-george-rawlinson.md")
-
-  // Parse the histories.
-  const histories = ((file: FileReadReport): HistoryBook[] => {
-    const text: string = file.content.split(/[=]{3,}/m)[1].trim()
-
-    const bookParse = text.split(/^([\w\s]+)(?:\r\n|\n)^[-]{3,}/m)
+    const bookParse = markdown.split(/^([\w\s]+)(?:\r\n|\n)^[-]{3,}/m)
       .map(chapter => chapter.trim())
       .filter(chapter => !!chapter)
 
@@ -44,14 +38,25 @@ interface HistoryBook {
       name: title.toLowerCase().replace(/\s/, "-"),
       content: bookContents[index]
     }))
-  })(sourceTextFile)
+}
+
+(async function generateWebsite() {
+
+  // Read the HTML template file.
+  const templateFile = await read("source/histories.crochet.html")
+
+  // Read the entire histories in one go.
+  const sourceTextFile = await read("source/herodotus-histories.md")
+
+  // Parse the histories.
+  const histories = parseBooksFromMarkdown(sourceTextFile.content)
 
   // Render histories.
   const fileWriteMandates: FileWriteMandate[] = await Promise.all(
     histories.map(async function(book) {
       return {
         path: `build/histories/${book.name}/index.html`,
-        content: await evaluate(template, book)
+        content: await evaluate(templateFile.content, book)
       }
     })
   )
