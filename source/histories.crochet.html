@@ -23,13 +23,20 @@
       <section class="book" data-book="<? context.name ?>">
         <h1><? context.title ?></h1>
 
-        <?
-        "<p>" + (
-          context.content
+        <? context.content
+
+            // Split content into passages, each of which is its own line.
             .split(/(\r\n\r\n|\n\n)/)
+
+            // Disregard empty passages.
             .filter(part => /[\S]/.test(part))
-            .join("</p>\r\n<p>")
-        ) + "</p>"
+
+            // Wrap each passage in a paragraph tag.
+            .map((passage, index) => "<p id=\"passage-" + (index + 1) + "\"><a href=\"#passage-" + (index + 1) + "\" class=\"passage-id\">" + (index + 1) + "</a> " + passage + "</p>\r\n")
+
+            // Unite the passages into a single HTML string.
+            .join("")
+
         ?>
 
       </section>
