@@ -18,6 +18,11 @@ interface HistoryBook {
   title: string
   name: string
   content: string
+  navigation?: {
+    title: string
+    name: string
+    href: string
+  }[]
 }
 
 /**
@@ -33,13 +38,25 @@ function parseBooksFromMarkdown(markdown: string): HistoryBook[] {
     const bookTitles   = bookParse.filter((chapter, index) => index % 2 === 0)
     const bookContents = bookParse.filter((chapter, index) => index % 2 !== 0)
 
-    return bookTitles.map((title, index) => ({
+    const historyBooks = bookTitles.map((title, index) => ({
       title,
       name: title.toLowerCase().replace(/\s/, "-"),
       content: bookContents[index]
     }))
+
+    return historyBooks.map(book => ({
+      navigation: historyBooks.map(({title, name}) => ({
+        title,
+        name,
+        href: `../${name}/`
+      })),
+      ...book
+    }))
 }
 
+/**
+ * Immediately invoked function expression which generates the website.
+ */
 (async function generateWebsite() {
 
   // Read the HTML template file.

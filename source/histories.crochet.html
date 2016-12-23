@@ -7,7 +7,7 @@
   </head>
   <body>
 
-    <section id="herodotus">
+    <div id="herodotus">
       <h1>Herodotus</h1>
       <h2>The Father of History</h2>
       <h3>
@@ -20,7 +20,18 @@
         </small>
       </h3>
 
-      <section class="book" data-book="<? context.name ?>">
+      <nav id="navigation">
+        <? context.navigation.map(book => `
+          <a href="${book.href}">${
+            (() => {
+              const [numeral, muse] = book.title.split(" ")
+              return `<strong>${numeral}</strong> <span>${muse}</span>`
+            })()
+          }</a>
+        `).join("") ?>
+      </nav>
+
+      <main class="book" data-book="<? context.name ?>">
         <h1><? context.title ?></h1>
 
         <? context.content
@@ -36,11 +47,10 @@
 
             // Unite the passages into a single HTML string.
             .join("")
-
         ?>
 
-      </section>
-    </section>
+      </main>
+    </div>
 
   </body>
 </html>
