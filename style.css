@@ -43,42 +43,6 @@ a:hover { color: dodgerblue; }
   text-align: left;
 }
 
-#hash-navigator {
-  display: inline-block;
-  position: relative;
-  width: 80%;
-  text-align: left;
-}
-
-#hash-navigator div {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  padding-right: 2rem;
-  background: linear-gradient(to right, white 75%, rgba(255,255,255, 0.5))
-}
-
-#hash-navigator a,
-#hash-navigator button {
-  display: block;
-  padding: 0.2rem 1rem;
-  outline: 0;
-}
-
-#hash-navigator button {
-  background: transparent;
-  border: none;
-  font-family: inherit;
-  font-size: 1em;
-  opacity: 0.5;
-  cursor: pointer;
-}
-
-#hash-navigator[data-active=false] div { display: none; }
-#hash-navigator[data-active=true] div { display: block; }
-
-#hash-navigator[data-active=true] button, #hash-navigator button:hover { opacity: 1; }
-
 /**********************/
 
 #herodotus > * {
@@ -91,6 +55,18 @@ a:hover { color: dodgerblue; }
 
 #herodotus > h2 {
   font-size: 2rem;
+}
+
+/**********************/
+
+#navigation {
+  max-width: 750px;
+  margin: auto;
+}
+
+#navigation a {
+  display: inline-block;
+  padding: 0.5em 0.25em;
 }
 
 /**********************/

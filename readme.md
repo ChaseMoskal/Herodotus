@@ -4,22 +4,20 @@ HERODOTUS – FATHER OF HISTORY
 
 ### Website: [**chasemoskal.github.io/herodotus/**](https://chasemoskal.github.io/herodotus/)
 
-Welcome to the source code for a website which presents the George Rawlinson translation of Herotodus' histories.
+Welcome to the source code for a website which presents the [George Rawlinson](https://en.wikipedia.org/wiki/George_Rawlinson) translation of Herotodus' histories.
 
-  - The George Rawlinson translation is public domain.
-  - Text was originally sourced from [**mcadams.posc.mu.edu**](http://mcadams.posc.mu.edu/txt/ah/Herodotus/).
+  - *"The Histories" by Herodotus* in full, and in markdown, right here (1.4 MB): [herodotus-histories.md](./source/herodotus-histories.md)
 
-RESOURCES FOR FUTURE ADDITIONS
-------------------------------
+  - Statically generated with [crochet](https://github.com/ChaseMoskal/crochet)
 
-  - [**Wikimedia commons**](https://commons.wikimedia.org/wiki/Category:Herodotus) – media (images of statues and artwork) related to Herotodus and The Histories.
+Sources and resources:
 
-  - [**Fordham university**](http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece) — they've got the full Rawlinson translation in a single raw text file, with different formatting (no section tags).
+  - [**Wikimedia commons**](https://commons.wikimedia.org/wiki/Category:Herodotus) – media related to Herotodus and The Histories (images, statues, artwork)
 
-RESOURCES FOR FUTURE PROJECTS
------------------------------
+  - [**Fordham university**](http://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp#Greece) – source for the Rawlinson text
 
-Julius Caesar
+Ideas for future projects:
 
-  - [Caesar's war commentaries](http://mcadams.posc.mu.edu/txt/ah/Caesar/index.html)
-  - [MIT's Caesar collection](http://classics.mit.edu/Browse/browse-Caesar.html)
+  - Julius Caesar
+    - [Caesar's war commentaries](http://mcadams.posc.mu.edu/txt/ah/Caesar/index.html)
+    - [MIT's Caesar collection](http://classics.mit.edu/Browse/browse-Caesar.html)
