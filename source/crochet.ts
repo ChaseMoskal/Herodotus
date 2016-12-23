@@ -4,6 +4,8 @@ import {
   read,
   readGlob,
   FileReadReport,
+  write,
+  copy,
   writeAll,
   FileWriteMandate,
   extensionless,
@@ -60,7 +62,7 @@ function parseBooksFromMarkdown(markdown: string): HistoryBook[] {
 (async function generateWebsite() {
 
   // Read the HTML template file.
-  const templateFile = await read("source/histories.crochet.html")
+  const templateFile = await read("source/history-book.crochet.html")
 
   // Read the entire histories in one go.
   const sourceTextFile = await read("source/herodotus-histories.md")
@@ -72,7 +74,7 @@ function parseBooksFromMarkdown(markdown: string): HistoryBook[] {
   const fileWriteMandates: FileWriteMandate[] = await Promise.all(
     histories.map(async function(book) {
       return {
-        path: `build/histories/${book.name}/index.html`,
+        path: `build/${book.name}/index.html`,
         content: await evaluate(templateFile.content, book)
       }
     })
@@ -80,6 +82,9 @@ function parseBooksFromMarkdown(markdown: string): HistoryBook[] {
 
   // Write histories.
   await writeAll(fileWriteMandates)
+
+  // Copy index file.
+  await copy("source/index.html", "build/index.html")
 })()
 
 // Log all errors to the console.
