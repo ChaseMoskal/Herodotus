@@ -83,8 +83,9 @@ function parseBooksFromMarkdown(markdown: string): HistoryBook[] {
   // Write histories.
   await writeAll(fileWriteMandates)
 
-  // Copy index file.
+  // Copy index file and stylesheet.
   await copy("source/index.html", "build/index.html")
+  await copy("source/style.css", "build/style.css")
 })()
 
 // Log all errors to the console.
