@@ -1,16 +1,16 @@
 {
   "name": "herodotus-website",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "scripts": {
     "start": "http-server -p 8080 & tsc -w",
-    "build": "rimraf build && tsc -v && tsc && node build/crochet.js && echo Build complete.",
+    "build": "rimraf build && tsc -v && tsc && echo Crochet build starts..&& node build/crochet-build-script.js && echo Build complete.",
     "test": "echo no tests here && exit 0"
   },
   "author": "Chase Moskal",
   "license": "ISC",
   "devDependencies": {
-    "crochet": "~0.1.0",
+    "crochet": "*",
     "http-server": "*",
     "rimraf": "^2.5.4",
     "typescript": "^2.1.4"
