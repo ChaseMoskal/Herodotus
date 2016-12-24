@@ -1,6 +1,7 @@
 
+import evaluate from "crochet/build/evaluate"
+
 import {
-  evaluate,
   read,
   readGlob,
   FileReadReport,
@@ -10,7 +11,7 @@ import {
   FileWriteMandate,
   extensionless,
   filename
-} from "crochet"
+} from "crochet/build/disk"
 
 /**
  * History book which has been parsed.
