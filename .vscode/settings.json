@@ -5,6 +5,7 @@
   "editor.renderWhitespace": "boundary",
   "editor.wordWrap": "on",
   "editor.wrappingIndent": "indent",
+  "editor.rulers": [80],
 
   "files.eol": "\n",
   "files.encoding": "utf8",
