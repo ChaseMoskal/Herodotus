@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Crochet",
-      "program": "${workspaceRoot}\\build\\crochet.js",
+      "program": "${workspaceRoot}\\o\\crochet.js",
       "cwd": "${workspaceRoot}",
       "outFiles": [],
       "sourceMaps": true
