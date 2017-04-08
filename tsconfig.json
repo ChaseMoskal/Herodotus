@@ -7,5 +7,9 @@
         "outDir": "build",
         "noImplicitAny": false,
         "sourceMap": false
-    }
+    },
+    "exclude": [
+        "build",
+        "node_modules"
+    ]
 }
