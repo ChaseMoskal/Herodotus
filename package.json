@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "start": "http-server -p 8080 & tsc -w",
-    "build": "rimraf build && tsc -v && tsc && echo Crochet build starts..&& node build/crochet-build-script.js && echo Build complete.",
+    "build": "echo Building.. && rimraf build && tsc -v && tsc && echo Done build.",
+    "oldbuild": "rimraf build && tsc -v && tsc && echo Crochet build starts..&& node build/crochet-build-script.js && echo Build complete.",
     "test": "echo no tests here && exit 0"
   },
   "author": "Chase Moskal",

@@ -9,6 +9,7 @@
         "sourceMap": false
     },
     "exclude": [
+        "archive",
         "build",
         "node_modules"
     ]
