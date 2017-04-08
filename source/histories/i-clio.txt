@@ -1,0 +1,216 @@
+---
+author: Herodotus
+book: I CLIO
+published: ~440 BCE
+translations:
+ - [Skalides] Greek, A. Skalides, late 1800s
+ - [Rawlinson] English, George Rawlinson, 1860
+ - [Macaulay] English, G. C. Macaulay, 1890
+license: Public Domain
+producer: Chase Moskal 2017
+---
+
+==========
+~ I CLIO ~
+==========
+
+#0
+
+[Skalides]
+Ηρόδοτος ο Αλικαρνασσεύς συνέγραψε και εκοινοποίησε την παρούσαν
+ιστορίαν διά να μη εξαλειφθώσιν υπό του χρόνου αι πράξεις των
+ανθρώπων και διά να μη περιπέσωσι τα είτε υπό των Ελλήνων είτε υπό
+των βαρβάρων εκτελεσθέντα μεγάλα και θαυμαστά κατορθώματα εις
+τοιαύτην λήθην ώστε να αγνοήται και αυτή η αιτία δι' ην επολέμησαν
+προς αλλήλους οι λαοί ούτοι.
+
+  [Rawlinson]
+  THESE are the researches of Herodotus of Halicarnassus, which he 
+  publishes, in the hope of thereby preserving from decay the remembrance of 
+  what men have done, and of preventing the great and wonderful actions of the 
+  Greeks and the Barbarians from losing their due meed of glory; and withal to 
+  put on record what were their grounds of feuds.
+
+  [Macaulay]
+  This is the Showing forth of the Inquiry of Herodotus of Halicarnassos,
+  to the end that {m1} neither the deeds of men may be forgotten by lapse
+  of time, nor the works {m2} great and marvellous, which have been produced
+  some by Hellenes and some by Barbarians, may lose their renown; and
+  especially that the causes may be remembered for which these waged war
+  with one another.
+
+#1
+
+[Skalides]
+Οι {s1} λόγιοι των Περσών λέγουσιν ότι οι Φοίνικες εγένοντο αίτιοι
+της διαφοράς, καθότι αυτοί ελθόντες από τα παράλια της Ερυθράς
+λεγομένης θαλάσσης εις τα της Μεσογείου και εγκατασταθέντες εις
+τας χώρας τας οποίας κατοικούσιν έτι και σήμερον, επεδόθησαν ευθύς
+εις μακράς θαλασσοπλοΐας. Τα πλοία των, πληρούμενα εξ εμπορευμάτων
+της Ασσυρίας και της Αιγύπτου, προσωρμίζοντο εις διάφορα μέρη της
+Ελλάδος, μεταξύ άλλων δε και εις το Άργος. Κατ' εκείνους δε τους
+χρόνους το Άργος κατείχε την πρώτην θέσιν μεταξύ όλων των πόλεων
+της χώρας ήτις σήμερον καλείται Ελλάς. Εισελθόντες λοιπόν οι
+Φοίνικες εις τον λιμένα του Άργους, επώλουν το φορτίον των. Κατά
+την πέμπτην δε ή την έκτην ημέραν, ότε εξεποίησαν σχεδόν όλα όσα
+είχον φέρει, είδον ερχομένας εις το παραθαλάσσιον πολλάς γυναίκας,
+και μεταξύ αυτών την θυγατέρα του βασιλέως, ήτις εκαλείτο, ως
+λέγουσιν επίσης όλοι οι Έλληνες, Ιώ του Ινάχου. Αι γυναίκες·
+εστάθησαν πλησίον της πρύμνης του πλοίου εκλέγουσαι και
+αγοράζουσαι ό,τι ταις ήρεσκε· τότε οι Φοίνικες, ως εκ συνθήματος,
+ώρμησαν επ' αυτών. Και αι μεν πλείσται διέφυγον, αλλ' η Ιώ καί
+τινες άλλαι ηρπάγησαν. Αναβιβάσαντες δε αυτάς οι Φοίνικες εις το
+πλοίον, απέπλευσαν προς την Αίγυπτον.
+
+  [Rawlinson]
+  According to the Persians best informed in history, the Phoenicians began 
+  to quarrel. This people, who had formerly dwelt on the shores of the 
+  Erythraean Sea, having migrated to the Mediterranean and settled in the 
+  parts which they now inhabit, began at once, they say, to adventure on 
+  long voyages, freighting their vessels with the wares of Egypt and Assyria. 
+  They landed at many places on the coast, and among the rest at Argos, 
+  which was then preeminent above all the states included now under the 
+  common name of Hellas. Here they exposed their merchandise, and traded with 
+  the natives for five or six days; at the end of which time, when almost 
+  everything was sold, there came down to the beach a number of women, and 
+  among them the daughter of the king, who was, they say, agreeing in this 
+  with the Greeks, Io, the child of Inachus. The women were standing by the 
+  stern of the ship intent upon their purchases, when the Phoenicians, with a 
+  general shout, rushed upon them. The greater part made their escape, but 
+  some were seized and carried off. Io herself was among the captives. The 
+  Phoenicians put the women on board their vessel, and set sail for Egypt. 
+  Thus did Io pass into Egypt, according to the Persian story, which differs 
+  widely from the Phoenician: and thus commenced, according to their authors, 
+  the series of outrages.
+
+  [Macaulay]
+  Those of the Persians who have knowledge of history declare that
+  the Phenicians first began the quarrel. These, they say, came from that
+  which is called the Erythraian Sea to this of ours; and having settled
+  in the land where they continue even now to dwell, set themselves
+  forthwith to make long voyages by sea. And conveying merchandise of
+  Egypt and of Assyria they arrived at other places and also at Argos; now
+  Argos was at that time in all points the first of the States within that
+  land which is now called Hellas; the Phenicians arrived then at this
+  land of Argos, and began to dispose of their ship's cargo: and on the
+  fifth or sixth day after they had arrived, when their goods had been
+  almost all sold, there came down to the sea a great company of women,
+  and among them the daughter of the king; and her name, as the Hellenes
+  also agree, was Io the daughter of Inachos. These standing near to the
+  stern of the ship were buying of the wares such as pleased them most,
+  when of a sudden the Phenicians, passing the word from one to another,
+  made a rush upon them; and the greater part of the women escaped by
+  flight, but Io and certain others were carried off. So they put them on
+  board their ship, and forthwith departed, sailing away to Egypt.
+
+#2
+
+[Skalides]
+Ούτω, ως λέγουσιν οι Πέρσαι, και ουχί ως λέγουσιν οι Έλληνες, η
+Ιώ ήλθεν εις την Αίγυπτον, και τούτο υπήρξεν η πρώτη αιτία των
+ακολούθων αδικημάτων. Μετά τούτο, Έλληνες τινές, των οποίων
+αγνοείται και αυτό το όνομα, προσεγγίσαντες εις την Τύρον της
+Φοινίκης, ήρπασαν την θυγατέρα του βασιλέως Ευρώπην. Υποτίθεται
+ότι ήσαν Κρήτες. Τοιουτοτρόπως λοιπόν η προσβολή επληρώθη διά
+προσβολής. Αλλ' έπειτα οι Έλληνες εγένοντο αίτιοι και δευτέρας
+αδικίας. Αφού έπλευσαν διά μακρού πλοίου εις την Αίαν της Κολχίδος
+και τον Φάσιν ποταμόν, και αφού εξετέλεσαν την υπόθεσιν διά την
+οποίαν ήλθον, ήρπασαν την θυγατέρα του βασιλέως Μήδειαν. Ο
+βασιλεύς ούτος έπεμψε κήρυκα εις την Ελλάδα ζητών ικανοποίησιν διά
+την αρπαγήν και απαιτών να τω επιστραφή η θυγάτηρ του. Αλλ' οι
+Έλληνες απεκρίθησαν ότι επειδή εκείνοι ουδεμίαν ικανοποίησιν
+έδωκαν εις αυτούς διά την αρπαγήν της Αργείας Ιούς, κατά συνέπειαν
+ούτε αυτοί θα δώσωσιν εις εκείνους.
+
+  [Rawlinson]
+  At a later period, certain Greeks, with whose name they are unacquainted, 
+  but who would probably be Cretans, made a landing at Tyre, on the 
+  Phoenician coast, and bore off the king's daughter, Europe. In this they 
+  only retaliated; but afterwards the Greeks, they say, were guilty of a 
+  second violence. They manned a ship of war, and sailed to Aea, a city of 
+  Colchis, on the river Phasis; from whence, after despatching the rest of 
+  the business on which they had come, they carried off Medea, the daughter 
+  of the king of the land. The monarch sent a herald into Greece to demand 
+  reparation of the wrong, and the restitution of his child; but the Greeks 
+  made answer that, having received no reparation of the wrong done them in 
+  the seizure of Io the Argive, they should give none in this instance.
+
+  [Macaulay]
+  In this manner the Persians report that Io came to Egypt, not
+  agreeing therein with the Hellenes, {3} and this they say was the first
+  beginning of wrongs. Then after this, they say, certain Hellenes (but
+  the name of the people they are not able to report) put in to the city
+  of Tyre in Phenicia and carried off the king's daughter Europa; these
+  would doubtless be Cretans;and so they were quits for the former
+  injury. After this however the Hellenes, they say, were the authors of
+  the second wrong; for they sailed in to Aia of Colchis and to the river
+  Phasis with a ship of war, and from thence, after they had done the
+  other business for which they came, they carried off the king's daughter
+  Medea: and the king of Colchis sent a herald to the land of Hellas and
+  demanded satisfaction for the rape and to have his daughter back; but
+  they answered that, as the Barbarians had given them no satisfaction for
+  the rape of Io the Argive, so neither would they give satisfaction to
+  the Barbarians for this.
+
+#3
+
+[Skalides]
+Μετά δύο γενεάς ο υιός του Πριάμου Αλέξανδρος, ακούσας τα
+συμβάντα ταύτα, απεφάσισε να αρπάση γυναίκα εκ της Ελλάδος,
+πεπεισμένος ότι ουδεμίαν ήθελε δώσει ικανοποίησιν, αφού και οι
+Έλληνες δεν έδωκαν. Αλλ' όταν ήρπασε την Ελένην, οι Έλληνες
+ενέκριναν να πέμψωσι πρώτον πρέσβεις διά να απαιτήσωσι την
+απόδοσιν της Ελένης και να ζητήσωσιν ικανοποίησιν. Οι δε Τρώες,
+ακούσαντες τους πρέσβεις, απεκρίθησαν ότι οι Έλληνες, μη δόντες
+ικανοποίησιν διά την αρπαγήν της Μηδείας μήτε αποδώσαντες αυτήν
+ζητουμένην, δεν έπρεπε να απαιτώσιν ικανοποίησιν παρ' άλλων.
+
+  [Rawlinson]
+  In the next generation afterwards, according to the same authorities, 
+  Alexander the son of Priam, bearing these events in mind, resolved to 
+  procure himself a wife out of Greece by violence, fully persuaded, that as 
+  the Greeks had not given satisfaction for their outrages, so neither would 
+  he be forced to make any for his. Accordingly he made prize of Helen; upon 
+  which the Greeks decided that, before resorting to other measures, they 
+  would send envoys to reclaim the princess and require reparation of the 
+  wrong. Their demands were met by a reference to the violence which had been 
+  offered to Medea, and they were asked with what face they could now require 
+  satisfaction, when they had formerly rejected all demands for either 
+  reparation or restitution addressed to them.
+
+  [Macaulay]
+  In the next generation after this, they say, Alexander the son of
+  Priam, having heard of these things, desired to get a wife for himself
+  by violence {4} from Hellas, being fully assured that he would not be
+  compelled to give any satisfaction for this wrong, inasmuch as the
+  Hellenes gave none for theirs. So he carried off Helen, and the
+  Hellenes resolved to send messengers first and to demand her back with
+  satisfaction for the rape; and when they put forth this demand, the
+  others alleged to them the rape of Medea, saying that the Hellenes were
+  now desiring satisfaction to be given to them by others, though they
+  had given none themselves nor had surrendered the person when demand was
+  made.
+
+=========
+~ NOTES ~
+=========
+
+{s1} Από του έτους 1221 π. Χ. μέχρι του έτους 716 [ή 746].
+
+{m1} {'Erodotou 'Alikarnesseos istories apodexis ede, os k.t.l.} The 
+meaning of the word {istorie} passes gradually from "research" or
+"inquiry" to "narrative," "history"; cp. vii. 96. Aristotle in quoting  
+these words writes {Thouriou} for {'Alikarnesseos} ("Herodotus of  
+Thurii"), and we know from Plutarch that this reading existed in his  
+time as a variation.
+
+{m2} Probably {erga} may here mean enduring monuments like the pyramids  
+and the works at Samos, cp. i. 93, ii. 35, etc.; in that case {ta te  
+alla} refers back to {ta genomena}, though the verb {epolemesan} derives  
+its subject from the mention of Hellenes and Barbarians in the preceding  
+clause.
+
+{m3} Many Editors have "with the Phenicians," on the authority of some
+inferior MSS. and of the Aldine edition.
+
+{m4} {arpages}.
