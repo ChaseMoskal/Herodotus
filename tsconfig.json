@@ -3,9 +3,14 @@
         "module": "commonjs",
         "target": "es6",
         "moduleResolution": "node",
-        "rootDir": "source",
-        "outDir": "build",
+        "rootDir": "s",
+        "outDir": "o",
         "noImplicitAny": false,
         "sourceMap": false
-    }
+    },
+    "exclude": [
+        "s/archive",
+        "o",
+        "node_modules"
+    ]
 }

@@ -4,13 +4,14 @@
   "description": "",
   "scripts": {
     "start": "http-server -p 8080 & tsc -w",
-    "build": "rimraf build && tsc -v && tsc && echo Crochet build starts..&& node build/crochet-build-script.js && echo Build complete.",
+    "build": "echo Building.. && rimraf build && tsc -v && tsc && echo Done build.",
+    "oldbuild": "rimraf build && tsc -v && tsc && echo Crochet build starts..&& node build/crochet-build-script.js && echo Build complete.",
     "test": "echo no tests here && exit 0"
   },
   "author": "Chase Moskal",
   "license": "ISC",
   "devDependencies": {
-    "crochet": "^0.1.0",
+    "crochet": "^0.3.1",
     "http-server": "^0.9.0",
     "rimraf": "^2.6.1",
     "typescript": "^2.2.2"
