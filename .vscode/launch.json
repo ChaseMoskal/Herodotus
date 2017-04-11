@@ -4,18 +4,10 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Crochet",
-      "program": "${workspaceRoot}\\o\\crochet.js",
+      "name": "debug unify",
+      "program": "${workspaceRoot}/o/machine/unify.js",
       "cwd": "${workspaceRoot}",
-      "outFiles": [],
-      "sourceMaps": true
-    },
-    {
-      "type": "node",
-      "request": "attach",
-      "name": "Attach to Process",
-      "port": 5858,
-      "outFiles": [],
+      "outFiles": ["o/**/*.js"],
       "sourceMaps": true
     }
   ]
