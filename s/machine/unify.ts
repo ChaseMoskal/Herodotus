@@ -5,17 +5,17 @@
 ~ UNIFY ~
 =========
 
-  Script to generate the unified history
+Script to generate the unified history
 
-    - stitches the passages together to create unified history
-    - aggregates footnotes and bundles them at the bottom
-    - each translation's formatting is unique, thus has its own parser
+  - stitches the passages together to create unified history
+  - aggregates footnotes and bundles them at the bottom
+  - each translation's formatting is unique, thus has its own parser
 
-  The unified history is
+The unified history is
 
-    - represented in memory as a javascript object
-    - serializable as nine machine-readable markdown files with YAML 
-      frontmatter
+  - represented in memory as a javascript object
+  - serializable as nine machine-readable markdown files with YAML 
+    frontmatter
 
 ******************************************************************************/
 
