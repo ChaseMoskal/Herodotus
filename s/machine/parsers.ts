@@ -20,7 +20,7 @@ export function skalides(bookFile: files.FileReadReport): BookTranslation {
   const translatorName = "A. Skalides"
 
   // The translated book title, in greek
-  const {title} = bookFile.preamble.title
+  const {title} = bookFile.frontmatter.title
 
   /*
   At this point, the digested content looks like this [truncated]:

@@ -11,8 +11,8 @@ export interface Passage {
  * A translation of a Herodotus book, including all of its passages
  */
 export interface BookTranslation {
-  title: string
   translatorName: string
+  title: string
   passages: Passage[]
 }
 

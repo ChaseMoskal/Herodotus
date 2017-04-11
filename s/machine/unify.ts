@@ -29,25 +29,23 @@ import * as files from "crochet/o/disk/files"
 /**
  * Stitch multiple book translations together into a super-copy
  */
-function unify(books: BookTranslation[]): UnifiedBook {
-  return {
+const unify = (books: BookTranslation[]): UnifiedBook => ({
 
-    translatorNames: books.map(book => book.translatorName),
+  translatorNames: books.map(book => book.translatorName),
 
-    titleTranslations: books
-      .map(book => book.title),
+  titleTranslations: books
+    .map(book => book.title),
 
-    unifiedPassages: books[0].passages
-      .map(mainPassage => ({
-        id: mainPassage.id,
-        translations: books.map(
-            book => book.passages
-              .find(passage => passage.id === mainPassage.id)
-              .text
-        )
-      }))
-  }
-}
+  unifiedPassages: books[0].passages
+    .map(mainPassage => ({
+      id: mainPassage.id,
+      translations: books.map(
+          book => book.passages
+            .find(passage => passage.id === mainPassage.id)
+            .text
+      )
+    }))
+})
 
 /**
  * Perform the unification.
@@ -64,6 +62,6 @@ function unify(books: BookTranslation[]): UnifiedBook {
   ])
 
   console.log("Titles:", unifiedBook.titleTranslations)
-  console.log("Number of unified passages:", unifiedBook.unifiedPassages)
+  console.log("Number of unified passages:", unifiedBook.unifiedPassages.length)
 
 })().catch(error => console.error(error))
