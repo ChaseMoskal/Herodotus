@@ -24,10 +24,10 @@ export const skalides = (bookFile: files.ReadReport): BookTranslation => ({
   // Translated title
   title: bookFile.frontmatter.title,
 
-  // Parsing digested text into passage objects
+  // Parsing adapted text into passage objects
   passages: bookFile.content
     /*
-    At this point, the digested content looks like this [truncated]:
+    At this point, the adapted content looks like this [truncated]:
 
       11. Ούτω λοιπόν χωρίς να αποδείξη τίποτε κατ' εκείνην την στιγμήν,
       την εξής ερώτησιν· Η γυνή αποκριθείσα είπε· «Θα ορμήσης εκ

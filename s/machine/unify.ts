@@ -57,7 +57,7 @@ const unify = (books: BookTranslation[]): UnifiedBook => ({
 
     // Right now, I've only got the skalides parser ready...
     parsers.skalides(
-      await files.read("s/histories/digested/i-clio.skalides.txt")
+      await files.read("s/histories/adapted/i-clio.skalides.txt")
     )
   ])
 
