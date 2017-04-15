@@ -1,4 +1,6 @@
 ---
+author: Herodotus
+translator: A. Skalides
 title: ΚΛΕΙΩ
 ---
 

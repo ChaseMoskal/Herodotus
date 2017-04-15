@@ -27,11 +27,11 @@ import {
 import * as files from "crochet/o/disk/files"
 
 /**
- * Stitch multiple book translations together into a super-copy
+ * Stitch multiple book translations together into a unified book
  */
 const unify = (books: BookTranslation[]): UnifiedBook => ({
 
-  translatorNames: books.map(book => book.translatorName),
+  translators: books.map(book => book.translator),
 
   titleTranslations: books
     .map(book => book.title),

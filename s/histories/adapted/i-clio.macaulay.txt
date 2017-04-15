@@ -1,4 +1,6 @@
 ---
+author: Herodotus
+translator: G. C. Macaulay
 title: CLIO
 ---
 

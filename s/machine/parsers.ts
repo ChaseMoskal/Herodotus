@@ -13,13 +13,16 @@ import {BookTranslation, Passage} from "./concepts"
 
 import * as files from "crochet/o/disk/files"
 
+/** Signature of a translation parsing function */
+export type TranslationParser = (bookFile: files.ReadReport) => BookTranslation
+
 /**
  * Parse a skalides book translation
  */
-export const skalides = (bookFile: files.ReadReport): BookTranslation => ({
+export const skalides: TranslationParser = (bookFile: files.ReadReport): BookTranslation => ({
 
   // Name of the translator
-  translatorName: "A. Skalides",
+  translator: bookFile.frontmatter.translator,
 
   // Translated title
   title: bookFile.frontmatter.title,
