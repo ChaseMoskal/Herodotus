@@ -13,21 +13,24 @@ import {BookTranslation, Passage} from "./concepts"
 
 import * as files from "crochet/o/disk/files"
 
+/** Signature of a translation parsing function */
+export type TranslationParser = (bookFile: files.ReadReport) => BookTranslation
+
 /**
  * Parse a skalides book translation
  */
-export const skalides = (bookFile: files.ReadReport): BookTranslation => ({
+export const skalides: TranslationParser = (bookFile: files.ReadReport): BookTranslation => ({
 
   // Name of the translator
-  translatorName: "A. Skalides",
+  translator: bookFile.frontmatter.translator,
 
   // Translated title
   title: bookFile.frontmatter.title,
 
-  // Parsing digested text into passage objects
+  // Parsing adapted text into passage objects
   passages: bookFile.content
     /*
-    At this point, the digested content looks like this [truncated]:
+    At this point, the adapted content looks like this [truncated]:
 
       11. Ούτω λοιπόν χωρίς να αποδείξη τίποτε κατ' εκείνην την στιγμήν,
       την εξής ερώτησιν· Η γυνή αποκριθείσα είπε· «Θα ορμήσης εκ
