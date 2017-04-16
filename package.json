@@ -3,17 +3,19 @@
   "version": "0.2.0-dev",
   "description": "",
   "scripts": {
+    "build": "echo Building.. && rimraf o && tsc && npm test -s && node o/histories/scratch && echo Done build.",
     "start": "http-server -p 8080 & tsc -w",
-    "build": "echo Building.. && rimraf build && tsc -v && tsc && echo Done build.",
-    "oldbuild": "rimraf build && tsc -v && tsc && echo Crochet build starts..&& node build/crochet-build-script.js && echo Build complete.",
-    "test": "echo no tests here && exit 0"
+    "test": "tape o/**/*.test.js | faucet"
   },
   "author": "Chase Moskal",
   "license": "ISC",
   "devDependencies": {
-    "crochet": "^0.3.1",
+    "@types/tape": "^4.2.29",
+    "crochet": "^0.3.2",
+    "faucet": "0.0.1",
     "http-server": "^0.9.0",
     "rimraf": "^2.6.1",
-    "typescript": "^2.2.2"
+    "tape": "^4.6.3",
+    "typescript": "^2.3.0"
   }
 }

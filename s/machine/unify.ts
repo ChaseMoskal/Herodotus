@@ -19,49 +19,34 @@ The unified history is
 
 ******************************************************************************/
 
-import * as parsers from "./parsers"
+import parseAdaptedHistory from "./parseAdaptedHistory"
 import {
   BookTranslation, Passage, UnifiedPassage, UnifiedBook
 } from "./concepts"
 
-import * as files from "crochet/o/disk/files"
+import * as files from "crochet/o/files"
 
 /**
  * Stitch multiple book translations together into a unified book
  */
-const unify = (books: BookTranslation[]): UnifiedBook => ({
+export default function unify(books: BookTranslation[]): UnifiedBook {
+  return {
+    translators: books.map(book => book.translator),
 
-  translators: books.map(book => book.translator),
+    titleTranslations: books
+      .map(book => book.title),
 
-  titleTranslations: books
-    .map(book => book.title),
-
-  unifiedPassages: books[0].passages
-    .map(mainPassage => ({
-      id: mainPassage.id,
-      translations: books.map(
-          book => book.passages
-            .find(passage => passage.id === mainPassage.id)
-            .text
-      )
-    }))
-})
-
-/**
- * Perform the unification.
- */
-;(async () => {
-
-  // Create the unified book!
-  const unifiedBook = unify([
-
-    // Right now, I've only got the skalides parser ready...
-    parsers.skalides(
-      await files.read("s/histories/adapted/i-clio.skalides.txt")
-    )
-  ])
-
-  console.log("Titles:", unifiedBook.titleTranslations)
-  console.log("Number of unified passages:", unifiedBook.unifiedPassages.length)
-
-})().catch(error => console.error(error))
+    unifiedPassages: books[0].passages
+      .map(mainPassage => ({
+        id: mainPassage.id,
+        translations: books.map(
+            book => {
+              const passage = book.passages.find(passage => passage.id === mainPassage.id)
+              return (passage && passage.text)
+                ? passage.text
+                : ""
+            }
+        )
+      }))
+  }
+}

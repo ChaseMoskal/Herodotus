@@ -4,10 +4,9 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "debug unify",
-      "program": "${workspaceRoot}/o/machine/unify.js",
+      "name": "debug",
+      "program": "${workspaceRoot}/o/machine/index.js",
       "cwd": "${workspaceRoot}",
-      "outFiles": ["o/**/*.js"],
       "sourceMaps": true
     }
   ]
